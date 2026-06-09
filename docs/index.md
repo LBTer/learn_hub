@@ -4,20 +4,23 @@ layout: home
 hero:
   name: "Learn Hub"
   text: "个人教程与知识整理"
-  tagline: 用 Markdown 记录学习过程，让知识持续生长。
+  tagline: 汇集 AI 使用、交易学习与计算机经验。
   actions:
     - theme: brand
-      text: 开始阅读
-      link: /guide/getting-started
+      text: AI 使用教程
+      link: /ai/tutorials/
     - theme: alt
-      text: 浏览知识库
-      link: /notes/
+      text: 交易高手思路
+      link: /trading/experts/
 
 features:
-  - title: Markdown 驱动
-    details: 专注于写作，使用简单的 Markdown 文件沉淀教程和笔记。
-  - title: 清晰分类
-    details: 将系统教程和零散知识分别整理，方便查找与持续维护。
-  - title: 自动发布
-    details: 推送到 GitHub 后，由 GitHub Actions 自动构建并发布到 Pages。
+  - title: AI
+    details: 整理 AI 工具的使用教程、实践方法与经验。
+    link: /ai/
+  - title: 交易学习
+    details: 学习高手思路，并按人物专题持续整理。
+    link: /trading/
+  - title: 计算机经验
+    details: 沉淀计算机使用、开发和问题排查经验。
+    link: /computer/
 ---

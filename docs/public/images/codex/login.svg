@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" rx="24" fill="#f5f5f4"/>
+  <rect x="300" y="70" width="600" height="480" rx="24" fill="#fff" stroke="#d6d3d1" stroke-width="2"/>
+  <circle cx="600" cy="145" r="34" fill="#111827"/>
+  <text x="600" y="157" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="30" font-weight="700">C</text>
+  <text x="600" y="225" text-anchor="middle" fill="#111827" font-family="sans-serif" font-size="34" font-weight="700">登录 Codex</text>
+  <text x="600" y="270" text-anchor="middle" fill="#57534e" font-family="sans-serif" font-size="21">使用你的 ChatGPT 账号继续</text>
+  <rect x="380" y="315" width="440" height="64" rx="12" fill="#111827"/>
+  <text x="600" y="356" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="23" font-weight="700">Sign in with ChatGPT</text>
+  <rect x="380" y="404" width="440" height="64" rx="12" fill="#fff" stroke="#a8a29e" stroke-width="2"/>
+  <text x="600" y="445" text-anchor="middle" fill="#292524" font-family="sans-serif" font-size="22">使用 API Key</text>
+  <text x="600" y="510" text-anchor="middle" fill="#78716c" font-family="sans-serif" font-size="18">界面可能随版本更新而变化，此图为步骤示意。</text>
+</svg>

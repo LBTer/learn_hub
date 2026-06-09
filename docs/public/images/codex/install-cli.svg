@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" rx="24" fill="#111827"/>
+  <rect width="1200" height="58" rx="24" fill="#1f2937"/>
+  <circle cx="32" cy="29" r="9" fill="#ef4444"/>
+  <circle cx="62" cy="29" r="9" fill="#f59e0b"/>
+  <circle cx="92" cy="29" r="9" fill="#22c55e"/>
+  <text x="120" y="37" fill="#d1d5db" font-family="monospace" font-size="19">Terminal</text>
+  <text x="42" y="120" fill="#9ca3af" font-family="monospace" font-size="25">$</text>
+  <text x="78" y="120" fill="#f9fafb" font-family="monospace" font-size="25">npm install -g @openai/codex</text>
+  <text x="42" y="184" fill="#9ca3af" font-family="monospace" font-size="25">$</text>
+  <text x="78" y="184" fill="#f9fafb" font-family="monospace" font-size="25">codex --version</text>
+  <text x="78" y="230" fill="#86efac" font-family="monospace" font-size="23">codex-cli 0.x.x</text>
+  <text x="42" y="310" fill="#9ca3af" font-family="monospace" font-size="25">$</text>
+  <text x="78" y="310" fill="#f9fafb" font-family="monospace" font-size="25">cd ~/Documents/my-project</text>
+  <text x="42" y="374" fill="#9ca3af" font-family="monospace" font-size="25">$</text>
+  <text x="78" y="374" fill="#f9fafb" font-family="monospace" font-size="25">codex</text>
+  <rect x="42" y="430" width="1116" height="120" rx="14" fill="#172033" stroke="#374151"/>
+  <text x="72" y="480" fill="#60a5fa" font-family="sans-serif" font-size="24" font-weight="700">提示</text>
+  <text x="72" y="523" fill="#d1d5db" font-family="sans-serif" font-size="22">首次启动会提示使用 ChatGPT 账号登录。</text>
+</svg>

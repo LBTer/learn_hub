@@ -11,25 +11,49 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '教程', link: '/guide/getting-started' },
-      { text: '知识库', link: '/notes/' },
+      { text: 'AI', link: '/ai/' },
+      { text: '交易学习', link: '/trading/' },
+      { text: '计算机经验', link: '/computer/' },
       { text: '关于', link: '/about' }
     ],
 
     sidebar: {
-      '/guide/': [
+      '/ai/': [
         {
-          text: '教程',
+          text: 'AI',
           items: [
-            { text: '开始使用', link: '/guide/getting-started' }
+            { text: '板块首页', link: '/ai/' },
+            {
+              text: '使用教程',
+              link: '/ai/tutorials/',
+              items: [
+                { text: 'Codex 安装使用', link: '/ai/tutorials/codex' }
+              ]
+            }
           ]
         }
       ],
-      '/notes/': [
+      '/trading/': [
         {
-          text: '知识库',
+          text: '交易学习',
           items: [
-            { text: '知识库首页', link: '/notes/' }
+            { text: '板块首页', link: '/trading/' },
+            {
+              text: '高手思路',
+              link: '/trading/experts/',
+              items: [
+                { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
+                { text: '小翠', link: '/trading/experts/xiaocui' }
+              ]
+            }
+          ]
+        }
+      ],
+      '/computer/': [
+        {
+          text: '计算机经验',
+          items: [
+            { text: '板块首页', link: '/computer/' }
           ]
         }
       ]
