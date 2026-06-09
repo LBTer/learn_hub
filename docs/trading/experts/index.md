@@ -6,3 +6,4 @@
 
 - [奇衡dk](/trading/experts/qiheng-dk)
 - [小翠](/trading/experts/xiaocui)
+- [比巴卜作手](/trading/experts/bibabu-zuoshou/)

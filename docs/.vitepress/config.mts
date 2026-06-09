@@ -43,7 +43,27 @@ export default defineConfig({
               link: '/trading/experts/',
               items: [
                 { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
-                { text: '小翠', link: '/trading/experts/xiaocui' }
+                { text: '小翠', link: '/trading/experts/xiaocui' },
+                {
+                  text: '比巴卜作手',
+                  link: '/trading/experts/bibabu-zuoshou/',
+                  items: [
+                    {
+                      text: '技术点学习',
+                      link: '/trading/experts/bibabu-zuoshou/technical-notes/'
+                    },
+                    {
+                      text: '交易日总结',
+                      link: '/trading/experts/bibabu-zuoshou/trading-days/',
+                      items: [
+                        {
+                          text: '2026-06-09',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-09'
+                        }
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ]
