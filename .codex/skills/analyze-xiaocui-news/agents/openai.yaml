@@ -1,0 +1,4 @@
+interface:
+  display_name: "小翠视频分析"
+  short_description: "按世界大事、全球市场和观众问答三段式整理小翠视频"
+  default_prompt: "使用 $analyze-xiaocui-news 分析这期小翠视频，按世界大事、各国股市与经济、观众提问三部分整理，并标注小翠见解和知识点。"

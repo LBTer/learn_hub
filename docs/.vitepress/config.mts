@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+export default withMermaid(defineConfig({
   lang: 'zh-CN',
   title: 'Learn Hub',
   description: '个人教程与知识整理站',
@@ -13,7 +14,57 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'AI', link: '/ai/' },
       { text: '交易学习', link: '/trading/' },
-      { text: '计算机经验', link: '/computer/' },
+      {
+        text: '计算机经验',
+        items: [
+          { text: '板块首页', link: '/computer/' },
+          { text: '打工经历', link: '/computer/work-experience/' },
+          { text: '公司B', link: '/computer/work-experience/company-b/' },
+          {
+            text: '算法',
+            items: [
+              {
+                text: '自动批改',
+                items: [
+                  {
+                    text: '流程思考',
+                    link: '/computer/work-experience/company-b/algorithm/automatic-grading/process-design'
+                  }
+                ]
+              },
+              {
+                text: 'AI 组题',
+                link: '/computer/work-experience/company-b/algorithm/ai-question-generation/'
+              },
+              {
+                text: '相似题推荐',
+                link: '/computer/work-experience/company-b/algorithm/ai-question-generation/similar-questions'
+              },
+              {
+                text: '部署计划',
+                link: '/computer/work-experience/company-b/algorithm/ai-question-generation/deployment-plan'
+              }
+            ]
+          },
+          {
+            text: '后端',
+            items: [
+              {
+                text: 'PostgreSQL 同步至 Elasticsearch',
+                link: '/computer/work-experience/company-b/backend/elasticsearch/postgresql-sync'
+              },
+              {
+                text: 'Elasticsearch 查询与深分页',
+                link: '/computer/work-experience/company-b/backend/elasticsearch/query-and-pagination'
+              },
+              {
+                text: '流水线拉取 Git 子模块',
+                link: '/computer/work-experience/company-b/backend/ci-cd/git-submodules'
+              }
+            ]
+          }
+        ]
+      },
       { text: '关于', link: '/about' }
     ],
 
@@ -43,7 +94,26 @@ export default defineConfig({
               link: '/trading/experts/',
               items: [
                 { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
-                { text: '小翠', link: '/trading/experts/xiaocui' },
+                {
+                  text: '小翠',
+                  link: '/trading/experts/xiaocui/',
+                  items: [
+                    {
+                      text: '分析框架',
+                      link: '/trading/experts/xiaocui/analysis-framework/'
+                    },
+                    {
+                      text: '视频总结',
+                      link: '/trading/experts/xiaocui/videos/',
+                      items: [
+                        {
+                          text: '2026-06-09',
+                          link: '/trading/experts/xiaocui/videos/2026-06-09'
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   text: '比巴卜作手',
                   link: '/trading/experts/bibabu-zuoshou/',
@@ -56,6 +126,10 @@ export default defineConfig({
                       text: '交易日总结',
                       link: '/trading/experts/bibabu-zuoshou/trading-days/',
                       items: [
+                        {
+                          text: '2026-06-10',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-10'
+                        },
                         {
                           text: '2026-06-09',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-09'
@@ -73,7 +147,87 @@ export default defineConfig({
         {
           text: '计算机经验',
           items: [
-            { text: '板块首页', link: '/computer/' }
+            { text: '板块首页', link: '/computer/' },
+            {
+              text: '打工经历',
+              link: '/computer/work-experience/',
+              collapsed: false,
+              items: [
+                {
+                  text: '公司B',
+                  link: '/computer/work-experience/company-b/',
+                  collapsed: false,
+                  items: [
+                    {
+                      text: '算法',
+                      link: '/computer/work-experience/company-b/algorithm/',
+                      collapsed: false,
+                      items: [
+                        {
+                          text: '自动批改',
+                          link: '/computer/work-experience/company-b/algorithm/automatic-grading/',
+                          collapsed: false,
+                          items: [
+                            {
+                              text: '流程思考',
+                              link: '/computer/work-experience/company-b/algorithm/automatic-grading/process-design'
+                            }
+                          ]
+                        },
+                        {
+                          text: 'AI 组题',
+                          link: '/computer/work-experience/company-b/algorithm/ai-question-generation/',
+                          collapsed: false,
+                          items: [
+                            {
+                              text: '相似题推荐',
+                              link: '/computer/work-experience/company-b/algorithm/ai-question-generation/similar-questions'
+                            },
+                            {
+                              text: '部署计划',
+                              link: '/computer/work-experience/company-b/algorithm/ai-question-generation/deployment-plan'
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      text: '后端',
+                      link: '/computer/work-experience/company-b/backend/',
+                      collapsed: false,
+                      items: [
+                        {
+                          text: 'Elasticsearch',
+                          link: '/computer/work-experience/company-b/backend/elasticsearch/',
+                          collapsed: false,
+                          items: [
+                            {
+                              text: 'PostgreSQL 数据同步',
+                              link: '/computer/work-experience/company-b/backend/elasticsearch/postgresql-sync'
+                            },
+                            {
+                              text: '查询与深分页',
+                              link: '/computer/work-experience/company-b/backend/elasticsearch/query-and-pagination'
+                            }
+                          ]
+                        },
+                        {
+                          text: 'CI/CD',
+                          link: '/computer/work-experience/company-b/backend/ci-cd/',
+                          collapsed: false,
+                          items: [
+                            {
+                              text: 'Git 子模块',
+                              link: '/computer/work-experience/company-b/backend/ci-cd/git-submodules'
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         }
       ]
@@ -93,6 +247,7 @@ export default defineConfig({
     },
 
     outline: {
+      level: [2, 4],
       label: '页面导航'
     },
     docFooter: {
@@ -102,5 +257,15 @@ export default defineConfig({
     lastUpdated: {
       text: '最后更新于'
     }
+  },
+
+  mermaid: {
+    theme: 'default',
+    themeVariables: {
+      fontFamily: 'Inter, ui-sans-serif, system-ui, sans-serif'
+    }
+  },
+  mermaidPlugin: {
+    class: 'mermaid'
   }
-})
+}))

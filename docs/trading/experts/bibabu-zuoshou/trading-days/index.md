@@ -6,4 +6,5 @@
 
 ## 2026 年 6 月
 
+- [2026-06-10：高潮次日分化，混乱中休息为主](/trading/experts/bibabu-zuoshou/trading-days/2026-06-10)
 - [2026-06-09：强修复日，大盘见底了吗？](/trading/experts/bibabu-zuoshou/trading-days/2026-06-09)
