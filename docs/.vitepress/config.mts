@@ -72,11 +72,13 @@ export default withMermaid(defineConfig({
       '/ai/': [
         {
           text: 'AI',
+          collapsed: true,
           items: [
             { text: '板块首页', link: '/ai/' },
             {
               text: '使用教程',
               link: '/ai/tutorials/',
+              collapsed: true,
               items: [
                 { text: 'Codex 安装使用', link: '/ai/tutorials/codex' }
               ]
@@ -87,16 +89,19 @@ export default withMermaid(defineConfig({
       '/trading/': [
         {
           text: '交易学习',
+          collapsed: true,
           items: [
             { text: '板块首页', link: '/trading/' },
             {
               text: '高手思路',
               link: '/trading/experts/',
+              collapsed: true,
               items: [
                 { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
                 {
                   text: '小翠',
                   link: '/trading/experts/xiaocui/',
+                  collapsed: true,
                   items: [
                     {
                       text: '分析框架',
@@ -105,6 +110,7 @@ export default withMermaid(defineConfig({
                     {
                       text: '视频总结',
                       link: '/trading/experts/xiaocui/videos/',
+                      collapsed: true,
                       items: [
                         {
                           text: '2026-06-10',
@@ -119,6 +125,7 @@ export default withMermaid(defineConfig({
                     {
                       text: '时间轴文字笔记',
                       link: '/trading/experts/xiaocui/transcripts/',
+                      collapsed: true,
                       items: [
                         {
                           text: '2026-06-10',
@@ -135,6 +142,7 @@ export default withMermaid(defineConfig({
                 {
                   text: '比巴卜作手',
                   link: '/trading/experts/bibabu-zuoshou/',
+                  collapsed: true,
                   items: [
                     {
                       text: '技术点学习',
@@ -143,6 +151,7 @@ export default withMermaid(defineConfig({
                     {
                       text: '交易日总结',
                       link: '/trading/experts/bibabu-zuoshou/trading-days/',
+                      collapsed: true,
                       items: [
                         {
                           text: '2026-06-10',
@@ -164,27 +173,28 @@ export default withMermaid(defineConfig({
       '/computer/': [
         {
           text: '计算机经验',
+          collapsed: true,
           items: [
             { text: '板块首页', link: '/computer/' },
             {
               text: '打工经历',
               link: '/computer/work-experience/',
-              collapsed: false,
+              collapsed: true,
               items: [
                 {
                   text: '公司B',
                   link: '/computer/work-experience/company-b/',
-                  collapsed: false,
+                  collapsed: true,
                   items: [
                     {
                       text: '算法',
                       link: '/computer/work-experience/company-b/algorithm/',
-                      collapsed: false,
+                      collapsed: true,
                       items: [
                         {
                           text: '自动批改',
                           link: '/computer/work-experience/company-b/algorithm/automatic-grading/',
-                          collapsed: false,
+                          collapsed: true,
                           items: [
                             {
                               text: '流程思考',
@@ -195,7 +205,7 @@ export default withMermaid(defineConfig({
                         {
                           text: 'AI 组题',
                           link: '/computer/work-experience/company-b/algorithm/ai-question-generation/',
-                          collapsed: false,
+                          collapsed: true,
                           items: [
                             {
                               text: '相似题推荐',
@@ -212,12 +222,12 @@ export default withMermaid(defineConfig({
                     {
                       text: '后端',
                       link: '/computer/work-experience/company-b/backend/',
-                      collapsed: false,
+                      collapsed: true,
                       items: [
                         {
                           text: 'Elasticsearch',
                           link: '/computer/work-experience/company-b/backend/elasticsearch/',
-                          collapsed: false,
+                          collapsed: true,
                           items: [
                             {
                               text: 'PostgreSQL 数据同步',
@@ -232,7 +242,7 @@ export default withMermaid(defineConfig({
                         {
                           text: 'CI/CD',
                           link: '/computer/work-experience/company-b/backend/ci-cd/',
-                          collapsed: false,
+                          collapsed: true,
                           items: [
                             {
                               text: 'Git 子模块',
