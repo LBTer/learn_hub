@@ -4,4 +4,5 @@
 
 ## 2026 年 6 月
 
-- [2026-06-09：19 家中国公司被列入清单、机器人价格战与 AI 竞争](/trading/experts/xiaocui/videos/2026-06-09)
+- [2026-06-10：美伊局势、美国 CPI、亚洲去杠杆与 AI 资本循环](/trading/experts/xiaocui/videos/2026-06-10) · [时间轴文字笔记](/trading/experts/xiaocui/transcripts/2026-06-10)
+- [2026-06-09：19 家中国公司被列入清单、机器人价格战与 AI 竞争](/trading/experts/xiaocui/videos/2026-06-09) · [时间轴文字笔记](/trading/experts/xiaocui/transcripts/2026-06-09)

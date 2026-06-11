@@ -107,8 +107,26 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/xiaocui/videos/',
                       items: [
                         {
+                          text: '2026-06-10',
+                          link: '/trading/experts/xiaocui/videos/2026-06-10'
+                        },
+                        {
                           text: '2026-06-09',
                           link: '/trading/experts/xiaocui/videos/2026-06-09'
+                        }
+                      ]
+                    },
+                    {
+                      text: '时间轴文字笔记',
+                      link: '/trading/experts/xiaocui/transcripts/',
+                      items: [
+                        {
+                          text: '2026-06-10',
+                          link: '/trading/experts/xiaocui/transcripts/2026-06-10'
+                        },
+                        {
+                          text: '2026-06-09',
+                          link: '/trading/experts/xiaocui/transcripts/2026-06-09'
                         }
                       ]
                     }
