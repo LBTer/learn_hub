@@ -154,12 +154,27 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-06-11',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-11'
+                        },
+                        {
                           text: '2026-06-10',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-10'
                         },
                         {
                           text: '2026-06-09',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-09'
+                        }
+                      ]
+                    },
+                    {
+                      text: '视频文字稿',
+                      link: '/trading/experts/bibabu-zuoshou/transcripts/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: '2026-06-11',
+                          link: '/trading/experts/bibabu-zuoshou/transcripts/2026-06-11'
                         }
                       ]
                     }
