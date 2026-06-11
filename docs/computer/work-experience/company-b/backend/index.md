@@ -10,3 +10,7 @@
 ## CI/CD
 
 - [流水线拉取 Git 子模块](./ci-cd/git-submodules.md)
+
+## 服务管理
+
+- [Metabase 与 ClickHouse 部署](./service-management/metabase-deployment.md)

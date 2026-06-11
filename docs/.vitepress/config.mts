@@ -60,6 +60,10 @@ export default withMermaid(defineConfig({
               {
                 text: '流水线拉取 Git 子模块',
                 link: '/computer/work-experience/company-b/backend/ci-cd/git-submodules'
+              },
+              {
+                text: 'Metabase 与 ClickHouse 部署',
+                link: '/computer/work-experience/company-b/backend/service-management/metabase-deployment'
               }
             ]
           }
@@ -262,6 +266,17 @@ export default withMermaid(defineConfig({
                             {
                               text: 'Git 子模块',
                               link: '/computer/work-experience/company-b/backend/ci-cd/git-submodules'
+                            }
+                          ]
+                        },
+                        {
+                          text: '服务管理',
+                          link: '/computer/work-experience/company-b/backend/service-management/',
+                          collapsed: true,
+                          items: [
+                            {
+                              text: 'Metabase 与 ClickHouse 部署',
+                              link: '/computer/work-experience/company-b/backend/service-management/metabase-deployment'
                             }
                           ]
                         }
