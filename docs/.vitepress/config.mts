@@ -12,8 +12,61 @@ export default withMermaid(defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: 'AI', link: '/ai/' },
-      { text: '交易学习', link: '/trading/' },
+      {
+        text: 'AI',
+        items: [
+          { text: '板块首页', link: '/ai/' },
+          { text: '使用教程', link: '/ai/tutorials/' },
+          { text: 'Codex 安装使用', link: '/ai/tutorials/codex' }
+        ]
+      },
+      {
+        text: '交易学习',
+        items: [
+          { text: '板块首页', link: '/trading/' },
+          { text: '高手思路', link: '/trading/experts/' },
+          { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
+          {
+            text: '小翠',
+            items: [
+              { text: '人物首页', link: '/trading/experts/xiaocui/' },
+              {
+                text: '分析框架',
+                link: '/trading/experts/xiaocui/analysis-framework/'
+              },
+              {
+                text: '交易日总结',
+                link: '/trading/experts/xiaocui/trading-days/'
+              },
+              {
+                text: '视频文字稿',
+                link: '/trading/experts/xiaocui/transcripts/'
+              }
+            ]
+          },
+          {
+            text: '比巴卜作手',
+            items: [
+              {
+                text: '人物首页',
+                link: '/trading/experts/bibabu-zuoshou/'
+              },
+              {
+                text: '技术点学习',
+                link: '/trading/experts/bibabu-zuoshou/technical-notes/'
+              },
+              {
+                text: '交易日总结',
+                link: '/trading/experts/bibabu-zuoshou/trading-days/'
+              },
+              {
+                text: '视频文字稿',
+                link: '/trading/experts/bibabu-zuoshou/transcripts/'
+              }
+            ]
+          }
+        ]
+      },
       {
         text: '计算机经验',
         items: [
