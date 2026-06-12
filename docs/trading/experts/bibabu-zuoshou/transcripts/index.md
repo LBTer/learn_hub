@@ -4,4 +4,5 @@
 
 ## 2026 年 6 月
 
+- [2026-06-12：高位机构集体兑现，高低切思路](/trading/experts/bibabu-zuoshou/transcripts/2026-06-12)
 - [2026-06-11：继续向下，电子特气又是主线？](/trading/experts/bibabu-zuoshou/transcripts/2026-06-11)
