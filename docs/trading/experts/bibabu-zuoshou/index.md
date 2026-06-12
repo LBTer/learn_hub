@@ -7,4 +7,5 @@
 ## 内容模块
 
 - [交易日总结](/trading/experts/bibabu-zuoshou/trading-days/)：按日期记录每日信息，并在同一篇文章中整理当日学到的知识点。
+- [视频文字稿](/trading/experts/bibabu-zuoshou/transcripts/)：按时间顺序整理视频中的完整复盘内容。
 - [技术点学习](/trading/experts/bibabu-zuoshou/technical-notes/)：用于未来跨多个交易日总结较稳定的方法体系，目前暂不更新。

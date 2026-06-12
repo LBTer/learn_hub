@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-12：美伊协议、SpaceX IPO、AI 算力四层框架与中国信贷](/trading/experts/xiaocui/trading-days/2026-06-12) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-12)
 - [2026-06-11：甲骨文财报、AI 价格战、中欧摩擦与黄金配置](/trading/experts/xiaocui/trading-days/2026-06-11) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-11)
 - [2026-06-10：美伊局势、美国 CPI、亚洲去杠杆与 AI 资本循环](/trading/experts/xiaocui/trading-days/2026-06-10) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-10)
 - [2026-06-09：19 家中国公司被列入清单、机器人价格战与 AI 竞争](/trading/experts/xiaocui/trading-days/2026-06-09) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-09)
