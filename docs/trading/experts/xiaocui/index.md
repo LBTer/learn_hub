@@ -19,3 +19,8 @@
 
 - [2026-06-12 会员专题](/trading/experts/xiaocui/member-sessions/2026-06-12)
 - [2026-06-12 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-06-12)
+
+## 会员视频归档
+
+- [2026-06-05 会员专题](/trading/experts/xiaocui/member-sessions/2026-06-05)
+- [2026-06-05 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-06-05)
