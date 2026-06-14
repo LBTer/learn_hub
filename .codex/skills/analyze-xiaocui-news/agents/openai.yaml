@@ -1,4 +1,4 @@
 interface:
   display_name: "小翠视频分析"
-  short_description: "整理小翠视频的交易日总结和视频文字稿"
-  default_prompt: "使用 $analyze-xiaocui-news 分析这期小翠视频，生成交易日总结和视频文字稿，按世界大事、各国股市与经济、观众提问三部分整理，并标注小翠见解和知识点。"
+  short_description: "识别普通或会员视频并生成对应笔记与文字稿"
+  default_prompt: "使用 $analyze-xiaocui-news 识别并分析这期小翠视频；普通节目生成交易日总结，会员视频生成会员专题笔记，并制作配套视频文字稿。"

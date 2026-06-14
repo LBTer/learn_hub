@@ -1,11 +1,22 @@
 ---
 name: analyze-xiaocui-news
-description: 分析 YouTube 频道“小翠时政财经”的直播或视频，按照“世界大事、各国股市与经济、观众提问”三段式结构，提取新闻事实、市场数据、主播见解、问答结论和可迁移知识点，并生成带来源核验的交易日总结和视频文字稿。用于用户提供小翠视频链接、要求总结某期直播、更新小翠人物专题或沉淀其分析框架时。
+description: 分析 YouTube 频道“小翠时政财经”的普通新闻节目与会员直播，先根据标题、可见性和节目结构识别视频类型，再分别生成交易日总结或会员专题笔记及配套视频文字稿；提取新闻事实、市场数据、投资理念、公司研究方法、教学内容、未来判断、问答结论和可迁移知识点，并进行来源核验。用于用户提供小翠视频链接、要求总结普通或会员视频、更新人物专题、投资方法库或分析框架时。
 ---
 
 # 小翠时政财经视频分析
 
-## 工作流
+## 类型识别与路由
+
+1. 获取标题、频道、发布日期、时长、原始链接、`availability`、`live_status`、字幕和章节信息。
+2. 按以下证据识别类型，证据冲突时以 YouTube 可见性和实际内容结构为准：
+   - **会员视频**：`availability` 为 `subscriber_only` 或 `premium_only`；标题含“会员”“會員”“会员直播”“會員直播”；页面明确要求加入频道会员。
+   - **普通视频**：公开可见，且内容按新闻、市场和观众问答展开。
+   - 标题不是唯一依据。若标题未标会员但可见性受限，仍按会员视频处理；若会员视频临时公开，结合标题和正文判断。
+3. 会员视频读取 [references/member-video.md](references/member-video.md)，走会员工作流。
+4. 普通视频继续执行下方“普通节目工作流”。
+5. 不得把会员视频硬套入“世界大事、各国股市与经济、观众提问”三段式，也不得把普通新闻节目改写成投资课程。
+
+## 普通节目工作流
 
 1. 核验视频标题、频道、发布日期、时长和原始链接。日期以 YouTube 页面显示为准。
 2. 获取章节与字幕；无字幕时下载音频并本地转写。优先顺序：
@@ -122,11 +133,19 @@ docs/trading/experts/xiaocui/
 ├── transcripts/
 │   ├── index.md
 │   └── YYYY-MM-DD.md
+├── member-sessions/
+│   ├── index.md
+│   └── YYYY-MM-DD.md
+├── member-transcripts/
+│   ├── index.md
+│   └── YYYY-MM-DD.md
 └── analysis-framework/
     └── index.md
 ```
 
 `trading-days/index.md` 的模块标题固定为“交易日总结”，`transcripts/index.md` 的模块标题固定为“视频文字稿”；日期文章标题分别使用 `YYYY-MM-DD 交易日总结` 和 `YYYY-MM-DD 视频文字稿`。
+
+会员文件分别使用 `member-sessions/YYYY-MM-DD.md` 和 `member-transcripts/YYYY-MM-DD.md`。同一天出现多期同类型内容时，使用 `YYYY-MM-DD-视频ID.md` 避免冲突。
 
 ## 专属观察框架
 
