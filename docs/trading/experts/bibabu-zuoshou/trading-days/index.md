@@ -6,6 +6,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-15：科技与指数共振，反弹确认但次日不追高](/trading/experts/bibabu-zuoshou/trading-days/2026-06-15)
 - [2026-06-12：高位机构集体兑现，等待低位新核心](/trading/experts/bibabu-zuoshou/trading-days/2026-06-12)
 - [2026-06-11：电子特气最强但已高潮，空仓是最好防守](/trading/experts/bibabu-zuoshou/trading-days/2026-06-11)
 - [2026-06-10：高潮次日分化，混乱中休息为主](/trading/experts/bibabu-zuoshou/trading-days/2026-06-10)
