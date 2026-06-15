@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-15：美伊停火、Anthropic、微软软件框架与山姆约谈](/trading/experts/xiaocui/transcripts/2026-06-15)
 - [2026-06-12：美伊协议、亚洲芯片去杠杆、SpaceX 与算力超市](/trading/experts/xiaocui/transcripts/2026-06-12)
 - [2026-06-11：美伊与通胀、甲骨文财报、AI 价格战与中欧摩擦](/trading/experts/xiaocui/transcripts/2026-06-11)
 - [2026-06-10：美伊、通胀、亚洲市场、AI 融资与长期投资](/trading/experts/xiaocui/transcripts/2026-06-10)
