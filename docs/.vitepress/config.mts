@@ -70,6 +70,10 @@ export default withMermaid(defineConfig({
               {
                 text: '视频文字稿',
                 link: '/trading/experts/bibabu-zuoshou/transcripts/'
+              },
+              {
+                text: '充电会员主题',
+                link: '/trading/experts/bibabu-zuoshou/member-topics/'
               }
             ]
           }
@@ -310,6 +314,35 @@ export default withMermaid(defineConfig({
                         {
                           text: '2026-06-11',
                           link: '/trading/experts/bibabu-zuoshou/transcripts/2026-06-11'
+                        }
+                      ]
+                    },
+                    {
+                      text: '充电会员主题',
+                      link: '/trading/experts/bibabu-zuoshou/member-topics/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: '充电会员复盘',
+                          link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/',
+                          collapsed: true,
+                          items: [
+                            {
+                              text: '2026-06-16',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-06-16-BV1StjG68ExA'
+                            }
+                          ]
+                        },
+                        {
+                          text: '充电会员复盘文字稿',
+                          link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/',
+                          collapsed: true,
+                          items: [
+                            {
+                              text: '2026-06-16',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-16-BV1StjG68ExA'
+                            }
+                          ]
                         }
                       ]
                     }

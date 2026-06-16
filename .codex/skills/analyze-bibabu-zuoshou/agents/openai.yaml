@@ -1,4 +1,4 @@
 interface:
   display_name: "比巴卜作手视频分析"
-  short_description: "生成比巴卜作手交易日总结和视频文字稿"
-  default_prompt: "使用 $analyze-bibabu-zuoshou 分析今天发布的视频，生成比巴卜作手交易日总结和视频文字稿，并提取关键截图、交易观点和可迁移的知识点。"
+  short_description: "分析比巴卜作手普通复盘和充电会员视频"
+  default_prompt: "使用 $analyze-bibabu-zuoshou 分析比巴卜作手视频，先识别普通复盘或充电会员类型，再生成对应的文字稿、复盘笔记、关键截图、交易观点和可迁移知识点。"
