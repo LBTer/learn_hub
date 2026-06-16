@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-16：中国消费投资转弱、韩国去杠杆与 AI 上游估值](/trading/experts/xiaocui/trading-days/2026-06-16) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-16)
 - [2026-06-15：美伊停火、Claude Fable 5、主权 AI 与软件入口](/trading/experts/xiaocui/trading-days/2026-06-15) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-15)
 - [2026-06-12：美伊协议、SpaceX IPO、AI 算力四层框架与中国信贷](/trading/experts/xiaocui/trading-days/2026-06-12) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-12)
 - [2026-06-11：甲骨文财报、AI 价格战、中欧摩擦与黄金配置](/trading/experts/xiaocui/trading-days/2026-06-11) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-11)
