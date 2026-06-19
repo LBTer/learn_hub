@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-18：美伊备忘录、沃什、日韩存储、英特尔与 A 股监管](/trading/experts/xiaocui/transcripts/2026-06-18)
 - [2026-06-17：G7、算力涨价、微软模型分级与资本市场改革](/trading/experts/xiaocui/transcripts/2026-06-17)
 - [2026-06-16：中国消费投资、韩国去杠杆、SpaceX 与 DeepSeek](/trading/experts/xiaocui/transcripts/2026-06-16)
 - [2026-06-15：美伊停火、Anthropic、微软软件框架与山姆约谈](/trading/experts/xiaocui/transcripts/2026-06-15)
