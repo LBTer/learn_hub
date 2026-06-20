@@ -19,6 +19,8 @@
 
 ## 最新会员视频
 
+- [2026-06-19 会员专题](/trading/experts/xiaocui/member-sessions/2026-06-19)
+- [2026-06-19 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-06-19)
 - [2026-06-12 会员专题](/trading/experts/xiaocui/member-sessions/2026-06-12)
 - [2026-06-12 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-06-12)
 

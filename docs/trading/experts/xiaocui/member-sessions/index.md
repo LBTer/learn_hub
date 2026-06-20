@@ -4,5 +4,6 @@
 
 ## 2026 年 6 月
 
+- [2026-06-19：AI 鬼故事、企业入口权、存储周期与新手纪律](/trading/experts/xiaocui/member-sessions/2026-06-19) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-06-19)
 - [2026-06-12：数据中心护城河、韩国杠杆风险与长期投资纪律](/trading/experts/xiaocui/member-sessions/2026-06-12) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-06-12)
 - [2026-06-05：半导体回调、分批抄底、仓位纪律与 OpenAI](/trading/experts/xiaocui/member-sessions/2026-06-05) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-06-05)

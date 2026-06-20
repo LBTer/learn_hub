@@ -4,5 +4,6 @@
 
 ## 2026 年 6 月
 
+- [2026-06-19：AI 鬼故事、企业入口、存储周期与会员问答](/trading/experts/xiaocui/member-transcripts/2026-06-19)
 - [2026-06-12：数据中心、韩国股市、长期投资与会员问答](/trading/experts/xiaocui/member-transcripts/2026-06-12)
 - [2026-06-05：半导体回调、抄底纪律、OpenAI 与会员问答](/trading/experts/xiaocui/member-transcripts/2026-06-05)
