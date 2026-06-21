@@ -390,6 +390,10 @@ export default withMermaid(defineConfig({
                           collapsed: true,
                           items: [
                             {
+                              text: '第 2 课：核心量价关系',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/02-core-volume-price'
+                            },
+                            {
                               text: '第 1 课：短线交易入门',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/01-short-term-trading-introduction'
                             }
@@ -400,6 +404,10 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/',
                           collapsed: true,
                           items: [
+                            {
+                              text: '第 2 课：核心量价关系',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/02-core-volume-price'
+                            },
                             {
                               text: '第 1 课：短线交易入门',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/01-short-term-trading-introduction'

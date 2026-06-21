@@ -5,5 +5,6 @@
 > 文字稿由字幕或语音识别整理而成，不冒充逐字原话；无法确认的股票和专有名词会保留时间点并标记待核。
 
 - [第 1 课：短线交易入门文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/01-short-term-trading-introduction)
+- [第 2 课：核心量价关系文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/02-core-volume-price)
 
 [返回游资交易系统](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/)
