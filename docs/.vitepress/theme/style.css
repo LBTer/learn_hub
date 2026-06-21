@@ -1,3 +1,22 @@
+.vp-doc ul.contains-task-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.vp-doc .task-list-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.55em;
+}
+
+.vp-doc .task-list-item-checkbox {
+  flex: 0 0 auto;
+  width: 1em;
+  height: 1em;
+  margin: 0.3em 0 0;
+  accent-color: var(--vp-c-brand-1);
+}
+
 .vp-doc .mermaid {
   position: relative;
   cursor: zoom-in;

@@ -1,6 +1,61 @@
 import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
 
+function taskListPlugin(md: any) {
+  md.core.ruler.after('inline', 'task-lists', (state: any) => {
+    const tokens = state.tokens
+
+    for (let index = 0; index < tokens.length; index += 1) {
+      const inline = tokens[index]
+
+      if (
+        inline.type !== 'inline' ||
+        !/^\[[ xX]\]\s+/.test(inline.content)
+      ) {
+        continue
+      }
+
+      let listItemIndex = index - 1
+      while (listItemIndex >= 0 && tokens[listItemIndex].type === 'paragraph_open') {
+        listItemIndex -= 1
+      }
+      const listItem = tokens[listItemIndex]
+
+      if (listItem?.type !== 'list_item_open') continue
+
+      const checked = /^\[[xX]\]/.test(inline.content)
+      const firstText = inline.children?.find((child: any) => child.type === 'text')
+
+      if (!firstText) continue
+
+      firstText.content = firstText.content.replace(/^\[[ xX]\]\s+/, '')
+      inline.children.unshift({
+        type: 'html_inline',
+        tag: '',
+        attrs: null,
+        map: null,
+        nesting: 0,
+        level: inline.level,
+        children: null,
+        content: `<input class="task-list-item-checkbox" type="checkbox"${checked ? ' checked' : ''} disabled>`,
+        markup: '',
+        info: '',
+        meta: null,
+        block: false,
+        hidden: false
+      })
+      listItem.attrJoin('class', 'task-list-item')
+
+      for (let parent = listItemIndex - 1; parent >= 0; parent -= 1) {
+        if (tokens[parent].type === 'bullet_list_open') {
+          tokens[parent].attrSet('class', 'contains-task-list')
+          break
+        }
+      }
+    }
+  })
+}
+
 export default withMermaid(defineConfig({
   lang: 'zh-CN',
   title: 'Learn Hub',
@@ -8,6 +63,11 @@ export default withMermaid(defineConfig({
   base: '/learn_hub/',
   cleanUrls: true,
   lastUpdated: true,
+  markdown: {
+    config(md) {
+      md.use(taskListPlugin)
+    }
+  },
 
   themeConfig: {
     nav: [
