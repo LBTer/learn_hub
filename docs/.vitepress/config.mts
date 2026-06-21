@@ -428,6 +428,10 @@ export default withMermaid(defineConfig({
                           collapsed: true,
                           items: [
                             {
+                              text: '2026-06-22',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-06-22-BV1HT7F6JEXL'
+                            },
+                            {
                               text: '2026-06-16',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-06-16-BV1StjG68ExA'
                             }
@@ -438,6 +442,10 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/',
                           collapsed: true,
                           items: [
+                            {
+                              text: '2026-06-22',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-22-BV1HT7F6JEXL'
+                            },
                             {
                               text: '2026-06-16',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-16-BV1StjG68ExA'
