@@ -16,7 +16,10 @@ description: 分析 B 站 UP 主“比巴卜作手”发布的普通每日复盘
    - **普通复盘视频**：公开视频，围绕当日指数、题材、个股、交易计划和次日应对展开。
    - **充电会员复盘视频**：页面或接口显示充电专属、会员可见、合集属于复盘，内容仍以市场复盘、板块个股、交易应对和新手教学为主。
    - **充电会员专题视频**：页面或接口显示充电专属、会员可见，但内容不是单日复盘，而是围绕交易方法、情绪周期、打板教学、案例课、心态纪律或其他专题展开。
-3. 充电会员视频读取 [references/member-video.md](references/member-video.md)，先按其中规则生成会员文字稿和会员笔记；若本期实际框架暴露新栏目、新合集或新分析维度，优先在本期文档中如实处理，再回头迭代会员工作流。
+3. 充电会员视频按内容继续路由：
+   - **充电会员复盘视频**读取 [references/member-video.md](references/member-video.md)，生成会员复盘文字稿和会员复盘笔记。
+   - **充电会员专题课程**读取 [references/member-course-video.md](references/member-course-video.md)，生成课程文字稿和课程学习笔记，并维护所属合集的体系地图。
+   - 若本期实际框架暴露新栏目、新合集或新分析维度，优先在本期文档中如实处理，再回头迭代对应工作流。
 4. 普通复盘视频继续执行下方“普通复盘工作流”。
 5. 不得把充电会员复盘硬套成普通每日总结，也不得把普通公开视频写入会员目录。
 
@@ -102,9 +105,15 @@ docs/trading/experts/bibabu-zuoshou/
 │   ├── reviews/
 │   │   ├── index.md
 │   │   └── YYYY-MM-DD-BVID.md
-│   └── review-transcripts/
+│   ├── review-transcripts/
+│   │   ├── index.md
+│   │   └── YYYY-MM-DD-BVID.md
+│   ├── hot-money-system/
+│   │   ├── index.md
+│   │   └── NN-course-slug.md
+│   └── hot-money-system-transcripts/
 │       ├── index.md
-│       └── YYYY-MM-DD-BVID.md
+│       └── NN-course-slug.md
 ├── trading-days/
 │   ├── index.md
 │   └── YYYY-MM-DD.md
@@ -143,17 +152,22 @@ docs/trading/experts/bibabu-zuoshou/
 
 - 普通复盘同时加入“交易日总结”和“视频文字稿”的日期列表。
 - 会员复盘同时加入对应会员笔记与会员文字稿列表。
+- 会员专题课程同时加入课程学习笔记与课程文字稿列表，并按课程编号排序。
 - 日期纠正、文件改名或路径迁移时，必须同步替换旧目录链接，不能保留失效入口。
 - 发布前使用 `rg` 对照文章路径、模块索引和 VitePress 配置，确认三处均已收录且日期倒序正确；站点构建成功不代表目录已经更新，必须单独核对。
 
 ### 充电会员主题模块
 
-充电会员内容统一放入 `member-topics/`。目前已识别的子主题是“复盘合集”：
+充电会员内容统一放入 `member-topics/`。目前已识别的子主题包括：
 
 - `member-topics/reviews/YYYY-MM-DD-BVID.md`：充电会员复盘笔记。
 - `member-topics/review-transcripts/YYYY-MM-DD-BVID.md`：充电会员复盘文字稿。
+- `member-topics/hot-money-system/NN-course-slug.md`：游资交易系统课程学习笔记。
+- `member-topics/hot-money-system-transcripts/NN-course-slug.md`：游资交易系统课程文字稿。
 
 会员复盘目录标题使用“充电会员复盘”，会员复盘文字稿目录标题使用“充电会员复盘文字稿”。同一天出现多期同类型内容时必须保留 BVID，避免覆盖。
+
+“游资交易系统”属于按学习顺序组织的体系课程，文件名使用课程编号，不使用发布日期作为主要排序依据。课程原始内容和忠实整理放在会员主题下；`technical-notes/` 仅用于跨期验证后的二次归纳，不直接承接单课内容。
 
 会员复盘分析框架处于迭代期，不预设为最终稳定模板。后续迭代重心不是把市场复盘目录做得更复杂，而是更好地提取作者给出的关键知识点和案例：包括知识点出现的上下文、作者如何解释、用什么案例说明、对新手的具体启发、适用条件和失效边界。每次分析实际会员视频时，应记录本期暴露出的新栏目、新讲法、新教学重点、案例拆解方式和目录改进建议；经用户认可后再更新 [references/member-video.md](references/member-video.md)。
 
@@ -161,7 +175,7 @@ docs/trading/experts/bibabu-zuoshou/
 
 `technical-notes/index.md` 是未来跨期归纳入口。默认不从单日视频直接更新；积累足够样本并经用户明确要求后，再按主题总结稳定方法、常见偏差及适用边界。
 
-截图统一保存到 `docs/public/images/trading/bibabu/YYYY-MM-DD/`，文件名优先使用四位秒数，便于追溯原视频时间点。
+普通复盘截图保存到 `docs/public/images/trading/bibabu/YYYY-MM-DD/`；会员专题课程按对应 reference 的课程目录保存。文件名优先使用四位秒数，便于追溯原视频时间点。
 
 ## 专属观察框架
 

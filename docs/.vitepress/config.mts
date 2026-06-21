@@ -383,6 +383,28 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-16-BV1StjG68ExA'
                             }
                           ]
+                        },
+                        {
+                          text: '游资交易系统',
+                          link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/',
+                          collapsed: true,
+                          items: [
+                            {
+                              text: '第 1 课：短线交易入门',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/01-short-term-trading-introduction'
+                            }
+                          ]
+                        },
+                        {
+                          text: '游资交易系统文字稿',
+                          link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/',
+                          collapsed: true,
+                          items: [
+                            {
+                              text: '第 1 课：短线交易入门',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/01-short-term-trading-introduction'
+                            }
+                          ]
                         }
                       ]
                     }
