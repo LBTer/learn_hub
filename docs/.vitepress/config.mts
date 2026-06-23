@@ -242,6 +242,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-06-23 下集',
+                          link: '/trading/experts/xiaocui/trading-days/2026-06-23-A0LudLLnw3Y'
+                        },
+                        {
                           text: '2026-06-23',
                           link: '/trading/experts/xiaocui/trading-days/2026-06-23'
                         },
@@ -288,6 +292,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/xiaocui/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-06-23 下集',
+                          link: '/trading/experts/xiaocui/transcripts/2026-06-23-A0LudLLnw3Y'
+                        },
                         {
                           text: '2026-06-23',
                           link: '/trading/experts/xiaocui/transcripts/2026-06-23'
