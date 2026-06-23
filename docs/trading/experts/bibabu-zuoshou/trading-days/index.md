@@ -6,6 +6,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-23：高位批量兑现，防守与保护利润优先](/trading/experts/bibabu-zuoshou/trading-days/2026-06-23)
 - [2026-06-22：指数放量逼空，高位科技分化但未见顶](/trading/experts/bibabu-zuoshou/trading-days/2026-06-22)
 - [2026-06-17：结构性科技牛市，节前以五至七成仓应对](/trading/experts/bibabu-zuoshou/trading-days/2026-06-17)
 - [2026-06-15：科技与指数共振，反弹确认但次日不追高](/trading/experts/bibabu-zuoshou/trading-days/2026-06-15)
