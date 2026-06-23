@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-23：韩国去杠杆、日韩汇率、SpaceX 与 AI 定价权](/trading/experts/xiaocui/trading-days/2026-06-23) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-23)
 - [2026-06-22：美伊谈判、日韩杠杆风险、AI 价格战与中国反制](/trading/experts/xiaocui/trading-days/2026-06-22) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-22)
 - [2026-06-18：美伊备忘录、沃什首秀、SpaceX 杠杆与 A 股监管](/trading/experts/xiaocui/trading-days/2026-06-18) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-18)
 - [2026-06-17：G7 与 AI 国家战略、算力涨价和中国资本市场改革](/trading/experts/xiaocui/trading-days/2026-06-17) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-17)
