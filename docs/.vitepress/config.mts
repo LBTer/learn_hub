@@ -510,6 +510,10 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/03-kline-support-resistance'
                             },
                             {
+                              text: '第 4 课：复盘及工具应用',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/04-review-tools'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             }
@@ -531,6 +535,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 3 课：K 线与支撑压力',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/03-kline-support-resistance'
+                            },
+                            {
+                              text: '第 4 课：复盘及工具应用',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/04-review-tools'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',

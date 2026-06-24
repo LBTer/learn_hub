@@ -9,6 +9,7 @@
 - [第 1 课：短线交易入门](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/01-short-term-trading-introduction)
 - [第 2 课：核心量价关系](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/02-core-volume-price)
 - [第 3 课：K 线与支撑压力](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/03-kline-support-resistance)
+- [第 4 课：复盘及工具应用](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/04-review-tools)
 - [旁支专题：老庄趋势战法](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend)
 
 ## 当前体系地图
@@ -44,6 +45,7 @@
 第 1 课：理解情绪、资金和概率
 → 第 2 课：用量价读取资金行为
 → 第 3 课：用 K 线和支撑压力规范位置判断
+→ 第 4 课：用复盘流程和工具沉淀盘面结构
 ```
 
 第三课把“位置判断”拆成五组工具：
@@ -62,7 +64,18 @@ K 线级别：日 K看结构，小级别 K线看日内细节
 第 1 课：先接受短线交易的情绪、资金和概率框架
 → 第 2 课：识别资金行为属于顶部、止跌、健康拉升或吸筹
 → 第 3 课：把量价信号放到支撑、压力、趋势和级别中验证
+→ 第 4 课：每天按大盘、情绪、板块、个股和操作预期复盘
 → 后续课程：再叠加情绪周期、择时择股、买卖点和具体战法
+```
+
+第四课把“每天要复什么”拆成一套工作流：
+
+```text
+大盘：技术分析 + 消息面 + 市场量能
+→ 情绪：高标晋级、断板反馈、反包与 A 杀、情绪标的
+→ 板块：节奏状态 + 龙头 / 情绪 / 容量 / 弹性 / 中军
+→ 个股：涨停原因、概念变化、核心票池、热榜前 30
+→ 操作：当天交易复盘、持仓预期、止盈止损
 ```
 
 旁支专题“老庄趋势战法”暂不插入主课编号，而是作为一个具体战法模板，调用第 2 课的量价观察和第 3 课的五日线、趋势规则：
@@ -90,6 +103,9 @@ K 线级别：日 K看结构，小级别 K线看日内细节
 - 小级别 K 线与日 K信号冲突时如何确定优先级。
 - 支撑压力允许多大偏差，才不算硬画线。
 - 个股技术分析与题材、情绪、筹码、监管之间的权重如何分配。
+- 板块节奏中分歧、分化、爆发、高潮、回流的细化判断标准。
+- 不同短线模式如何共用一套选股逻辑筛出核心票。
+- 情绪标的的盘中确认方法，以及它和次日预案的联动方式。
 
 ## 配套内容
 
