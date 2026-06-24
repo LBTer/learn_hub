@@ -9,6 +9,7 @@
 - [第 3 课：K 线与支撑压力文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/03-kline-support-resistance)
 - [第 4 课：复盘及工具应用文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/04-review-tools)
 - [第 5 课：深度看盘及盘面设置文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/05-watchlist-settings)
+- [第 6 课：情绪周期体系梳理文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/06-emotion-cycle-system)
 - [旁支专题：老庄趋势战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-laozhuang-trend)
 - [旁支专题：一字定方向战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-yizi-direction)
 

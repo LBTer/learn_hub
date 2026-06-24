@@ -534,6 +534,10 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/05-watchlist-settings'
                             },
                             {
+                              text: '第 6 课：情绪周期体系梳理',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/06-emotion-cycle-system'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             },
@@ -567,6 +571,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 5 课：深度看盘及盘面设置',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/05-watchlist-settings'
+                            },
+                            {
+                              text: '第 6 课：情绪周期体系梳理',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/06-emotion-cycle-system'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',

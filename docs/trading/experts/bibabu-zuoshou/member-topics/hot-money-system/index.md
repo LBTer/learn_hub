@@ -11,6 +11,7 @@
 - [第 3 课：K 线与支撑压力](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/03-kline-support-resistance)
 - [第 4 课：复盘及工具应用](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/04-review-tools)
 - [第 5 课：深度看盘及盘面设置](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/05-watchlist-settings)
+- [第 6 课：情绪周期体系梳理](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/06-emotion-cycle-system)
 - [旁支专题：老庄趋势战法](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend)
 - [旁支专题：一字定方向战法](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-yizi-direction)
 
@@ -68,7 +69,8 @@ K 线级别：日 K看结构，小级别 K线看日内细节
 → 第 3 课：把量价信号放到支撑、压力、趋势和级别中验证
 → 第 4 课：每天按大盘、情绪、板块、个股和操作预期复盘
 → 第 5 课：把复盘输出放进盘中界面，跟踪资金流动、板块回流和风格对流
-→ 后续课程：再叠加情绪周期、择时择股、买卖点和具体战法
+→ 第 6 课：用情绪周期区分混沌、主升、退潮，并匹配仓位和主线识别
+→ 后续课程：再细化情绪锚定、择时择股、买卖点和具体战法
 ```
 
 第四课把“每天要复什么”拆成一套工作流：
@@ -91,6 +93,18 @@ K 线级别：日 K看结构，小级别 K线看日内细节
 → 反馈：核心票与后排是否一致，判断高潮、回流或分化
 → 对流：分时叠加和盘口漏单识别趋势、投机等风格 PK
 → 界面：自选核心、计划股、板块统计、盘口、L2、消息分屏观察
+```
+
+第六课把“市场环境”拆成三类情绪周期，并给出仓位和主线识别框架：
+
+```text
+混沌期：板块无序轮动 + 空间高度压制 + 小仓低位试错
+主升期：主线明确 + 龙头带队 + 赚钱效应强于亏钱效应 + 重仓主线
+退潮期：分歧后不能修复 + 周期龙跌停 / 高位补跌 + 空仓或极小仓博弈
+
+主线候选：龙头 + 容量中军 + 20 厘米弹性 + 龙头属性发散
+左侧发现：板块最强、新题材、强逻辑、持续消息
+右侧确认：分歧扛跌、修复带头
 ```
 
 旁支专题“老庄趋势战法”暂不插入主课编号，而是作为一个具体战法模板，调用第 2 课的量价观察和第 3 课的五日线、趋势规则：
@@ -137,6 +151,8 @@ K 线级别：日 K看结构，小级别 K线看日内细节
 - 情绪标的的盘中确认方法，以及它和次日预案的联动方式。
 - 盘中板块对流和互相吸血出现后，如何转化为具体仓位和买卖动作。
 - 弱转强在量化套利较强的市场环境下，如何过滤冲高回落。
+- 主升、混沌、退潮在事中如何进一步量化确认，避免把分歧误判为退潮。
+- 不同周期节点下首板、一进二、前排卡位、首分核心、补涨和穿越如何选择。
 
 ## 配套内容
 
