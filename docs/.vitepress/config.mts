@@ -536,6 +536,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
+                            },
+                            {
+                              text: '旁支专题：一字定方向战法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-yizi-direction'
                             }
                           ]
                         },
@@ -567,6 +571,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-laozhuang-trend'
+                            },
+                            {
+                              text: '旁支专题：一字定方向战法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-yizi-direction'
                             }
                           ]
                         }

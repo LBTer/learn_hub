@@ -10,5 +10,6 @@
 - [第 4 课：复盘及工具应用文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/04-review-tools)
 - [第 5 课：深度看盘及盘面设置文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/05-watchlist-settings)
 - [旁支专题：老庄趋势战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-laozhuang-trend)
+- [旁支专题：一字定方向战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-yizi-direction)
 
 [返回游资交易系统](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/)
