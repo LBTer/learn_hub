@@ -514,6 +514,10 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/04-review-tools'
                             },
                             {
+                              text: '第 5 课：深度看盘及盘面设置',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/05-watchlist-settings'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             }
@@ -539,6 +543,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 4 课：复盘及工具应用',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/04-review-tools'
+                            },
+                            {
+                              text: '第 5 课：深度看盘及盘面设置',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/05-watchlist-settings'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',
