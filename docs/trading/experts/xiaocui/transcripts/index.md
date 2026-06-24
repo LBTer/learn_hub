@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-24：贝森特、韩国收贷、Google/Meta、长鑫存储与观众问答](/trading/experts/xiaocui/transcripts/2026-06-24)
 - [2026-06-23 下集：云巨头资本支出、中国消费、财政与观众问答](/trading/experts/xiaocui/transcripts/2026-06-23-A0LudLLnw3Y)
 - [2026-06-23：伊朗许可、韩国熔断、日韩汇率、SpaceX 与 AI 成本](/trading/experts/xiaocui/transcripts/2026-06-23)
 - [2026-06-22：美伊谈判、日韩风险、存储周期、OpenAI 与中国反制](/trading/experts/xiaocui/transcripts/2026-06-22)
