@@ -9,6 +9,7 @@
 - [第 1 课：短线交易入门](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/01-short-term-trading-introduction)
 - [第 2 课：核心量价关系](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/02-core-volume-price)
 - [第 3 课：K 线与支撑压力](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/03-kline-support-resistance)
+- [旁支专题：老庄趋势战法](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend)
 
 ## 当前体系地图
 
@@ -64,10 +65,23 @@ K 线级别：日 K看结构，小级别 K线看日内细节
 → 后续课程：再叠加情绪周期、择时择股、买卖点和具体战法
 ```
 
+旁支专题“老庄趋势战法”暂不插入主课编号，而是作为一个具体战法模板，调用第 2 课的量价观察和第 3 课的五日线、趋势规则：
+
+```text
+十日 / 七日区间涨幅榜
+→ 排除明确短线题材
+→ 连红 K + 主力建仓痕迹
+→ 发现日次日低吸
+→ 收盘不破五日线持有，或越涨越卖锁定利润垫
+```
+
+它补充了“具体战法与基础体系如何连接”的一个样本：战法不是单独存在，而是先识别个股是否独立于短线题材，再用趋势顺畅度、五日线纪律和盈亏比处理买卖。
+
 ## 待验证问题
 
 - 后续量价、K 线与情绪周期如何共同参与决策。
 - 具体战法与基础体系之间是依赖关系还是独立模块。
+- 独立老庄趋势与短线抱团之间的边界，是否能用题材标注和涨幅榜稳定区分。
 - 作者如何统计各模式的胜率和赔率。
 - L2 数据如何服务于不同的交易模式。
 - “爆量”“极致缩量”和“微微放量”如何量化。
