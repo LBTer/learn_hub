@@ -566,6 +566,10 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/09-stock-role-positioning'
                             },
                             {
+                              text: '第 10 课：监管详细讲解及监管套利战法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/10-regulation-arbitrage'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             },
@@ -615,6 +619,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 9 课：龙头、身位、弹性等定义与个股定位',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/09-stock-role-positioning'
+                            },
+                            {
+                              text: '第 10 课：监管详细讲解及监管套利战法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/10-regulation-arbitrage'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',
