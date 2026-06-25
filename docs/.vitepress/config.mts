@@ -542,6 +542,10 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/07-emotion-cycle-practice'
                             },
                             {
+                              text: '第 8 课：强势股择股方法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/08-strong-stock-selection'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             },
@@ -583,6 +587,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 7 课：情绪周期体系实战篇',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/07-emotion-cycle-practice'
+                            },
+                            {
+                              text: '第 8 课：强势股择股方法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/08-strong-stock-selection'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',
