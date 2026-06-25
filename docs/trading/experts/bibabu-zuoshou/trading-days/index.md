@@ -6,6 +6,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-25：老登反攻失败，资金继续抱团科技](/trading/experts/bibabu-zuoshou/trading-days/2026-06-25)
 - [2026-06-24：科技强修复，主升二要看美光和高开不反杀](/trading/experts/bibabu-zuoshou/trading-days/2026-06-24)
 - [2026-06-23：高位批量兑现，防守与保护利润优先](/trading/experts/bibabu-zuoshou/trading-days/2026-06-23)
 - [2026-06-22：指数放量逼空，高位科技分化但未见顶](/trading/experts/bibabu-zuoshou/trading-days/2026-06-22)
