@@ -12,6 +12,7 @@
 - [第 6 课：情绪周期体系梳理文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/06-emotion-cycle-system)
 - [第 7 课：情绪周期体系实战篇文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/07-emotion-cycle-practice)
 - [第 8 课：强势股择股方法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/08-strong-stock-selection)
+- [第 9 课：龙头、身位、弹性等定义与个股定位文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/09-stock-role-positioning)
 - [旁支专题：老庄趋势战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-laozhuang-trend)
 - [旁支专题：一字定方向战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-yizi-direction)
 
