@@ -582,6 +582,14 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/13-weak-to-strong'
                             },
                             {
+                              text: '第 14 课：埋伏战法详解',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/14-event-ambush'
+                            },
+                            {
+                              text: '第 15 课：弱转强战法补充进阶内容',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/15-weak-to-strong-advanced'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             },
@@ -647,6 +655,14 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 13 课：弱转强战法详解',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/13-weak-to-strong'
+                            },
+                            {
+                              text: '第 14 课：埋伏战法详解',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/14-event-ambush'
+                            },
+                            {
+                              text: '第 15 课：弱转强战法补充进阶内容',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/15-weak-to-strong-advanced'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',

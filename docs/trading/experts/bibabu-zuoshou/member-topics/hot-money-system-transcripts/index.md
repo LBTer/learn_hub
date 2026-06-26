@@ -17,6 +17,8 @@
 - [第 11 课：小周期择时方法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/11-small-cycle-timing)
 - [第 12 课：集合竞价进阶讲解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/12-auction-advanced)
 - [第 13 课：弱转强战法详解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/13-weak-to-strong)
+- [第 14 课：埋伏战法详解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/14-event-ambush)
+- [第 15 课：弱转强战法补充进阶内容文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/15-weak-to-strong-advanced)
 - [旁支专题：老庄趋势战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-laozhuang-trend)
 - [旁支专题：一字定方向战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-yizi-direction)
 
