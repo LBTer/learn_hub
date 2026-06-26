@@ -15,6 +15,8 @@
 - [第 9 课：龙头、身位、弹性等定义与个股定位文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/09-stock-role-positioning)
 - [第 10 课：监管详细讲解及监管套利战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/10-regulation-arbitrage)
 - [第 11 课：小周期择时方法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/11-small-cycle-timing)
+- [第 12 课：集合竞价进阶讲解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/12-auction-advanced)
+- [第 13 课：弱转强战法详解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/13-weak-to-strong)
 - [旁支专题：老庄趋势战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-laozhuang-trend)
 - [旁支专题：一字定方向战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-yizi-direction)
 

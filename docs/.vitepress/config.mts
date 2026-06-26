@@ -574,6 +574,14 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/11-small-cycle-timing'
                             },
                             {
+                              text: '第 12 课：集合竞价进阶讲解',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/12-auction-advanced'
+                            },
+                            {
+                              text: '第 13 课：弱转强战法详解',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/13-weak-to-strong'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             },
@@ -631,6 +639,14 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 11 课：小周期择时方法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/11-small-cycle-timing'
+                            },
+                            {
+                              text: '第 12 课：集合竞价进阶讲解',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/12-auction-advanced'
+                            },
+                            {
+                              text: '第 13 课：弱转强战法详解',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/13-weak-to-strong'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',
