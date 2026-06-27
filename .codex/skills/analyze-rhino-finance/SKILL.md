@@ -142,6 +142,13 @@ docs/trading/experts/rhino-finance/
 
 `market-reviews/index.md` 的模块标题固定为“美股盘后复盘”，`transcripts/index.md` 的模块标题固定为“视频文字稿”；日期文章标题分别使用 `YYYY-MM-DD 美股盘后复盘` 和 `YYYY-MM-DD 视频文字稿`。
 
+### 长期沉淀目录使用规则
+
+- `market-reviews/` 和 `transcripts/` 是普通公开视频的每期必写目录。
+- `company-notes/` 只用于跨期公司或 ETF 跟踪；同一标的被多期反复提到、观点出现明显变化，或用户明确要求追踪某家公司时才更新。
+- `analysis-framework/` 只用于跨期方法论归纳；至少积累 5 至 10 期或用户明确要求后，再总结稳定框架，不从单期视频直接搬运。
+- `member-notes/` 和 `member-transcripts/` 只在处理会员视频时写入。
+
 ## 专属观察框架
 
 读取 [references/expert-profile.md](references/expert-profile.md)。每期只在出现新证据时更新画像；至少积累 10 至 20 期后，再归纳稳定风格、常用指标、预测偏差和可迁移交易准则。
