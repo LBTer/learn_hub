@@ -1,0 +1,4 @@
+interface:
+  display_name: "视野环球财经分析"
+  short_description: "分析 RhinoFinance 美股复盘与会员研究"
+  default_prompt: "Use $analyze-rhino-finance to analyze this RhinoFinance video and create a market review with transcript."
