@@ -121,7 +121,21 @@ export default withMermaid(defineConfig({
               },
               {
                 text: '技术点学习',
-                link: '/trading/experts/bibabu-zuoshou/technical-notes/'
+                link: '/trading/experts/bibabu-zuoshou/technical-notes/',
+                items: [
+                  {
+                    text: '情绪周期与仓位',
+                    link: '/trading/experts/bibabu-zuoshou/technical-notes/emotion-cycle-and-position'
+                  },
+                  {
+                    text: '题材节奏、分歧与回流',
+                    link: '/trading/experts/bibabu-zuoshou/technical-notes/theme-rhythm-divergence-return'
+                  },
+                  {
+                    text: '核心票角色分层',
+                    link: '/trading/experts/bibabu-zuoshou/technical-notes/core-stock-roles'
+                  }
+                ]
               },
               {
                 text: '交易日总结',
@@ -417,7 +431,22 @@ export default withMermaid(defineConfig({
                   items: [
                     {
                       text: '技术点学习',
-                      link: '/trading/experts/bibabu-zuoshou/technical-notes/'
+                      link: '/trading/experts/bibabu-zuoshou/technical-notes/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: '情绪周期与仓位',
+                          link: '/trading/experts/bibabu-zuoshou/technical-notes/emotion-cycle-and-position'
+                        },
+                        {
+                          text: '题材节奏、分歧与回流',
+                          link: '/trading/experts/bibabu-zuoshou/technical-notes/theme-rhythm-divergence-return'
+                        },
+                        {
+                          text: '核心票角色分层',
+                          link: '/trading/experts/bibabu-zuoshou/technical-notes/core-stock-roles'
+                        }
+                      ]
                     },
                     {
                       text: '交易日总结',
