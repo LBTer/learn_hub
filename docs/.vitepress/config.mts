@@ -590,6 +590,14 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/15-weak-to-strong-advanced'
                             },
                             {
+                              text: '第 16 课：机构趋势战法，三日止盈法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/16-institutional-trend-three-day-profit'
+                            },
+                            {
+                              text: '第 17 课：分歧回流定义及板块运行节奏',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/17-divergence-return-rhythm'
+                            },
+                            {
                               text: '旁支专题：老庄趋势战法',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/side-laozhuang-trend'
                             },
@@ -663,6 +671,14 @@ export default withMermaid(defineConfig({
                             {
                               text: '第 15 课：弱转强战法补充进阶内容',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/15-weak-to-strong-advanced'
+                            },
+                            {
+                              text: '第 16 课：机构趋势战法，三日止盈法',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/16-institutional-trend-three-day-profit'
+                            },
+                            {
+                              text: '第 17 课：分歧回流定义及板块运行节奏',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/17-divergence-return-rhythm'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',
