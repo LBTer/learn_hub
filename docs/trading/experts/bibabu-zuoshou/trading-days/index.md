@@ -6,7 +6,8 @@
 
 ## 2026 年 6 月
 
-- [2026-06-29：周五大跌可预判，周一先看韩国和芯片补跌](/trading/experts/bibabu-zuoshou/trading-days/2026-06-29)
+- [2026-06-28 直播回放：科技缩容抱团芯片，周一先看修复强弱](/trading/experts/bibabu-zuoshou/trading-days/2026-06-28-BV1CBTu6XEmz)
+- [2026-06-28：周五大跌可预判，周一先看韩国和芯片补跌](/trading/experts/bibabu-zuoshou/trading-days/2026-06-28)
 - [2026-06-25：老登反攻失败，资金继续抱团科技](/trading/experts/bibabu-zuoshou/trading-days/2026-06-25)
 - [2026-06-24：科技强修复，主升二要看美光和高开不反杀](/trading/experts/bibabu-zuoshou/trading-days/2026-06-24)
 - [2026-06-23：高位批量兑现，防守与保护利润优先](/trading/experts/bibabu-zuoshou/trading-days/2026-06-23)
