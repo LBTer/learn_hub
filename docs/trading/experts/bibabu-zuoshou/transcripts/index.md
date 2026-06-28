@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-29：周五大跌，提前预判，躲过分歧](/trading/experts/bibabu-zuoshou/transcripts/2026-06-29)
 - [2026-06-25：老登反攻失败，继续抱团科技](/trading/experts/bibabu-zuoshou/transcripts/2026-06-25)
 - [2026-06-24：强势高潮反包，等待美光业绩，锚定韩国](/trading/experts/bibabu-zuoshou/transcripts/2026-06-24)
 - [2026-06-23：如何预判分歧跑路空仓，明日预期](/trading/experts/bibabu-zuoshou/transcripts/2026-06-23)
