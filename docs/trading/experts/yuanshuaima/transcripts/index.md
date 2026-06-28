@@ -6,4 +6,5 @@
 
 ## 2026 年 6 月
 
+- [2026-06-28：周末留言案例讲解](/trading/experts/yuanshuaima/transcripts/2026-06-28-BV1CCTu6JE7V)
 - [2026-06-25：中国巨石主力操盘讲解](/trading/experts/yuanshuaima/transcripts/2026-06-25-BV1G57v6aEv2)

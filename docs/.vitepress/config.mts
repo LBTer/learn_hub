@@ -848,6 +848,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-06-28 周末留言案例',
+                          link: '/trading/experts/yuanshuaima/daily-analysis/2026-06-28-BV1CCTu6JE7V'
+                        },
+                        {
                           text: '2026-06-25 中国巨石',
                           link: '/trading/experts/yuanshuaima/daily-analysis/2026-06-25-BV1G57v6aEv2'
                         }
@@ -858,6 +862,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/yuanshuaima/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-06-28 周末留言案例',
+                          link: '/trading/experts/yuanshuaima/transcripts/2026-06-28-BV1CCTu6JE7V'
+                        },
                         {
                           text: '2026-06-25 中国巨石',
                           link: '/trading/experts/yuanshuaima/transcripts/2026-06-25-BV1G57v6aEv2'
