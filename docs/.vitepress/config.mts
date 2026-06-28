@@ -87,28 +87,6 @@ export default withMermaid(defineConfig({
           { text: '高手思路', link: '/trading/experts/' },
           { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
           {
-            text: '袁帅马',
-            items: [
-              { text: '人物首页', link: '/trading/experts/yuanshuaima/' },
-              {
-                text: '日常分析',
-                link: '/trading/experts/yuanshuaima/daily-analysis/'
-              },
-              {
-                text: '视频文字稿',
-                link: '/trading/experts/yuanshuaima/transcripts/'
-              },
-              {
-                text: '充电会员主题',
-                link: '/trading/experts/yuanshuaima/member-topics/'
-              },
-              {
-                text: '技术点学习',
-                link: '/trading/experts/yuanshuaima/technique-notes/'
-              }
-            ]
-          },
-          {
             text: '小翠',
             items: [
               { text: '人物首页', link: '/trading/experts/xiaocui/' },
@@ -194,7 +172,30 @@ export default withMermaid(defineConfig({
                 link: '/trading/experts/bibabu-zuoshou/member-topics/'
               }
             ]
-          }
+          },
+          {
+            text: '袁帅马',
+            items: [
+              { text: '人物首页', link: '/trading/experts/yuanshuaima/' },
+              {
+                text: '日常分析',
+                link: '/trading/experts/yuanshuaima/daily-analysis/'
+              },
+              {
+                text: '视频文字稿',
+                link: '/trading/experts/yuanshuaima/transcripts/'
+              },
+              {
+                text: '充电会员主题',
+                link: '/trading/experts/yuanshuaima/member-topics/'
+              },
+              {
+                text: '技术点学习',
+                link: '/trading/experts/yuanshuaima/technique-notes/'
+              }
+            ]
+          },
+
         ]
       },
       {
@@ -285,43 +286,6 @@ export default withMermaid(defineConfig({
               collapsed: true,
               items: [
                 { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
-                {
-                  text: '袁帅马',
-                  link: '/trading/experts/yuanshuaima/',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: '日常分析',
-                      link: '/trading/experts/yuanshuaima/daily-analysis/',
-                      collapsed: true,
-                      items: [
-                        {
-                          text: '2026-06-25',
-                          link: '/trading/experts/yuanshuaima/daily-analysis/2026-06-25-BV1G57v6aEv2'
-                        }
-                      ]
-                    },
-                    {
-                      text: '视频文字稿',
-                      link: '/trading/experts/yuanshuaima/transcripts/',
-                      collapsed: true,
-                      items: [
-                        {
-                          text: '2026-06-25',
-                          link: '/trading/experts/yuanshuaima/transcripts/2026-06-25-BV1G57v6aEv2'
-                        }
-                      ]
-                    },
-                    {
-                      text: '充电会员主题',
-                      link: '/trading/experts/yuanshuaima/member-topics/'
-                    },
-                    {
-                      text: '技术点学习',
-                      link: '/trading/experts/yuanshuaima/technique-notes/'
-                    }
-                  ]
-                },
                 {
                   text: '小翠',
                   link: '/trading/experts/xiaocui/',
@@ -872,7 +836,45 @@ export default withMermaid(defineConfig({
                       ]
                     }
                   ]
-                }
+                },
+                {
+                  text: '袁帅马',
+                  link: '/trading/experts/yuanshuaima/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: '日常分析',
+                      link: '/trading/experts/yuanshuaima/daily-analysis/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: '2026-06-25 中国巨石',
+                          link: '/trading/experts/yuanshuaima/daily-analysis/2026-06-25-BV1G57v6aEv2'
+                        }
+                      ]
+                    },
+                    {
+                      text: '视频文字稿',
+                      link: '/trading/experts/yuanshuaima/transcripts/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: '2026-06-25 中国巨石',
+                          link: '/trading/experts/yuanshuaima/transcripts/2026-06-25-BV1G57v6aEv2'
+                        }
+                      ]
+                    },
+                    {
+                      text: '充电会员主题',
+                      link: '/trading/experts/yuanshuaima/member-topics/'
+                    },
+                    {
+                      text: '技术点学习',
+                      link: '/trading/experts/yuanshuaima/technique-notes/'
+                    }
+                  ]
+                },
+
               ]
             }
           ]
