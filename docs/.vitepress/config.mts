@@ -113,6 +113,28 @@ export default withMermaid(defineConfig({
             ]
           },
           {
+            text: '视野环球财经',
+            items: [
+              { text: '人物首页', link: '/trading/experts/rhino-finance/' },
+              {
+                text: '美股盘后复盘',
+                link: '/trading/experts/rhino-finance/market-reviews/'
+              },
+              {
+                text: '视频文字稿',
+                link: '/trading/experts/rhino-finance/transcripts/'
+              },
+              {
+                text: '公司与 ETF 跟踪',
+                link: '/trading/experts/rhino-finance/company-notes/'
+              },
+              {
+                text: '分析框架',
+                link: '/trading/experts/rhino-finance/analysis-framework/'
+              }
+            ]
+          },
+          {
             text: '比巴卜作手',
             items: [
               {
@@ -148,28 +170,6 @@ export default withMermaid(defineConfig({
               {
                 text: '充电会员主题',
                 link: '/trading/experts/bibabu-zuoshou/member-topics/'
-              }
-            ]
-          },
-          {
-            text: '视野环球财经',
-            items: [
-              { text: '人物首页', link: '/trading/experts/rhino-finance/' },
-              {
-                text: '美股盘后复盘',
-                link: '/trading/experts/rhino-finance/market-reviews/'
-              },
-              {
-                text: '视频文字稿',
-                link: '/trading/experts/rhino-finance/transcripts/'
-              },
-              {
-                text: '公司与 ETF 跟踪',
-                link: '/trading/experts/rhino-finance/company-notes/'
-              },
-              {
-                text: '分析框架',
-                link: '/trading/experts/rhino-finance/analysis-framework/'
               }
             ]
           }
@@ -443,6 +443,43 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/xiaocui/member-transcripts/2026-06-05'
                         }
                       ]
+                    }
+                  ]
+                },
+                {
+                  text: '视野环球财经',
+                  link: '/trading/experts/rhino-finance/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: '美股盘后复盘',
+                      link: '/trading/experts/rhino-finance/market-reviews/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: '2026-06-27',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-06-27'
+                        }
+                      ]
+                    },
+                    {
+                      text: '视频文字稿',
+                      link: '/trading/experts/rhino-finance/transcripts/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: '2026-06-27',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-06-27'
+                        }
+                      ]
+                    },
+                    {
+                      text: '公司与 ETF 跟踪',
+                      link: '/trading/experts/rhino-finance/company-notes/'
+                    },
+                    {
+                      text: '分析框架',
+                      link: '/trading/experts/rhino-finance/analysis-framework/'
                     }
                   ]
                 },
@@ -758,43 +795,6 @@ export default withMermaid(defineConfig({
                           ]
                         }
                       ]
-                    }
-                  ]
-                },
-                {
-                  text: '视野环球财经',
-                  link: '/trading/experts/rhino-finance/',
-                  collapsed: true,
-                  items: [
-                    {
-                      text: '美股盘后复盘',
-                      link: '/trading/experts/rhino-finance/market-reviews/',
-                      collapsed: true,
-                      items: [
-                        {
-                          text: '2026-06-27',
-                          link: '/trading/experts/rhino-finance/market-reviews/2026-06-27'
-                        }
-                      ]
-                    },
-                    {
-                      text: '视频文字稿',
-                      link: '/trading/experts/rhino-finance/transcripts/',
-                      collapsed: true,
-                      items: [
-                        {
-                          text: '2026-06-27',
-                          link: '/trading/experts/rhino-finance/transcripts/2026-06-27'
-                        }
-                      ]
-                    },
-                    {
-                      text: '公司与 ETF 跟踪',
-                      link: '/trading/experts/rhino-finance/company-notes/'
-                    },
-                    {
-                      text: '分析框架',
-                      link: '/trading/experts/rhino-finance/analysis-framework/'
                     }
                   ]
                 }
