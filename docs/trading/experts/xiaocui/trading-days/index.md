@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-29：美伊护盘、存储诉讼、长鑫供应链与中国模型](/trading/experts/xiaocui/trading-days/2026-06-29-wkK_tR_Dzw4) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-29-wkK_tR_Dzw4)
 - [2026-06-26：苹果涨价、美光反击、OpenAI 推迟 IPO 与韩国熔断](/trading/experts/xiaocui/trading-days/2026-06-26) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-26)
 - [2026-06-25：美光财报、存储周期、OpenAI 与中国银行审计](/trading/experts/xiaocui/trading-days/2026-06-25) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-25)
 - [2026-06-24：贝森特强美元、韩国收贷、AI 与中国政策](/trading/experts/xiaocui/trading-days/2026-06-24) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-06-24)
