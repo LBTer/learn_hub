@@ -856,6 +856,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-06-29 凯盛科技',
+                          link: '/trading/experts/yuanshuaima/daily-analysis/2026-06-29-BV1C8KQ6PEAo'
+                        },
+                        {
                           text: '2026-06-28 周末留言案例',
                           link: '/trading/experts/yuanshuaima/daily-analysis/2026-06-28-BV1CCTu6JE7V'
                         },
@@ -874,6 +878,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/yuanshuaima/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-06-29 凯盛科技',
+                          link: '/trading/experts/yuanshuaima/transcripts/2026-06-29-BV1C8KQ6PEAo'
+                        },
                         {
                           text: '2026-06-28 周末留言案例',
                           link: '/trading/experts/yuanshuaima/transcripts/2026-06-28-BV1CCTu6JE7V'
