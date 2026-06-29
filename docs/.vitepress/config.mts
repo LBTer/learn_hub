@@ -536,6 +536,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-06-29',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-29'
+                        },
+                        {
                           text: '2026-06-28 直播回放',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-06-28-BV1CBTu6XEmz'
                         },
@@ -590,6 +594,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/bibabu-zuoshou/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-06-29',
+                          link: '/trading/experts/bibabu-zuoshou/transcripts/2026-06-29'
+                        },
                         {
                           text: '2026-06-28 直播回放',
                           link: '/trading/experts/bibabu-zuoshou/transcripts/2026-06-28-BV1CBTu6XEmz'
