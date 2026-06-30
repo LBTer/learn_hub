@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-30：寒武纪晋级万亿俱乐部，高低切持续中，两头行情](/trading/experts/bibabu-zuoshou/transcripts/2026-06-30)
 - [2026-06-29：感谢大韩统领，再度高低切，能否切换成功？](/trading/experts/bibabu-zuoshou/transcripts/2026-06-29)
 - [2026-06-28 直播回放：干货讲解，周一及下周思路](/trading/experts/bibabu-zuoshou/transcripts/2026-06-28-BV1CBTu6XEmz)
 - [2026-06-28：周五大跌，提前预判，躲过分歧](/trading/experts/bibabu-zuoshou/transcripts/2026-06-28)
