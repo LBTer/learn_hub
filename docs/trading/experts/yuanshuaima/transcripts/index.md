@@ -6,6 +6,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-30：雅克科技主力操盘讲解](/trading/experts/yuanshuaima/transcripts/2026-06-30-BV1jETF61EGJ)
 - [2026-06-29：凯盛科技主力操盘讲解](/trading/experts/yuanshuaima/transcripts/2026-06-29-BV1C8KQ6PEAo)
 - [2026-06-28：周末留言案例讲解](/trading/experts/yuanshuaima/transcripts/2026-06-28-BV1CCTu6JE7V)
 - [2026-06-26：TCL科技主力操盘讲解](/trading/experts/yuanshuaima/transcripts/2026-06-26-BV1BP756mEai)
