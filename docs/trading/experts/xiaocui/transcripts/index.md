@@ -4,6 +4,7 @@
 
 ## 2026 年 6 月
 
+- [2026-06-30：美伊谈判、AI 就业、NVIDIA/PLTR、央行逆回购与郭文贵案](/trading/experts/xiaocui/transcripts/2026-06-30)
 - [2026-06-29：美伊护盘、美国杠杆、存储诉讼、长鑫与世界杯问答](/trading/experts/xiaocui/transcripts/2026-06-29-wkK_tR_Dzw4)
 - [2026-06-26：霍尔木兹、韩国熔断、苹果/美光、OpenAI 与观众问答](/trading/experts/xiaocui/transcripts/2026-06-26)
 - [2026-06-25：美光财报、存储周期、OpenAI 与中国银行审计](/trading/experts/xiaocui/transcripts/2026-06-25)
