@@ -1,0 +1,14 @@
+# 日常分析
+
+按日期整理数字K哥公开视频中的行情判断、交易剧本、风险条件和可迁移知识点。
+
+> 以下内容是对公开视频的学习整理，不构成投资建议。
+
+## 2026 年 7 月
+
+- [2026-07-20：BTC/ETH 否定直接突破，结构、动能与量能共振转空](/trading/experts/shuzi-kge/daily-analysis/2026-07-20-BV1cPK26UEJk)
+- [2026-07-17：BTC 关键位未破仍按调整，试仓优先 BTC 后 ETH](/trading/experts/shuzi-kge/daily-analysis/2026-07-17-BV1BKKH6gErG)
+- [2026-07-16：ETH/BTC 长期转强条件与 BTC 流动性剧本](/trading/experts/shuzi-kge/daily-analysis/2026-07-16-BV1NVK36REMs)
+- [2026-07-09：BTC 两种中期剧本，ETH 相对强势与回落做多计划](/trading/experts/shuzi-kge/daily-analysis/2026-07-09-BV1YsM76bEDr)
+- [2026-07-08：BTC 继续等回落，HYPE 情绪降温与空头机会](/trading/experts/shuzi-kge/daily-analysis/2026-07-08-BV1ThMi6TERU)
+- [2026-07-07：BTC 调整尚未完整，等待回落后的做多机会](/trading/experts/shuzi-kge/daily-analysis/2026-07-07-BV19BMx6DEXs)

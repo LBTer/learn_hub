@@ -1,0 +1,133 @@
+.vp-doc ul.contains-task-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.vp-doc .task-list-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.55em;
+}
+
+.vp-doc .task-list-item-checkbox {
+  flex: 0 0 auto;
+  width: 1em;
+  height: 1em;
+  margin: 0.3em 0 0;
+  accent-color: var(--vp-c-brand-1);
+}
+
+.vp-doc .mermaid {
+  position: relative;
+  cursor: zoom-in;
+}
+
+.vp-doc .mermaid::after {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  padding: 3px 8px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--vp-c-bg) 88%, transparent);
+  color: var(--vp-c-text-2);
+  content: '点击放大';
+  font-size: 12px;
+  line-height: 20px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.vp-doc .mermaid:hover::after {
+  opacity: 1;
+}
+
+body.mermaid-zoom-open {
+  overflow: hidden;
+}
+
+.mermaid-zoom-overlay {
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  background: color-mix(in srgb, var(--vp-c-bg) 96%, transparent);
+}
+
+.mermaid-zoom-toolbar {
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  min-height: 56px;
+  padding: 8px 16px;
+  border-bottom: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg);
+}
+
+.mermaid-zoom-toolbar button {
+  min-width: 38px;
+  height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  cursor: pointer;
+}
+
+.mermaid-zoom-toolbar button:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+
+.mermaid-zoom-toolbar span {
+  min-width: 52px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+  text-align: center;
+}
+
+.mermaid-zoom-stage {
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+}
+
+.mermaid-zoom-stage.is-dragging {
+  cursor: grabbing;
+}
+
+.mermaid-zoom-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  transform-origin: center;
+  will-change: transform;
+}
+
+.mermaid-zoom-content svg {
+  max-width: 90vw !important;
+  max-height: calc(90vh - 56px) !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+@media (max-width: 640px) {
+  .mermaid-zoom-toolbar {
+    justify-content: center;
+    padding: 8px;
+  }
+
+  .mermaid-zoom-toolbar button {
+    padding: 0 9px;
+  }
+}

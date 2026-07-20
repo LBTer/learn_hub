@@ -1,0 +1,4 @@
+interface:
+  display_name: "数字K哥视频分析"
+  short_description: "分析数字K哥公开视频的日常分析和文字稿"
+  default_prompt: "使用 $analyze-shuzi-kge 分析数字K哥 B 站视频，生成日常分析、视频文字稿、关键截图、股票提及表和交易知识点。"

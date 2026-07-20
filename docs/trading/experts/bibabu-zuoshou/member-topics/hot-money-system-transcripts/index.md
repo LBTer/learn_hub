@@ -1,0 +1,27 @@
+# 游资交易系统文字稿
+
+这里按课程编号保存“游资交易系统”充电合集的整理文字稿，用于追溯作者的完整定义、讲解顺序、案例和课程关联。
+
+> 文字稿由字幕或语音识别整理而成，不冒充逐字原话；无法确认的股票和专有名词会保留时间点并标记待核。
+
+- [第 1 课：短线交易入门文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/01-short-term-trading-introduction)
+- [第 2 课：核心量价关系文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/02-core-volume-price)
+- [第 3 课：K 线与支撑压力文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/03-kline-support-resistance)
+- [第 4 课：复盘及工具应用文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/04-review-tools)
+- [第 5 课：深度看盘及盘面设置文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/05-watchlist-settings)
+- [第 6 课：情绪周期体系梳理文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/06-emotion-cycle-system)
+- [第 7 课：情绪周期体系实战篇文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/07-emotion-cycle-practice)
+- [第 8 课：强势股择股方法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/08-strong-stock-selection)
+- [第 9 课：龙头、身位、弹性等定义与个股定位文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/09-stock-role-positioning)
+- [第 10 课：监管详细讲解及监管套利战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/10-regulation-arbitrage)
+- [第 11 课：小周期择时方法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/11-small-cycle-timing)
+- [第 12 课：集合竞价进阶讲解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/12-auction-advanced)
+- [第 13 课：弱转强战法详解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/13-weak-to-strong)
+- [第 14 课：埋伏战法详解文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/14-event-ambush)
+- [第 15 课：弱转强战法补充进阶内容文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/15-weak-to-strong-advanced)
+- [第 16 课：机构趋势战法，三日止盈法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/16-institutional-trend-three-day-profit)
+- [第 17 课：分歧回流定义及板块运行节奏文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/17-divergence-return-rhythm)
+- [旁支专题：老庄趋势战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-laozhuang-trend)
+- [旁支专题：一字定方向战法文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/side-yizi-direction)
+
+[返回游资交易系统](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/)
