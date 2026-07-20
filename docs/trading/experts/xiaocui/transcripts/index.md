@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-20：A 股国家队、Kimi K3 算力、云巨头与观众问答](/trading/experts/xiaocui/transcripts/2026-07-20)
 - [2026-07-17：美伊冲突、选举安全、半导体去杠杆、Kimi K3、Google/Anthropic 与观众问答](/trading/experts/xiaocui/transcripts/2026-07-17)
 - [2026-07-16：选举指控、沃什、韩国加息、台积电、存储周期、巴菲特与观众问答](/trading/experts/xiaocui/transcripts/2026-07-16)
 - [2026-07-15：沃什、美国银行、韩国杠杆、OpenAI/Anthropic、中国宏观与观众问答](/trading/experts/xiaocui/transcripts/2026-07-15)
