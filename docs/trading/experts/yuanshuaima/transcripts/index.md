@@ -6,6 +6,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-20：哈药股份主力操盘讲解](/trading/experts/yuanshuaima/transcripts/2026-07-20-BV15ZK26rEQz)
 - [2026-07-19：如何识别个股是不是同一个主力操盘](/trading/experts/yuanshuaima/transcripts/2026-07-19-BV1F7Kr6eE7H)
 - [2026-07-18：长江电力、生益科技、星网锐捷、烽火通信案例讲解](/trading/experts/yuanshuaima/transcripts/2026-07-18-BV11BKA6vETS)
 - [2026-07-17：京东方A等技术案例讲解](/trading/experts/yuanshuaima/transcripts/2026-07-17-BV1TTKn6DEuh)

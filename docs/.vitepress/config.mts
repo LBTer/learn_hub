@@ -1365,6 +1365,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                       {
+                        text: '2026-07-20 哈药股份',
+                        link: '/trading/experts/yuanshuaima/daily-analysis/2026-07-20-BV15ZK26rEQz'
+                      },
+                      {
                         text: '2026-07-19 主力操盘识别',
                         link: '/trading/experts/yuanshuaima/daily-analysis/2026-07-19-BV1F7Kr6eE7H'
                       },
@@ -1459,6 +1463,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/yuanshuaima/transcripts/',
                       collapsed: true,
                       items: [
+                      {
+                        text: '2026-07-20 哈药股份',
+                        link: '/trading/experts/yuanshuaima/transcripts/2026-07-20-BV15ZK26rEQz'
+                      },
                       {
                         text: '2026-07-19 主力操盘识别',
                         link: '/trading/experts/yuanshuaima/transcripts/2026-07-19-BV1F7Kr6eE7H'
