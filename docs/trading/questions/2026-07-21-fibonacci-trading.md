@@ -1,6 +1,6 @@
 # 为什么斐波那契线段在交易中这么有用？从回撤定位到多周期共振
 
-![斐波那契回撤：从低点到高点寻找价格的“回望区间”](https://learn.luovista.com/images/trading/questions/fibonacci-retracement.png)
+![斐波那契回撤：从低点到高点寻找价格的“回望区间”](https://learn.luovista.com/trading/questions/fibonacci-retracement.png)
 
 *图：AI 生成的教学示意图。重点不是某一条线，而是价格在一段已确认的波动之后，可能在哪些区域重新定价。*
 
