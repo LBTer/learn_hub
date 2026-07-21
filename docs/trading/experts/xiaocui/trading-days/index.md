@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-21：美伊边打边谈、AI 牛市资本开支、中国模型出口与 AliExpress 处罚](/trading/experts/xiaocui/trading-days/2026-07-21) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-21)
 - [2026-07-20：A 股国家队、Kimi K3 算力、云巨头与电池税](/trading/experts/xiaocui/trading-days/2026-07-20) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-20)
 - [2026-07-17：美伊冲突、选举安全、半导体去杠杆、Kimi K3、Google 与 Anthropic](/trading/experts/xiaocui/trading-days/2026-07-17) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-17)
 - [2026-07-16：沃什与通胀、韩国加息、台积电、存储周期、NVIDIA 与巴菲特](/trading/experts/xiaocui/trading-days/2026-07-16) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-16)
