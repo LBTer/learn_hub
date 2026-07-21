@@ -6,6 +6,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-21：放量反攻确认阶段底部，科技高潮后分歧选强](/trading/experts/bibabu-zuoshou/trading-days/2026-07-21)
 - [2026-07-20：指数企稳，高位科技主跌，电力上调为五天题材候选](/trading/experts/bibabu-zuoshou/trading-days/2026-07-20)
 - [2026-07-19：历史级冰点，周一转向寻找反弹机会](/trading/experts/bibabu-zuoshou/trading-days/2026-07-19)
 - [2026-07-16：高位明确退潮，等待空头核心止跌](/trading/experts/bibabu-zuoshou/trading-days/2026-07-16)

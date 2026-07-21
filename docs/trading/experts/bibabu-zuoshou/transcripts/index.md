@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-21：新版闻峰丧胆，科技牛市回归？市场见底信号](/trading/experts/bibabu-zuoshou/transcripts/2026-07-21)
 - [2026-07-20：闻峰丧胆，科技股灾，水皮是对的](/trading/experts/bibabu-zuoshou/transcripts/2026-07-20)
 - [2026-07-19：股灾行情，底部附近，找机会做多](/trading/experts/bibabu-zuoshou/transcripts/2026-07-19)
 - [2026-07-16：无厘头西游记，德明利大额封单，尾盘恐慌盘](/trading/experts/bibabu-zuoshou/transcripts/2026-07-16)
