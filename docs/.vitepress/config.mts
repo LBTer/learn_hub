@@ -103,6 +103,14 @@ export default withMermaid(defineConfig({
               {
                 text: '美元流动性三个水桶',
                 link: '/trading/questions/2026-07-19-dollar-liquidity'
+              },
+              {
+                text: 'PE、EPS 与 PEG 估值',
+                link: '/trading/questions/2026-07-19-pe-eps-peg-valuation'
+              },
+              {
+                text: '正伽马与市场波动',
+                link: '/trading/questions/2026-07-21-positive-gamma'
               }
             ]
           },
@@ -375,6 +383,14 @@ export default withMermaid(defineConfig({
                 {
                   text: '美元流动性三个水桶',
                   link: '/trading/questions/2026-07-19-dollar-liquidity'
+                },
+                {
+                  text: 'PE、EPS 与 PEG 估值',
+                  link: '/trading/questions/2026-07-19-pe-eps-peg-valuation'
+                },
+                {
+                  text: '正伽马与市场波动',
+                  link: '/trading/questions/2026-07-21-positive-gamma'
                 }
               ]
             },
@@ -1594,6 +1610,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-07-21 BTC/ETH 预期与突破',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-21-BV1qBK46XE3k'
+                        },
+                        {
                           text: '2026-07-20 BTC/ETH 转空',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-20-BV1cPK26UEJk'
                         },
@@ -1624,6 +1644,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-07-21 BTC/ETH 预期与突破',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-07-21-BV1qBK46XE3k'
+                        },
                         {
                           text: '2026-07-20 BTC/ETH 转空',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-07-20-BV1cPK26UEJk'
