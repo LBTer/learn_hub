@@ -395,6 +395,10 @@ export default withMermaid(defineConfig({
                 {
                   text: '正伽马与市场波动',
                   link: '/trading/questions/2026-07-21-positive-gamma'
+                },
+                {
+                  text: '斐波那契回撤与扩展',
+                  link: '/trading/questions/2026-07-21-fibonacci-trading'
                 }
               ]
             },
