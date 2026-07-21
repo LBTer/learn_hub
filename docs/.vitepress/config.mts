@@ -1397,6 +1397,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                       {
+                        text: '2026-07-21 京东方A等科技股案例',
+                        link: '/trading/experts/yuanshuaima/daily-analysis/2026-07-21-BV1eXKh6fEHS'
+                      },
+                      {
                         text: '2026-07-20 哈药股份',
                         link: '/trading/experts/yuanshuaima/daily-analysis/2026-07-20-BV15ZK26rEQz'
                       },
@@ -1495,6 +1499,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/yuanshuaima/transcripts/',
                       collapsed: true,
                       items: [
+                      {
+                        text: '2026-07-21 京东方A等科技股案例',
+                        link: '/trading/experts/yuanshuaima/transcripts/2026-07-21-BV1eXKh6fEHS'
+                      },
                       {
                         text: '2026-07-20 哈药股份',
                         link: '/trading/experts/yuanshuaima/transcripts/2026-07-20-BV15ZK26rEQz'
