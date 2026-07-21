@@ -2,6 +2,14 @@
 
 来源：视野环球财经 2026 年 7 月 20 日复盘视频，见[视频文字稿](../experts/rhino-finance/transcripts/2026-07-20.md)。
 
+![正伽马环境下的逆势对冲与结算后波动释放](https://learn.luovista.com/trading/questions/positive-gamma-harbor.png)
+
+*图：用港口与摆渡船表现做市商在正伽马环境中的逆势对冲，以及结算后波动区间可能扩大的变化。*
+
+![正伽马的定义与对冲反馈机制](https://learn.luovista.com/trading/questions/positive-gamma-mechanism.png)
+
+*图：知识总结版，保留伽马定义与“上涨卖出、下跌买入”的正伽马对冲流程。*
+
 ## 先讲一个故事：港口里的自动摆渡船
 
 一座港口每天都有很多船进出。港口管理处为了保证航道安全，雇了一家摆渡公司，承诺无论船只往哪边挤，都会把自己的船调到另一边，让航道保持平衡。
