@@ -19,6 +19,7 @@ type LearningNote = {
 }
 
 type SearchCharacter = { node: Text; offset: number }
+type NoteMarkerPosition = { id: string; left: number; top: number; visible: boolean }
 
 const STORAGE_KEY = 'learn-hub:learning-notes:v1'
 const DELETED_STORAGE_KEY = 'learn-hub:deleted-note-ids:v1'
@@ -27,6 +28,7 @@ const { frontmatter } = useData()
 const localNotes = ref<LearningNote[]>([])
 const deletedIds = ref<string[]>([])
 const orderedPageNotes = ref<LearningNote[]>([])
+const expandedNoteId = ref<string | null>(null)
 const isPanelOpen = ref(false)
 const isComposerOpen = ref(false)
 const selectedTab = ref<'page' | 'all'>('page')
@@ -38,8 +40,8 @@ const noteType = ref<NoteType>('question')
 const noteText = ref('')
 const editingId = ref<string | null>(null)
 const selectionButton = ref({ visible: false, left: 0, top: 0 })
-const asideTarget = ref<Element | null>(null)
-let asideObserver: MutationObserver | null = null
+const markerPositions = ref<NoteMarkerPosition[]>([])
+let markerFrame = 0
 
 const archivedNotes = archivedNotesData as LearningNote[]
 const archivedIds = computed(() => new Set(archivedNotes.map((note) => note.id)))
@@ -51,6 +53,24 @@ const allNotes = computed(() => {
 })
 const pageNotes = computed(() => allNotes.value.filter((note) => normalizePagePath(note.page) === normalizePagePath(route.path)))
 const displayedPageNotes = computed(() => orderedPageNotes.value.length ? orderedPageNotes.value : pageNotes.value)
+const expandedNote = computed(() => allNotes.value.find((note) => note.id === expandedNoteId.value) || null)
+const expandedMarker = computed(() => markerPositions.value.find((marker) => marker.id === expandedNoteId.value) || null)
+const expandedCardStyle = computed(() => {
+  const marker = expandedMarker.value
+  if (!marker || typeof window === 'undefined') return {}
+  const preferredWidth = Math.min(340, window.innerWidth - 24)
+  const markerElement = document.querySelector<HTMLElement>(`[data-learning-note-marker="${marker.id}"]`)
+  const markerRect = markerElement?.getBoundingClientRect()
+  const markerRight = markerRect?.right ?? marker.left + 30
+  const rightAvailable = window.innerWidth - markerRight - 12
+  const canOpenRight = rightAvailable >= 240
+  const width = canOpenRight ? Math.min(preferredWidth, rightAvailable) : preferredWidth
+  return {
+    width: `${width}px`,
+    left: `${canOpenRight ? markerRight + 12 : Math.max(12, marker.left - width - 12)}px`,
+    top: `${Math.min(Math.max(72, marker.top - 8), Math.max(72, window.innerHeight - 420))}px`
+  }
+})
 const visibleNotes = computed(() => selectedTab.value === 'page' ? pageNotes.value : allNotes.value)
 const pendingNotes = computed(() => localNotes.value.filter((note) => !archivedIds.value.has(note.id)))
 
@@ -338,6 +358,14 @@ function wrapRange(range: Range, noteId: string) {
   }
 }
 
+function updateActiveSourceHighlight() {
+  const activeId = expandedNoteId.value
+  document.querySelectorAll<HTMLElement>('.vp-doc mark.learning-note-highlight').forEach((mark) => {
+    const ids = (mark.dataset.noteIds || '').split(',').filter(Boolean)
+    mark.classList.toggle('is-active', Boolean(activeId && ids.includes(activeId)))
+  })
+}
+
 function renderHighlights() {
   clearHighlights()
   const located = pageNotes.value.map((note) => ({ note, range: locateNote(note) }))
@@ -352,6 +380,8 @@ function renderHighlights() {
     const range = locateNote(note)
     if (range) wrapRange(range, note.id)
   }
+  updateActiveSourceHighlight()
+  nextTick(updateMarkerPositions)
 }
 
 function jumpToNote(note: LearningNote) {
@@ -377,8 +407,59 @@ function jumpToNote(note: LearningNote) {
   else window.location.href = `${withBase(normalizePagePath(note.page))}#learning-note=${encodeURIComponent(note.id)}`
 }
 
-function findAsideTarget() {
-  asideTarget.value = document.querySelector('.VPDocAside .content')
+function togglePageNote(note: LearningNote) {
+  if (expandedNoteId.value === note.id) {
+    expandedNoteId.value = null
+    updateActiveSourceHighlight()
+    updateMarkerPositions()
+    return
+  }
+  expandedNoteId.value = note.id
+  updateActiveSourceHighlight()
+  updateMarkerPositions()
+  jumpToNote(note)
+}
+
+function markerStyle(noteId: string) {
+  const marker = markerPositions.value.find((item) => item.id === noteId)
+  if (!marker) return { display: 'none' }
+  return {
+    left: `${marker.left}px`,
+    top: `${marker.top}px`,
+    visibility: marker.visible ? 'visible' : 'hidden'
+  }
+}
+
+function updateMarkerPositions() {
+  if (markerFrame) cancelAnimationFrame(markerFrame)
+  markerFrame = requestAnimationFrame(() => {
+    markerFrame = 0
+    const article = document.querySelector('.vp-doc')
+    if (!article) {
+      markerPositions.value = []
+      return
+    }
+    const articleRect = article.getBoundingClientRect()
+    const marks = [...article.querySelectorAll<HTMLElement>('mark.learning-note-highlight')]
+    const raw = displayedPageNotes.value.map((note) => {
+      const mark = marks.find((item) => (item.dataset.noteIds || '').split(',').includes(note.id))
+      const rect = mark?.getBoundingClientRect()
+      return {
+        id: note.id,
+        left: Math.min(articleRect.right + 10, window.innerWidth - 48),
+        top: rect?.top ?? -100,
+        visible: Boolean(rect && rect.bottom > 64 && rect.top < window.innerHeight - 36)
+      }
+    }).sort((a, b) => a.top - b.top)
+
+    let previousTop = 54
+    for (const marker of raw) {
+      if (!marker.visible) continue
+      marker.top = Math.max(marker.top, previousTop + 30)
+      previousTop = marker.top
+    }
+    markerPositions.value = raw
+  })
 }
 
 function handleKeydown(event: KeyboardEvent) {
@@ -391,32 +472,38 @@ function handleKeydown(event: KeyboardEvent) {
 
 onMounted(() => {
   loadLocalNotes()
-  findAsideTarget()
-  asideObserver = new MutationObserver(findAsideTarget)
-  asideObserver.observe(document.body, { childList: true, subtree: true })
   document.addEventListener('selectionchange', handleSelection)
   document.addEventListener('keydown', handleKeydown)
+  window.addEventListener('scroll', updateMarkerPositions, { passive: true })
+  window.addEventListener('resize', updateMarkerPositions)
   nextTick(() => {
     renderHighlights()
     const noteId = new URLSearchParams(window.location.hash.split('?')[1] || window.location.hash.replace(/^#/, '')).get('learning-note')
     const note = allNotes.value.find((item) => item.id === noteId)
-    if (note) jumpToNote(note)
+    if (note) {
+      expandedNoteId.value = note.id
+      updateActiveSourceHighlight()
+      jumpToNote(note)
+    }
   })
 })
 
 onBeforeUnmount(() => {
   document.removeEventListener('selectionchange', handleSelection)
   document.removeEventListener('keydown', handleKeydown)
+  window.removeEventListener('scroll', updateMarkerPositions)
+  window.removeEventListener('resize', updateMarkerPositions)
   clearHighlights()
-  asideObserver?.disconnect()
+  if (markerFrame) cancelAnimationFrame(markerFrame)
 })
 
 watch(() => route.path, async () => {
   selectionButton.value.visible = false
   isComposerOpen.value = false
   orderedPageNotes.value = []
+  expandedNoteId.value = null
+  markerPositions.value = []
   await nextTick()
-  findAsideTarget()
   renderHighlights()
 })
 
@@ -425,29 +512,42 @@ watch(pageNotes, () => nextTick(renderHighlights), { deep: true })
 
 <template>
   <div class="learning-notes-ui">
-    <Teleport v-if="asideTarget" :to="asideTarget">
-      <section class="learning-page-notes" aria-label="本页便签">
-        <div class="learning-page-notes-header">
-          <strong>本页便签</strong>
-          <span>{{ displayedPageNotes.length }}</span>
-        </div>
-        <p v-if="!displayedPageNotes.length">选中正文即可添加便签。</p>
-        <div v-for="note in displayedPageNotes" :key="note.id" class="learning-page-note">
-          <button type="button" class="learning-page-note-link" @click="jumpToNote(note)">
-            <span class="learning-page-note-meta">
-              <span class="learning-note-type" :class="`is-${note.type}`">{{ typeLabels[note.type] }}</span>
-              <small>{{ localNotes.some((item) => item.id === note.id) && archivedIds.has(note.id) ? '待重新归档' : archivedIds.has(note.id) ? '已归档' : '本地草稿' }}</small>
-            </span>
-            <q>{{ note.quote }}</q>
-            <p>{{ note.note }}</p>
-          </button>
-          <span class="learning-page-note-actions">
-            <button type="button" @click="editNote(note)">编辑</button>
-            <button type="button" @click="deleteNote(note)">删除</button>
+    <Teleport to="body">
+      <button
+        v-for="note in displayedPageNotes"
+        :key="note.id"
+        type="button"
+        class="learning-margin-note-marker"
+        :data-learning-note-marker="note.id"
+        :class="[`is-${note.type}`, { 'is-active': expandedNoteId === note.id }]"
+        :style="markerStyle(note.id)"
+        :aria-label="`${typeLabels[note.type]}便签：${note.note}`"
+        :aria-expanded="expandedNoteId === note.id"
+        @click="togglePageNote(note)"
+      >
+        <span aria-hidden="true">●</span><span class="learning-margin-note-label">{{ typeLabels[note.type] }}</span>
+      </button>
+
+      <aside
+        v-if="expandedNote && expandedMarker"
+        class="learning-margin-note-card"
+        :style="expandedCardStyle"
+        aria-label="当前便签"
+      >
+        <header>
+          <span class="learning-note-type" :class="`is-${expandedNote.type}`">{{ typeLabels[expandedNote.type] }}</span>
+          <small>{{ localNotes.some((item) => item.id === expandedNote.id) && archivedIds.has(expandedNote.id) ? '待重新归档' : archivedIds.has(expandedNote.id) ? '已归档' : '本地草稿' }}</small>
+          <button type="button" aria-label="收起便签" @click="togglePageNote(expandedNote)">×</button>
+        </header>
+        <p>{{ expandedNote.note }}</p>
+        <footer>
+          <a :href="withBase('/annotations/')">查看全部便签</a>
+          <span>
+            <button type="button" @click="editNote(expandedNote)">编辑</button>
+            <button type="button" @click="deleteNote(expandedNote)">删除</button>
           </span>
-        </div>
-        <a :href="withBase('/annotations/')" class="learning-page-notes-all">查看、搜索全部便签 →</a>
-      </section>
+        </footer>
+      </aside>
     </Teleport>
 
     <button

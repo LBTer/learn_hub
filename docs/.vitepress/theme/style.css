@@ -3,6 +3,9 @@
   --learning-note-blue-hover: #0f83df;
   --learning-note-blue-soft: #e8f4ff;
   --learning-note-blue-ring: rgb(36 151 243 / 22%);
+  --learning-note-active: #9a6200;
+  --learning-note-active-bg: #fff2bd;
+  --learning-note-active-ring: rgb(218 151 26 / 30%);
   --learning-note-question: #7c4dcc;
   --learning-note-question-soft: #f0e9ff;
   --learning-note-important: #dc7017;
@@ -18,6 +21,9 @@ html.dark {
   --learning-note-blue-hover: #87c7ff;
   --learning-note-blue-soft: rgb(36 151 243 / 18%);
   --learning-note-blue-ring: rgb(99 182 255 / 28%);
+  --learning-note-active: #ffd36f;
+  --learning-note-active-bg: rgb(218 151 26 / 24%);
+  --learning-note-active-ring: rgb(255 211 111 / 32%);
   --learning-note-question: #c3a0ff;
   --learning-note-question-soft: rgb(124 77 204 / 24%);
   --learning-note-important: #ffad66;
@@ -249,6 +255,16 @@ body.mermaid-zoom-open {
   background: transparent;
   color: var(--vp-c-text-1);
   text-align: left;
+  transition: background-color 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+.learning-page-note.is-expanded {
+  margin: 4px -8px;
+  padding: 10px 8px;
+  border-bottom-color: transparent;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--learning-note-active-bg) 78%, var(--vp-c-bg));
+  box-shadow: inset 3px 0 0 var(--learning-note-active), inset 0 0 0 1px var(--learning-note-active-ring);
 }
 
 .learning-page-note-link {
@@ -301,6 +317,7 @@ body.mermaid-zoom-open {
   color: var(--vp-c-text-3);
   font-size: 11px;
   line-height: 1.45;
+  white-space: pre-wrap;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
 }
@@ -311,8 +328,26 @@ body.mermaid-zoom-open {
   overflow: hidden;
   font-size: 12px;
   line-height: 1.5;
+  white-space: pre-wrap;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
+}
+
+.learning-page-note-link.is-expanded q,
+.learning-page-note-link.is-expanded p {
+  display: block;
+  overflow: visible;
+  -webkit-line-clamp: unset;
+}
+
+.learning-page-note-toggle {
+  justify-self: end;
+  color: var(--vp-c-text-3);
+  font-size: 10px;
+}
+
+.learning-page-note-link.is-expanded .learning-page-note-toggle {
+  color: var(--learning-note-active);
 }
 
 .learning-page-note:hover p {
@@ -324,6 +359,165 @@ body.mermaid-zoom-open {
   margin-top: 12px;
   font-size: 12px;
   color: var(--learning-note-blue);
+}
+
+.learning-margin-note-marker {
+  position: fixed;
+  z-index: 45;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  min-height: 26px;
+  padding: 2px 7px;
+  border: 1px solid color-mix(in srgb, currentColor 28%, transparent);
+  border-radius: 999px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 8%);
+  cursor: pointer;
+  font: inherit;
+  font-size: 11px;
+  transform: translateY(-3px);
+  transition: top 0.12s ease, background-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+.learning-margin-note-marker > span:first-child {
+  font-size: 8px;
+}
+
+.learning-margin-note-marker.is-question {
+  background: var(--learning-note-question-soft);
+  color: var(--learning-note-question);
+}
+
+.learning-margin-note-marker.is-important {
+  background: var(--learning-note-important-soft);
+  color: var(--learning-note-important);
+}
+
+.learning-margin-note-marker.is-thought {
+  background: var(--learning-note-thought-soft);
+  color: var(--learning-note-thought);
+}
+
+.learning-margin-note-marker.is-verify {
+  background: var(--learning-note-verify-soft);
+  color: var(--learning-note-verify);
+}
+
+.learning-margin-note-marker.is-active {
+  border-color: var(--learning-note-active);
+  background: var(--learning-note-active-bg);
+  box-shadow: 0 0 0 2px var(--learning-note-active-ring), 0 3px 10px rgb(0 0 0 / 10%);
+  color: var(--learning-note-active);
+}
+
+.learning-margin-note-card {
+  position: fixed;
+  z-index: 60;
+  max-height: calc(100vh - 96px);
+  padding: 14px;
+  overflow-y: auto;
+  border: 1px solid var(--learning-note-active-ring);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--learning-note-active-bg) 76%, var(--vp-c-bg));
+  box-shadow: 0 12px 32px rgb(0 0 0 / 16%);
+  color: var(--vp-c-text-1);
+}
+
+.learning-margin-note-card header,
+.learning-margin-note-card footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.learning-margin-note-card header small {
+  margin-left: auto;
+  color: var(--vp-c-text-3);
+  font-size: 11px;
+}
+
+.learning-margin-note-card header > button {
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--vp-c-text-2);
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.learning-margin-note-card q {
+  display: block;
+  margin: 12px 0;
+  padding-left: 10px;
+  border-left: 2px solid var(--learning-note-active-ring);
+  color: var(--vp-c-text-2);
+  font-size: 11px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+}
+
+.learning-margin-note-card > p {
+  margin: 12px 0 0;
+  font-size: 12px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+.learning-margin-note-card footer {
+  justify-content: space-between;
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--learning-note-active-ring);
+  font-size: 11px;
+}
+
+.learning-margin-note-card footer > span {
+  display: flex;
+  gap: 9px;
+}
+
+.learning-margin-note-card footer button {
+  padding: 2px 0;
+  border: 0;
+  background: transparent;
+  color: var(--vp-c-text-3);
+  cursor: pointer;
+  font: inherit;
+}
+
+.learning-margin-note-card footer button:hover,
+.learning-margin-note-card footer a {
+  color: var(--learning-note-active);
+}
+
+@media (max-width: 1180px) {
+  .learning-margin-note-marker {
+    width: 26px;
+    justify-content: center;
+    padding: 2px;
+  }
+
+  .learning-margin-note-label {
+    display: none;
+  }
+}
+
+@media (max-width: 760px) {
+  .learning-margin-note-marker {
+    right: 8px;
+    left: auto !important;
+  }
+
+  .learning-margin-note-card {
+    right: 12px;
+    bottom: 12px;
+    left: 12px !important;
+    width: auto !important;
+    max-height: 52vh;
+    top: auto !important;
+  }
 }
 
 .all-learning-notes {
@@ -488,6 +682,7 @@ body.mermaid-zoom-open {
 
 .all-learning-note-item p {
   margin: 7px 0;
+  white-space: pre-wrap;
 }
 
 .all-learning-note-item button:hover strong,
@@ -650,6 +845,14 @@ body.mermaid-zoom-open {
   text-underline-offset: 3px;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
+  transition: background-color 0.18s ease, box-shadow 0.18s ease;
+}
+
+.vp-doc mark.learning-note-highlight.is-active {
+  background: var(--learning-note-active-bg);
+  box-shadow: 0 0 0 2px var(--learning-note-active-ring);
+  color: var(--learning-note-active);
+  text-decoration-color: currentColor;
 }
 
 .learning-note-focus {
@@ -847,6 +1050,7 @@ body.mermaid-zoom-open {
 .learning-note-link p {
   margin: 0;
   line-height: 1.65;
+  white-space: pre-wrap;
 }
 
 .learning-note-card-actions {
