@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
+import { noteArchivePlugin } from './notes/archivePlugin.mts'
 
 function taskListPlugin(md: any) {
   md.core.ruler.after('inline', 'task-lists', (state: any) => {
@@ -57,6 +58,9 @@ function taskListPlugin(md: any) {
 }
 
 export default withMermaid(defineConfig({
+  vite: {
+    plugins: [noteArchivePlugin()]
+  },
   lang: 'zh-CN',
   title: 'Learn Hub',
   description: '个人教程与知识整理站',
@@ -340,6 +344,7 @@ export default withMermaid(defineConfig({
           }
         ]
       },
+      { text: '我的便签', link: '/annotations/' },
       { text: '关于', link: '/about' }
     ],
 
