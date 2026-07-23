@@ -1,0 +1,57 @@
+{
+  "$schema": "https://codex.openai.com/schemas/automations-export-v1.json",
+  "version": 1,
+  "exportedAt": "2026-07-23T00:00:00+08:00",
+  "project": {
+    "name": "learn_hub",
+    "path": ".",
+    "executionEnvironment": "local"
+  },
+  "automations": [
+    {
+      "name": "监控袁帅马新视频并生成分析",
+      "kind": "cron",
+      "status": "PAUSED",
+      "rrule": "DTSTART:20260706T100000Z\nRRULE:FREQ=DAILY;BYHOUR=10,13;BYMINUTE=0;BYSECOND=0",
+      "model": "gpt-5.6-luna",
+      "reasoningEffort": "medium",
+      "prompt": "在项目根目录中执行定时任务：按照本项目的 analyze-yuanshuaima skill，使用用户当前 Chrome/B 站登录态，查看袁帅马今天在 https://space.bilibili.com/401453595/video 更新了哪些视频。\n\n当前未购买袁帅马会员：如果今天新更新的视频是充电会员、会员可见或充电合集内容，不要分析总结，不要生成文字稿或分析笔记，只记录视频标题、链接和未处理原因。\n\n对今天新更新、项目里还没做过、且属于公开视频的视频，按 skill 流程分析总结成新的文档；若今天没有未处理的新公开视频，简短说明无更新即可。\n\n完成后运行必要校验，并把新增或更新的文档提交到 git。\n\n如果本次生成或更新了分析文档并产生了本地图片，在分析总结和文档写入完成后、运行最终校验和 git 提交之前，必须执行 `npm run images:upload -- <本次图片目录> --rewrite`，将本次位于 `docs/public/images/` 下的图片目录增量上传到 Cloudflare R2，并把对应 Markdown 中的 `/images/...` 链接替换为 R2 公开链接。只传本次图片目录，不要使用 `--all`。如果遇到 TLS/ECONNRESET 等网络错误，使用 `--concurrency=1` 重试；上传或链接替换未成功时，不要提交包含未迁移本地图片链接的新文档，并在任务结果中说明失败原因。"
+    },
+    {
+      "name": "监控小翠时政财经新视频并生成分析",
+      "kind": "cron",
+      "status": "PAUSED",
+      "rrule": "DTSTART:20260706T140000Z\nRRULE:FREQ=DAILY;BYHOUR=14,15;BYMINUTE=0;BYSECOND=0",
+      "model": "gpt-5.6-luna",
+      "reasoningEffort": "medium",
+      "prompt": "在项目根目录中执行定时任务：按照本项目的 analyze-xiaocui-news skill，使用用户当前 Chrome/YouTube 登录态，查看小翠时政财经今天在 https://www.youtube.com/@cui_news/streams 更新了哪些视频。\n\n优先使用 .codex/skills/analyze-xiaocui-news/scripts/check-new-videos.py 检查当天新视频。对今天新更新且项目里还没做过的视频，先根据标题、YouTube 可见性和实际内容结构识别普通每日要闻或会员直播，再按 skill 对应流程分析总结成新的文档。\n\n如果发现新视频但 YouTube/yt-dlp 接口暂时还不能直接获取字幕、章节或必要元数据，不要立刻下载音频转写，也不要生成不完整文档；简短记录视频标题、链接和暂缓原因，留到下一次定时执行再处理。\n\n若今天没有未处理的新视频，简短说明无更新即可。\n\n完成后运行必要校验，并把新增或更新的文档提交到 git。\n\n如果本次生成或更新了分析文档并产生了本地图片，在分析总结和文档写入完成后、运行最终校验和 git 提交之前，必须执行 `npm run images:upload -- <本次图片目录> --rewrite`，将本次位于 `docs/public/images/` 下的图片目录增量上传到 Cloudflare R2，并把对应 Markdown 中的 `/images/...` 链接替换为 R2 公开链接。只传本次图片目录，不要使用 `--all`。如果遇到 TLS/ECONNRESET 等网络错误，使用 `--concurrency=1` 重试；上传或链接替换未成功时，不要提交包含未迁移本地图片链接的新文档，并在任务结果中说明失败原因。"
+    },
+    {
+      "name": "监控视野环球财经新视频并生成分析",
+      "kind": "cron",
+      "status": "PAUSED",
+      "rrule": "DTSTART:20260708T110000Z\nRRULE:FREQ=DAILY;BYHOUR=11;BYMINUTE=0;BYSECOND=0",
+      "model": "gpt-5.6-luna",
+      "reasoningEffort": "medium",
+      "prompt": "在项目根目录中执行定时任务：按照本项目的 analyze-rhino-finance skill，使用用户当前 Chrome/YouTube 登录态，查看视野环球财经 / RhinoFinance 今天在 https://www.youtube.com/@RhinoFinance/videos 更新了哪些视频。\n\n对今天新更新且项目里还没做过的视频，按 skill 流程分析总结成新的文档；若今天没有未处理的新视频，简短说明无更新即可。\n\n完成后运行必要校验，并把新增或更新的文档提交到 git。\n\n如果本次生成或更新了分析文档并产生了本地图片，在分析总结和文档写入完成后、运行最终校验和 git 提交之前，必须执行 `npm run images:upload -- <本次图片目录> --rewrite`，将本次位于 `docs/public/images/` 下的图片目录增量上传到 Cloudflare R2，并把对应 Markdown 中的 `/images/...` 链接替换为 R2 公开链接。只传本次图片目录，不要使用 `--all`。如果遇到 TLS/ECONNRESET 等网络错误，使用 `--concurrency=1` 重试；上传或链接替换未成功时，不要提交包含未迁移本地图片链接的新文档，并在任务结果中说明失败原因。"
+    },
+    {
+      "name": "监控比巴卜作手新视频并生成分析",
+      "kind": "cron",
+      "status": "PAUSED",
+      "rrule": "DTSTART:20260706T100000Z\nRRULE:FREQ=DAILY;BYHOUR=10,13;BYMINUTE=0;BYSECOND=0",
+      "model": "gpt-5.6-sol",
+      "reasoningEffort": "medium",
+      "prompt": "在项目根目录中执行定时任务：按照本项目的 analyze-bibabu-zuoshou skill，使用用户当前 Chrome/B 站登录态，查看比巴卜作手今天在 https://space.bilibili.com/3546557003598528 更新了哪些视频。\n\n对今天新更新且项目里还没做过的视频，按 skill 流程分析总结成新的文档；若今天没有未处理的新视频，简短说明无更新即可。\n\n完成后运行必要校验，并把新增或更新的文档提交到 git。\n\n如果本次生成或更新了分析文档并产生了本地图片，在分析总结和文档写入完成后、运行最终校验和 git 提交之前，必须执行 `npm run images:upload -- <本次图片目录> --rewrite`，将本次位于 `docs/public/images/` 下的图片目录增量上传到 Cloudflare R2，并把对应 Markdown 中的 `/images/...` 链接替换为 R2 公开链接。只传本次图片目录，不要使用 `--all`。如果遇到 TLS/ECONNRESET 等网络错误，使用 `--concurrency=1` 重试；上传或链接替换未成功时，不要提交包含未迁移本地图片链接的新文档，并在任务结果中说明失败原因。"
+    },
+    {
+      "name": "监控数字K哥新视频并生成分析",
+      "kind": "cron",
+      "status": "PAUSED",
+      "rrule": "DTSTART:20260707T130000Z\nRRULE:FREQ=DAILY;BYHOUR=13;BYMINUTE=0;BYSECOND=0",
+      "model": "gpt-5.6-luna",
+      "reasoningEffort": "medium",
+      "prompt": "在项目根目录中执行定时任务：按照本项目的 analyze-shuzi-kge skill，使用用户当前 Chrome/B 站登录态，查看数字K哥今天在 https://space.bilibili.com/3493268855720591 更新了哪些公开视频。\n\n优先使用 .codex/skills/analyze-shuzi-kge/scripts/check-new-videos.py 检查北京时间当天新视频。对今天新更新且项目里还没做过的公开视频，按 skill 流程先完成并冻结视频文字稿，再生成日常分析，保存到 docs/trading/experts/shuzi-kge/ 对应目录，并同步更新索引和 VitePress 侧边栏。\n\n若今天没有未处理的新公开视频，简短说明无更新即可。\n\n完成后运行必要校验，并把新增或更新的文档提交到 git。\n\n如果本次生成或更新了分析文档并产生了本地图片，在分析总结和文档写入完成后、运行最终校验和 git 提交之前，必须执行 `npm run images:upload -- <本次图片目录> --rewrite`，将本次位于 docs/public/images/ 下的图片目录增量上传到 Cloudflare R2，并把对应 Markdown 中的 /images/... 链接替换为 R2 公开链接。只传本次图片目录，不要使用 --all。如果遇到 TLS/ECONNRESET 等网络错误，使用 --concurrency=1 重试；上传或链接替换未成功时，不要提交包含未迁移本地图片链接的新文档，并在任务结果中说明失败原因。"
+    }
+  ]
+}
