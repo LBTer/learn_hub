@@ -6,6 +6,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-25：BTC 新的下跌结构、ETH 相对转弱与熊市末期剧本](/trading/experts/shuzi-kge/daily-analysis/2026-07-25-BV12h3u6AEcg)
 - [2026-07-24：BTC 弱反弹结构与最后一波下跌，ETH/BTC 率先转弱](/trading/experts/shuzi-kge/daily-analysis/2026-07-24-BV1Jegh62E68)
 - [2026-07-21：分清现货与合约预期，BTC/ETH 未有效突破仍逢高做空](/trading/experts/shuzi-kge/daily-analysis/2026-07-21-BV1qBK46XE3k)
 - [2026-07-20：BTC/ETH 否定直接突破，结构、动能与量能共振转空](/trading/experts/shuzi-kge/daily-analysis/2026-07-20-BV1cPK26UEJk)
