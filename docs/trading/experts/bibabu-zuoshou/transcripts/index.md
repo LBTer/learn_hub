@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-26：投机分歧，长鑫上市，预期如何](/trading/experts/bibabu-zuoshou/transcripts/2026-07-26)
 - [2026-07-23：3.7亿进异动，炮灰探路，勾心斗角](/trading/experts/bibabu-zuoshou/transcripts/2026-07-23)
 - [2026-07-22：空头龙反包板，继续带崩科技，高低切持续中](/trading/experts/bibabu-zuoshou/transcripts/2026-07-22)
 - [2026-07-21：新版闻峰丧胆，科技牛市回归？市场见底信号](/trading/experts/bibabu-zuoshou/transcripts/2026-07-21)
