@@ -978,6 +978,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-07-23',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-07-23'
+                        },
+                        {
                           text: '2026-07-22',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-07-22'
                         },
@@ -1104,6 +1108,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/bibabu-zuoshou/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-07-23',
+                          link: '/trading/experts/bibabu-zuoshou/transcripts/2026-07-23'
+                        },
                         {
                           text: '2026-07-22',
                           link: '/trading/experts/bibabu-zuoshou/transcripts/2026-07-22'
@@ -1679,6 +1687,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-07-24 BTC 弱反弹与最后一跌',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-24-BV1Jegh62E68'
+                        },
+                        {
                           text: '2026-07-21 BTC/ETH 预期与突破',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-21-BV1qBK46XE3k'
                         },
@@ -1713,6 +1725,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-07-24 BTC 弱反弹与最后一跌',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-07-24-BV1Jegh62E68'
+                        },
                         {
                           text: '2026-07-21 BTC/ETH 预期与突破',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-07-21-BV1qBK46XE3k'
