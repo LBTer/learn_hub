@@ -6,6 +6,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-26：缩量静默等长鑫落地，辨识度涨停确认修复](/trading/experts/bibabu-zuoshou/trading-days/2026-07-26)
 - [2026-07-23：电力高潮后吹哨，哈药替立新能源监管探路](/trading/experts/bibabu-zuoshou/trading-days/2026-07-23)
 - [2026-07-22：高潮次日科技熄火，电力与算力承接高低切](/trading/experts/bibabu-zuoshou/trading-days/2026-07-22)
 - [2026-07-21：放量反攻确认阶段底部，科技高潮后分歧选强](/trading/experts/bibabu-zuoshou/trading-days/2026-07-21)
