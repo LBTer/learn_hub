@@ -1687,6 +1687,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-07-25 BTC 新的下跌结构',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-25-BV12h3u6AEcg'
+                        },
+                        {
                           text: '2026-07-24 BTC 弱反弹与最后一跌',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-24-BV1Jegh62E68'
                         },
@@ -1725,6 +1729,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-07-25 BTC 新的下跌结构',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-07-25-BV12h3u6AEcg'
+                        },
                         {
                           text: '2026-07-24 BTC 弱反弹与最后一跌',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-07-24-BV1Jegh62E68'
