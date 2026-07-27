@@ -16,6 +16,7 @@
 
 ## 问题列表
 
+- [波浪理论深入讲解：为什么市场总像在“前进五步、回望三步”？](/trading/questions/2026-07-27-elliott-wave-theory)
 - [MACD 深入讲解：两只潮汐钟为何能看见趋势的呼吸？](/trading/questions/2026-07-27-macd-indicator)
 - [为什么成交量放大但账面流动性下降，会让市场波动变大？](/trading/questions/2026-07-03-es-liquidity-volume-volatility)
 - [CCI 指标到底在看什么？为什么能辅助趋势持有？](/trading/questions/2026-07-08-cci-indicator)
