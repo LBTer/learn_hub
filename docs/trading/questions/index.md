@@ -16,6 +16,7 @@
 
 ## 问题列表
 
+- [MACD 深入讲解：两只潮汐钟为何能看见趋势的呼吸？](/trading/questions/2026-07-27-macd-indicator)
 - [为什么成交量放大但账面流动性下降，会让市场波动变大？](/trading/questions/2026-07-03-es-liquidity-volume-volatility)
 - [CCI 指标到底在看什么？为什么能辅助趋势持有？](/trading/questions/2026-07-08-cci-indicator)
 - [SK 海力士 ADR 套利到底是什么意思？原理和行动步骤](/trading/questions/2026-07-14-sk-hynix-adr-arbitrage)

@@ -93,6 +93,10 @@ export default withMermaid(defineConfig({
             items: [
               { text: '板块首页', link: '/trading/questions/' },
               {
+                text: 'MACD 指标深入讲解',
+                link: '/trading/questions/2026-07-27-macd-indicator'
+              },
+              {
                 text: 'CCI 指标科普',
                 link: '/trading/questions/2026-07-08-cci-indicator'
               },
