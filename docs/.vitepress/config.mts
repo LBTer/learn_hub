@@ -93,6 +93,10 @@ export default withMermaid(defineConfig({
             items: [
               { text: '板块首页', link: '/trading/questions/' },
               {
+                text: '波浪理论：来源、逻辑与实战',
+                link: '/trading/questions/2026-07-27-elliott-wave-theory'
+              },
+              {
                 text: 'MACD 指标深入讲解',
                 link: '/trading/questions/2026-07-27-macd-indicator'
               },
