@@ -6,6 +6,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-27：长鑫巨量不等于市场增量，电力主升与科技超跌并行](/trading/experts/bibabu-zuoshou/trading-days/2026-07-27)
 - [2026-07-26：缩量静默等长鑫落地，辨识度涨停确认修复](/trading/experts/bibabu-zuoshou/trading-days/2026-07-26)
 - [2026-07-23：电力高潮后吹哨，哈药替立新能源监管探路](/trading/experts/bibabu-zuoshou/trading-days/2026-07-23)
 - [2026-07-22：高潮次日科技熄火，电力与算力承接高低切](/trading/experts/bibabu-zuoshou/trading-days/2026-07-22)
