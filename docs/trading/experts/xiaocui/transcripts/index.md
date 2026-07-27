@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-24：美伊冲突、收益率与亚洲去杠杆、英特尔/AI、长鑫科技与观众问答](/trading/experts/xiaocui/transcripts/2026-07-24)
 - [2026-07-23：美伊红海冲突、Google/Tesla、OpenAI/DeepSeek 与观众问答](/trading/experts/xiaocui/transcripts/2026-07-23)
 - [2026-07-22：AI 就业、主权 AI、英伟达 Robin、A 股与观众问答](/trading/experts/xiaocui/transcripts/2026-07-22)
 - [2026-07-21：美伊冲突、数据中心、AI 牛市、中国模型出口、AliExpress 与观众问答](/trading/experts/xiaocui/transcripts/2026-07-21)
