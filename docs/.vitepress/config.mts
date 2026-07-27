@@ -1711,6 +1711,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-07-27 对冲切换与四根 K 线组合',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-27-BV1Jsgf64E4G'
+                        },
+                        {
                           text: '2026-07-25 BTC 新的下跌结构',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-25-BV12h3u6AEcg'
                         },
@@ -1753,6 +1757,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-07-27 对冲切换与四根 K 线组合',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-07-27-BV1Jsgf64E4G'
+                        },
                         {
                           text: '2026-07-25 BTC 新的下跌结构',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-07-25-BV12h3u6AEcg'
