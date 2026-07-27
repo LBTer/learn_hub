@@ -192,6 +192,20 @@ function closeComposer() {
   window.getSelection()?.removeAllRanges()
 }
 
+function closeNotesPanel() {
+  closeComposer()
+  isPanelOpen.value = false
+  selectionButton.value.visible = false
+}
+
+function handleBackdropClick() {
+  if (isComposerOpen.value) {
+    document.querySelector<HTMLTextAreaElement>('.learning-note-textarea')?.focus()
+    return
+  }
+  closeNotesPanel()
+}
+
 function getArticleTextContext(range: Range) {
   const container = document.querySelector('.vp-doc')
   if (!container) return { prefix: '', suffix: '' }
@@ -464,9 +478,7 @@ function updateMarkerPositions() {
 
 function handleKeydown(event: KeyboardEvent) {
   if (event.key === 'Escape') {
-    selectionButton.value.visible = false
-    if (isComposerOpen.value) closeComposer()
-    else isPanelOpen.value = false
+    closeNotesPanel()
   }
 }
 
@@ -562,14 +574,14 @@ watch(pageNotes, () => nextTick(renderHighlights), { deep: true })
     </button>
 
     <Teleport to="body">
-      <div v-if="isPanelOpen" class="learning-notes-backdrop" @click.self="isPanelOpen = false">
+      <div v-if="isPanelOpen" class="learning-notes-backdrop" @click.self="handleBackdropClick">
         <aside class="learning-notes-panel" role="dialog" aria-modal="true" aria-label="我的便签">
           <header class="learning-notes-header">
             <div>
               <strong>我的便签</strong>
               <small>{{ pendingNotes.length }} 条待归档</small>
             </div>
-            <button type="button" aria-label="关闭便签" @click="isPanelOpen = false">×</button>
+            <button type="button" aria-label="关闭便签" @click="closeNotesPanel">×</button>
           </header>
 
           <div class="learning-notes-tabs">
@@ -591,7 +603,7 @@ watch(pageNotes, () => nextTick(renderHighlights), { deep: true })
               <textarea v-model="noteText" class="learning-note-textarea" rows="5" placeholder="记录你的想法、疑问或待验证内容……" />
             </label>
             <div class="learning-note-actions">
-              <button type="button" @click="closeComposer">取消</button>
+              <button type="button" @click="closeNotesPanel">取消</button>
               <button type="button" class="primary" :disabled="!noteText.trim()" @click="saveNote">{{ editingId ? '保存修改' : '保存为本地草稿' }}</button>
             </div>
           </div>
