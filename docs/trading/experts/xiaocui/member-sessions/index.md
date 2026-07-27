@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-25：宏观回调、开放模型利益链与长期投资纪律](/trading/experts/xiaocui/member-sessions/2026-07-25-9zMmztD-AVE) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-07-25-9zMmztD-AVE)
 - [2026-07-18：AI 上游去杠杆、远期 EPS 估值与 Oracle 现金流拐点](/trading/experts/xiaocui/member-sessions/2026-07-18-rGDmDptih6k) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-07-18-rGDmDptih6k)
 - [2026-07-11：SK 海力士 ADR、韩国杠杆爆仓与政府救市边界](/trading/experts/xiaocui/member-sessions/2026-07-11-6an5yGmoOf4) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-07-11-6an5yGmoOf4)
 - [2026-07-03：Meta 算力鬼故事、AI 上游抄底与 NVIDIA + PLTR 主权 AI](/trading/experts/xiaocui/member-sessions/2026-07-03-kRnc4LpKh9M) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-07-03-kRnc4LpKh9M)
