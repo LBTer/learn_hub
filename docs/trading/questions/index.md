@@ -16,8 +16,6 @@
 
 ## 问题列表
 
-- [波浪理论深入讲解：为什么市场总像在“前进五步、回望三步”？](/trading/questions/2026-07-27-elliott-wave-theory)
-- [MACD 深入讲解：两只潮汐钟为何能看见趋势的呼吸？](/trading/questions/2026-07-27-macd-indicator)
 - [为什么成交量放大但账面流动性下降，会让市场波动变大？](/trading/questions/2026-07-03-es-liquidity-volume-volatility)
 - [CCI 指标到底在看什么？为什么能辅助趋势持有？](/trading/questions/2026-07-08-cci-indicator)
 - [SK 海力士 ADR 套利到底是什么意思？原理和行动步骤](/trading/questions/2026-07-14-sk-hynix-adr-arbitrage)
@@ -25,3 +23,5 @@
 - [美元流动性到底是什么？小翠提到的“三个水桶”怎么观察](/trading/questions/2026-07-19-dollar-liquidity)
 - [正伽马到底是什么？为什么它会让市场变安静，又可能在结算后突然放大波动？](/trading/questions/2026-07-21-positive-gamma)
 - [为什么斐波那契线段在交易中这么有用？从回撤定位到多周期共振](/trading/questions/2026-07-21-fibonacci-trading)
+- [MACD 深入讲解：两只潮汐钟为何能看见趋势的呼吸？](/trading/questions/2026-07-27-macd-indicator)
+- [波浪理论深入讲解：为什么市场总像在“前进五步、回望三步”？](/trading/questions/2026-07-27-elliott-wave-theory)

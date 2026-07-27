@@ -93,32 +93,24 @@ export default withMermaid(defineConfig({
             items: [
               { text: '板块首页', link: '/trading/questions/' },
               {
-                text: '波浪理论：来源、逻辑与实战',
-                link: '/trading/questions/2026-07-27-elliott-wave-theory'
-              },
-              {
-                text: 'MACD 指标深入讲解',
-                link: '/trading/questions/2026-07-27-macd-indicator'
+                text: '流动性与波动',
+                link: '/trading/questions/2026-07-03-es-liquidity-volume-volatility'
               },
               {
                 text: 'CCI 指标科普',
                 link: '/trading/questions/2026-07-08-cci-indicator'
               },
               {
-                text: '流动性与波动',
-                link: '/trading/questions/2026-07-03-es-liquidity-volume-volatility'
-              },
-              {
                 text: 'SK 海力士 ADR 套利',
                 link: '/trading/questions/2026-07-14-sk-hynix-adr-arbitrage'
               },
               {
-                text: '美元流动性三个水桶',
-                link: '/trading/questions/2026-07-19-dollar-liquidity'
-              },
-              {
                 text: 'PE、EPS 与 PEG 估值',
                 link: '/trading/questions/2026-07-19-pe-eps-peg-valuation'
+              },
+              {
+                text: '美元流动性三个水桶',
+                link: '/trading/questions/2026-07-19-dollar-liquidity'
               },
               {
                 text: '正伽马与市场波动',
@@ -127,6 +119,14 @@ export default withMermaid(defineConfig({
               {
                 text: '斐波那契回撤与扩展',
                 link: '/trading/questions/2026-07-21-fibonacci-trading'
+              },
+              {
+                text: 'MACD 指标深入讲解',
+                link: '/trading/questions/2026-07-27-macd-indicator'
+              },
+              {
+                text: '波浪理论：来源、逻辑与实战',
+                link: '/trading/questions/2026-07-27-elliott-wave-theory'
               }
             ]
           },
@@ -386,24 +386,24 @@ export default withMermaid(defineConfig({
               collapsed: true,
               items: [
                 {
-                  text: 'CCI 指标科普',
-                  link: '/trading/questions/2026-07-08-cci-indicator'
-                },
-                {
                   text: '流动性与波动',
                   link: '/trading/questions/2026-07-03-es-liquidity-volume-volatility'
+                },
+                {
+                  text: 'CCI 指标科普',
+                  link: '/trading/questions/2026-07-08-cci-indicator'
                 },
                 {
                   text: 'SK 海力士 ADR 套利',
                   link: '/trading/questions/2026-07-14-sk-hynix-adr-arbitrage'
                 },
                 {
-                  text: '美元流动性三个水桶',
-                  link: '/trading/questions/2026-07-19-dollar-liquidity'
-                },
-                {
                   text: 'PE、EPS 与 PEG 估值',
                   link: '/trading/questions/2026-07-19-pe-eps-peg-valuation'
+                },
+                {
+                  text: '美元流动性三个水桶',
+                  link: '/trading/questions/2026-07-19-dollar-liquidity'
                 },
                 {
                   text: '正伽马与市场波动',
@@ -412,6 +412,14 @@ export default withMermaid(defineConfig({
                 {
                   text: '斐波那契回撤与扩展',
                   link: '/trading/questions/2026-07-21-fibonacci-trading'
+                },
+                {
+                  text: 'MACD 指标深入讲解',
+                  link: '/trading/questions/2026-07-27-macd-indicator'
+                },
+                {
+                  text: '波浪理论：来源、逻辑与实战',
+                  link: '/trading/questions/2026-07-27-elliott-wave-theory'
                 }
               ]
             },
