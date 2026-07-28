@@ -487,6 +487,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-07-28',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-07-28'
+                        },
+                        {
                           text: '2026-07-27',
                           link: '/trading/experts/xiaocui/trading-days/2026-07-27'
                         },
@@ -629,6 +633,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/xiaocui/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-07-28',
+                          link: '/trading/experts/bibabu-zuoshou/transcripts/2026-07-28'
+                        },
                         {
                           text: '2026-07-27',
                           link: '/trading/experts/xiaocui/transcripts/2026-07-27'
