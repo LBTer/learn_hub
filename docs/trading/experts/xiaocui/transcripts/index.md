@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-28：芯片去杠杆、康宁、NVIDIA、AI 监管与观众问答](/trading/experts/xiaocui/transcripts/2026-07-28)
 - [2026-07-27：美伊暂停攻击、资本支出、NVIDIA/OpenAI、长鑫科技与观众问答](/trading/experts/xiaocui/transcripts/2026-07-27)
 - [2026-07-24：美伊冲突、收益率与亚洲去杠杆、英特尔/AI、长鑫科技与观众问答](/trading/experts/xiaocui/transcripts/2026-07-24)
 - [2026-07-23：美伊红海冲突、Google/Tesla、OpenAI/DeepSeek 与观众问答](/trading/experts/xiaocui/transcripts/2026-07-23)
