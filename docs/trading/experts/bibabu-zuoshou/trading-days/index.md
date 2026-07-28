@@ -6,6 +6,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-28：科技负反馈与电力核心跌停，等待真正横盘止跌](/trading/experts/bibabu-zuoshou/trading-days/2026-07-28)
 - [2026-07-27：长鑫巨量不等于市场增量，电力主升与科技超跌并行](/trading/experts/bibabu-zuoshou/trading-days/2026-07-27)
 - [2026-07-26：缩量静默等长鑫落地，辨识度涨停确认修复](/trading/experts/bibabu-zuoshou/trading-days/2026-07-26)
 - [2026-07-23：电力高潮后吹哨，哈药替立新能源监管探路](/trading/experts/bibabu-zuoshou/trading-days/2026-07-23)
