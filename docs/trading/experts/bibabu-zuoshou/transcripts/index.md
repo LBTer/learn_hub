@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-29：跟涨不跟跌，回暖信号，重点为低位](/trading/experts/bibabu-zuoshou/transcripts/2026-07-29)
 - [2026-07-28：三倍做多家务，煎熬，等待真正的止跌](/trading/experts/bibabu-zuoshou/transcripts/2026-07-28)
 - [2026-07-27：长鑫创造历史，科技趋势和投机，如何抉择](/trading/experts/bibabu-zuoshou/transcripts/2026-07-27)
 - [2026-07-26：投机分歧，长鑫上市，预期如何](/trading/experts/bibabu-zuoshou/transcripts/2026-07-26)
