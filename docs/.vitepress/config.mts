@@ -1783,6 +1783,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-07-29 学生远离币圈与逢高做空',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-29-BV19B3y65EpT'
+                        },
+                        {
                           text: '2026-07-27 对冲切换与四根 K 线组合',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-27-BV1Jsgf64E4G'
                         },
@@ -1829,6 +1833,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-07-29 学生远离币圈与逢高做空',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-07-29-BV19B3y65EpT'
+                        },
                         {
                           text: '2026-07-27 对冲切换与四根 K 线组合',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-07-27-BV1Jsgf64E4G'
