@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-29：学生远离币圈、BTC/ETH 逢高做空与黄金对冲](/trading/experts/shuzi-kge/transcripts/2026-07-29-BV19B3y65EpT)
 - [2026-07-27：对冲切换、四根 K 线组合与 ETH 突破确认](/trading/experts/shuzi-kge/transcripts/2026-07-27-BV1Jsgf64E4G)
 - [2026-07-25：BTC 新的下跌结构、ETH 相对转弱与熊市末期剧本](/trading/experts/shuzi-kge/transcripts/2026-07-25-BV12h3u6AEcg)
 - [2026-07-24：BTC 弱反弹结构与最后一波下跌，ETH/BTC 率先转弱](/trading/experts/shuzi-kge/transcripts/2026-07-24-BV1Jegh62E68)
