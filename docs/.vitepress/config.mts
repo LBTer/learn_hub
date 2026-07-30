@@ -1594,6 +1594,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                       {
+                        text: '2026-07-30 指数重心下移与案例',
+                        link: '/trading/experts/yuanshuaima/daily-analysis/2026-07-30-BV18z3b6bEA6'
+                      },
+                      {
                         text: '2026-07-21 京东方A等科技股案例',
                         link: '/trading/experts/yuanshuaima/daily-analysis/2026-07-21-BV1eXKh6fEHS'
                       },
@@ -1696,6 +1700,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/yuanshuaima/transcripts/',
                       collapsed: true,
                       items: [
+                      {
+                        text: '2026-07-30 指数重心下移与案例',
+                        link: '/trading/experts/yuanshuaima/transcripts/2026-07-30-BV18z3b6bEA6'
+                      },
                       {
                         text: '2026-07-21 京东方A等科技股案例',
                         link: '/trading/experts/yuanshuaima/transcripts/2026-07-21-BV1eXKh6fEHS'
