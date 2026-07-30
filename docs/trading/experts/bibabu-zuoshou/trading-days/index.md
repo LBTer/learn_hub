@@ -6,6 +6,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-30：七次弱修复仍非底部，共振站稳五日线再出击](/trading/experts/bibabu-zuoshou/trading-days/2026-07-30)
 - [2026-07-29：跟涨不跟跌只算回暖第一步，站稳五日线再找低位](/trading/experts/bibabu-zuoshou/trading-days/2026-07-29)
 - [2026-07-28：科技负反馈与电力核心跌停，等待真正横盘止跌](/trading/experts/bibabu-zuoshou/trading-days/2026-07-28)
 - [2026-07-27：长鑫巨量不等于市场增量，电力主升与科技超跌并行](/trading/experts/bibabu-zuoshou/trading-days/2026-07-27)
