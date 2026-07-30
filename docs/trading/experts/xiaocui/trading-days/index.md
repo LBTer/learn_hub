@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-30：美联储、韩国去杠杆、微软与 Meta 财报、SpaceX 供应链](/trading/experts/xiaocui/trading-days/2026-07-30) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-30)
 - [2026-07-29：美伊海峡升级、韩股去杠杆、SK 海力士与机器人禁令](/trading/experts/xiaocui/trading-days/2026-07-29) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-29)
 - [2026-07-28：芯片去杠杆、康宁长期订单、NVIDIA 融资链与中国 AI 监管](/trading/experts/xiaocui/trading-days/2026-07-28) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-28)
 - [2026-07-27：美伊暂停攻击、联储与资本支出、NVIDIA 担保 OpenAI、长鑫科技](/trading/experts/xiaocui/trading-days/2026-07-27) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-27)
