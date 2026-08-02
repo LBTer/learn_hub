@@ -4,6 +4,7 @@
 
 ## 2026 年 7 月
 
+- [2026-07-31：欧盟主权 AI、韩国去杠杆、Amazon 云业务、苹果与 OpenAI/PLTR](/trading/experts/xiaocui/transcripts/2026-07-31)
 - [2026-07-30：美联储、韩国去杠杆、三星、微软/Meta、SpaceX 与观众问答](/trading/experts/xiaocui/transcripts/2026-07-30)
 - [2026-07-29：美伊海峡升级、韩股去杠杆、SK 海力士、AI 算力、机器人与观众问答](/trading/experts/xiaocui/transcripts/2026-07-29)
 - [2026-07-28：芯片去杠杆、康宁、NVIDIA、AI 监管与观众问答](/trading/experts/xiaocui/transcripts/2026-07-28)
