@@ -2,6 +2,10 @@
 
 按日期保存比巴卜作手每日复盘视频的可读时间轴。文字稿经过画面和上下文校正，但不等同于逐字字幕。
 
+## 2026 年 8 月
+
+- [2026-08-02：高开如何管住手，上车 AI 软件思路](/trading/experts/bibabu-zuoshou/transcripts/2026-08-02)
+
 ## 2026 年 7 月
 
 - [2026-07-30：抄底次数越多，账户亏得越多](/trading/experts/bibabu-zuoshou/transcripts/2026-07-30)
