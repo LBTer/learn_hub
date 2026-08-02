@@ -2,6 +2,10 @@
 
 按发布日期整理“小翠时政财经”会员视频。重点保留公司研究方法、行业教学、投资理念、未来判断和会员问答，并为明确预测记录触发条件与否证条件。
 
+## 2026 年 8 月
+
+- [2026-08-01：半导体去杠杆、美债收益率与长期持仓纪律](/trading/experts/xiaocui/member-sessions/2026-08-01-XMt0qKc0HQw) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-08-01-XMt0qKc0HQw)
+
 ## 2026 年 7 月
 
 - [2026-07-25：宏观回调、开放模型利益链与长期投资纪律](/trading/experts/xiaocui/member-sessions/2026-07-25-9zMmztD-AVE) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-07-25-9zMmztD-AVE)
