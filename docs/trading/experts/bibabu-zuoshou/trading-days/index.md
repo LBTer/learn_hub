@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 8 月
+
+- [2026-08-02：极端高开不追，AI 软件卡位硬件后再确认](/trading/experts/bibabu-zuoshou/trading-days/2026-08-02)
+
 ## 2026 年 7 月
 
 - [2026-07-30：七次弱修复仍非底部，共振站稳五日线再出击](/trading/experts/bibabu-zuoshou/trading-days/2026-07-30)
