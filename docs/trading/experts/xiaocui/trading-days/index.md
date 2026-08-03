@@ -4,6 +4,8 @@
 
 ## 2026 年 7 月
 
+- [2026-08-03：日美支撑日元、AI 监管、韩国杠杆、云巨头与长鑫存储](/trading/experts/xiaocui/trading-days/2026-08-03) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-03)
+
 - [2026-07-31：欧盟主权 AI、韩国去杠杆、Amazon 云业务、苹果与 OpenAI/PLTR](/trading/experts/xiaocui/trading-days/2026-07-31) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-31)
 - [2026-07-30：美联储、韩国去杠杆、微软与 Meta 财报、SpaceX 供应链](/trading/experts/xiaocui/trading-days/2026-07-30) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-30)
 - [2026-07-29：美伊海峡升级、韩股去杠杆、SK 海力士与机器人禁令](/trading/experts/xiaocui/trading-days/2026-07-29) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-07-29)
