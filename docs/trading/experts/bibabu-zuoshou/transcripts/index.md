@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-04：指数确认企稳，8 月猛干思路](/trading/experts/bibabu-zuoshou/transcripts/2026-08-04)
 - [2026-08-03：风火轮市场，等待选择方向](/trading/experts/bibabu-zuoshou/transcripts/2026-08-03)
 - [2026-08-02：高开如何管住手，上车 AI 软件思路](/trading/experts/bibabu-zuoshou/transcripts/2026-08-02)
 
