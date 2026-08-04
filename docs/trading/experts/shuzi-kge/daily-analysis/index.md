@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 8 月
+
+- [2026-08-04：BTC 等回踩确认，SNDK 高波动通道与黄金偏空](/trading/experts/shuzi-kge/daily-analysis/2026-08-04-BV1Zvuw6bERg)
+
 ## 2026 年 7 月
 
 - [2026-07-29：学生远离币圈、BTC/ETH 逢高做空与黄金对冲](/trading/experts/shuzi-kge/daily-analysis/2026-07-29-BV19B3y65EpT)

@@ -1879,6 +1879,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-04 BTC 等回踩与 SNDK 通道',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-04-BV1Zvuw6bERg'
+                        },
+                        {
                           text: '2026-07-29 学生远离币圈与逢高做空',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-07-29-BV19B3y65EpT'
                         },
@@ -1929,6 +1933,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-04 BTC 等回踩与 SNDK 通道',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-08-04-BV1Zvuw6bERg'
+                        },
                         {
                           text: '2026-07-29 学生远离币圈与逢高做空',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-07-29-BV19B3y65EpT'
