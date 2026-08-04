@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-04：美伊谈判、光模块去中国化、PLTR 财报与中国出境限制](/trading/experts/xiaocui/transcripts/2026-08-04)
 - [2026-08-03：日美支撑日元、AI 监管、韩国杠杆、云巨头与长鑫存储](/trading/experts/xiaocui/transcripts/2026-08-03)
 
 ## 2026 年 7 月
