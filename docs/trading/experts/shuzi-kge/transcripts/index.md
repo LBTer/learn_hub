@@ -2,6 +2,10 @@
 
 按日期保存数字K哥公开视频的整理文字稿。文字稿来自 B 站字幕或本地转写后的人工整理，不等同于逐字稿。
 
+## 2026 年 8 月
+
+- [2026-08-04：BTC 等回踩确认，SNDK 高波动通道与黄金偏空](/trading/experts/shuzi-kge/transcripts/2026-08-04-BV1Zvuw6bERg)
+
 ## 2026 年 7 月
 
 - [2026-07-29：学生远离币圈、BTC/ETH 逢高做空与黄金对冲](/trading/experts/shuzi-kge/transcripts/2026-07-29-BV19B3y65EpT)
