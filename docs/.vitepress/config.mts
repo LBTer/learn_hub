@@ -487,6 +487,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-05',
+                          link: '/trading/experts/xiaocui/trading-days/2026-08-05'
+                        },
+                        {
                           text: '2026-08-04',
                           link: '/trading/experts/xiaocui/trading-days/2026-08-04'
                         },
@@ -653,6 +657,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/xiaocui/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-05',
+                          link: '/trading/experts/xiaocui/transcripts/2026-08-05'
+                        },
                         {
                           text: '2026-08-04',
                           link: '/trading/experts/xiaocui/transcripts/2026-08-04'
@@ -918,6 +926,10 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/rhino-finance/market-reviews/2026-08-05'
                         },
                         {
+                          text: '2026-08-04',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-08-04'
+                        },
+                        {
                           text: '2026-08-01',
                           link: '/trading/experts/rhino-finance/market-reviews/2026-08-01'
                         },
@@ -1003,6 +1015,10 @@ export default withMermaid(defineConfig({
                         {
                           text: '2026-08-05',
                           link: '/trading/experts/rhino-finance/transcripts/2026-08-05'
+                        },
+                        {
+                          text: '2026-08-04',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-08-04'
                         },
                         {
                           text: '2026-08-01',
