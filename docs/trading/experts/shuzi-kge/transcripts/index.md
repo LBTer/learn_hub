@@ -5,6 +5,7 @@
 ## 2026 年 8 月
 
 - [2026-08-04：BTC 等回踩确认，SNDK 高波动通道与黄金偏空](/trading/experts/shuzi-kge/transcripts/2026-08-04-BV1Zvuw6bERg)
+- [2026-08-03：BTC 最后一跌、W-X-Y-X-Z 浪形与 ETH 多重顶风险](/trading/experts/shuzi-kge/transcripts/2026-08-03-BV1geMQ6nEz7)
 
 ## 2026 年 7 月
 
