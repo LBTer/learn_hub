@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-05：底部有效确认，节点二板共振后防次日分歧](/trading/experts/bibabu-zuoshou/trading-days/2026-08-05)
 - [2026-08-04：指数确认企稳，全市场共振后转向积极](/trading/experts/bibabu-zuoshou/trading-days/2026-08-04)
 - [2026-08-03：指数背离等待选择，核电高潮后只做轮动](/trading/experts/bibabu-zuoshou/trading-days/2026-08-03)
 - [2026-08-02：极端高开不追，AI 软件卡位硬件后再确认](/trading/experts/bibabu-zuoshou/trading-days/2026-08-02)
