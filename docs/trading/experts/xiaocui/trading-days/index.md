@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-06：加息鬼故事、存储财报、软件 AI 投入与中国网络安全反制](/trading/experts/xiaocui/trading-days/2026-08-06) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-06)
 - [2026-08-05：霍尔木兹临时安排、美国 K 型消费、AMD/SpaceX/Uber 财报与中国反制](/trading/experts/xiaocui/trading-days/2026-08-05) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-05)
 - [2026-08-04：美伊谈判、光模块去中国化、PLTR 财报与中国出境限制](/trading/experts/xiaocui/trading-days/2026-08-04) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-04)
 - [2026-08-03：日美支撑日元、AI 监管、韩国杠杆、云巨头与长鑫存储](/trading/experts/xiaocui/trading-days/2026-08-03) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-03)
