@@ -1927,6 +1927,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-06 BTC 调整与第三段计划',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-06-BV1zru766Eky'
+                        },
+                        {
                           text: '2026-08-04 BTC 等回踩与 SNDK 通道',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-04-BV1Zvuw6bERg'
                         },
@@ -1985,6 +1989,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-06 BTC 调整与第三段计划',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-08-06-BV1zru766Eky'
+                        },
                         {
                           text: '2026-08-04 BTC 等回踩与 SNDK 通道',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-08-04-BV1Zvuw6bERg'
