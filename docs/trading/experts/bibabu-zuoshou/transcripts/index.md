@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-06：良性分化，明天非常关键，市场何去何从](/trading/experts/bibabu-zuoshou/transcripts/2026-08-06)
 - [2026-08-05：底部有效确认，猛干时间窗口，干到亏钱为止](/trading/experts/bibabu-zuoshou/transcripts/2026-08-05)
 - [2026-08-04：指数确认企稳，8 月猛干思路](/trading/experts/bibabu-zuoshou/transcripts/2026-08-04)
 - [2026-08-03：风火轮市场，等待选择方向](/trading/experts/bibabu-zuoshou/transcripts/2026-08-03)
