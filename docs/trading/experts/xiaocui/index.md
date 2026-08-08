@@ -57,6 +57,8 @@
 
 ## 最新会员视频
 
+- [2026-08-08 会员专题](/trading/experts/xiaocui/member-sessions/2026-08-08-5FV5U8pJkH4)
+- [2026-08-08 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-08-08-5FV5U8pJkH4)
 - [2026-08-01 会员专题](/trading/experts/xiaocui/member-sessions/2026-08-01-XMt0qKc0HQw)
 - [2026-08-01 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-08-01-XMt0qKc0HQw)
 - [2026-07-25 会员专题](/trading/experts/xiaocui/member-sessions/2026-07-25-9zMmztD-AVE)
