@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-09：节点票批量反包确认，PCB 主线与医药支线分层](/trading/experts/bibabu-zuoshou/trading-days/2026-08-09)
 - [2026-08-06：良性分化未决，等真正大分歧筛出扛跌方向](/trading/experts/bibabu-zuoshou/trading-days/2026-08-06)
 - [2026-08-05：底部有效确认，节点二板共振后防次日分歧](/trading/experts/bibabu-zuoshou/trading-days/2026-08-05)
 - [2026-08-04：指数确认企稳，全市场共振后转向积极](/trading/experts/bibabu-zuoshou/trading-days/2026-08-04)
