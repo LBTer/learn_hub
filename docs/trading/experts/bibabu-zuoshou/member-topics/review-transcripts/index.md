@@ -12,3 +12,7 @@
 - [2026-06-22：为何不能高潮追高，周一预期](/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-22-BV1HT7F6JEXL)
 - [2026-06-16：主升开始，明日策略](/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-16-BV1StjG68ExA)
 - [2026-06-14：如何做T和下周预期](/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-14-BV1r9JA6aENR)
+
+## 2025 年 5 月
+
+- [2025-05-05：周期节点的应用及51消息梳理](/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2025-05-05-BV1C6VzzvEgf)
