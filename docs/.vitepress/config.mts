@@ -1535,6 +1535,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '2026-06-14',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-06-14-BV1r9JA6aENR'
+                            },
+                            {
+                              text: '2025-05-05',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/2025-05-05-BV1C6VzzvEgf'
                             }
                           ]
                         },
@@ -1562,6 +1566,10 @@ export default withMermaid(defineConfig({
                             {
                               text: '2026-06-14',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-06-14-BV1r9JA6aENR'
+                            },
+                            {
+                              text: '2025-05-05',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2025-05-05-BV1C6VzzvEgf'
                             }
                           ]
                         },
