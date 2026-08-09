@@ -1,0 +1,4 @@
+interface:
+  display_name: "袁帅马视频分析"
+  short_description: "分析袁帅马普通公开视频、充电会员趋势案例、体系课程和问答内容"
+  default_prompt: "使用 $analyze-yuanshuaima 分析袁帅马视频，先识别普通内容或会员趋势案例、体系课程、复盘与问答，再生成对应文字稿、分析笔记、关键截图和方法沉淀。"
