@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 8 月
+
+- [2026-08-09：反弹幅度较大的板块和个股](/trading/experts/yuanshuaima/daily-analysis/2026-08-09-BV1ytuS6zErn)
+
 ## 2026 年 7 月
 
 - [2026-07-30：指数重心下移与个股案例讲解](/trading/experts/yuanshuaima/daily-analysis/2026-07-30-BV18z3b6bEA6)

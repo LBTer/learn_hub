@@ -1754,6 +1754,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                       {
+                        text: '2026-08-09 反弹幅度较大的板块和个股',
+                        link: '/trading/experts/yuanshuaima/daily-analysis/2026-08-09-BV1ytuS6zErn'
+                      },
+                      {
                         text: '2026-07-30 指数重心下移与案例',
                         link: '/trading/experts/yuanshuaima/daily-analysis/2026-07-30-BV18z3b6bEA6'
                       },
@@ -1860,6 +1864,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/yuanshuaima/transcripts/',
                       collapsed: true,
                       items: [
+                      {
+                        text: '2026-08-09 反弹幅度较大的板块和个股',
+                        link: '/trading/experts/yuanshuaima/transcripts/2026-08-09-BV1ytuS6zErn'
+                      },
                       {
                         text: '2026-07-30 指数重心下移与案例',
                         link: '/trading/experts/yuanshuaima/transcripts/2026-07-30-BV18z3b6bEA6'
