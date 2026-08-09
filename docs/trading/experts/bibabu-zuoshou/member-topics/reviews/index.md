@@ -17,4 +17,4 @@
 
 ## 2025 年 5 月
 
-- [2025-05-05：周期节点的应用及51消息梳理](/trading/experts/bibabu-zuoshou/member-topics/reviews/2025-05-05-BV1C6VzzvEgf)
+- [2025-05-05：周期节点的应用（课程型复盘）](/trading/experts/bibabu-zuoshou/member-topics/reviews/2025-05-05-BV1C6VzzvEgf)
