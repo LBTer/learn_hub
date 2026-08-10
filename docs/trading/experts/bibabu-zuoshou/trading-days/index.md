@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-10：战略继续进攻，PCB 与医药分歧卡位选强](/trading/experts/bibabu-zuoshou/trading-days/2026-08-10)
 - [2026-08-09：节点票批量反包确认，PCB 主线与医药支线分层](/trading/experts/bibabu-zuoshou/trading-days/2026-08-09)
 - [2026-08-06：良性分化未决，等真正大分歧筛出扛跌方向](/trading/experts/bibabu-zuoshou/trading-days/2026-08-06)
 - [2026-08-05：底部有效确认，节点二板共振后防次日分歧](/trading/experts/bibabu-zuoshou/trading-days/2026-08-05)
