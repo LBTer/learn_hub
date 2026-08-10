@@ -6,6 +6,8 @@
 
 ## 2026 年 8 月
 
+- [2026-08-10：指数不共振与孚日股份案例](/trading/experts/yuanshuaima/daily-analysis/2026-08-10-BV1pMuZ6xEPY)
+- [2026-08-10：孚日股份主力操盘案例](/trading/experts/yuanshuaima/daily-analysis/2026-08-10-BV1ywuZ6tETx)
 - [2026-08-09：反弹幅度较大的板块和个股](/trading/experts/yuanshuaima/daily-analysis/2026-08-09-BV1ytuS6zErn)
 
 ## 2026 年 7 月
