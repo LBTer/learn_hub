@@ -1754,6 +1754,14 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                       {
+                        text: '2026-08-10 指数不共振与案例',
+                        link: '/trading/experts/yuanshuaima/daily-analysis/2026-08-10-BV1pMuZ6xEPY'
+                      },
+                      {
+                        text: '2026-08-10 孚日股份',
+                        link: '/trading/experts/yuanshuaima/daily-analysis/2026-08-10-BV1ywuZ6tETx'
+                      },
+                      {
                         text: '2026-08-09 反弹幅度较大的板块和个股',
                         link: '/trading/experts/yuanshuaima/daily-analysis/2026-08-09-BV1ytuS6zErn'
                       },
@@ -1864,6 +1872,14 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/yuanshuaima/transcripts/',
                       collapsed: true,
                       items: [
+                      {
+                        text: '2026-08-10 指数不共振与案例',
+                        link: '/trading/experts/yuanshuaima/transcripts/2026-08-10-BV1pMuZ6xEPY'
+                      },
+                      {
+                        text: '2026-08-10 孚日股份',
+                        link: '/trading/experts/yuanshuaima/transcripts/2026-08-10-BV1ywuZ6tETx'
+                      },
                       {
                         text: '2026-08-09 反弹幅度较大的板块和个股',
                         link: '/trading/experts/yuanshuaima/transcripts/2026-08-09-BV1ytuS6zErn'
