@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-10：美伊僵局、非对称缩表、韩国 AI 押注、巴菲特与 LOF 清退](/trading/experts/xiaocui/transcripts/2026-08-10)
 - [2026-08-07：霍尔木兹与关键矿产、AI 资本开支、存储扩产、SpaceX Terrafab、Meta 与中国模型](/trading/experts/xiaocui/transcripts/2026-08-07)
 - [2026-08-06：加息鬼故事、存储财报、软件 AI 投入与中国网络安全反制](/trading/experts/xiaocui/transcripts/2026-08-06)
 - [2026-08-05：霍尔木兹临时安排、美国 K 型消费、AMD/SpaceX/Uber 财报与中国反制](/trading/experts/xiaocui/transcripts/2026-08-05)
