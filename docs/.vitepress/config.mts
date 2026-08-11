@@ -962,6 +962,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-11',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-08-11'
+                        },
+                        {
                           text: '2026-08-08',
                           link: '/trading/experts/rhino-finance/market-reviews/2026-08-08'
                         },
@@ -1056,6 +1060,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-11',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-08-11'
+                        },
                         {
                           text: '2026-08-08',
                           link: '/trading/experts/rhino-finance/transcripts/2026-08-08'
@@ -2031,6 +2039,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-11 BTC 三角第四段与最后一跌',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-11-BV1fGuv6WERF'
+                        },
+                        {
                           text: '2026-08-06 BTC 调整与第三段计划',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-06-BV1zru766Eky'
                         },
@@ -2093,6 +2105,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-11 BTC 三角第四段与最后一跌',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-08-11-BV1fGuv6WERF'
+                        },
                         {
                           text: '2026-08-06 BTC 调整与第三段计划',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-08-06-BV1zru766Eky'
