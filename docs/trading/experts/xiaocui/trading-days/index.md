@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-11：NVIDIA 算力融资、数据中心金融化与远程训练管制](/trading/experts/xiaocui/trading-days/2026-08-11) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-11)
 - [2026-08-10：美伊僵局、非对称缩表、韩国 AI 押注、巴菲特与 LOF 清退](/trading/experts/xiaocui/trading-days/2026-08-10) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-10)
 - [2026-08-07：霍尔木兹与关键矿产、AI 资本开支、存储扩产、SpaceX Terrafab、Meta 与中国模型](/trading/experts/xiaocui/trading-days/2026-08-07) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-07)
 - [2026-08-06：加息鬼故事、存储财报、软件 AI 投入与中国网络安全反制](/trading/experts/xiaocui/trading-days/2026-08-06) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-06)
