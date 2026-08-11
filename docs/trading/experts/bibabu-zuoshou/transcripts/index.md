@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-11：震荡分化，等待市场选择方向，操盘思路介绍](/trading/experts/bibabu-zuoshou/transcripts/2026-08-11)
 - [2026-08-10：继续进攻，不要主观猜顶，分歧选强](/trading/experts/bibabu-zuoshou/transcripts/2026-08-10)
 - [2026-08-09：节点思路印证，后续重点看PCB和医药](/trading/experts/bibabu-zuoshou/transcripts/2026-08-09)
 - [2026-08-06：良性分化，明天非常关键，市场何去何从](/trading/experts/bibabu-zuoshou/transcripts/2026-08-06)
