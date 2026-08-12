@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-12：核心抱团行情，五日线不破继续做到亏钱为止](/trading/experts/bibabu-zuoshou/trading-days/2026-08-12)
 - [2026-08-11：五日线二次选择，三套剧本等待盘中确认](/trading/experts/bibabu-zuoshou/trading-days/2026-08-11)
 - [2026-08-10：战略继续进攻，PCB 与医药分歧卡位选强](/trading/experts/bibabu-zuoshou/trading-days/2026-08-10)
 - [2026-08-09：节点票批量反包确认，PCB 主线与医药支线分层](/trading/experts/bibabu-zuoshou/trading-days/2026-08-09)
