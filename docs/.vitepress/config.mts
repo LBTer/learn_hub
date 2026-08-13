@@ -488,7 +488,7 @@ export default withMermaid(defineConfig({
                       items: [
                         {
                           text: '2026-08-13',
-                          link: '/trading/experts/rhino-finance/market-reviews/2026-08-13'
+                          link: '/trading/experts/xiaocui/trading-days/2026-08-13'
                         },
                         {
                           text: '2026-08-12',
@@ -683,7 +683,7 @@ export default withMermaid(defineConfig({
                       items: [
                         {
                           text: '2026-08-13',
-                          link: '/trading/experts/rhino-finance/transcripts/2026-08-13'
+                          link: '/trading/experts/xiaocui/transcripts/2026-08-13'
                         },
                         {
                           text: '2026-08-12',
@@ -978,6 +978,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-13',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-08-13'
+                        },
+                        {
                           text: '2026-08-12',
                           link: '/trading/experts/rhino-finance/market-reviews/2026-08-12'
                         },
@@ -1080,6 +1084,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-13',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-08-13'
+                        },
                         {
                           text: '2026-08-12',
                           link: '/trading/experts/rhino-finance/transcripts/2026-08-12'
