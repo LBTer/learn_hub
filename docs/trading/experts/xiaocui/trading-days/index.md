@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-14：伊朗经济孤立、PPI、存储周期、软件反弹与中国内需](/trading/experts/xiaocui/trading-days/2026-08-14) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-14)
 - [2026-08-13：红海、CPI/PPI、AI 基础设施、Anthropic IPO 与中国就业](/trading/experts/xiaocui/trading-days/2026-08-13) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-13)
 - [2026-08-12：红海航运、资本利得税、AI 就业、NVIDIA 算力与朱镕基改革评价](/trading/experts/xiaocui/trading-days/2026-08-12) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-12)
 - [2026-08-11：NVIDIA 算力融资、数据中心金融化与远程训练管制](/trading/experts/xiaocui/trading-days/2026-08-11) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-11)
