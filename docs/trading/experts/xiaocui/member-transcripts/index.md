@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-15：Uber 车队资产化、Ackman 与 Burry、左侧现金纪律](/trading/experts/xiaocui/member-transcripts/2026-08-15-0vgFdvHUqgk)
 - [2026-08-08：云巨头远期估值、左侧抄底与现金纪律](/trading/experts/xiaocui/member-transcripts/2026-08-08-5FV5U8pJkH4)
 - [2026-08-01：半导体去杠杆、美债收益率与长期持仓纪律](/trading/experts/xiaocui/member-transcripts/2026-08-01-XMt0qKc0HQw)
 
