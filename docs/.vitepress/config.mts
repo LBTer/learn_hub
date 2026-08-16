@@ -487,10 +487,6 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
-                          text: '2026-08-15',
-                          link: '/trading/experts/rhino-finance/market-reviews/2026-08-15'
-                        },
-                        {
                           text: '2026-08-14',
                           link: '/trading/experts/xiaocui/trading-days/2026-08-14'
                         },
@@ -689,10 +685,6 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/xiaocui/transcripts/',
                       collapsed: true,
                       items: [
-                        {
-                          text: '2026-08-15',
-                          link: '/trading/experts/rhino-finance/transcripts/2026-08-15'
-                        },
                         {
                           text: '2026-08-14',
                           link: '/trading/experts/xiaocui/transcripts/2026-08-14'
@@ -1002,6 +994,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-15',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-08-15'
+                        },
+                        {
                           text: '2026-08-14',
                           link: '/trading/experts/rhino-finance/market-reviews/2026-08-14'
                         },
@@ -1112,6 +1108,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-15',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-08-15'
+                        },
                         {
                           text: '2026-08-14',
                           link: '/trading/experts/rhino-finance/transcripts/2026-08-14'
