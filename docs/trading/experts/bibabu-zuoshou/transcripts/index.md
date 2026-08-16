@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-16：短线分歧，下周重点，龙头能否带队二波](/trading/experts/bibabu-zuoshou/transcripts/2026-08-16)
 - [2026-08-13：退潮吹哨信号，反弹周期末尾，小心回撤](/trading/experts/bibabu-zuoshou/transcripts/2026-08-13)
 - [2026-08-12：到底干还是不干，观点不变，继续做到亏钱为止](/trading/experts/bibabu-zuoshou/transcripts/2026-08-12)
 - [2026-08-11：震荡分化，等待市场选择方向，操盘思路介绍](/trading/experts/bibabu-zuoshou/transcripts/2026-08-11)
