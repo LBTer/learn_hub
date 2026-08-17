@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-17：BTC 月线收线分支与 ETH All-in 长周期逻辑](/trading/experts/shuzi-kge/transcripts/2026-08-17-BV1jSb86pEk5)
 - [2026-08-11：BTC 三角第四段与最后一跌，ETH 相对转弱](/trading/experts/shuzi-kge/transcripts/2026-08-11-BV1fGuv6WERF)
 - [2026-08-06：BTC 调整仍未完成，ETH 现货与第三段调整计划](/trading/experts/shuzi-kge/transcripts/2026-08-06-BV1zru766Eky)
 - [2026-08-04：BTC 等回踩确认，SNDK 高波动通道与黄金偏空](/trading/experts/shuzi-kge/transcripts/2026-08-04-BV1Zvuw6bERg)
