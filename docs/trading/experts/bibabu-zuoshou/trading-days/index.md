@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-17：指数突破共振赚钱效应，科技医药高潮后选强](/trading/experts/bibabu-zuoshou/trading-days/2026-08-17)
 - [2026-08-16：跌停扩张压低容错，百花宝鼎验证二波](/trading/experts/bibabu-zuoshou/trading-days/2026-08-16)
 - [2026-08-13：退潮先吹哨再确认，踩着刹车转向低位](/trading/experts/bibabu-zuoshou/trading-days/2026-08-13)
 - [2026-08-12：核心抱团行情，五日线不破继续做到亏钱为止](/trading/experts/bibabu-zuoshou/trading-days/2026-08-12)
