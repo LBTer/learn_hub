@@ -2155,6 +2155,10 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-17-BV1jSb86pEk5'
                         },
                         {
+                          text: '2026-08-17 BTC 55,000 防线与终结楔形',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-17-BV1oSb86HEc7'
+                        },
+                        {
                           text: '2026-08-11 BTC 三角第四段与最后一跌',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-11-BV1fGuv6WERF'
                         },
@@ -2224,6 +2228,10 @@ export default withMermaid(defineConfig({
                         {
                           text: '2026-08-17 BTC 月线分支与 ETH All-in',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-08-17-BV1jSb86pEk5'
+                        },
+                        {
+                          text: '2026-08-17 BTC 55,000 防线与终结楔形',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-08-17-BV1oSb86HEc7'
                         },
                         {
                           text: '2026-08-11 BTC 三角第四段与最后一跌',
