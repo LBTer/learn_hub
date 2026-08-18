@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-18：BTC 条件树、ETH 三角突破与趋势波段复盘](/trading/experts/shuzi-kge/daily-analysis/2026-08-18-BV1P9b668EGR)
 - [2026-08-17：BTC 月线收线分支与 ETH All-in 长周期逻辑](/trading/experts/shuzi-kge/daily-analysis/2026-08-17-BV1jSb86pEk5)
 - [2026-08-17：BTC 55,000 防线、终结楔形与 88,000—94,000 目标](/trading/experts/shuzi-kge/daily-analysis/2026-08-17-BV1oSb86HEc7)
 - [2026-08-11：BTC 三角第四段与最后一跌，ETH 相对转弱](/trading/experts/shuzi-kge/daily-analysis/2026-08-11-BV1fGuv6WERF)
