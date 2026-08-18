@@ -1002,6 +1002,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-18',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-08-18'
+                        },
+                        {
                           text: '2026-08-15',
                           link: '/trading/experts/rhino-finance/market-reviews/2026-08-15'
                         },
@@ -1116,6 +1120,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-18',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-08-18'
+                        },
                         {
                           text: '2026-08-15',
                           link: '/trading/experts/rhino-finance/transcripts/2026-08-15'
@@ -2151,6 +2159,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-18 BTC 条件树与 ETH 三角突破',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-18-BV1P9b668EGR'
+                        },
+                        {
                           text: '2026-08-17 BTC 月线分支与 ETH All-in',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-17-BV1jSb86pEk5'
                         },
@@ -2225,6 +2237,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-18 BTC 条件树与 ETH 三角突破',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-08-18-BV1P9b668EGR'
+                        },
                         {
                           text: '2026-08-17 BTC 月线分支与 ETH All-in',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-08-17-BV1jSb86pEk5'
