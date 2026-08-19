@@ -2191,6 +2191,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-19 SNDK 空头共振与 BTC 等调整',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-19-BV16W8j6dEaF'
+                        },
+                        {
                           text: '2026-08-18 BTC 条件树与 ETH 三角突破',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-18-BV1P9b668EGR'
                         },
@@ -2269,6 +2273,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-19 SNDK 空头共振与 BTC 等调整',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-08-19-BV16W8j6dEaF'
+                        },
                         {
                           text: '2026-08-18 BTC 条件树与 ETH 三角突破',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-08-18-BV1P9b668EGR'

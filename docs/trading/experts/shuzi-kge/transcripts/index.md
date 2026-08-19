@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-19：SNDK 空头共振、BTC 等调整与 ETH 无量止盈](/trading/experts/shuzi-kge/transcripts/2026-08-19-BV16W8j6dEaF)
 - [2026-08-18：BTC 条件树、ETH 三角突破与趋势波段复盘](/trading/experts/shuzi-kge/transcripts/2026-08-18-BV1P9b668EGR)
 - [2026-08-17：BTC 月线收线分支与 ETH All-in 长周期逻辑](/trading/experts/shuzi-kge/transcripts/2026-08-17-BV1jSb86pEk5)
 - [2026-08-17：BTC 55,000 防线、终结楔形与 88,000—94,000 目标](/trading/experts/shuzi-kge/transcripts/2026-08-17-BV1oSb86HEc7)
