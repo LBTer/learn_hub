@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-19：大A发套了，百点长阴，杂毛市场](/trading/experts/bibabu-zuoshou/transcripts/2026-08-19)
 - [2026-08-18：流动性切换，情绪无忧，载体变了](/trading/experts/bibabu-zuoshou/transcripts/2026-08-18)
 - [2026-08-17：成功选择方向，干就完事，科技趋势和医药](/trading/experts/bibabu-zuoshou/transcripts/2026-08-17)
 - [2026-08-16：短线分歧，下周重点，龙头能否带队二波](/trading/experts/bibabu-zuoshou/transcripts/2026-08-16)
