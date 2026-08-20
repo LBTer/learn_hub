@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-20：美债预期管理、流动性紧缩与 BTC 57,000 底部判断](/trading/experts/shuzi-kge/daily-analysis/2026-08-20-BV1YQ8F6YEKX)
 - [2026-08-19：SNDK 空头共振、BTC 等调整与 ETH 无量止盈](/trading/experts/shuzi-kge/daily-analysis/2026-08-19-BV16W8j6dEaF)
 - [2026-08-18：BTC 条件树、ETH 三角突破与趋势波段复盘](/trading/experts/shuzi-kge/daily-analysis/2026-08-18-BV1P9b668EGR)
 - [2026-08-17：BTC 月线收线分支与 ETH All-in 长周期逻辑](/trading/experts/shuzi-kge/daily-analysis/2026-08-17-BV1jSb86pEk5)

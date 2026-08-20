@@ -2207,6 +2207,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-20 美债预期与 BTC 底部判断',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-20-BV1YQ8F6YEKX'
+                        },
+                        {
                           text: '2026-08-19 SNDK 空头共振与 BTC 等调整',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-19-BV16W8j6dEaF'
                         },
@@ -2289,6 +2293,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-20 美债预期与 BTC 底部判断',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-08-20-BV1YQ8F6YEKX'
+                        },
                         {
                           text: '2026-08-19 SNDK 空头共振与 BTC 等调整',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-08-19-BV16W8j6dEaF'
