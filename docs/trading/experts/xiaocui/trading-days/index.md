@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-20：美债回购、AI 财政链、Walmart、个性化癌症疗法与 Marvell/Google](/trading/experts/xiaocui/trading-days/2026-08-20) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-20)
 - [2026-08-19：美债拍卖、韩国半导体、Anthropic 治理、苹果收费与杭州酒局](/trading/experts/xiaocui/trading-days/2026-08-19) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-19)
 - [2026-08-18：美债收益率、韩国杠杆、台湾 GDP、NVIDIA 算力与港卡审查](/trading/experts/xiaocui/trading-days/2026-08-18) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-18)
 - [2026-08-17：中美 AI 阵营、美国消费、中期选举、NVIDIA 算力与中国经济](/trading/experts/xiaocui/trading-days/2026-08-17) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-17)
