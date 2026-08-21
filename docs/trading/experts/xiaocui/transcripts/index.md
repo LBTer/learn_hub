@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-21：伊朗制裁、美债工具箱、AI 融资、Codex、贷款贴息与外资公募退出](/trading/experts/xiaocui/transcripts/2026-08-21)
 - [2026-08-20：伊朗、美债回购、比特币与黄金、AI 医药、Marvell/Google 与上海楼市](/trading/experts/xiaocui/transcripts/2026-08-20)
 - [2026-08-19：美债拍卖、韩国半导体、Anthropic 治理、苹果收费与杭州酒局](/trading/experts/xiaocui/transcripts/2026-08-19)
 - [2026-08-18：美债收益率、韩国杠杆、台湾 GDP、NVIDIA 算力与港卡审查](/trading/experts/xiaocui/transcripts/2026-08-18)
