@@ -1883,8 +1883,12 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/16-institutional-trend-three-day-profit'
                             },
                             {
-                              text: '第 17 课：分歧、回流与一致的交易节奏',
+                              text: '第 17 课（上）：分歧回流定义及板块运行节奏',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/17-divergence-return-rhythm'
+                            },
+                            {
+                              text: '第 17 课（下）：分歧与一致详解及实战思路',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/17-part-2-divergence-consensus'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',
@@ -1966,8 +1970,12 @@ export default withMermaid(defineConfig({
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/16-institutional-trend-three-day-profit'
                             },
                             {
-                              text: '第 17 课：分歧、回流与一致的交易节奏',
+                              text: '第 17 课（上）：分歧回流定义及板块运行节奏',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/17-divergence-return-rhythm'
+                            },
+                            {
+                              text: '第 17 课（下）：分歧与一致详解及实战思路',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/17-part-2-divergence-consensus'
                             },
                             {
                               text: '旁支专题：老庄趋势战法',
