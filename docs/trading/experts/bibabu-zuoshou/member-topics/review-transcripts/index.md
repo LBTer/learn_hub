@@ -2,6 +2,10 @@
 
 按期保存比巴卜作手充电会员复盘视频的可读时间轴。文字稿以字幕、音频和画面为依据整理，不等同于逐字稿。
 
+## 2026 年 8 月
+
+- [2026-08-23：8.23 直播回放，周五复盘及充电答疑](/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-08-23-BV1wE8t6fE7g)
+
 ## 2026 年 7 月
 
 - [2026-07-19：牛熊观点，后续市场思路](/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-07-19-BV1f7Kr6YEjr)
