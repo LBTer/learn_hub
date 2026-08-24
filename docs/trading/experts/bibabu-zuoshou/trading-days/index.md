@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-24：缩量割裂叠加弱回流，混沌偏退潮先休息](/trading/experts/bibabu-zuoshou/trading-days/2026-08-24)
 - [2026-08-19：百点长阴叠加监管退潮，冰点弱修复只用于卖出](/trading/experts/bibabu-zuoshou/trading-days/2026-08-19)
 - [2026-08-18：情绪未退潮，流动性从高位切向低位农业](/trading/experts/bibabu-zuoshou/trading-days/2026-08-18)
 - [2026-08-17：指数突破共振赚钱效应，科技医药高潮后选强](/trading/experts/bibabu-zuoshou/trading-days/2026-08-17)
