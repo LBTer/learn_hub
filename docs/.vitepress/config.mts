@@ -141,6 +141,10 @@ export default withMermaid(defineConfig({
                 link: '/trading/video-analysis/reviews/',
                 items: [
                   {
+                    text: '2026-08-10 哈药、爱丽、云锗、有研、高争',
+                    link: '/trading/video-analysis/reviews/2026-08-10-BV1jWuU6WEJZ'
+                  },
+                  {
                     text: '2026-06-26 小资金如何做大',
                     link: '/trading/video-analysis/reviews/2026-06-26-BV1E8jR6FEtT'
                   },
@@ -154,6 +158,10 @@ export default withMermaid(defineConfig({
                 text: '视频文字稿',
                 link: '/trading/video-analysis/transcripts/',
                 items: [
+                  {
+                    text: '2026-08-10 哈药、爱丽、云锗、有研、高争',
+                    link: '/trading/video-analysis/transcripts/2026-08-10-BV1jWuU6WEJZ'
+                  },
                   {
                     text: '2026-06-26 小资金如何做大',
                     link: '/trading/video-analysis/transcripts/2026-06-26-BV1E8jR6FEtT'
@@ -440,6 +448,10 @@ export default withMermaid(defineConfig({
                   collapsed: true,
                   items: [
                     {
+                      text: '2026-08-10 哈药、爱丽、云锗、有研、高争',
+                      link: '/trading/video-analysis/reviews/2026-08-10-BV1jWuU6WEJZ'
+                    },
+                    {
                       text: '2026-06-26 小资金如何做大',
                       link: '/trading/video-analysis/reviews/2026-06-26-BV1E8jR6FEtT'
                     },
@@ -454,6 +466,10 @@ export default withMermaid(defineConfig({
                   link: '/trading/video-analysis/transcripts/',
                   collapsed: true,
                   items: [
+                    {
+                      text: '2026-08-10 哈药、爱丽、云锗、有研、高争',
+                      link: '/trading/video-analysis/transcripts/2026-08-10-BV1jWuU6WEJZ'
+                    },
                     {
                       text: '2026-06-26 小资金如何做大',
                       link: '/trading/video-analysis/transcripts/2026-06-26-BV1E8jR6FEtT'
