@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-25：伊朗制裁、长债回购、日本财政、Vera Rubin 与境外投资新规](/trading/experts/xiaocui/transcripts/2026-08-25)
 - [2026-08-24：霍尔木兹护航、美加谈判、TGA、NVIDIA、Alibaba 与 8000 亿政策工具](/trading/experts/xiaocui/transcripts/2026-08-24)
 - [2026-08-21：伊朗制裁、美债工具箱、AI 融资、Codex、贷款贴息与外资公募退出](/trading/experts/xiaocui/transcripts/2026-08-21)
 - [2026-08-20：伊朗、美债回购、比特币与黄金、AI 医药、Marvell/Google 与上海楼市](/trading/experts/xiaocui/transcripts/2026-08-20)
