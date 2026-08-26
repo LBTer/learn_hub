@@ -1394,6 +1394,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-08-26 复盘与直播回放',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-08-26'
+                        },
+                        {
                           text: '2026-08-24 直播复盘',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-08-24'
                         },
@@ -1604,6 +1608,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/bibabu-zuoshou/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-08-26 复盘与直播回放',
+                          link: '/trading/experts/bibabu-zuoshou/transcripts/2026-08-26'
+                        },
                         {
                           text: '2026-08-24 直播复盘',
                           link: '/trading/experts/bibabu-zuoshou/transcripts/2026-08-24'

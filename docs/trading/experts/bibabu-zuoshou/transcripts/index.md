@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-26：混沌轮动复盘与直播干货回放](/trading/experts/bibabu-zuoshou/transcripts/2026-08-26)
 - [2026-08-24：直播复盘，鸡肋行情，食之无味](/trading/experts/bibabu-zuoshou/transcripts/2026-08-24)
 - [2026-08-19：大A发套了，百点长阴，杂毛市场](/trading/experts/bibabu-zuoshou/transcripts/2026-08-19)
 - [2026-08-18：流动性切换，情绪无忧，载体变了](/trading/experts/bibabu-zuoshou/transcripts/2026-08-18)
