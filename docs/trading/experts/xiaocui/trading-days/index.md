@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-26：霍尔木兹、美债、长鑫、INTU、Jalapeño、Anthropic 与 A 股补税](/trading/experts/xiaocui/trading-days/2026-08-26) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-26)
 - [2026-08-25：伊朗制裁、长债回购、韩美核电、Vera Rubin 与境外投资新规](/trading/experts/xiaocui/trading-days/2026-08-25) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-25)
 - [2026-08-24：霍尔木兹护航、美加贸易战、TGA、NVIDIA、Alibaba 与政策工具](/trading/experts/xiaocui/trading-days/2026-08-24) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-24)
 - [2026-08-21：伊朗制裁、美债工具箱、AI 融资、Codex 与外资公募退出](/trading/experts/xiaocui/trading-days/2026-08-21) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-21)
