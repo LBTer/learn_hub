@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-26：护盘不等于拐点，混沌轮动等待共振强阳线](/trading/experts/bibabu-zuoshou/trading-days/2026-08-26)
 - [2026-08-24：缩量割裂叠加弱回流，混沌偏退潮先休息](/trading/experts/bibabu-zuoshou/trading-days/2026-08-24)
 - [2026-08-19：百点长阴叠加监管退潮，冰点弱修复只用于卖出](/trading/experts/bibabu-zuoshou/trading-days/2026-08-19)
 - [2026-08-18：情绪未退潮，流动性从高位切向低位农业](/trading/experts/bibabu-zuoshou/trading-days/2026-08-18)
