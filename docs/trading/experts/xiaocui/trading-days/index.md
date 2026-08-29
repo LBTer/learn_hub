@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-28：霍尔木兹、AI 监管、Marvell、Anthropic、BYD 与 40 年房贷](/trading/experts/xiaocui/trading-days/2026-08-28) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-28)
 - [2026-08-27：半导体关税、PCE、NVIDIA、CRM、CrowdStrike、Meta 与星宇股份](/trading/experts/xiaocui/trading-days/2026-08-27) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-27)
 - [2026-08-26：霍尔木兹、美债、长鑫、INTU、Jalapeño、Anthropic 与 A 股补税](/trading/experts/xiaocui/trading-days/2026-08-26) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-26)
 - [2026-08-25：伊朗制裁、长债回购、韩美核电、Vera Rubin 与境外投资新规](/trading/experts/xiaocui/trading-days/2026-08-25) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-25)
