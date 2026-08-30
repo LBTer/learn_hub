@@ -4,6 +4,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-29：沃什讲话、收益率曲线、外汇工具与会员问答](/trading/experts/xiaocui/member-transcripts/2026-08-29-oHc2aMAdXvQ)
 - [2026-08-22：美元贬值交易、AI 生产率与会员问答](/trading/experts/xiaocui/member-transcripts/2026-08-22-hRSL2EPVpfI)
 - [2026-08-15：Uber 车队资产化、Ackman 与 Burry、左侧现金纪律](/trading/experts/xiaocui/member-transcripts/2026-08-15-0vgFdvHUqgk)
 - [2026-08-08：云巨头远期估值、左侧抄底与现金纪律](/trading/experts/xiaocui/member-transcripts/2026-08-08-5FV5U8pJkH4)
