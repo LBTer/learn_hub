@@ -6,6 +6,7 @@
 
 ## 2026 年 8 月
 
+- [2026-08-31：老登趋势强于科技，强势混沌里只做新强度](/trading/experts/bibabu-zuoshou/trading-days/2026-08-31)
 - [2026-08-27：共振强阳线触发变脸，CPO 主动带盘后恢复进攻](/trading/experts/bibabu-zuoshou/trading-days/2026-08-27)
 - [2026-08-26：护盘不等于拐点，混沌轮动等待共振强阳线](/trading/experts/bibabu-zuoshou/trading-days/2026-08-26)
 - [2026-08-24：缩量割裂叠加弱回流，混沌偏退潮先休息](/trading/experts/bibabu-zuoshou/trading-days/2026-08-24)
