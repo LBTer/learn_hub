@@ -2,6 +2,10 @@
 
 按发布日期整理“小翠时政财经”视频。每篇按“世界大事、各国股市与经济、观众提问”三部分展开，并区分新闻事实、小翠见解和分析者延展。
 
+## 2026 年 9 月
+
+- [2026-09-01：霍尔木兹、G20 增长路线、NVIDIA 生态、Amazon、机器人与汽车出海](/trading/experts/xiaocui/trading-days/2026-09-01) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-01)
+
 ## 2026 年 8 月
 
 - [2026-08-31：美伊与 G20、沃什、韩国杠杆、AI 利润池、SB Energy、Intel 与尼泊尔灾害](/trading/experts/xiaocui/trading-days/2026-08-31) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-08-31)
