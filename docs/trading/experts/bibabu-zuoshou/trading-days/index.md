@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 9 月
+
+- [2026-09-01：农业零炸板确认投机主线，老龙异动等待风格切换](/trading/experts/bibabu-zuoshou/trading-days/2026-09-01)
+
 ## 2026 年 8 月
 
 - [2026-08-31：老登趋势强于科技，强势混沌里只做新强度](/trading/experts/bibabu-zuoshou/trading-days/2026-08-31)
