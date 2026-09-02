@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-02：霍尔木兹、美债、Dell、PLTR、Anthropic、Apple 与观众问答](/trading/experts/xiaocui/transcripts/2026-09-02)
 - [2026-09-01：霍尔木兹、G20 增长路线、NVIDIA 生态、Amazon、机器人与汽车出海](/trading/experts/xiaocui/transcripts/2026-09-01)
 
 ## 2026 年 8 月
