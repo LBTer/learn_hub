@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-02：猴市上窜下跳，如何破局](/trading/experts/bibabu-zuoshou/transcripts/2026-09-02)
 - [2026-09-01：想起来了，我是农民](/trading/experts/bibabu-zuoshou/transcripts/2026-09-01)
 
 ## 2026 年 8 月
