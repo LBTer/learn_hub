@@ -6,6 +6,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-03：缩量回流日内转分歧，空空如也只做小仓低吸](/trading/experts/bibabu-zuoshou/trading-days/2026-09-03)
 - [2026-09-02：弱势混沌回避高潮接力，等待连续分歧低吸](/trading/experts/bibabu-zuoshou/trading-days/2026-09-02)
 - [2026-09-01：农业零炸板确认投机主线，老龙异动等待风格切换](/trading/experts/bibabu-zuoshou/trading-days/2026-09-01)
 
