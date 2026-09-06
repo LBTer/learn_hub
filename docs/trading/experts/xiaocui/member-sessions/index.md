@@ -2,6 +2,10 @@
 
 按发布日期整理“小翠时政财经”会员视频。重点保留公司研究方法、行业教学、投资理念、未来判断和会员问答，并为明确预测记录触发条件与否证条件。
 
+## 2026 年 9 月
+
+- [2026-09-05：美债收益率、盈利对冲与财商基本功](/trading/experts/xiaocui/member-sessions/2026-09-05-ikBq2S6xvhU) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-05-ikBq2S6xvhU)
+
 ## 2026 年 8 月
 
 - [2026-08-29：沃什的鹰派沟通、收益率曲线与外汇工具](/trading/experts/xiaocui/member-sessions/2026-08-29-oHc2aMAdXvQ) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-08-29-oHc2aMAdXvQ)

@@ -2,6 +2,10 @@
 
 这里保存会员视频的可读时间轴文字稿。内容依据会员权限下可取得的中文字幕整理，覆盖全片但不是可引用的逐字稿；不会保存或公开原始会员音视频与字幕文件。
 
+## 2026 年 9 月
+
+- [2026-09-05：美债收益率、盈利对冲、左侧纪律与财商问答](/trading/experts/xiaocui/member-transcripts/2026-09-05-ikBq2S6xvhU)
+
 ## 2026 年 8 月
 
 - [2026-08-29：沃什讲话、收益率曲线、外汇工具与会员问答](/trading/experts/xiaocui/member-transcripts/2026-08-29-oHc2aMAdXvQ)
