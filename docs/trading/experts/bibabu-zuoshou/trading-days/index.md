@@ -6,6 +6,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-07：科技强回流锚定剑桥，低位反推核心后小仓试水](/trading/experts/bibabu-zuoshou/trading-days/2026-09-07)
 - [2026-09-06：金融注资托指数，科技轮动仍只做分歧低吸](/trading/experts/bibabu-zuoshou/trading-days/2026-09-06)
 - [2026-09-03：缩量回流日内转分歧，空空如也只做小仓低吸](/trading/experts/bibabu-zuoshou/trading-days/2026-09-03)
 - [2026-09-02：弱势混沌回避高潮接力，等待连续分歧低吸](/trading/experts/bibabu-zuoshou/trading-days/2026-09-02)
