@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-08：美伊油船、德国州选举、美债、日本工资、GPT-6 Astra、存储、Oracle 与郭德纲](/trading/experts/xiaocui/transcripts/2026-09-08)
 - [2026-09-04：川习会、非农与 ISM、日元、TSMC、GPT-6 Astra、Cybercab 与国防动员法](/trading/experts/xiaocui/transcripts/2026-09-04)
 - [2026-09-03：霍尔木兹、褐皮书、主权 AI、Berkshire、Broadcom、Azure 与袁腾飞](/trading/experts/xiaocui/transcripts/2026-09-03)
 - [2026-09-02：霍尔木兹、美债、Dell、PLTR、Anthropic、Apple 与观众问答](/trading/experts/xiaocui/transcripts/2026-09-02)
