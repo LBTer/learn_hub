@@ -503,6 +503,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-09-08',
+                          link: '/trading/experts/xiaocui/trading-days/2026-09-08'
+                        },
+                        {
                           text: '2026-09-04',
                           link: '/trading/experts/xiaocui/trading-days/2026-09-04'
                         },
@@ -761,6 +765,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/xiaocui/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-09-08',
+                          link: '/trading/experts/xiaocui/transcripts/2026-09-08'
+                        },
                         {
                           text: '2026-09-04',
                           link: '/trading/experts/xiaocui/transcripts/2026-09-04'
