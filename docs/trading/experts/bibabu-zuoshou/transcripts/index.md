@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-08：无量拉伸一场空，投机再高潮，明天需谨慎](/trading/experts/bibabu-zuoshou/transcripts/2026-09-08)
 - [2026-09-07：科技再度引领大盘，投机高潮日，阵眼看谁](/trading/experts/bibabu-zuoshou/transcripts/2026-09-07)
 - [2026-09-06：美股科技大涨，大手笔注资定增，周一如何看](/trading/experts/bibabu-zuoshou/transcripts/2026-09-06)
 - [2026-09-03：大A制冷，遥遥领先，制冷全球](/trading/experts/bibabu-zuoshou/transcripts/2026-09-03)

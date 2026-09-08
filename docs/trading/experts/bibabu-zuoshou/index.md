@@ -38,6 +38,8 @@
 
 ## 内容模块
 
+复盘观察补充：容量题材首日强势后，次日若缩量且竞价没有接力强度，应及时收回主升预期。分笔兑现可以接受卖飞，板块异常跳水的吹哨也应早于核心全面转弱进入风险判断。
+
 - [交易日总结](/trading/experts/bibabu-zuoshou/trading-days/)：按日期记录每日信息，并在同一篇文章中整理当日学到的知识点。
 - [视频文字稿](/trading/experts/bibabu-zuoshou/transcripts/)：按时间顺序整理视频中的完整复盘内容。
 - [充电会员主题](/trading/experts/bibabu-zuoshou/member-topics/)：整理充电会员视频中的复盘合集、关键知识点、案例拆解和方法论。
