@@ -6,6 +6,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-09：农业低位缓冲分歧，PCB 抗跌等待放量拐点](/trading/experts/bibabu-zuoshou/trading-days/2026-09-09)
 - [2026-09-08：科技缩量先兑现，农业吹哨防第三天分歧](/trading/experts/bibabu-zuoshou/trading-days/2026-09-08)
 - [2026-09-07：科技强回流锚定剑桥，低位反推核心后小仓试水](/trading/experts/bibabu-zuoshou/trading-days/2026-09-07)
 - [2026-09-06：金融注资托指数，科技轮动仍只做分歧低吸](/trading/experts/bibabu-zuoshou/trading-days/2026-09-06)
