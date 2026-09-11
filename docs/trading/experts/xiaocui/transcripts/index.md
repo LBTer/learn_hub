@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-11：霍尔木兹、CPI、美债、Oracle、Adobe、OpenAI、Microsoft、Anthropic 与中国模型](/trading/experts/xiaocui/transcripts/2026-09-11)
 - [2026-09-10：美伊与选举、PPI、美债、台积电、iPhone Duo、AI 安全、大豆与伊朗结算](/trading/experts/xiaocui/transcripts/2026-09-10)
 - [2026-09-09：美伊油轮、美加关税、贝森特、日元、GPT-6 Astra、Navier–Stokes、Meta Muse 与社保基金](/trading/experts/xiaocui/transcripts/2026-09-09)
 - [2026-09-08：美伊油船、德国州选举、美债、日本工资、GPT-6 Astra、存储、Oracle 与郭德纲](/trading/experts/xiaocui/transcripts/2026-09-08)
