@@ -6,6 +6,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-12：BTC 调整结束、105,000 路径与 ETH 3,400 目标](/trading/experts/shuzi-kge/daily-analysis/2026-09-12-BV1XDYX69E9L)
 - [2026-09-11：BTC 大四浪回调、第五段目标与牛市节奏拐点](/trading/experts/shuzi-kge/daily-analysis/2026-09-11-BV1WWYj6qETW)
 
 ## 2026 年 8 月
