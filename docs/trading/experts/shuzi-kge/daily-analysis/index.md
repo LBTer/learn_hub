@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 9 月
+
+- [2026-09-11：BTC 大四浪回调、第五段目标与牛市节奏拐点](/trading/experts/shuzi-kge/daily-analysis/2026-09-11-BV1WWYj6qETW)
+
 ## 2026 年 8 月
 
 - [2026-08-20：美债预期管理、流动性紧缩与 BTC 57,000 底部判断](/trading/experts/shuzi-kge/daily-analysis/2026-08-20-BV1YQ8F6YEKX)
