@@ -2607,6 +2607,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-09-11 BTC 大四浪与第五段目标',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-11-BV1WWYj6qETW'
+                        },
+                        {
                           text: '2026-08-20 美债预期与 BTC 底部判断',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-08-20-BV1YQ8F6YEKX'
                         },
@@ -2693,6 +2697,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-09-11 BTC 大四浪与第五段目标',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-09-11-BV1WWYj6qETW'
+                        },
                         {
                           text: '2026-08-20 美债预期与 BTC 底部判断',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-08-20-BV1YQ8F6YEKX'
