@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-14：沙特管道、美联储、AI 减速、Anthropic、Apple、中国金融数据与问答](/trading/experts/xiaocui/transcripts/2026-09-14)
 - [2026-09-11：霍尔木兹、CPI、美债、Oracle、Adobe、OpenAI、Microsoft、Anthropic 与中国模型](/trading/experts/xiaocui/transcripts/2026-09-11)
 - [2026-09-10：美伊与选举、PPI、美债、台积电、iPhone Duo、AI 安全、大豆与伊朗结算](/trading/experts/xiaocui/transcripts/2026-09-10)
 - [2026-09-09：美伊油轮、美加关税、贝森特、日元、GPT-6 Astra、Navier–Stokes、Meta Muse 与社保基金](/trading/experts/xiaocui/transcripts/2026-09-09)
