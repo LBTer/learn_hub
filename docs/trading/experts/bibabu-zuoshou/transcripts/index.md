@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-14：科技和投机到底该选谁，乱纪元耐心等](/trading/experts/bibabu-zuoshou/transcripts/2026-09-14)
 - [2026-09-09：监管黑手惹众怒，继续等待，拐点将近](/trading/experts/bibabu-zuoshou/transcripts/2026-09-09)
 - [2026-09-08：无量拉伸一场空，投机再高潮，明天需谨慎](/trading/experts/bibabu-zuoshou/transcripts/2026-09-08)
 - [2026-09-07：科技再度引领大盘，投机高潮日，阵眼看谁](/trading/experts/bibabu-zuoshou/transcripts/2026-09-07)
