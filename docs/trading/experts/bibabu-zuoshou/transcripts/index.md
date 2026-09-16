@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-16：进攻进攻，拐点已至，踏空补票思路教学](/trading/experts/bibabu-zuoshou/transcripts/2026-09-16)
 - [2026-09-15：全世界最垃圾的市场，等待大阳线](/trading/experts/bibabu-zuoshou/transcripts/2026-09-15)
 - [2026-09-14：科技和投机到底该选谁，乱纪元耐心等](/trading/experts/bibabu-zuoshou/transcripts/2026-09-14)
 - [2026-09-09：监管黑手惹众怒，继续等待，拐点将近](/trading/experts/bibabu-zuoshou/transcripts/2026-09-09)

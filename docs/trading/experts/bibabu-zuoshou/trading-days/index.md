@@ -6,6 +6,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-16：科技共振左侧试错，PCB 补票与次日切核心分开](/trading/experts/bibabu-zuoshou/trading-days/2026-09-16)
 - [2026-09-15：投机核心出清现节点，量价强表态前继续等](/trading/experts/bibabu-zuoshou/trading-days/2026-09-15)
 - [2026-09-14：科技与投机未分胜负，缩量抱团继续等待](/trading/experts/bibabu-zuoshou/trading-days/2026-09-14)
 - [2026-09-09：农业低位缓冲分歧，PCB 抗跌等待放量拐点](/trading/experts/bibabu-zuoshou/trading-days/2026-09-09)
