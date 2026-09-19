@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-19：主线证伪、三层错误与情景纪律](/trading/experts/xiaocui/member-sessions/2026-09-19) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-19)
 - [2026-09-12：投资主线、通胀拆解与仓位纪律](/trading/experts/xiaocui/member-sessions/2026-09-12-73qBKVI2Tjk) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-12-73qBKVI2Tjk)
 - [2026-09-05：美债收益率、盈利对冲与财商基本功](/trading/experts/xiaocui/member-sessions/2026-09-05-ikBq2S6xvhU) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-05-ikBq2S6xvhU)
 
