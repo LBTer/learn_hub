@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-19：主线证伪、三层错误与会员问答](/trading/experts/xiaocui/member-transcripts/2026-09-19)
 - [2026-09-12：投资主线、CPI、沃什与会员问答](/trading/experts/xiaocui/member-transcripts/2026-09-12-73qBKVI2Tjk)
 - [2026-09-05：美债收益率、盈利对冲、左侧纪律与财商问答](/trading/experts/xiaocui/member-transcripts/2026-09-05-ikBq2S6xvhU)
 
