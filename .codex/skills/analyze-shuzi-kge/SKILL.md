@@ -7,7 +7,7 @@ description: 分析 B 站 UP 主“数字K哥”的公开日常分析视频，�
 
 ## 执行前必读
 
-数字K哥 B 站主页：https://space.bilibili.com/3493268855720591
+数字K哥 B 站主页：https://space.bilibili.com/3546870336980992
 
 本 skill 只处理公开普通视频，不设置会员视频、会员专题或付费内容分流。每期固定产出两个板块：
 
