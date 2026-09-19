@@ -19,7 +19,7 @@ from typing import Any
 from zoneinfo import ZoneInfo
 
 
-DEFAULT_SPACE_URL = "https://space.bilibili.com/3493268855720591/video"
+DEFAULT_SPACE_URL = "https://space.bilibili.com/3546870336980992/video"
 DEFAULT_TIMEZONE = "Asia/Shanghai"
 UPLOADER_NAME = "数字K哥"
 
