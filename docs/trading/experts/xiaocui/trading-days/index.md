@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-21：习近平访美、柴油与炼厂、美联储、存储、Oracle、AI 模型与机器人 IPO](/trading/experts/xiaocui/trading-days/2026-09-21) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-21)
 - [2026-09-18：油价与中期选举、TIPS、日本加息、半导体、AI 基建与白酒消费](/trading/experts/xiaocui/trading-days/2026-09-18) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-18)
 - [2026-09-17：美联储鹰派加息、美国住房、Nebius、Apple、OpenAI 与中国融资转型](/trading/experts/xiaocui/trading-days/2026-09-17) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-17)
 - [2026-09-16：美联储全票加息、贝森特听证、Intel、AI 安全与墨西哥原产地规则](/trading/experts/xiaocui/trading-days/2026-09-16) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-16)

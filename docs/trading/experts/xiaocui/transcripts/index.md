@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-21：习近平访美、柴油、美联储、存储、Oracle、AI 模型、中国机器人与问答](/trading/experts/xiaocui/transcripts/2026-09-21)
 - [2026-09-18：油价、TIPS、就业与收入、日本加息、半导体、AI 基建、中国消费与问答](/trading/experts/xiaocui/transcripts/2026-09-18)
 - [2026-09-17：能源、美联储、零售与住房、Nebius、Apple、OpenAI、Palantir、中国融资与问答](/trading/experts/xiaocui/transcripts/2026-09-17)
 - [2026-09-16：沙特油运、美联储、贝森特、日本贸易、Intel、OpenAI、Microsoft、Anthropic 与问答](/trading/experts/xiaocui/transcripts/2026-09-16)
