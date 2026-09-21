@@ -2735,6 +2735,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-09-21 BTC 延续性与 82,800 压力',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-21-BV18Nhe6dEiN'
+                        },
+                        {
                           text: '2026-09-19 BTC 落袋与前高回调风险',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-19-BV18xeh6xEEX'
                         },
@@ -2833,6 +2837,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-09-21 BTC 延续性与 82,800 压力',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-09-21-BV18Nhe6dEiN'
+                        },
                         {
                           text: '2026-09-19 BTC 落袋与前高回调风险',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-09-19-BV18xeh6xEEX'
