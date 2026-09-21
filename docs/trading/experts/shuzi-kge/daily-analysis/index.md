@@ -6,6 +6,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-21：BTC 突破延续性、82,800 压力与 ETH 回调信号](/trading/experts/shuzi-kge/daily-analysis/2026-09-21-BV18Nhe6dEiN)
 - [2026-09-19：BTC 多单落袋、四浪改判与前高回调风险](/trading/experts/shuzi-kge/daily-analysis/2026-09-19-BV18xeh6xEEX)
 - [2026-09-12：BTC 调整结束、105,000 路径与 ETH 3,400 目标](/trading/experts/shuzi-kge/daily-analysis/2026-09-12-BV1XDYX69E9L)
 - [2026-09-11：BTC 大四浪回调、第五段目标与牛市节奏拐点](/trading/experts/shuzi-kge/daily-analysis/2026-09-11-BV1WWYj6qETW)
