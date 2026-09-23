@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-22：锐评全世界最垃圾的市场，直播切片（9 月 23 日发布）](/trading/experts/bibabu-zuoshou/transcripts/2026-09-22)
 - [2026-09-21：仓位大于一切，投机连续加强三天，明天还能接吗？](/trading/experts/bibabu-zuoshou/transcripts/2026-09-21)
 - [2026-09-17：明日选择方向，科技回流至关重要](/trading/experts/bibabu-zuoshou/transcripts/2026-09-17)
 - [2026-09-16：进攻进攻，拐点已至，踏空补票思路教学](/trading/experts/bibabu-zuoshou/transcripts/2026-09-16)
