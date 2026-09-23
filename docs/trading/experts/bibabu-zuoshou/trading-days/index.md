@@ -6,6 +6,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-22：减仓后双向验证，投机示弱不等于科技回流（9 月 23 日发布）](/trading/experts/bibabu-zuoshou/trading-days/2026-09-22)
 - [2026-09-21：主升仓位与高潮买点分开，趋势持股与投机高低切](/trading/experts/bibabu-zuoshou/trading-days/2026-09-21)
 - [2026-09-17：科技分歧待强回流，左侧失败及时退出](/trading/experts/bibabu-zuoshou/trading-days/2026-09-17)
 - [2026-09-16：科技共振左侧试错，PCB 补票与次日切核心分开](/trading/experts/bibabu-zuoshou/trading-days/2026-09-16)
