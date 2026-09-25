@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-25：川习会、伊朗、美债与住房、Meta、Oracle、Anthropic、新疆棉与问答](/trading/experts/xiaocui/transcripts/2026-09-25)
 - [2026-09-24：川习会、F‑35、美债、PMI、Meta Connect、数据中心、DeepSeek 与问答](/trading/experts/xiaocui/transcripts/2026-09-24)
 - [2026-09-23：习近平访美、柴油、AI 就业、Muse、GPT‑6 Sol/Luna、Apple、中国市场与问答](/trading/experts/xiaocui/transcripts/2026-09-23)
 - [2026-09-22：霍尔木兹、白宫媒体、贝森特、Meta Muse、Nscale、台湾军售、中国模型与问答](/trading/experts/xiaocui/transcripts/2026-09-22)
