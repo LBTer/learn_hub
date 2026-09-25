@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-25：川习会、伊朗、美债与住房、Meta、Oracle、Anthropic 与供应链合规](/trading/experts/xiaocui/trading-days/2026-09-25) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-25)
 - [2026-09-24：川习会、F‑35、美债与 PMI、Meta Connect、数据中心与 DeepSeek](/trading/experts/xiaocui/trading-days/2026-09-24) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-24)
 - [2026-09-23：习近平访美、柴油、美债、Muse、GPT‑6 Sol/Luna、Apple 与国产替代](/trading/experts/xiaocui/trading-days/2026-09-23) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-23)
 - [2026-09-22：霍尔木兹、白宫媒体冲突、Meta Muse、Nscale、台湾军售与模型数据](/trading/experts/xiaocui/trading-days/2026-09-22) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-22)
