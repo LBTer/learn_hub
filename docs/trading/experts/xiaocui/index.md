@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-09-26 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-26)
+- [2026-09-26 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-26)
 - [2026-09-25 交易日总结](/trading/experts/xiaocui/trading-days/2026-09-25)
 - [2026-09-25 视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-25)
 - [2026-09-24 交易日总结](/trading/experts/xiaocui/trading-days/2026-09-24)
@@ -137,6 +139,14 @@
 
 ## 最新会员视频
 
+- [2026-09-26 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-26)
+- [2026-09-26 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-26)
+- [2026-09-19 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-19)
+- [2026-09-19 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-19)
+- [2026-09-12 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-12-73qBKVI2Tjk)
+- [2026-09-12 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-12-73qBKVI2Tjk)
+- [2026-09-05 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-05-ikBq2S6xvhU)
+- [2026-09-05 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-05-ikBq2S6xvhU)
 - [2026-08-29 会员专题](/trading/experts/xiaocui/member-sessions/2026-08-29-oHc2aMAdXvQ)
 - [2026-08-29 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-08-29-oHc2aMAdXvQ)
 - [2026-08-22 会员专题](/trading/experts/xiaocui/member-sessions/2026-08-22-hRSL2EPVpfI)
