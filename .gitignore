@@ -4,5 +4,6 @@ node_modules/
 docs/.vitepress/cache/
 docs/.vitepress/dist/
 public/images/
+/private/rhino-finance/
 .DS_Store
 *.log
