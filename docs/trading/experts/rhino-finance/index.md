@@ -119,8 +119,6 @@
 
 - [美股盘后复盘](./market-reviews/)
 - [视频文字稿](./transcripts/)
-- [会员笔记](./member-notes/)
-- [会员文字稿](./member-transcripts/)
 - [公司与 ETF 跟踪](./company-notes/)
 - [分析框架](./analysis-framework/)
 

@@ -12,13 +12,13 @@
 uv run yt-dlp --dump-single-json --no-warnings --skip-download "<URL>"
 ```
 
-若 YouTube 触发登录或机器人校验，在用户明确允许后使用：
+当前任务允许使用用户已有 Chrome/YouTube 登录态时，用：
 
 ```bash
 uv run yt-dlp --cookies-from-browser chrome --dump-single-json --no-warnings --skip-download "<URL>"
 ```
 
-不得输出、读取或保存 cookie、token、密码。只记录标题、频道、发布日期、时长、链接、标签、简介、字幕、章节、可见性、频道 ID 和账号名。
+不得输出、读取或保存 cookie、token、密码。只记录标题、频道、发布日期、时长、链接、标签、简介、字幕、章节、可见性、频道 ID 和账号名。会员视频还需确认当前账号实际可播放，不能仅凭列表可见认定可处理。
 
 ## 3. 获取字幕或音频
 
@@ -81,7 +81,7 @@ uv run yt-dlp --cookies-from-browser chrome --dump-single-json --no-warnings --s
 - `docs/trading/experts/rhino-finance/transcripts/index.md`
 - `docs/.vitepress/config.mts`
 
-会员内容同步更新 `member-notes/` 和 `member-transcripts/` 索引。
+会员内容按 `references/member-video.md` 更新本地 `private/rhino-finance/` 下的会员文字稿、笔记、索引、方法卡和预测台账；不加入公开文档侧边栏或 Git 提交。若本次同时有公开视频与会员视频，仅提交公开视频产物和通用 skill 变更，提交前核对暂存区没有 `private/rhino-finance/` 文件。
 
 ## 9. 校验
 

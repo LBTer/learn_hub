@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check whether RhinoFinance published videos on a given date.
+"""Check recent RhinoFinance public and members-only videos.
 
 The script reads the YouTube channel through yt-dlp and can temporarily use the
 local Chrome login state via yt-dlp's --cookies-from-browser option. It does not
@@ -13,7 +13,7 @@ import json
 import subprocess
 import sys
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
@@ -34,6 +34,7 @@ class Video:
     duration: float | None
     availability: str | None
     live_status: str | None
+    video_type: str
 
 
 def run_yt_dlp(args: list[str], timeout: int, label: str) -> str:
@@ -119,6 +120,13 @@ def entry_url(entry: dict[str, Any]) -> str:
 
 def collect_videos(args: argparse.Namespace) -> list[Video]:
     timezone = ZoneInfo(args.timezone)
+    try:
+        end_date = date.fromisoformat(args.date)
+    except ValueError as exc:
+        raise SystemExit("--date 必须为 YYYY-MM-DD。") from exc
+    if args.lookback_days < 1:
+        raise SystemExit("--lookback-days 必须至少为 1。")
+    start_date = end_date - timedelta(days=args.lookback_days - 1)
     channel_url = args.channel_url or DEFAULT_CHANNEL_URL
     use_chrome_cookies = not args.no_chrome_cookies
     if use_chrome_cookies:
@@ -146,7 +154,7 @@ def collect_videos(args: argparse.Namespace) -> list[Video]:
             warn(f"跳过单条视频元数据读取失败：{url}\n{exc}")
             continue
         upload_date, upload_time = normalize_upload_date(metadata, timezone)
-        if upload_date != args.date:
+        if upload_date == "unknown" or not start_date <= date.fromisoformat(upload_date) <= end_date:
             continue
 
         video_id = str(metadata.get("id") or entry.get("id") or Path(url).name)
@@ -163,6 +171,11 @@ def collect_videos(args: argparse.Namespace) -> list[Video]:
                 duration=metadata.get("duration"),
                 availability=metadata.get("availability"),
                 live_status=metadata.get("live_status"),
+                video_type=(
+                    "member"
+                    if metadata.get("availability") in {"subscriber_only", "premium_only"}
+                    else "public" if metadata.get("availability") == "public" else "unknown"
+                ),
             )
         )
 
@@ -175,29 +188,30 @@ def format_duration(duration: float | None) -> str:
     return f"，时长 {int(duration // 60)}:{int(duration % 60):02d}"
 
 
-def print_markdown(videos: list[Video], date: str) -> None:
+def print_markdown(videos: list[Video], date_range: str) -> None:
     if not videos:
-        print(f"{date} 暂未发现视野环球财经 / RhinoFinance 新视频。")
+        print(f"{date_range} 暂未发现视野环球财经 / RhinoFinance 新视频。")
         return
 
-    print(f"{date} 发现 {len(videos)} 个视野环球财经 / RhinoFinance 新视频：")
+    print(f"{date_range} 发现 {len(videos)} 个视野环球财经 / RhinoFinance 视频：")
     for video in videos:
         upload_time = f"，发布时间 {video.upload_time}" if video.upload_time else ""
         availability = f"，可见性 {video.availability}" if video.availability else ""
         live_status = f"，直播状态 {video.live_status}" if video.live_status else ""
-        print(f"- {video.title} ({video.video_id}{upload_time}{format_duration(video.duration)}{availability}{live_status})")
+        print(f"- [{video.video_type}] {video.title} ({video.video_id}{upload_time}{format_duration(video.duration)}{availability}{live_status})")
         print(f"  {video.url}")
 
 
 def parse_args() -> argparse.Namespace:
     today = datetime.now(ZoneInfo(DEFAULT_TIMEZONE)).strftime("%Y-%m-%d")
-    parser = argparse.ArgumentParser(description="检查视野环球财经 / RhinoFinance 当天是否有新视频，并输出视频链接。")
-    parser.add_argument("--date", default=today, help=f"要检查的日期，格式 YYYY-MM-DD，默认今天：{today}")
-    parser.add_argument("--limit", type=int, default=10, help="检查频道最近 N 个视频，默认 10。")
+    parser = argparse.ArgumentParser(description="检查视野环球财经 / RhinoFinance 的公开视频与会员视频，并输出视频链接。")
+    parser.add_argument("--date", default=today, help=f"窗口结束日期，格式 YYYY-MM-DD，默认今天：{today}")
+    parser.add_argument("--lookback-days", type=int, default=1, help="包含结束日的回看天数，默认 1；定时任务建议 7。")
+    parser.add_argument("--limit", type=int, default=10, help="检查频道最近 N 个视频，默认 10；跨周检查建议 30。")
     parser.add_argument(
         "--channel-url",
         default=DEFAULT_CHANNEL_URL,
-        help="YouTube 频道视频页 URL，默认检查 /videos。",
+        help="YouTube 频道视频页 URL，默认检查含公开和会员内容的 /videos。",
     )
     parser.add_argument("--timezone", default=DEFAULT_TIMEZONE, help=f"日期判断时区，默认 {DEFAULT_TIMEZONE}。")
     parser.add_argument(
@@ -222,7 +236,10 @@ def main() -> int:
     if args.json:
         print(json.dumps([video.__dict__ for video in videos], ensure_ascii=False, indent=2))
     else:
-        print_markdown(videos, args.date)
+        end_date = date.fromisoformat(args.date)
+        start_date = end_date - timedelta(days=args.lookback_days - 1)
+        date_range = str(end_date) if start_date == end_date else f"{start_date}—{end_date}"
+        print_markdown(videos, date_range)
 
     return 0
 
