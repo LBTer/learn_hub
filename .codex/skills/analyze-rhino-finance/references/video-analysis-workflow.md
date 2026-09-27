@@ -81,7 +81,7 @@ uv run yt-dlp --cookies-from-browser chrome --dump-single-json --no-warnings --s
 - `docs/trading/experts/rhino-finance/transcripts/index.md`
 - `docs/.vitepress/config.mts`
 
-会员内容按 `references/member-video.md` 更新本地 `private/rhino-finance/` 下的会员文字稿、笔记、索引、方法卡和预测台账；不加入公开文档侧边栏或 Git 提交。若本次同时有公开视频与会员视频，仅提交公开视频产物和通用 skill 变更，提交前核对暂存区没有 `private/rhino-finance/` 文件。
+会员内容按 `references/member-video.md` 更新 `docs/trading/experts/rhino-finance/` 下的会员文字稿、笔记、索引、方法卡和预测台账，并更新人物主页和会员侧边栏。公开与会员视频的正式分析产物均纳入 Git 提交；原始音视频和转写中间文件不提交。
 
 ## 9. 校验
 

@@ -214,6 +214,14 @@ export default withMermaid(defineConfig({
                 link: '/trading/experts/rhino-finance/transcripts/'
               },
               {
+                text: '会员笔记',
+                link: '/trading/experts/rhino-finance/member-notes/'
+              },
+              {
+                text: '会员文字稿',
+                link: '/trading/experts/rhino-finance/member-transcripts/'
+              },
+              {
                 text: '公司与 ETF 跟踪',
                 link: '/trading/experts/rhino-finance/company-notes/'
               },
@@ -1737,6 +1745,18 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/rhino-finance/transcripts/2026-06-27'
                         }
                       ]
+                    },
+                    {
+                      link: '/trading/experts/rhino-finance/member-notes/',
+                      text: '会员笔记',
+                      collapsed: true,
+                      items: []
+                    },
+                    {
+                      text: '会员文字稿',
+                      link: '/trading/experts/rhino-finance/member-transcripts/',
+                      collapsed: true,
+                      items: []
                     },
                     {
                       text: '公司与 ETF 跟踪',

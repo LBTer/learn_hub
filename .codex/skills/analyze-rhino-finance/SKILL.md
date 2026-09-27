@@ -11,9 +11,9 @@ description: 分析 YouTube 频道“视野环球财经 / RhinoFinance”的美�
 
 执行过程中涉及 Python 脚本、`yt-dlp`、音频下载、语音转写、截图、行情核名或校验命令时，优先使用本项目本地 `uv` 环境运行，例如 `uv run ...`；只有本地 `uv` 环境缺少能力或命令失败且确认无法修复时，才临时改用系统环境，并在最终说明中标注原因。
 
-检查新视频时优先使用 `scripts/check-new-videos.py`。该脚本读取当前 Chrome/YouTube 登录态下频道 `https://www.youtube.com/@RhinoFinance/videos` 的公开视频与会员视频，默认检查北京时间当天；定时任务使用 `--lookback-days 7 --limit 30` 覆盖非运行日、早上检查后的更新与漏检。先按视频 ID 对照普通与本地会员产物，已处理的不重复分析。输出标题、视频 ID、可见性、直播状态和原始链接；元数据失败或会员不可访问时报告核查缺口，不把它说成“无更新”。不导出或保存 Cookie。
+检查新视频时优先使用 `scripts/check-new-videos.py`。该脚本读取当前 Chrome/YouTube 登录态下频道 `https://www.youtube.com/@RhinoFinance/videos` 的公开视频与会员视频，默认检查北京时间当天；定时任务使用 `--lookback-days 7 --limit 30` 覆盖非运行日、早上检查后的更新与漏检。先按视频 ID 对照普通与会员文档，已处理的不重复分析。输出标题、视频 ID、可见性、直播状态和原始链接；元数据失败或会员不可访问时报告核查缺口，不把它说成“无更新”。不导出或保存 Cookie。
 
-会员文字稿、笔记和跨期学习记录仅保存到仓库内被 Git 忽略的 `private/rhino-finance/`，不放进 `docs/`、VitePress 侧边栏、公开 Git 提交或 R2。当前仓库与 Pages 站点公开；公开视频继续按原有文档流程提交。会员内容若在当前账号下不能播放或转写，报告视频 ID 和权限问题，不绕过会员限制。用户指定的视频和课程可按期号或主题顺序补课；自动任务只处理观察窗口内的新视频，不批量回溯历史会员库。
+按用户要求，会员文字稿、笔记和跨期学习记录保存到 `docs/trading/experts/rhino-finance/`，与其他人物专题一样更新索引、VitePress 导航并提交 Git，当前不实施网站登录校验。会员内容若在当前 YouTube 账号下不能播放或转写，报告视频 ID 和权限问题，不绕过会员限制。用户指定的视频和课程可按期号或主题顺序补课；自动任务只处理观察窗口内的新视频，不批量回溯历史会员库。
 
 ## 类型识别与路由
 
@@ -23,7 +23,7 @@ description: 分析 YouTube 频道“视野环球财经 / RhinoFinance”的美�
    - **普通专题视频**：公开视频，但聚焦单家公司、行业、ETF、投资心理或交易方法。
    - **会员研究/课程视频**：`availability` 为 `subscriber_only` 或 `premium_only`，或页面标有“会员专享”；内容涉及个股/行业研究、短中长期机会、估值、买卖点、风险管理、投资理念或体系教学。
    - **会员答疑/帖子延伸**：会员内容中以观众问题、个股估值、支撑压力、被套处理、板块机会为主。
-3. 会员内容读取 [references/member-video.md](references/member-video.md)，生成本地私有会员文字稿和会员笔记，并按证据更新私有方法卡与预测台账。
+3. 会员内容读取 [references/member-video.md](references/member-video.md)，生成会员文字稿和会员笔记，并按证据更新方法卡与预测台账。
 4. 普通公开视频继续执行下方“普通视频工作流”。
 5. 不得把普通盘后复盘写入会员目录；不得把会员研究硬套成普通盘后复盘。
 
@@ -140,14 +140,14 @@ docs/trading/experts/rhino-finance/
 
 `market-reviews/index.md` 的模块标题固定为“美股盘后复盘”，`transcripts/index.md` 的模块标题固定为“视频文字稿”；日期文章标题分别使用 `YYYY-MM-DD 美股盘后复盘` 和 `YYYY-MM-DD 视频文字稿`。
 
-会员产物位于 `private/rhino-finance/`：`member-transcripts/`、`member-notes/`、`analysis-framework/`、`company-notes/` 和 `prediction-ledger.md`。这些本地目录不属于公开站点；按 [会员工作流](references/member-video.md) 创建与维护。
+会员产物位于 `docs/trading/experts/rhino-finance/`：`member-transcripts/`、`member-notes/`、`analysis-framework/`、`company-notes/` 和 `analysis-framework/prediction-ledger.md`。按 [会员工作流](references/member-video.md) 创建与维护，新增页面同步更新索引和导航。
 
 ### 长期沉淀目录使用规则
 
 - `market-reviews/` 和 `transcripts/` 是普通公开视频的每期必写目录。
 - `company-notes/` 只用于跨期公司或 ETF 跟踪；同一标的被多期反复提到、观点出现明显变化，或用户明确要求追踪某家公司时才更新。
 - `analysis-framework/` 只用于跨期方法论归纳；至少积累 5 至 10 期或用户明确要求后，再总结稳定框架，不从单期视频直接搬运。
-- 会员材料只在 `private/rhino-finance/` 中沉淀；公开 `company-notes/` 与 `analysis-framework/` 不引用会员专属内容。
+- 会员材料按来源标注原视频、期号和时间点；`company-notes/` 与 `analysis-framework/` 可引用会员笔记进行跨期归纳。
 
 ## 专属观察框架
 
