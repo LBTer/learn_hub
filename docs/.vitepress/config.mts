@@ -2859,6 +2859,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-09-28 BTC 大二与 DOGE 剧本',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-28-BV1h7aq6ME9w'
+                        },
+                        {
                           text: '2026-09-21 BTC 延续性与 82,800 压力',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-21-BV18Nhe6dEiN'
                         },
@@ -2961,6 +2965,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-09-28 BTC 大二与 DOGE 剧本',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-09-28-BV1h7aq6ME9w'
+                        },
                         {
                           text: '2026-09-21 BTC 延续性与 82,800 压力',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-09-21-BV18Nhe6dEiN'
