@@ -1750,13 +1750,13 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/member-notes/',
                       text: '会员笔记',
                       collapsed: true,
-                      items: []
+                      items: [{ text: '第303期：VIX期限结构', link: '/trading/experts/rhino-finance/member-notes/2026-09-27-kD5hGfArUf0' }]
                     },
                     {
                       text: '会员文字稿',
                       link: '/trading/experts/rhino-finance/member-transcripts/',
                       collapsed: true,
-                      items: []
+                      items: [{ text: '第303期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-09-27-kD5hGfArUf0' }]
                     },
                     {
                       text: '公司与 ETF 跟踪',
