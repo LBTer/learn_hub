@@ -4,6 +4,8 @@
 
 ## 最新一期
 
+- [2026-09-29 美股盘后复盘](./market-reviews/2026-09-29.md)
+- [2026-09-29 视频时间轴摘要](./transcripts/2026-09-29.md)
 - [2026-09-27 会员第 303 期：VIX 期限结构学习笔记](./member-notes/2026-09-27-kD5hGfArUf0.md)
 - [2026-09-27 会员视频时间轴摘要](./member-transcripts/2026-09-27-kD5hGfArUf0.md)
 - [2026-09-26 美股盘后复盘](./market-reviews/2026-09-26.md)
