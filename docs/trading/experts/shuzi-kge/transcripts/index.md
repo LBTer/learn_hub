@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-29：BTC 82,800 支撑、空单退出与 85,000 阻力](/trading/experts/shuzi-kge/transcripts/2026-09-29-BV125aJ6jEi1)
 - [2026-09-28：BTC 大二回调、ETH 现货区间与 DOGE 远期剧本](/trading/experts/shuzi-kge/transcripts/2026-09-28-BV1h7aq6ME9w)
 - [2026-09-21：BTC 突破延续性、82,800 压力与 ETH 回调信号](/trading/experts/shuzi-kge/transcripts/2026-09-21-BV18Nhe6dEiN)
 - [2026-09-19：BTC 多单落袋、四浪改判与前高回调风险](/trading/experts/shuzi-kge/transcripts/2026-09-19-BV18xeh6xEEX)
