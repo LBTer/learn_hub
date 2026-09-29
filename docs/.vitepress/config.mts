@@ -2875,6 +2875,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-09-29 BTC 支撑与空单退出',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-29-BV125aJ6jEi1'
+                        },
+                        {
                           text: '2026-09-28 BTC 大二与 DOGE 剧本',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-28-BV1h7aq6ME9w'
                         },
@@ -2981,6 +2985,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-09-29 BTC 支撑与空单退出',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-09-29-BV125aJ6jEi1'
+                        },
                         {
                           text: '2026-09-28 BTC 大二与 DOGE 剧本',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-09-28-BV1h7aq6ME9w'
