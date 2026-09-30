@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-30：白宫超级智能、油价与 PCE、AI 交易、OpenAI、代购、电力、中国市场及 Rogers 案](/trading/experts/xiaocui/transcripts/2026-09-30)
 - [2026-09-29：美伊、联储与美债、SpaceX、AMD、Meta、Anthropic、中国政策与问答](/trading/experts/xiaocui/transcripts/2026-09-29)
 - [2026-09-28：美伊、债股分歧、存储、NVIDIA、AI 安全、电力、跨境税务与问答](/trading/experts/xiaocui/transcripts/2026-09-28)
 - [2026-09-25：川习会、伊朗、美债与住房、Meta、Oracle、Anthropic、新疆棉与问答](/trading/experts/xiaocui/transcripts/2026-09-25)
