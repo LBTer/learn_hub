@@ -4,6 +4,7 @@
 
 ## 2026 年 9 月
 
+- [2026-09-30：白宫 SI、霍尔木兹、PCE、Robinhood Agents、OpenAI、AI 购物与美联储案件](/trading/experts/xiaocui/trading-days/2026-09-30) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-30)
 - [2026-09-29：美伊、Cook 与长债、Starship、AMD/Meta、跨境交易与住房贴息](/trading/experts/xiaocui/trading-days/2026-09-29) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-29)
 - [2026-09-28：美债、PCE、NVIDIA 回购与 AI 安全、存储、跨境税务](/trading/experts/xiaocui/trading-days/2026-09-28) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-28)
 - [2026-09-25：川习会、伊朗、美债与住房、Meta、Oracle、Anthropic 与供应链合规](/trading/experts/xiaocui/trading-days/2026-09-25) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-25)
