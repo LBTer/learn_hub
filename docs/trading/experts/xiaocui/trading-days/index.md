@@ -2,6 +2,10 @@
 
 按发布日期整理“小翠时政财经”视频。每篇按“世界大事、各国股市与经济、观众提问”三部分展开，并区分新闻事实、小翠见解和分析者延展。
 
+## 2026 年 10 月
+
+- [2026-10-01：霍尔木兹、美债与 PCE、美光、Gemini、AI 平台和航空零件](/trading/experts/xiaocui/trading-days/2026-10-01) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-01)
+
 ## 2026 年 9 月
 
 - [2026-09-30：白宫 SI、霍尔木兹、PCE、Robinhood Agents、OpenAI、AI 购物与美联储案件](/trading/experts/xiaocui/trading-days/2026-09-30) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-09-30)

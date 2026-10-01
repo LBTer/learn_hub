@@ -2,6 +2,10 @@
 
 这里保存每期视频的可读时间轴文字稿。内容依据音频自动转写整理，覆盖全片但不作为可引用的逐字稿；专有名词和数字应结合原视频与外部来源复核。
 
+## 2026 年 10 月
+
+- [2026-10-01：霍尔木兹、美债与 PCE、美光、Gemini、AI 平台和航空零件](/trading/experts/xiaocui/transcripts/2026-10-01)
+
 ## 2026 年 9 月
 
 - [2026-09-30：白宫超级智能、油价与 PCE、AI 交易、OpenAI、代购、电力、中国市场及 Rogers 案](/trading/experts/xiaocui/transcripts/2026-09-30)
