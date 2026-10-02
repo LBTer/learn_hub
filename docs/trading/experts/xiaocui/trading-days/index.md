@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-02：美伊与法国债市、非农、Nike、埃森哲、半导体及 GPU 转运案](/trading/experts/xiaocui/trading-days/2026-10-02) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-02)
 - [2026-10-01：霍尔木兹、美债与 PCE、美光、Gemini、AI 平台和航空零件](/trading/experts/xiaocui/trading-days/2026-10-01) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-01)
 
 ## 2026 年 9 月
