@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-06：油价、ISM、NVIDIA、Muse、Anthropic、人民币与问答](/trading/experts/xiaocui/transcripts/2026-10-06)
 - [2026-10-05：油价、贝森特、数据中心、台股、AI 与观众问答](/trading/experts/xiaocui/transcripts/2026-10-05)
 - [2026-10-02：美伊与法国债市、非农、Nike、埃森哲、半导体及 GPU 转运案](/trading/experts/xiaocui/transcripts/2026-10-02)
 - [2026-10-01：霍尔木兹、美债与 PCE、美光、Gemini、AI 平台和航空零件](/trading/experts/xiaocui/transcripts/2026-10-01)
