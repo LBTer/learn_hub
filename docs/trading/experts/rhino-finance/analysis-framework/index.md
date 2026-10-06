@@ -2,6 +2,8 @@
 
 ## 待验证方法卡
 
+- [盈利—融资条件观察卡](./earnings-financing-conditions.md)：第304期候选，未回测。
+- [条件观察与预测台账](./prediction-ledger.md)：保留原时点条件，不追认命中。
 - [VIX 期限结构风险观察卡](./vix-term-structure.md)：第 303 期学习样本，单期候选、未回测。
 
 ## 归纳原则
