@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-07：美伊与欧洲贸易、数据中心、Marvell、Oracle 及网络安全](/trading/experts/xiaocui/trading-days/2026-10-07) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-07)
 - [2026-10-06：油运与柴油、NVIDIA 回购、消费 AI、黄金与人民币](/trading/experts/xiaocui/trading-days/2026-10-06) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-06)
 - [2026-10-05：油价与美债、台股和 AI 供应链、中期选举、数据中心就业](/trading/experts/xiaocui/trading-days/2026-10-05) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-05)
 - [2026-10-02：美伊与法国债市、非农、Nike、埃森哲、半导体及 GPU 转运案](/trading/experts/xiaocui/trading-days/2026-10-02) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-02)
