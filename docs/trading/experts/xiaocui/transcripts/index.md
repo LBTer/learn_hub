@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-08：法国债务、美伊、美债、东亚股市、AMD、微软、A 股与贸易问答](/trading/experts/xiaocui/transcripts/2026-10-08)
 - [2026-10-07：美伊、欧洲、数据中心、Marvell、Oracle、网络安全与问答](/trading/experts/xiaocui/transcripts/2026-10-07)
 - [2026-10-06：油价、ISM、NVIDIA、Muse、Anthropic、人民币与问答](/trading/experts/xiaocui/transcripts/2026-10-06)
 - [2026-10-05：油价、贝森特、数据中心、台股、AI 与观众问答](/trading/experts/xiaocui/transcripts/2026-10-05)
