@@ -1,9 +1,10 @@
 # 视频文字稿
 
-这里保存每期视频的可读时间轴文字稿。内容依据音频自动转写整理，覆盖全片但不作为可引用的逐字稿；专有名词和数字应结合原视频与外部来源复核。
+这里保存每期视频的可读时间轴文字稿。内容依据 YouTube 字幕或音频转写整理，覆盖全片但不作为可引用的逐字稿；专有名词和数字应结合原视频与外部来源复核。
 
 ## 2026 年 10 月
 
+- [2026-10-09：美伊、产能声明、PERM、美债、OpenAI、Claude、尊界与问答](/trading/experts/xiaocui/transcripts/2026-10-09)
 - [2026-10-08：法国债务、美伊、美债、东亚股市、AMD、微软、A 股与贸易问答](/trading/experts/xiaocui/transcripts/2026-10-08)
 - [2026-10-07：美伊、欧洲、数据中心、Marvell、Oracle、网络安全与问答](/trading/experts/xiaocui/transcripts/2026-10-07)
 - [2026-10-06：油价、ISM、NVIDIA、Muse、Anthropic、人民币与问答](/trading/experts/xiaocui/transcripts/2026-10-06)
