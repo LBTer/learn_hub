@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 10 月
+
+- [2026-10-08：极致轮动下试错失败，负反馈收敛仍等指数止跌](/trading/experts/bibabu-zuoshou/trading-days/2026-10-08)
+
 ## 2026 年 9 月
 
 - [2026-09-24：主升失败转退潮，周一预案与节前机会（9 月 27 日直播切片）](/trading/experts/bibabu-zuoshou/trading-days/2026-09-24)
