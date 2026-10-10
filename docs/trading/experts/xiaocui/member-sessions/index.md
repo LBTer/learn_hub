@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-10：买入区间、观察仓、左侧分批与会员问答](/trading/experts/xiaocui/member-sessions/2026-10-10) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-10)
 - [2026-10-03：股票卖出纪律、EPS/PE、仓位再平衡与会员问答](/trading/experts/xiaocui/member-sessions/2026-10-03) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-03)
 
 ## 2026 年 9 月

@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-10：开仓区间、观察仓、PLTR/Oracle 案例与会员问答](/trading/experts/xiaocui/member-transcripts/2026-10-10)
 - [2026-10-03：卖出纪律、估值与再平衡、人生目标及会员问答](/trading/experts/xiaocui/member-transcripts/2026-10-03)
 
 ## 2026 年 9 月
