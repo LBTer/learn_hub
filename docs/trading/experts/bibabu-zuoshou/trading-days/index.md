@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-09：止跌修复不等于底部，投机与容量分层（10 月 11 日发布）](/trading/experts/bibabu-zuoshou/trading-days/2026-10-09)
+
 - [2026-10-08：极致轮动下试错失败，负反馈收敛仍等指数止跌](/trading/experts/bibabu-zuoshou/trading-days/2026-10-08)
 
 ## 2026 年 9 月
