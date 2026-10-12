@@ -6,3 +6,4 @@ docs/.vitepress/dist/
 public/images/
 .DS_Store
 *.log
+*/__pycache__/
