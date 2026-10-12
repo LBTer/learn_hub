@@ -1,0 +1,4 @@
+interface:
+  display_name: "奇衡系列课程精读"
+  short_description: "按系列精读奇衡课程，保留论证与感悟，并随观点和教学方式演进迭代"
+  default_prompt: "使用 $analyze-qiheng-dk 分析奇衡这节课，核验系列位置，制作文字学习稿与精品知识笔记，并判断是否需要迭代 skill。"
