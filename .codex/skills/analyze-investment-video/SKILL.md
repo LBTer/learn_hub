@@ -16,6 +16,7 @@ description: 仅分析其他作者专属 skill 尚未覆盖的投资类普通公
 - “比巴卜作手”相关视频 → 使用 `analyze-bibabu-zuoshou`。
 - “数字K哥”相关视频 → 使用 `analyze-shuzi-kge`。
 - “袁帅马”相关视频 → 使用 `analyze-yuanshuaima`。
+- “奇衡DK-CAPITAL”“奇衡dk”或 UID `473168952` 相关视频 → 使用 `analyze-qiheng-dk`，按系列课程精读。
 - “视野环球财经”或 “RhinoFinance” 相关视频 → 使用 `analyze-rhino-finance`。
 - “小翠时政财经”相关视频 → 使用 `analyze-xiaocui-news`。
 
