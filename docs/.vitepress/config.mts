@@ -174,7 +174,29 @@ export default withMermaid(defineConfig({
               }
             ]
           },
-          { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
+          {
+            text: '奇衡DK-CAPITAL',
+            items: [
+              { text: '人物首页', link: '/trading/experts/qiheng-dk' },
+              { text: '系列课程总目录', link: '/trading/experts/qiheng-dk/series/' },
+              {
+                text: '股票作手操盘术',
+                items: [
+                  { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/stock-operator/' },
+                  { text: '精品笔记', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/' },
+                  { text: '文字稿', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/' }
+                ]
+              },
+              {
+                text: '专业投机原理',
+                items: [
+                  { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/professional-speculation/' },
+                  { text: '精品笔记', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/' },
+                  { text: '文字稿', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/' }
+                ]
+              }
+            ]
+          },
           {
             text: '小翠',
             items: [
@@ -495,7 +517,78 @@ export default withMermaid(defineConfig({
               link: '/trading/experts/',
               collapsed: true,
               items: [
-                { text: '奇衡dk', link: '/trading/experts/qiheng-dk' },
+                {
+                  text: '奇衡DK-CAPITAL',
+                  link: '/trading/experts/qiheng-dk',
+                  collapsed: true,
+                  items: [
+                    { text: '系列课程总目录', link: '/trading/experts/qiheng-dk/series/' },
+                    {
+                      text: '专业投机原理',
+                      link: '/trading/experts/qiheng-dk/series/professional-speculation/',
+                      collapsed: false,
+                      items: [
+                        {
+                          text: '精品笔记',
+                          link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 第一课 · 先看交易所处的环境', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1U5411W7SZ' }
+                          ]
+                        },
+                        {
+                          text: '文字稿',
+                          link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 第一课 · 美元指数周期（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1U5411W7SZ' }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      text: '股票作手操盘术',
+                      link: '/trading/experts/qiheng-dk/series/stock-operator/',
+                      collapsed: false,
+                      items: [
+                        {
+                          text: '精品笔记',
+                          link: '/trading/experts/qiheng-dk/series/stock-operator/notes/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 导论 · 从作手故事中学习判断力', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1Hg4y187pU' },
+                            { text: '02 · 正课开篇 · 从有观点到有资格行动', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1Hp4y1y74h' },
+                            { text: '03 · 第二课 · 看对之后，怎样避免过早行动', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV17Q4y1N7v2' },
+                            { text: '04 · 第二章续讲 · 正常回撤，正常在哪里', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV12A41147mW' },
+                            { text: '05 · 追随领头羊 · 看懂领头羊，未必要买领头羊', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1KA411t7p3' },
+                            { text: '06 · 利润留存 · 盈利之后，重新划定风险的边界', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1Ft4y117hs' },
+                            { text: '07 · 关键点与杠杆 · 先建立优势，再放大敞口', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1de411p7H3' },
+                            { text: '08 · 分笔管理 · 分了几笔，不等于分散了风险', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1Xg4y1B7KF' },
+                            { text: '09 · 小麦案例 · 先看关系，再看关系是否改变', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1Qk4y167FM' },
+                            { text: '10 · 收官复习 · 让判断有条件，让行动有准备', link: '/trading/experts/qiheng-dk/series/stock-operator/notes/BV1sz411i76D' }
+                          ]
+                        },
+                        {
+                          text: '文字稿',
+                          link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 导论 · 时间轴学习稿（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Hg4y187pU' },
+                            { text: '02 · 正课开篇 · 怎样炒股票（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Hp4y1y74h' },
+                            { text: '03 · 第二课 · 怎样炒股才不会被套（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV17Q4y1N7v2' },
+                            { text: '04 · 第二章续讲 · 炒股不炒主升浪（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV12A41147mW' },
+                            { text: '05 · 追随领头羊 · 股市领头羊烹调指南（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1KA411t7p3' },
+                            { text: '06 · 利润留存 · 炒股赚了钱如何不亏回去（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Ft4y117hs' },
+                            { text: '07 · 关键点与杠杆 · 脱水干货（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1de411p7H3' },
+                            { text: '08 · 分笔管理 · 致命的交易习惯（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Xg4y1B7KF' },
+                            { text: '09 · 小麦案例 · 怎样从股票玩你逆袭（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Qk4y167FM' },
+                            { text: '10 · 收官复习 · 每一位交易者，奥利给（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1sz411i76D' }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   text: '小翠',
                   link: '/trading/experts/xiaocui/',
