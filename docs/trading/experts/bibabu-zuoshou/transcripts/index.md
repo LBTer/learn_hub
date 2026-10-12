@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-12：投胎牛，每天都有数不尽的理由下杀](/trading/experts/bibabu-zuoshou/transcripts/2026-10-12)
+
 - [2026-10-09：周五修复与周一预案，软件持续性观察（10 月 11 日发布）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-09)
 
 - [2026-10-08：极致轮动、非拐点试错与横盘条件](/trading/experts/bibabu-zuoshou/transcripts/2026-10-08)
