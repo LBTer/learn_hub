@@ -9,12 +9,13 @@ import math
 import re
 import subprocess
 import sys
-import tempfile
 import urllib.request
 from pathlib import Path
 
 UID = 473168952
 API = 'https://api.bilibili.com/'
+PROJECT_ROOT = Path(__file__).resolve().parents[4]
+WORK_ROOT = PROJECT_ROOT / '.tmp' / 'qiheng'
 
 
 def save_json(path, data):
@@ -75,7 +76,7 @@ def fetch(args):
     url = f'https://www.bilibili.com/video/{bvid}/?p={args.page}'
     data = api_data(f'x/web-interface/view?bvid={bvid}', url)
     page = select_page(data, args.page)
-    folder = Path(args.output).expanduser().resolve() if args.output else Path(tempfile.mkdtemp(prefix=f'qiheng-{bvid}-'))
+    folder = Path(args.output).expanduser().resolve() if args.output else WORK_ROOT / bvid / f'p{args.page:02d}'
     folder.mkdir(parents=True, exist_ok=True)
     if any(folder.iterdir()):
         raise ValueError('取材目录必须为空，避免覆盖已有底稿')
