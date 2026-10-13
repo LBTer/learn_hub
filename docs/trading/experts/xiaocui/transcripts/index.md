@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-12：沙特与霍尔木兹、俄乌、法国预算、中欧混动车、美股 AI、社保与问答](/trading/experts/xiaocui/transcripts/2026-10-12)
 - [2026-10-09：美伊、产能声明、PERM、美债、OpenAI、Claude、尊界与问答](/trading/experts/xiaocui/transcripts/2026-10-09)
 - [2026-10-08：法国债务、美伊、美债、东亚股市、AMD、微软、A 股与贸易问答](/trading/experts/xiaocui/transcripts/2026-10-08)
 - [2026-10-07：美伊、欧洲、数据中心、Marvell、Oracle、网络安全与问答](/trading/experts/xiaocui/transcripts/2026-10-07)
