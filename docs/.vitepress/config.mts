@@ -1495,6 +1495,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-13',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-10-13'
+                        },
+                        {
                           text: '2026-10-09',
                           link: '/trading/experts/rhino-finance/market-reviews/2026-10-09'
                         },
@@ -1758,6 +1762,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-13 摘要',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-10-13'
+                        },
+                        {
                           text: '2026-10-09 摘要',
                           link: '/trading/experts/rhino-finance/transcripts/2026-10-09'
                         },
@@ -2020,6 +2028,7 @@ export default withMermaid(defineConfig({
                       text: '会员笔记',
                       collapsed: true,
                       items: [
+                        { text: '第305期：盈利修正数据', link: '/trading/experts/rhino-finance/member-notes/2026-10-11-xOY53crL1ZA' },
                         { text: '第304期：条件风险', link: '/trading/experts/rhino-finance/member-notes/2026-10-04-V11vKrhYRpI' },
                         { text: '第303期：VIX期限结构', link: '/trading/experts/rhino-finance/member-notes/2026-09-27-kD5hGfArUf0' }
                       ]
@@ -2029,6 +2038,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/member-transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '第305期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-10-11-xOY53crL1ZA' },
                         { text: '第304期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-10-04-V11vKrhYRpI' },
                         { text: '第303期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-09-27-kD5hGfArUf0' }
                       ]
