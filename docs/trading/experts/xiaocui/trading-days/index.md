@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-14：柴油、CPI、银行财报、AI 融资、存储、云巨头与国考](/trading/experts/xiaocui/trading-days/2026-10-14) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-14)
 - [2026-10-13：俄乌、法国债务、美债黄金、数据中心、半导体、Anthropic 与黄奇帆](/trading/experts/xiaocui/trading-days/2026-10-13) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-13)
 - [2026-10-12：油价与俄乌、法国预算、中欧混动车、美债黄金、AI 与社保](/trading/experts/xiaocui/trading-days/2026-10-12) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-12)
 - [2026-10-09：产能声明、PERM、美债财政、OpenAI、Claude 与尊界制动争议](/trading/experts/xiaocui/trading-days/2026-10-09) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-09)

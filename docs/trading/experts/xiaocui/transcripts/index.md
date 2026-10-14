@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-14：柴油、银行、AI、存储、Oracle、国考与选股问答](/trading/experts/xiaocui/transcripts/2026-10-14)
 - [2026-10-13：俄乌、Omar 搜查、利率与黄金、Loudoun 数据中心、半导体、模型公司与问答](/trading/experts/xiaocui/transcripts/2026-10-13)
 - [2026-10-12：沙特与霍尔木兹、俄乌、法国预算、中欧混动车、美股 AI、社保与问答](/trading/experts/xiaocui/transcripts/2026-10-12)
 - [2026-10-09：美伊、产能声明、PERM、美债、OpenAI、Claude、尊界与问答](/trading/experts/xiaocui/transcripts/2026-10-09)

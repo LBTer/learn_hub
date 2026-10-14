@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-14 交易日总结](/trading/experts/xiaocui/trading-days/2026-10-14)
+- [2026-10-14 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-14)
 - [2026-10-13 交易日总结](/trading/experts/xiaocui/trading-days/2026-10-13)
 - [2026-10-13 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-13)
 - [2026-10-12 交易日总结](/trading/experts/xiaocui/trading-days/2026-10-12)
