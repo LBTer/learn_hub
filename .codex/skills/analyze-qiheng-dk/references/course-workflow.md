@@ -6,19 +6,19 @@
 
 ```bash
 # 1. 元数据、中文字幕（若有）、完整视频与时长核验
-uv run --with yt-dlp python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py fetch BV1Xg4y1B7KF -o /tmp/qiheng-lesson08
+uv run --with yt-dlp python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py fetch BV1Xg4y1B7KF -o .tmp/qiheng/stock-operator/BV1Xg4y1B7KF
 
 # 2. 无可靠字幕时，全片转写；底稿不自动变成正式文章
-uv run --with faster-whisper --with 'av<17' python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py transcribe /tmp/qiheng-lesson08/video.mp4 -o /tmp/qiheng-lesson08/asr
+uv run --with faster-whisper --with 'av<17' python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py transcribe .tmp/qiheng/stock-operator/BV1Xg4y1B7KF/video.mp4 -o .tmp/qiheng/stock-operator/BV1Xg4y1B7KF/asr
 
 # 3. 仅重识别有问题的一段；输出时间自动加回02:00偏移
-uv run --with faster-whisper --with 'av<17' python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py transcribe /tmp/qiheng-lesson08/video.mp4 --start 02:00 --duration 00:40 -o /tmp/qiheng-lesson08/recheck-0200
+uv run --with faster-whisper --with 'av<17' python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py transcribe .tmp/qiheng/stock-operator/BV1Xg4y1B7KF/video.mp4 --start 02:00 --duration 00:40 -o .tmp/qiheng/stock-operator/BV1Xg4y1B7KF/recheck-0200
 
 # 4. 按教学内容选时间，提取候选原始帧
-uv run --with 'av<17' --with pillow python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py frames /tmp/qiheng-lesson08/video.mp4 --at 18:56 20:54 24:40 -o /tmp/qiheng-lesson08/frames
+uv run --with 'av<17' --with pillow python .codex/skills/analyze-qiheng-dk/scripts/video_pipeline.py frames .tmp/qiheng/stock-operator/BV1Xg4y1B7KF/video.mp4 --at 18:56 20:54 24:40 -o .tmp/qiheng/stock-operator/BV1Xg4y1B7KF/frames
 ```
 
-`fetch` 支持 BVID 或链接，分 P 显式传 `--page N`。省略 `-o` 时创建独立临时目录；指定目录必须为空。仅接受奇衡 UID，失败不读取浏览器凭证，不绕过登录或访问限制；需要浏览器处理时回到下文取材流程。
+`fetch` 支持 BVID 或链接，分 P 显式传 `--page N`。省略 `-o` 时使用项目 `.tmp/qiheng/<BVID>/pNN/`；推荐显式指定 `.tmp/qiheng/<series>/<BVID>/`。取材目录必须为空，重复任务应在同一课程目录下另建明确命名的修订目录，不覆盖旧素材。仅接受奇衡 UID，失败不读取浏览器凭证，不绕过登录或访问限制；需要浏览器处理时回到下文取材流程。
 
 产物说明：
 
@@ -29,7 +29,7 @@ uv run --with 'av<17' --with pillow python .codex/skills/analyze-qiheng-dk/scrip
 - `asr/raw.md`、`segments.json`、`audio.wav`、`transcription.json`：原始自动转写、精确秒数、音频及模型/偏移/覆盖记录。默认中文、small、CPU int8、VAD、关闭前文条件及重复惩罚 1.2；可用 `--model` 更换模型。
 - `frames/*ms.png`、`frames.json`：候选图片与请求/实际时间、分辨率。输出文件名以毫秒计，必须逐图查看再选择入库。
 
-三个命令可以分开重跑，不覆盖已存在的同名产物，失败保留现场，**不执行任何清理或删除**。素材完成使命后，由调用者遵守单文件规则逐个处理。脚本只负责取材与机械转换；全文阅读、事实判断、文字材料冻结和笔记写作仍由分析者完成。
+三个命令可以分开重跑，不覆盖已存在的同名产物，失败保留现场，**不执行任何清理或删除**。每次分析完成并验收后，由分析者按主 skill 的文件操作约束安排清理本次临时文件。脚本只负责取材与机械转换；全文阅读、事实判断、文字材料冻结和笔记写作仍由分析者完成。
 
 ## 获取材料
 
@@ -89,9 +89,9 @@ uv run python scripts/transcribe_audio.py <audio-path> -o <raw-transcript-path> 
 
 修改正文后运行 `npm run docs:build`；修改 skill 后使用当前可用 skill-creator 的 `scripts/quick_validate.py` 校验，不照抄其他电脑的绝对路径。再运行 `git diff --check`，检查本次文件。
 
-正式产物验证完成后，按确切路径单文件处理临时材料。不为清理便利而删除整个目录；需批量处理则交给用户。
+每次分析完成并验收后，自行逐个删除本次专用目录中的临时文件，再逐个清理空目录，并核验残留。用户已明确授权本 skill 执行此收尾，无需再次确认或生成清理命令。每次操作只指定一个明确路径，不递归、不使用通配符或循环删除；保留正式文章、入库图片、可复用脚本和其他任务材料。未经核验不标作已清理。
 
-## 从比巴卜流程迁移的取材步骤（0.4）
+## 从比巴卜流程迁移的取材步骤
 
 本节适用于新课与旧稿回改，来源为项目 `analyze-bibabu-zuoshou/references/video-analysis-workflow.md` 的获取、转写、冻结与截帧流程，按奇衡系列课调整。执行本节不必再加载比巴卜 skill。用户提供 B 站链接并要求分析，或要求下载素材时，应主动获取可访问素材；不要仅因本地没有音视频，就将下载工作转交给用户。
 
@@ -108,7 +108,7 @@ https://api.bilibili.com/x/player/playurl?bvid=<BVID>&cid=<CID>&qn=16&fnval=0
 下载带常见浏览器 `User-Agent` 与原视频 `Referer`，使用本次响应实际返回的主地址及 `backup_url`，不猜测或改写签名地址。地址仅在内存中使用，不写入知识库。主地址失败后有限尝试返回的备用地址；公开下载器可作后备：
 
 ```bash
-uv run --with yt-dlp yt-dlp --no-playlist --socket-timeout 20 --retries 1 -o /tmp/qiheng-<BVID>.mp4 '<video-url>'
+uv run --with yt-dlp yt-dlp --no-playlist --socket-timeout 20 --retries 1 -o .tmp/qiheng/<series>/<BVID>/video.mp4 '<video-url>'
 ```
 
 若下载器提示所选格式不可用，先用 `--list-formats` 查看实际列表；分轨视频按列表中存在的“视频 ID + 音频 ID”获取并合并，不假定一定有单文件 `worst` 格式。格式选择错误先修正，不计作所有媒体地址都不可达。
@@ -135,4 +135,4 @@ uv run --with yt-dlp yt-dlp --no-playlist --socket-timeout 20 --retries 1 -o /tm
 
 按论证所需时间点用 PyAV 提取原始帧，Pillow 保存图片；也可用浏览器保存实际可见的播放器截图。两者均需记录真实时间与来源。逐图查看后再入库，说明图中可见信息、口述补充和整理者计算分别是什么。坐标不清楚时不从像素猜价格，不用图示证明实际成交。
 
-沿用 `docs/public/images/trading/qiheng-dk/<series-slug>/<BVID>/`，同一图尽量复用；不复制比巴卜的日期目录或固定截图数量。按具体课的教学价值选择，不机械每段一图。正文、图片、目录验证后，临时素材按明确路径逐个处理，不递归或批量删除。
+沿用 `docs/public/images/trading/qiheng-dk/<series-slug>/<BVID>/`，同一图尽量复用；不复制比巴卜的日期目录或固定截图数量。按具体课的教学价值选择，不机械每段一图。正文、图片、目录验证后，按前述收尾要求清理本次临时文件与空目录，不递归删除。

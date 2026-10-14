@@ -533,7 +533,14 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/',
                           collapsed: false,
                           items: [
-                            { text: '01 · 第一课 · 先看交易所处的环境', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1U5411W7SZ' }
+                            { text: '01 · 第一课 · 先看交易所处的环境', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1U5411W7SZ' },
+                            { text: '02 · 第二课 · 识别机会，也认清自己的条件', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV18v41167Mi' },
+                            { text: '03 · 第三课 · 入场理由失效以后，先停止扩大错误', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1UK4y147rY' },
+                            { text: '04 · 第四课 · 从事后解释走向事前可检查的条件', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1Ak4y1B7ku' },
+                            { text: '05 · 第五课 · 先确定资金的任务，再决定怎样看图', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1MK4y1x7wL' },
+                            { text: '06 · 第六课 · 把顶底判断改成可以认错的应对', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1Q5411h7fa' },
+                            { text: '07 · 第七课 · 让守则变成可检查的行动', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1VD4y1D7rL' },
+                            { text: '08 · 第八课 · 先选择能反复交易的环境', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV15K411n7Gb' }
                           ]
                         },
                         {
@@ -541,7 +548,14 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/',
                           collapsed: false,
                           items: [
-                            { text: '01 · 第一课 · 美元指数周期（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1U5411W7SZ' }
+                            { text: '01 · 第一课 · 美元指数周期（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1U5411W7SZ' },
+                            { text: '02 · 第二课 · “投机”投的是什么机？（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV18v41167Mi' },
+                            { text: '03 · 第三课 · 鳄鱼法则（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1UK4y147rY' },
+                            { text: '04 · 第四课 · 批判地继承道氏理论（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Ak4y1B7ku' },
+                            { text: '05 · 第五课 · 趋势（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1MK4y1x7wL' },
+                            { text: '06 · 第六课 · 2B 法则（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Q5411h7fa' },
+                            { text: '07 · 第七课 · 交易守则（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1VD4y1D7rL' },
+                            { text: '08 · 第八课 · 只在高流动性的市场交易（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV15K411n7Gb' }
                           ]
                         }
                       ]

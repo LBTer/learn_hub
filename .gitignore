@@ -7,3 +7,6 @@ public/images/
 .DS_Store
 *.log
 */__pycache__/
+
+# Course evidence and local cleanup manifests
+/.tmp/
