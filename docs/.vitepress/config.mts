@@ -3248,6 +3248,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-15 BTC 调整与起涨确认',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-10-15-BV1a7pm61Eae'
+                        },
+                        {
                           text: '2026-09-29 BTC 支撑与空单退出',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-09-29-BV125aJ6jEi1'
                         },
@@ -3358,6 +3362,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-10-15 BTC 调整与起涨确认',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-10-15-BV1a7pm61Eae'
+                        },
                         {
                           text: '2026-09-29 BTC 支撑与空单退出',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-09-29-BV125aJ6jEi1'

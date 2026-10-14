@@ -2,6 +2,10 @@
 
 按日期保存数字K哥公开视频的整理文字稿。文字稿来自 B 站字幕或本地转写后的人工整理，不等同于逐字稿。
 
+## 2026 年 10 月
+
+- [2026-10-15：BTC 调整未完、两级旗形与起涨确认](/trading/experts/shuzi-kge/transcripts/2026-10-15-BV1a7pm61Eae)
+
 ## 2026 年 9 月
 
 - [2026-09-29：BTC 82,800 支撑、空单退出与 85,000 阻力](/trading/experts/shuzi-kge/transcripts/2026-09-29-BV125aJ6jEi1)

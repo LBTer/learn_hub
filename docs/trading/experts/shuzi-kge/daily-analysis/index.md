@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 10 月
+
+- [2026-10-15：BTC 调整未完、两级旗形与起涨确认](/trading/experts/shuzi-kge/daily-analysis/2026-10-15-BV1a7pm61Eae)
+
 ## 2026 年 9 月
 
 - [2026-09-29：BTC 82,800 支撑、空单退出与 85,000 阻力](/trading/experts/shuzi-kge/daily-analysis/2026-09-29-BV125aJ6jEi1)
