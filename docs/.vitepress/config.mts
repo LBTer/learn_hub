@@ -1503,6 +1503,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-14',
+                          link: '/trading/experts/rhino-finance/market-reviews/2026-10-14'
+                        },
+                        {
                           text: '2026-10-13',
                           link: '/trading/experts/rhino-finance/market-reviews/2026-10-13'
                         },
@@ -1769,6 +1773,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-10-14 摘要',
+                          link: '/trading/experts/rhino-finance/transcripts/2026-10-14'
+                        },
                         {
                           text: '2026-10-13 摘要',
                           link: '/trading/experts/rhino-finance/transcripts/2026-10-13'
