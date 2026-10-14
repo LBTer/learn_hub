@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-14：退潮二延续、深水修正原理与后手风险](/trading/experts/bibabu-zuoshou/trading-days/2026-10-14)
+
 - [2026-10-13：二冰点修复、小票高低切与长教训的能力](/trading/experts/bibabu-zuoshou/trading-days/2026-10-13)
 
 - [2026-10-12：缩量反杀、退潮判断修正与加速接力风险](/trading/experts/bibabu-zuoshou/trading-days/2026-10-12)
