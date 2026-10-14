@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-14：十月地狱开局，次次都一样，深水战法原理](/trading/experts/bibabu-zuoshou/transcripts/2026-10-14)
+
 - [2026-10-13：牛又又又来了吗？股市中天赋是什么](/trading/experts/bibabu-zuoshou/transcripts/2026-10-13)
 
 - [2026-10-12：投胎牛，每天都有数不尽的理由下杀](/trading/experts/bibabu-zuoshou/transcripts/2026-10-12)
