@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-15：盘中轮动、三类玩法与量化同质化风险](/trading/experts/bibabu-zuoshou/trading-days/2026-10-15)
+
 - [2026-10-14：退潮二延续、深水修正原理与后手风险](/trading/experts/bibabu-zuoshou/trading-days/2026-10-14)
 
 - [2026-10-13：二冰点修复、小票高低切与长教训的能力](/trading/experts/bibabu-zuoshou/trading-days/2026-10-13)
