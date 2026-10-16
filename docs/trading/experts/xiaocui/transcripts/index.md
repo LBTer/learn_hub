@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-16：PPI、存储、CoreWeave、Tesla、Meta、AI 反诈、中国消息与反网暴评论](/trading/experts/xiaocui/transcripts/2026-10-16)
 - [2026-10-15：伊朗、股债避险、台积电、CoreWeave、NVIDIA、Oracle 与估值问答](/trading/experts/xiaocui/transcripts/2026-10-15)
 - [2026-10-14：柴油、银行、AI、存储、Oracle、国考与选股问答](/trading/experts/xiaocui/transcripts/2026-10-14)
 - [2026-10-13：俄乌、Omar 搜查、利率与黄金、Loudoun 数据中心、半导体、模型公司与问答](/trading/experts/xiaocui/transcripts/2026-10-13)
