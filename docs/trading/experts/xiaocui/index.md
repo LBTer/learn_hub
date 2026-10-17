@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-17 会员专题：回撤心理、分批执行与远期估值核验](/trading/experts/xiaocui/member-sessions/2026-10-17)
+- [2026-10-17 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-17)
 - [2026-10-16 交易日总结](/trading/experts/xiaocui/trading-days/2026-10-16)
 - [2026-10-16 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-16)
 - [2026-10-15 交易日总结](/trading/experts/xiaocui/trading-days/2026-10-15)
@@ -173,6 +175,8 @@
 
 ## 最新会员视频
 
+- [2026-10-17 会员专题](/trading/experts/xiaocui/member-sessions/2026-10-17)
+- [2026-10-17 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-17)
 - [2026-09-26 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-26)
 - [2026-09-26 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-09-26)
 - [2026-09-19 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-19)
