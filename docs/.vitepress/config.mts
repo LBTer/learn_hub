@@ -2195,6 +2195,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-16（10 月 18 日发布）',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-10-16'
+                        },
+                        {
                           text: '2026-10-15（盘中直播）',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-10-15'
                         },
@@ -2497,6 +2501,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/bibabu-zuoshou/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-10-16（10 月 18 日发布）',
+                          link: '/trading/experts/bibabu-zuoshou/transcripts/2026-10-16'
+                        },
                         {
                           text: '2026-10-15（盘中直播）',
                           link: '/trading/experts/bibabu-zuoshou/transcripts/2026-10-15'

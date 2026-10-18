@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-16：高开低走恶心人，两极分化高低切（10 月 18 日发布）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-16)
+
 - [2026-10-15：1015 盘中直播回放（50 分钟完整时间轴）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-15)
 
 - [2026-10-14：十月地狱开局，次次都一样，深水战法原理](/trading/experts/bibabu-zuoshou/transcripts/2026-10-14)
