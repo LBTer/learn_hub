@@ -3320,6 +3320,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-19 BTC 四浪与短空对冲',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-10-19-BV1gDJR6xE98'
+                        },
+                        {
                           text: '2026-10-15 BTC 调整与起涨确认',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-10-15-BV1a7pm61Eae'
                         },
@@ -3434,6 +3438,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-10-19 BTC 四浪与短空对冲',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-10-19-BV1gDJR6xE98'
+                        },
                         {
                           text: '2026-10-15 BTC 调整与起涨确认',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-10-15-BV1a7pm61Eae'
