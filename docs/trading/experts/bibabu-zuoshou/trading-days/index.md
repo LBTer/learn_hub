@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-19：新华分歧、科技抱团对流与止跌确认纪律](/trading/experts/bibabu-zuoshou/trading-days/2026-10-19)
+
 - [2026-10-16：两极分化、高低切与缩量抢修复陷阱（10 月 18 日发布）](/trading/experts/bibabu-zuoshou/trading-days/2026-10-16)
 
 - [2026-10-15：盘中轮动、三类玩法与量化同质化风险](/trading/experts/bibabu-zuoshou/trading-days/2026-10-15)

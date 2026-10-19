@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-19：新华妖龙爆量，大盘何时止跌](/trading/experts/bibabu-zuoshou/transcripts/2026-10-19)
+
 - [2026-10-16：高开低走恶心人，两极分化高低切（10 月 18 日发布）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-16)
 
 - [2026-10-15：1015 盘中直播回放（50 分钟完整时间轴）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-15)
