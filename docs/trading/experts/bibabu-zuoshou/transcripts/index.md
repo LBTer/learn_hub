@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-20：确认左侧底部，寻找载体，准备猛干](/trading/experts/bibabu-zuoshou/transcripts/2026-10-20)
+
 - [2026-10-19：新华妖龙爆量，大盘何时止跌](/trading/experts/bibabu-zuoshou/transcripts/2026-10-19)
 
 - [2026-10-16：高开低走恶心人，两极分化高低切（10 月 18 日发布）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-16)
