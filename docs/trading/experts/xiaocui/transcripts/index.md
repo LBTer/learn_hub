@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-20：CoreWeave、日债、Amazon、NVIDIA、技术出口与投资问答](/trading/experts/xiaocui/transcripts/2026-10-20)
 - [2026-10-19：黑色星期一、AI 电力瓶颈、公益股份、DOGE、中国经济与长期投资](/trading/experts/xiaocui/transcripts/2026-10-19)
 - [2026-10-16：PPI、存储、CoreWeave、Tesla、Meta、AI 反诈、中国消息与反网暴评论](/trading/experts/xiaocui/transcripts/2026-10-16)
 - [2026-10-15：伊朗、股债避险、台积电、CoreWeave、NVIDIA、Oracle 与估值问答](/trading/experts/xiaocui/transcripts/2026-10-15)
