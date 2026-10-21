@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-21：科技等待右侧，投机防分歧与换手回封条件](/trading/experts/bibabu-zuoshou/trading-days/2026-10-21)
+
 - [2026-10-20：左侧企稳不等于主升，机器人载体与分化门槛](/trading/experts/bibabu-zuoshou/trading-days/2026-10-20)
 
 - [2026-10-19：新华分歧、科技抱团对流与止跌确认纪律](/trading/experts/bibabu-zuoshou/trading-days/2026-10-19)

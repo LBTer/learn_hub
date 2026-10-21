@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-21：宁德战犯带崩创板，科技机会不是现在，投机明天小心](/trading/experts/bibabu-zuoshou/transcripts/2026-10-21)
+
 - [2026-10-20：确认左侧底部，寻找载体，准备猛干](/trading/experts/bibabu-zuoshou/transcripts/2026-10-20)
 
 - [2026-10-19：新华妖龙爆量，大盘何时止跌](/trading/experts/bibabu-zuoshou/transcripts/2026-10-19)
