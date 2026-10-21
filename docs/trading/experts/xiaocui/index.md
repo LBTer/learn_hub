@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-21 交易日总结：SpaceX 财报、NVIDIA 部署、算力合同与台湾议题](/trading/experts/xiaocui/trading-days/2026-10-21)
+- [2026-10-21 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-21)
 - [2026-10-20 交易日总结：CoreWeave 债务、GPU 租价、AWS 与技术出口目录](/trading/experts/xiaocui/trading-days/2026-10-20)
 - [2026-10-20 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-20)
 - [2026-10-19 交易日总结：AI 需求、电力交付、公益股权与政策口径](/trading/experts/xiaocui/trading-days/2026-10-19)

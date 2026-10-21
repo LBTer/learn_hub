@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-21：SpaceX 财报、NVIDIA 全栈、算力合同、社区供电与台湾议题](/trading/experts/xiaocui/trading-days/2026-10-21) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-21)
 - [2026-10-20：CoreWeave 债务、GPU 租价、AWS 与技术出口目录](/trading/experts/xiaocui/trading-days/2026-10-20) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-20)
 - [2026-10-19：AI 泡沫、数据中心电力、Anthropic、公益股权与中国政策](/trading/experts/xiaocui/trading-days/2026-10-19) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-19)
 - [2026-10-16：消费与加息、存储长约、AI 融资、Roadster、反诈与 token 用途](/trading/experts/xiaocui/trading-days/2026-10-16) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-16)
