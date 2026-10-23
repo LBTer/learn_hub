@@ -2240,6 +2240,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-22',
+                          link: '/trading/experts/bibabu-zuoshou/trading-days/2026-10-22'
+                        },
+                        {
                           text: '2026-10-21',
                           link: '/trading/experts/bibabu-zuoshou/trading-days/2026-10-21'
                         },
@@ -2558,6 +2562,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/bibabu-zuoshou/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-10-22',
+                          link: '/trading/experts/bibabu-zuoshou/transcripts/2026-10-22'
+                        },
                         {
                           text: '2026-10-21',
                           link: '/trading/experts/bibabu-zuoshou/transcripts/2026-10-21'

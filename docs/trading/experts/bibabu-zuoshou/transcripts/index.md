@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-22：纯粹的垃圾，顶级华天干崩全场](/trading/experts/bibabu-zuoshou/transcripts/2026-10-22)
+
 - [2026-10-21：宁德战犯带崩创板，科技机会不是现在，投机明天小心](/trading/experts/bibabu-zuoshou/transcripts/2026-10-21)
 
 - [2026-10-20：确认左侧底部，寻找载体，准备猛干](/trading/experts/bibabu-zuoshou/transcripts/2026-10-20)
