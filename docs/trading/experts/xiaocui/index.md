@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-23 交易日总结：AI 融资、存储供需、WDC／BE 财报与分批投资](/trading/experts/xiaocui/trading-days/2026-10-23)
+- [2026-10-23 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-23)
 - [2026-10-22 交易日总结：AI 需求与融资、Tesla／Meta 财报、宏观风险与市场比较](/trading/experts/xiaocui/trading-days/2026-10-22)
 - [2026-10-22 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-22)
 - [2026-10-21 交易日总结：SpaceX 财报、NVIDIA 部署、算力合同与台湾议题](/trading/experts/xiaocui/trading-days/2026-10-21)

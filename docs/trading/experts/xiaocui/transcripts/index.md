@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-23：美伊、融资、存储、WDC、BE、基金与分批买入问答](/trading/experts/xiaocui/transcripts/2026-10-23)
 - [2026-10-22：中东、股债黄金、AI 需求、Tesla、Meta、软件与逐题问答](/trading/experts/xiaocui/transcripts/2026-10-22)
 - [2026-10-21：停战预期、沈伯洋、SpaceX、NVIDIA、Anthropic 与生活问答](/trading/experts/xiaocui/transcripts/2026-10-21)
 - [2026-10-20：CoreWeave、日债、Amazon、NVIDIA、技术出口与投资问答](/trading/experts/xiaocui/transcripts/2026-10-20)
