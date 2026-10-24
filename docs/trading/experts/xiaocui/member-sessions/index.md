@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-24：牛市认知偏差、利润纪律、市场机制与远期估值](/trading/experts/xiaocui/member-sessions/2026-10-24) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-24)
 - [2026-10-17：回撤心理、分批执行、远期估值与家庭资金边界](/trading/experts/xiaocui/member-sessions/2026-10-17) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-17)
 - [2026-10-10：买入区间、观察仓、左侧分批与会员问答](/trading/experts/xiaocui/member-sessions/2026-10-10) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-10)
 - [2026-10-03：股票卖出纪律、EPS/PE、仓位再平衡与会员问答](/trading/experts/xiaocui/member-sessions/2026-10-03) · [会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-03)

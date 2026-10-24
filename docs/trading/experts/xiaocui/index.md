@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-24 会员专题：牛市认知偏差、利润纪律与远期估值边界](/trading/experts/xiaocui/member-sessions/2026-10-24)
+- [2026-10-24 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-24)
 - [2026-10-23 交易日总结：AI 融资、存储供需、WDC／BE 财报与分批投资](/trading/experts/xiaocui/trading-days/2026-10-23)
 - [2026-10-23 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-23)
 - [2026-10-22 交易日总结：AI 需求与融资、Tesla／Meta 财报、宏观风险与市场比较](/trading/experts/xiaocui/trading-days/2026-10-22)
