@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-23：恐慌回拉后新左侧，机器人与抱团的确认条件（10 月 25 日发布）](/trading/experts/bibabu-zuoshou/trading-days/2026-10-23)
+
 - [2026-10-22：左侧试错失败，双向反杀与右侧等待条件](/trading/experts/bibabu-zuoshou/trading-days/2026-10-22)
 
 - [2026-10-21：科技等待右侧，投机防分歧与换手回封条件](/trading/experts/bibabu-zuoshou/trading-days/2026-10-21)
