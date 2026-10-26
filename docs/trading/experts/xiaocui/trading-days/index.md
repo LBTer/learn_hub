@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-26：存储利润测算、韩国杠杆、Amazon 审批、云融资与 AI 创作](/trading/experts/xiaocui/trading-days/2026-10-26) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-26)
 - [2026-10-23：战争避险、AI 信贷、存储、WDC／BE 与抄底纪律](/trading/experts/xiaocui/trading-days/2026-10-23) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-23)
 - [2026-10-22：Ramp 需求、CoreWeave 融资、Tesla／Meta 财报与市场风险](/trading/experts/xiaocui/trading-days/2026-10-22) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-22)
 - [2026-10-21：SpaceX 财报、NVIDIA 全栈、算力合同、社区供电与台湾议题](/trading/experts/xiaocui/trading-days/2026-10-21) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-21)
