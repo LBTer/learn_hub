@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-27：千元股只剩一家，大A玄学动物园](/trading/experts/bibabu-zuoshou/transcripts/2026-10-27)
+
 - [2026-10-26：科技挨打何时了，右侧便秘继续等](/trading/experts/bibabu-zuoshou/transcripts/2026-10-26)
 
 - [2026-10-23：从太平间到商K，投机抱团明牌，新左侧开始做多（10 月 25 日发布）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-23)
