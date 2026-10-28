@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-28：中东、宏观、海力士、Oracle、AI 医疗、谷歌与逐题问答](/trading/experts/xiaocui/transcripts/2026-10-28)
 - [2026-10-27：炼油与物流、Anthropic、Corning、微软、Intel 和中国新闻](/trading/experts/xiaocui/transcripts/2026-10-27)
 - [2026-10-26：巴西、土地审批、韩国、存储、neocloud、Meta 与出海问答](/trading/experts/xiaocui/transcripts/2026-10-26)
 - [2026-10-23：美伊、融资、存储、WDC、BE、基金与分批买入问答](/trading/experts/xiaocui/transcripts/2026-10-23)
