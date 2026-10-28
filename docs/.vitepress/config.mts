@@ -3505,6 +3505,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-10-28 BTC 调整、ETH 与 MSTR',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-10-28-BV1c4x56GE5z'
+                        },
+                        {
                           text: '2026-10-19 BTC 四浪与短空对冲',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-10-19-BV1gDJR6xE98'
                         },
@@ -3623,6 +3627,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-10-28 BTC 调整、ETH 与 MSTR',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-10-28-BV1c4x56GE5z'
+                        },
                         {
                           text: '2026-10-19 BTC 四浪与短空对冲',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-10-19-BV1gDJR6xE98'
