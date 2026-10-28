@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-28：逐步企稳，机器人强度交棒与分歧参与边界](/trading/experts/bibabu-zuoshou/trading-days/2026-10-28)
+
 - [2026-10-27：左侧试错承压，机器人分歧与名称炒作边界](/trading/experts/bibabu-zuoshou/trading-days/2026-10-27)
 
 - [2026-10-26：筑底等待右侧，机器人分歧走强与模式分账](/trading/experts/bibabu-zuoshou/trading-days/2026-10-26)

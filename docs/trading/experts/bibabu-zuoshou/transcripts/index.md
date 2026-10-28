@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-28：逐步企稳，好事多磨，机器人继续超标](/trading/experts/bibabu-zuoshou/transcripts/2026-10-28)
+
 - [2026-10-27：千元股只剩一家，大A玄学动物园](/trading/experts/bibabu-zuoshou/transcripts/2026-10-27)
 
 - [2026-10-26：科技挨打何时了，右侧便秘继续等](/trading/experts/bibabu-zuoshou/transcripts/2026-10-26)
