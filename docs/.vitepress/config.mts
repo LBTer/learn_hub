@@ -1697,6 +1697,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/market-reviews/',
                       collapsed: true,
                       items: [
+                        { text: '2026-10-29', link: '/trading/experts/rhino-finance/market-reviews/2026-10-29' },
                         { text: '2026-10-28', link: '/trading/experts/rhino-finance/market-reviews/2026-10-28' },
                         { text: '2026-10-27', link: '/trading/experts/rhino-finance/market-reviews/2026-10-27' },
                         { text: '2026-10-24', link: '/trading/experts/rhino-finance/market-reviews/2026-10-24' },
@@ -1987,6 +1988,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '2026-10-29 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-29' },
                         { text: '2026-10-28 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-28' },
                         { text: '2026-10-27 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-27' },
                         { text: '2026-10-24 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-24' },
@@ -2301,7 +2303,9 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/company-notes/',
                       items: [
                         { text: 'TSM：估值与加仓计划', link: '/trading/experts/rhino-finance/company-notes/TSM' },
-                        { text: 'NFLX：等待建仓条件', link: '/trading/experts/rhino-finance/company-notes/NFLX' }
+                        { text: 'NFLX：等待建仓条件', link: '/trading/experts/rhino-finance/company-notes/NFLX' },
+                        { text: 'GOOG：业务验证', link: '/trading/experts/rhino-finance/company-notes/GOOG' },
+                        { text: 'MSFT：持仓条件', link: '/trading/experts/rhino-finance/company-notes/MSFT' }
                       ]
                     },
                     {
