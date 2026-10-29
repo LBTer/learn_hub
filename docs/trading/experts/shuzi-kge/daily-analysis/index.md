@@ -6,6 +6,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-29：BTC 调整下看 75,000—76,000、ETH 低点收回与相对强弱](/trading/experts/shuzi-kge/daily-analysis/2026-10-29-BV17CsZ64EdV)
 - [2026-10-28：BTC 调整路径、ETH 跌破收回与 MSTR 高目标](/trading/experts/shuzi-kge/daily-analysis/2026-10-28-BV1c4x56GE5z)
 - [2026-10-19：BTC 四浪未完、短空对冲与再布局条件](/trading/experts/shuzi-kge/daily-analysis/2026-10-19-BV1gDJR6xE98)
 - [2026-10-15：BTC 调整未完、两级旗形与起涨确认](/trading/experts/shuzi-kge/daily-analysis/2026-10-15-BV1a7pm61Eae)
