@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-29：AI 利率传导、三星、Oracle 现金流、谷歌转型、微软与并购](/trading/experts/xiaocui/trading-days/2026-10-29) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-29)
 - [2026-10-28：海力士长约、Oracle 云软件、希捷、谷歌与融资边界](/trading/experts/xiaocui/trading-days/2026-10-28) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-28)
 - [2026-10-27：Anthropic 招股书、云回报、Corning、配送通胀与姆巴佩争议](/trading/experts/xiaocui/trading-days/2026-10-27) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-27)
 - [2026-10-26：存储利润测算、韩国杠杆、Amazon 审批、云融资与 AI 创作](/trading/experts/xiaocui/trading-days/2026-10-26) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-26)

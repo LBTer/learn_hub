@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-29 交易日总结：云巨头现金流、谷歌转型、微软与并购风险](/trading/experts/xiaocui/trading-days/2026-10-29)
+- [2026-10-29 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-29)
 - [2026-10-28 交易日总结：海力士供需、Oracle 软件、谷歌与财报预期差](/trading/experts/xiaocui/trading-days/2026-10-28)
 - [2026-10-28 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-28)
 - [2026-10-27 交易日总结：Anthropic 财务、AI 投资回报、Corning 与交付风险](/trading/experts/xiaocui/trading-days/2026-10-27)
