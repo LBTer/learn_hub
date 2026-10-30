@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-30 交易日总结：Amazon 现金流、Intel 代工与供给、Sandisk 和投资心态](/trading/experts/xiaocui/trading-days/2026-10-30)
+- [2026-10-30 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-30)
 - [2026-10-29 交易日总结：云巨头现金流、谷歌转型、微软与并购风险](/trading/experts/xiaocui/trading-days/2026-10-29)
 - [2026-10-29 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-29)
 - [2026-10-28 交易日总结：海力士供需、Oracle 软件、谷歌与财报预期差](/trading/experts/xiaocui/trading-days/2026-10-28)
