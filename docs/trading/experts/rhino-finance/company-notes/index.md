@@ -6,3 +6,4 @@
 - [NFLX：低估判断与等待建仓](./NFLX.md)
 - [GOOG：从技术观察到业务验证](./GOOG.md)
 - [MSFT：商业化信心与持仓条件](./MSFT.md)
+- [AMZN：云增长、现金流与条件交易](./AMZN.md)
