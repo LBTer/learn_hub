@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-30：BTC 下探回抽、周线新高预期与 MSTR 1000 目标](/trading/experts/shuzi-kge/transcripts/2026-10-30-BV1Dpxe61EVN)
 - [2026-10-29：BTC 调整下看 75,000—76,000、ETH 低点收回与相对强弱](/trading/experts/shuzi-kge/transcripts/2026-10-29-BV17CsZ64EdV)
 - [2026-10-28：BTC 调整路径、ETH 跌破收回与 MSTR 高目标](/trading/experts/shuzi-kge/transcripts/2026-10-28-BV1c4x56GE5z)
 - [2026-10-19：BTC 四浪未完、短空对冲与再布局条件](/trading/experts/shuzi-kge/transcripts/2026-10-19-BV1gDJR6xE98)
