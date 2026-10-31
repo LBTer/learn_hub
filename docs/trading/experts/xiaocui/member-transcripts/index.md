@@ -4,6 +4,7 @@
 
 ## 2026 年 10 月
 
+- [2026-10-31 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-31) · [会员专题笔记](/trading/experts/xiaocui/member-sessions/2026-10-31)
 - [2026-10-24：牛市四类认知变化、波动机制与会员问答](/trading/experts/xiaocui/member-transcripts/2026-10-24)
 - [2026-10-17：跌麻了不敢抄底、历史回撤复盘与会员问答](/trading/experts/xiaocui/member-transcripts/2026-10-17)
 - [2026-10-10：开仓区间、观察仓、PLTR/Oracle 案例与会员问答](/trading/experts/xiaocui/member-transcripts/2026-10-10)

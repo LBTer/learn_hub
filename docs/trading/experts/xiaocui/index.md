@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-10-31 会员专题：回撤计量、进攻与防御、Intel 代工及确定性边界](/trading/experts/xiaocui/member-sessions/2026-10-31)
+- [2026-10-31 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-31)
 - [2026-10-30 交易日总结：Amazon 现金流、Intel 代工与供给、Sandisk 和投资心态](/trading/experts/xiaocui/trading-days/2026-10-30)
 - [2026-10-30 视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-30)
 - [2026-10-29 交易日总结：云巨头现金流、谷歌转型、微软与并购风险](/trading/experts/xiaocui/trading-days/2026-10-29)
