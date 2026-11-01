@@ -188,6 +188,14 @@ export default withMermaid(defineConfig({
                 ]
               },
               {
+                text: '以短线交易秘诀为生',
+                items: [
+                  { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/' },
+                  { text: '精品笔记', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/' },
+                  { text: '文字稿', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/' }
+                ]
+              },
+              {
                 text: '专业投机原理',
                 items: [
                   { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/professional-speculation/' },
@@ -524,6 +532,47 @@ export default withMermaid(defineConfig({
                   items: [
                     { text: '系列课程总目录', link: '/trading/experts/qiheng-dk/series/' },
                     {
+                      text: '以短线交易秘诀为生',
+                      link: '/trading/experts/qiheng-dk/series/trading-for-a-living/',
+                      collapsed: false,
+                      items: [
+                        {
+                          text: '精品笔记',
+                          link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 第一课 · 条件、指标与反例', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Vr4y1w7yB' },
+                            { text: '02 · 第二课 · 仓位与未来的选择', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Xv411k7xG' },
+                            { text: '03 · 第三课 · 偏爱、规则与资金上限', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1kT4y1F7Eg' },
+                            { text: '04 · 第四课 · 高低点定义与早期参与', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1qp4y167pV' },
+                            { text: '05 · 第五课 · 买入理由与结构范围', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1kt4y1e7pF' },
+                            { text: '06 · 第六课 · 力度、环境与行动', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV13t4y1Y72w' },
+                            { text: '07 · 第七课 · 先决定何时研究，再寻找方向', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1EZ4y1g7ke' },
+                            { text: '08 · 第八课 · 交易理由与进场条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1JK4y177EB' },
+                            { text: '09 · 第九课 · 关注、试盘与认输', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Nr4y1F7Us' },
+                            { text: '10 · 第十课 · 起爆参照、参数与条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Ut4y1k7dn' }
+                          ]
+                        },
+                        {
+                          text: '文字稿',
+                          link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 第一课 · 拉瑞·威廉姆斯与WR（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Vr4y1w7yB' },
+                            { text: '02 · 第二课 · 仓位管理与威廉信封（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Xv411k7xG' },
+                            { text: '03 · 第三课 · 阿卡姆疯人院（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1kT4y1F7Eg' },
+                            { text: '04 · 第四课 · 市场高低点判断（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1qp4y167pV' },
+                            { text: '05 · 第五课 · 如何买在起涨点（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1kt4y1e7pF' },
+                            { text: '06 · 第六课 · 什么是多空力度（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV13t4y1Y72w' },
+                            { text: '07 · 第七课 · 威廉时钟与布林通道（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1EZ4y1g7ke' },
+                            { text: '08 · 第八课 · 股价为什么涨跌（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1JK4y177EB' },
+                            { text: '09 · 第九课 · COMEX白银复盘（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Nr4y1F7Us' },
+                            { text: '10 · 第十课 · 趋势起爆点计算（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Ut4y1k7dn' }
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       text: '专业投机原理',
                       link: '/trading/experts/qiheng-dk/series/professional-speculation/',
                       collapsed: false,
@@ -533,9 +582,9 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/',
                           collapsed: false,
                           items: [
-                            { text: '01 · 第一课 · 先看交易所处的环境', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1U5411W7SZ' },
-                            { text: '02 · 第二课 · 识别机会，也认清自己的条件', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV18v41167Mi' },
-                            { text: '03 · 第三课 · 入场理由失效以后，先停止扩大错误', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1UK4y147rY' },
+                            { text: '01 · 第一课 · 先看交易所处的环境（新版）', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1U5411W7SZ' },
+                            { text: '02 · 第二课 · 识别机会，也认清自己的条件（新版）', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV18v41167Mi' },
+                            { text: '03 · 第三课 · 入场理由失效以后，先停止扩大错误（新版）', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1UK4y147rY' },
                             { text: '04 · 第四课 · 从事后解释走向事前可检查的条件', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1Ak4y1B7ku' },
                             { text: '05 · 第五课 · 先确定资金的任务，再决定怎样看图', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1MK4y1x7wL' },
                             { text: '06 · 第六课 · 把顶底判断改成可以认错的应对', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1Q5411h7fa' },
@@ -552,7 +601,7 @@ export default withMermaid(defineConfig({
                             { text: '17 · 第十四课（下） · 融资能力、现金流与下一回合', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1ny4y1k7q6' },
                             { text: '18 · 第十五课 · 债务置换、支撑与风险', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1CD4y1o7PC' },
                             { text: '19 · 第十六课（上） · 成本、频率与策略循环', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1C54y1y7Cn' },
-                            { text: '20 · 第十七课 · 指标、群体与进出分工', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1Zz4y1d7Kv' },
+                            { text: '20 · 第十七课 · 取样、群体与退出代价', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1Zz4y1d7Kv' },
                             { text: '21 · 第十八课 · 相互验证、仓位与兑现', link: '/trading/experts/qiheng-dk/series/professional-speculation/notes/BV1pD4y1d7ca' }
                           ]
                         },
@@ -561,27 +610,27 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/',
                           collapsed: false,
                           items: [
-                            { text: '01 · 第一课 · 美元指数周期（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1U5411W7SZ' },
-                            { text: '02 · 第二课 · “投机”投的是什么机？（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV18v41167Mi' },
-                            { text: '03 · 第三课 · 鳄鱼法则（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1UK4y147rY' },
-                            { text: '04 · 第四课 · 批判地继承道氏理论（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Ak4y1B7ku' },
-                            { text: '05 · 第五课 · 趋势（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1MK4y1x7wL' },
-                            { text: '06 · 第六课 · 2B 法则（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Q5411h7fa' },
-                            { text: '07 · 第七课 · 交易守则（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1VD4y1D7rL' },
-                            { text: '08 · 第八课 · 只在高流动性的市场交易（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV15K411n7Gb' },
-                            { text: '09 · 第九课 · 史波克症候群（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1rA411Y7Wm' },
-                            { text: '10 · 第十课 · 在知识不完整时执行交易（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV17A411n7ZC' },
-                            { text: '11 · 第十一课 · 维克多三大指导原则（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1qt4y1S7MZ' },
-                            { text: '12 · 伙伴专题 · 个人能力、储蓄与现金流（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1ak4y127uz' },
-                            { text: '13 · 第十二课 · 奇衡经济学（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Va4y1E7Bw' },
-                            { text: '14 · 复盘加餐 · 又被套了怎么办（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1wa4y1j7PQ' },
-                            { text: '15 · 第十三课 · 行情的四个阶段（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV13K4y1a7ED' },
-                            { text: '16 · 第十四课（上） · 货币、信用与经济循环（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1DK4y1a75s' },
-                            { text: '17 · 第十四课（下） · 货币、信用与经济循环（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1ny4y1k7q6' },
-                            { text: '18 · 第十五课 · 纪念约翰罗（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1CD4y1o7PC' },
-                            { text: '19 · 第十六课（上） · 技术分析（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1C54y1y7Cn' },
-                            { text: '20 · 第十七课 · 技术分析中篇（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Zz4y1d7Kv' },
-                            { text: '21 · 第十八课 · 技术分析收官（非逐字）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1pD4y1d7ca' }
+                            { text: '01 · 第一课 · 美元指数周期（31节详细稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1U5411W7SZ' },
+                            { text: '02 · 第二课 · 25节详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV18v41167Mi' },
+                            { text: '03 · 第三课 · 35节详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1UK4y147rY' },
+                            { text: '04 · 第四课 · 批判地继承道氏理论（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Ak4y1B7ku' },
+                            { text: '05 · 第五课 · 趋势（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1MK4y1x7wL' },
+                            { text: '06 · 第六课 · 2B 法则（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Q5411h7fa' },
+                            { text: '07 · 第七课 · 交易守则（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1VD4y1D7rL' },
+                            { text: '08 · 第八课 · 只在高流动性的市场交易（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV15K411n7Gb' },
+                            { text: '09 · 第九课 · 史波克症候群（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1rA411Y7Wm' },
+                            { text: '10 · 第十课 · 在知识不完整时执行交易（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV17A411n7ZC' },
+                            { text: '11 · 第十一课 · 维克多三大指导原则（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1qt4y1S7MZ' },
+                            { text: '12 · 伙伴专题 · 个人能力、储蓄与现金流（32节详细稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1ak4y127uz' },
+                            { text: '13 · 第十二课 · 奇衡经济学（27节详细稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Va4y1E7Bw' },
+                            { text: '14 · 复盘加餐 · 又被套了怎么办（13节详细稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1wa4y1j7PQ' },
+                            { text: '15 · 第十三课 · 行情的四个阶段（24节详细稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV13K4y1a7ED' },
+                            { text: '16 · 第十四课（上） · 货币、信用与经济循环（21节详细稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1DK4y1a75s' },
+                            { text: '17 · 第十四课（下） · 货币、信用与经济循环（26节详细稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1ny4y1k7q6' },
+                            { text: '18 · 第十五课 · 纪念约翰罗（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1CD4y1o7PC' },
+                            { text: '19 · 第十六课（上） · 技术分析（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1C54y1y7Cn' },
+                            { text: '20 · 第十七课 · 技术分析中篇（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1Zz4y1d7Kv' },
+                            { text: '21 · 第十八课 · 技术分析收官（详细课程稿）', link: '/trading/experts/qiheng-dk/series/professional-speculation/transcripts/BV1pD4y1d7ca' }
                           ]
                         }
                       ]
@@ -613,16 +662,16 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/',
                           collapsed: false,
                           items: [
-                            { text: '01 · 导论 · 时间轴学习稿（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Hg4y187pU' },
-                            { text: '02 · 正课开篇 · 怎样炒股票（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Hp4y1y74h' },
-                            { text: '03 · 第二课 · 怎样炒股才不会被套（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV17Q4y1N7v2' },
-                            { text: '04 · 第二章续讲 · 炒股不炒主升浪（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV12A41147mW' },
-                            { text: '05 · 追随领头羊 · 股市领头羊烹调指南（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1KA411t7p3' },
-                            { text: '06 · 利润留存 · 炒股赚了钱如何不亏回去（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Ft4y117hs' },
-                            { text: '07 · 关键点与杠杆 · 脱水干货（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1de411p7H3' },
-                            { text: '08 · 分笔管理 · 致命的交易习惯（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Xg4y1B7KF' },
-                            { text: '09 · 小麦案例 · 怎样从股票玩你逆袭（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Qk4y167FM' },
-                            { text: '10 · 收官复习 · 每一位交易者，奥利给（非逐字）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1sz411i76D' }
+                            { text: '01 · 回忆录导论 · 详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Hg4y187pU' },
+                            { text: '02 · 正课开篇 · 详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Hp4y1y74h' },
+                            { text: '03 · 第二课 · 详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV17Q4y1N7v2' },
+                            { text: '04 · 第二章续讲 · 详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV12A41147mW' },
+                            { text: '05 · 追随领头羊 · 详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1KA411t7p3' },
+                            { text: '06 · 利润留存 · 详细时间轴课程稿', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Ft4y117hs' },
+                            { text: '07 · 关键点与杠杆 · 脱水干货（详细课程稿）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1de411p7H3' },
+                            { text: '08 · 分笔管理 · 致命的交易习惯（详细课程稿）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Xg4y1B7KF' },
+                            { text: '09 · 小麦案例 · 怎样从股票玩你逆袭（详细课程稿）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1Qk4y167FM' },
+                            { text: '10 · 收官复习 · 每一位交易者，奥利给（详细课程稿）', link: '/trading/experts/qiheng-dk/series/stock-operator/transcripts/BV1sz411i76D' }
                           ]
                         }
                       ]
