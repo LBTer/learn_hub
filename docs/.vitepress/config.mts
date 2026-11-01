@@ -550,7 +550,8 @@ export default withMermaid(defineConfig({
                             { text: '07 · 第七课 · 先决定何时研究，再寻找方向', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1EZ4y1g7ke' },
                             { text: '08 · 第八课 · 交易理由与进场条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1JK4y177EB' },
                             { text: '09 · 第九课 · 关注、试盘与认输', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Nr4y1F7Us' },
-                            { text: '10 · 第十课 · 起爆参照、参数与条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Ut4y1k7dn' }
+                            { text: '10 · 第十课 · 起爆参照、参数与条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Ut4y1k7dn' },
+                            { text: '11 · 第十一课 · 环境、立场与退出能力', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV16r4y1T7wm' }
                           ]
                         },
                         {
@@ -567,7 +568,8 @@ export default withMermaid(defineConfig({
                             { text: '07 · 第七课 · 威廉时钟与布林通道（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1EZ4y1g7ke' },
                             { text: '08 · 第八课 · 股价为什么涨跌（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1JK4y177EB' },
                             { text: '09 · 第九课 · COMEX白银复盘（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Nr4y1F7Us' },
-                            { text: '10 · 第十课 · 趋势起爆点计算（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Ut4y1k7dn' }
+                            { text: '10 · 第十课 · 趋势起爆点计算（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Ut4y1k7dn' },
+                            { text: '11 · 第十一课 · 那个伟大的交易员自杀了（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV16r4y1T7wm' }
                           ]
                         }
                       ]
