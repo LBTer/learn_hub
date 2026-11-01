@@ -4,6 +4,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-30：嘴炮护盘，全是喇叭，右侧不出保命为先（11 月 1 日发布）](/trading/experts/bibabu-zuoshou/transcripts/2026-10-30)
+
 - [2026-10-29：天孚变地府，机器人明天生死局](/trading/experts/bibabu-zuoshou/transcripts/2026-10-29)
 
 - [2026-10-28：逐步企稳，好事多磨，机器人继续超标](/trading/experts/bibabu-zuoshou/transcripts/2026-10-28)

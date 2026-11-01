@@ -6,6 +6,8 @@
 
 ## 2026 年 10 月
 
+- [2026-10-30：筑底预期失效，右侧等待与三冰、T+0 模式分账（11 月 1 日发布）](/trading/experts/bibabu-zuoshou/trading-days/2026-10-30)
+
 - [2026-10-29：科技继续等右侧，机器人换锚大业与中位风险](/trading/experts/bibabu-zuoshou/trading-days/2026-10-29)
 
 - [2026-10-28：逐步企稳，机器人强度交棒与分歧参与边界](/trading/experts/bibabu-zuoshou/trading-days/2026-10-28)
