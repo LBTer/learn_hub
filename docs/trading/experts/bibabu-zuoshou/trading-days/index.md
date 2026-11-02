@@ -4,6 +4,10 @@
 
 > 以下内容是对公开视频的学习整理，不构成投资建议。
 
+## 2026 年 11 月
+
+- [2026-11-02：AI 软件强回流，盘中竞争与次日承接条件](/trading/experts/bibabu-zuoshou/trading-days/2026-11-02)
+
 ## 2026 年 10 月
 
 - [2026-10-30：筑底预期失效，右侧等待与三冰、T+0 模式分账（11 月 1 日发布）](/trading/experts/bibabu-zuoshou/trading-days/2026-10-30)
