@@ -1796,6 +1796,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/market-reviews/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-03', link: '/trading/experts/rhino-finance/market-reviews/2026-11-03' },
                         { text: '2026-10-31', link: '/trading/experts/rhino-finance/market-reviews/2026-10-31' },
                         { text: '2026-10-30', link: '/trading/experts/rhino-finance/market-reviews/2026-10-30' },
                         { text: '2026-10-29', link: '/trading/experts/rhino-finance/market-reviews/2026-10-29' },
@@ -2089,6 +2090,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-03 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-11-03' },
                         { text: '2026-10-31 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-31' },
                         { text: '2026-10-30 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-30' },
                         { text: '2026-10-29 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-29' },
@@ -2382,6 +2384,7 @@ export default withMermaid(defineConfig({
                       text: '会员笔记',
                       collapsed: true,
                       items: [
+                        { text: '第308期：盈利、估值与仓位', link: '/trading/experts/rhino-finance/member-notes/2026-11-01--C0B7AEwOcU' },
                         { text: '第307期：估值与条件', link: '/trading/experts/rhino-finance/member-notes/2026-10-25-e-_qeTZQnkU' },
                         { text: '第306期：估值更新', link: '/trading/experts/rhino-finance/member-notes/2026-10-18-A4p5t_F4mQs' },
                         { text: '第305期：盈利修正数据', link: '/trading/experts/rhino-finance/member-notes/2026-10-11-xOY53crL1ZA' },
@@ -2394,6 +2397,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/member-transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '第308期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-11-01--C0B7AEwOcU' },
                         { text: '第307期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-10-25-e-_qeTZQnkU' },
                         { text: '第306期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-10-18-A4p5t_F4mQs' },
                         { text: '第305期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-10-11-xOY53crL1ZA' },
