@@ -2,6 +2,11 @@
 
 按发布日期整理“小翠时政财经”视频。每篇按“世界大事、各国股市与经济、观众提问”三部分展开，并区分新闻事实、小翠见解和分析者延展。
 
+## 2026 年 11 月
+
+- [2026-11-03：选举、MRVL 交易变化、PLTR、Apple 与 Oracle](/trading/experts/xiaocui/trading-days/2026-11-03) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-03)
+- [2026-11-02：Intel、光互连并购、存储与能源](/trading/experts/xiaocui/trading-days/2026-11-02) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-02)
+
 ## 2026 年 10 月
 
 - [2026-10-30：Amazon 现金流、Intel 代工与供给、Sandisk 和投资心态](/trading/experts/xiaocui/trading-days/2026-10-30) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-10-30)

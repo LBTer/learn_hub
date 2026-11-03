@@ -12,6 +12,10 @@
 
 ## 最新一期
 
+- [2026-11-03 交易日总结：选举、MRVL 交易变化、PLTR、Apple 与 Oracle](/trading/experts/xiaocui/trading-days/2026-11-03)
+- [2026-11-03 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-03)
+- [2026-11-02 交易日总结：Intel、光互连并购、存储与能源](/trading/experts/xiaocui/trading-days/2026-11-02)
+- [2026-11-02 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-02)
 - [2026-10-31 会员专题：回撤计量、进攻与防御、Intel 代工及确定性边界](/trading/experts/xiaocui/member-sessions/2026-10-31)
 - [2026-10-31 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-31)
 - [2026-10-30 交易日总结：Amazon 现金流、Intel 代工与供给、Sandisk 和投资心态](/trading/experts/xiaocui/trading-days/2026-10-30)
