@@ -16,7 +16,7 @@
 
 ### 筹码与信息的位置图 {#supply-chain-frame}
 
-![03:33：从供应者到个人投资者的示意链，左侧为回购路径](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/03-33-supply-chain.png)
+![03:33：从供应者到个人投资者的示意链，左侧为回购路径](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/03-33-supply-chain.png)
 
 *原视频 [03:33](https://www.bilibili.com/video/BV1Ft4y117hs/?t=213)。这是作者的解释模型，不是每只股票都必经的流程或身份收益排行榜。*
 
@@ -32,13 +32,13 @@
 
 **依据：09:09—12:20。** 作者先展示历史阶段比较，再回忆自己的失败。两种信息必须分开：一张图上的相似，是当时提出的观察；自身抄底经历，是对参与路径与资金习惯的反省。
 
-![09:23：历史指数区域比较，3288 突破是当时的条件](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/09-23-index-condition.png)
+![09:23：历史指数区域比较，3288 突破是当时的条件](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/09-23-index-condition.png)
 
 *原视频 [09:23](https://www.bilibili.com/video/BV1Ft4y117hs/?t=563)。2440 是课件标注，不自行改写成买点；这些点位不是今天的交易条件。*
 
 他等到八月才参与，自认已比按月份俗语行动谨慎，却仍在持续下跌中陷入困境。他使用分级基金 B 份额，指数看似只跌一点，产品压力却大得多；他还承认当时对杠杆变化并未弄懂。
 
-![10:38：反复抄底的历史图，说明持有过程而非完整成交](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/10-38-bottoming-path.png)
+![10:38：反复抄底的历史图，说明持有过程而非完整成交](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/10-38-bottoming-path.png)
 
 *原视频 [10:38](https://www.bilibili.com/video/BV1Ft4y117hs/?t=638)。不据画线还原作者每笔交易，不补基金代码。*
 
@@ -62,7 +62,7 @@
 
 **依据：12:21—14:06。** 作者把估值、低价、熬过前两轮但被反弹吸引，以及更后阶段的参与分开，强调进入理由不同，也可能都遭遇代价。
 
-![13:37：原油课堂图将第三、第四类合列，不能替每类补规则](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/13-37-oil-participants.png)
+![13:37：原油课堂图将第三、第四类合列，不能替每类补规则](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/13-37-oil-participants.png)
 
 *原视频 [13:37](https://www.bilibili.com/video/BV1Ft4y117hs/?t=817)。原油连续图不等于一个人持有的实际合约；生产商股票、银行挂钩产品和其他境外渠道不能混成同一损益。*
 
@@ -137,7 +137,7 @@
 
 :::
 
-![21:25：利润归零到本金操作口径，下一讲才谈关键点与杠杆](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/21-25-withdrawal-reset.png)
+![21:25：利润归零到本金操作口径，下一讲才谈关键点与杠杆](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/21-25-withdrawal-reset.png)
 
 *原视频 [21:25](https://www.bilibili.com/video/BV1Ft4y117hs/?t=1285)。归零不是账户亏到零；止盈这个词在此不能代替完整价格卖出规则。*
 

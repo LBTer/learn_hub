@@ -38,7 +38,7 @@
 
 他的设想是，当大家在上涨之后集中看好中小创时，先兑现其中一部分浮盈，再去配置那些受到冷落、在他看来处于折价状态的蓝筹。这里的出发点是两组资产之间的预期差：热门一端的乐观已经较满，冷门一端却少人问津。他把这一步放进“四渡赤水”的轮换类比中，称为第二次转换。
 
-![01:30，八月文章及轮动设想](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/01-0130-rotation.png)
+![01:30，八月文章及轮动设想](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/01-0130-rotation.png)
 
 *图 1 · 原视频 01:30，奇衡DK-CAPITAL 展示自己的文章。题名及 08-14 23:51 可见，正文列出分阶段轮换设想。截图用于核对课堂材料，不代表路线已全部实现。*
 
@@ -56,7 +56,7 @@
 
 说完这个判断，他马上承认另一件事并不知道：究竟会跌到哪里，又要跌多久。于是他的安排是先休息、先等待，并不在这里给出一个精确底部。如果听众还不清楚 2B 的形态是什么、怎样使用，他让大家回看之前的[第六课](BV1Q5411h7fa.md)。
 
-![03:30，九月四日动态中的结构与否定参照](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/02-0330-invalidation.png)
+![03:30，九月四日动态中的结构与否定参照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/02-0330-invalidation.png)
 
 *图 2 · 原视频 03:30，09-04 动态与 3373 清晰可见，下方引用第六课。它记录作者当时展示的判断及其否定条件。*
 
@@ -72,7 +72,7 @@
 
 但也有人虽然先出来了，前两天又重新买回；还有人一直没有退出，现在再度被套。于是问题不能只停在有没有看到那次提醒上——减仓之后是否重新入场、此前是否仍然持仓，已经让不同听众处在不同的位置。奇衡由此接到接下来的问题：到了现在，该怎样观察？
 
-![03:45，减仓发言与显示时间](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/03-0345-reduction.png)
+![03:45，减仓发言与显示时间](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/03-0345-reduction.png)
 
 *图 3 · 原视频 03:45，显示 09-04 23:51 及两天大幅减仓的文字；作者口述称网上模拟盘。截图不是完整成交账单。*
 
@@ -82,7 +82,7 @@
 
 在这个观察中，他再次提出 **3288**。上证不仅要升穿这一水平，还要在其上方运行，这对他的判断很重要。他又回顾从 7 月以来，指数一直围绕这个位置反复争夺，并不是今天才临时画出一条新的线。
 
-![04:30，上证图上的历史水平参照](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/04-0430-index.png)
+![04:30，上证图上的历史水平参照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/04-0430-index.png)
 
 *图 4 · 原视频 04:30，3288 标注明确。3373 以图 2 的文字和下一段口述核对，不靠像素反算；图中其他旧线未被补成操作指令。*
 

@@ -16,7 +16,7 @@
 
 07:25发现机会不立即进场的限定，应与09:23公式同时记。计算值已经存在，不意味着这个值附近的一切成交都获得了课程授权。
 
-![完整公式与书页片段](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/06-formula.png)
+![完整公式与书页片段](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/06-formula.png)
 
 *09:45。课件给出加法方向及N；下方片段不能代替完整样本和交易规则。*
 
@@ -48,7 +48,7 @@ P_T = O_T + N × R_(T−1)
 
 如果当天很大幅度上涨，并最终收在最高价，H−C可以等于0，全天H−L仍可能很大。因此，读到12:24的波幅较小，要理解为作者所选价差小，不能改成全天几乎没有波动。
 
-![本课先给出的基础定义](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/03-range.png)
+![本课先给出的基础定义](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/03-range.png)
 
 *06:00。定义、数据日期和当日基准应一起核对。*
 
@@ -68,7 +68,7 @@ P_T = O_T + N × R_(T−1)
 
 理解这个故事，与证明故事，是两个层次。H−C没有成交量或订单字段，无法统计有多少人在卖，也不能识别从高点到收盘是哪一批人在持续卖出。同一组OHLC可以对应不同日内路径。
 
-![作者自绘的市场对手示意](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/07-sellers.png)
+![作者自绘的市场对手示意](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/07-sellers.png)
 
 *12:00。卖字是教学构图，不是样本记录。*
 

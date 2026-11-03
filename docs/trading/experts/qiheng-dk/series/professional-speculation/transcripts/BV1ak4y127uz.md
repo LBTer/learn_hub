@@ -17,7 +17,7 @@
 
 这给本专题留下了一个与常规交易课不同的起点：财富问题的答案不必先从某种金融工具里找。课程仍由一位交易者讲述，但他没有要求听众把自己的生活都变成交易。
 
-![00:30 伙伴专题的三个问题](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/01-0030-partner-topic.png)
+![00:30 伙伴专题的三个问题](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/01-0030-partner-topic.png)
 
 *00:30原课件。三个问题分别涉及自身收入能力、财务自由及无法实现时的选择；此处没有正课编号。*
 
@@ -101,7 +101,7 @@
 
 接着，他回应首付去了哪里的疑问，将首付归为先期投入，并把它与以后要谈的杠杆联系起来。住房例子的作用，是把注意力从一个静态价格转向持续支出和收入的关系。月供、租金与首付之间有一处口述连接含混，不能据此补出完整还款公式，具体疑点见文末。
 
-![12:00 课堂采用现金流视角讨论资产](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/02-1200-cashflow-assets.png)
+![12:00 课堂采用现金流视角讨论资产](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/02-1200-cashflow-assets.png)
 
 *12:00原课件。图中显示现金流定义；住房比较来自随后口述，并没有在图中给出还款表。*
 
@@ -113,7 +113,7 @@
 
 他再用出租房屋作比喻，把劳动和时间换来的年收入，与房屋出租产生的收入放在同一幅图景里。课堂反复回到这个算式，是想提醒听众不要因为账户里没有巨额存款，就完全忽略自己创造收入的能力。这里只是在比较收入量级，收入持续多久及其风险并未在本段建模。
 
-![15:00 年收入与本金的课堂换算](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/03-1500-income-comparison.png)
+![15:00 年收入与本金的课堂换算](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/03-1500-income-comparison.png)
 
 *15:00原课件。50万元、1.5%和3333万元可直接核对；它展示的是收入类比，不是个人资产负债表。*
 
@@ -157,7 +157,7 @@
 
 这也是下一步讨论资金与资本的铺垫。他并未在这里给出统一储蓄比例，而是希望听众不再把每次积累的终点都设为下一笔消费。
 
-![19:30 作者前三步及资金规模的对照](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/04-1930-saving-and-capital.png)
+![19:30 作者前三步及资金规模的对照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/04-1930-saving-and-capital.png)
 
 *19:30原课件。前三步依次讨论能力、储蓄与资金规模；十万、五十万属于课程中的示例。*
 
@@ -209,7 +209,7 @@
 
 课件用睡后收入描述另一类收入安排，强调获利后留存并重新开始。这个收尾与前面谈经历、亏损和守财相接：能做大一次账户，还需要另外考虑如何不把全部成果押回同一种风险。
 
-![24:00 原课六步路径](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/05-2400-six-steps.png)
+![24:00 原课六步路径](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/05-2400-six-steps.png)
 
 *24:00原课件。第六步为睡后收入，不是税后收入；六步是作者经验路径，不是本项目的课内节数。*
 
@@ -269,7 +269,7 @@
 
 因此，他把替代方案的重点放在减少起步时的现金消耗。这与前面积极使用金融工具的部分形成张力，也呼应开场：若另一种方式更适合自己的条件，就没有必要把所有积累都押在二级市场或大额创业上。
 
-![30:30 两类困难与低投入方向](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/06-3030-low-cash-project.png)
+![30:30 两类困难与低投入方向](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/06-3030-low-cash-project.png)
 
 *30:30原课件。目标提高与找不准风口分开讨论；后一种情况转向低投入和个人品牌。*
 
@@ -283,7 +283,7 @@
 
 ## 30:47 从踢毽子到公开分享：把特长变成别人看得见的东西
 
-![31:00 公开分享特长的结尾示例](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/07-3100-personal-brand.png)
+![31:00 公开分享特长的结尾示例](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/07-3100-personal-brand.png)
 
 *31:00原课件。展示特长与个人品牌是最后的建议；踢毽子的细节来自口述。*
 

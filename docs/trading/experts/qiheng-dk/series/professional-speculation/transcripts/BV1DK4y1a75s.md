@@ -22,7 +22,7 @@
 
 本课分上下两部分。上半部分先给出一个明确落点：需要研究政策。后面的历史例子与马匹寓言，都围绕市场的成交和持续条件怎样形成展开。
 
-![00:30，原第十四课上集封面](/images/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/01-0030-course.png)
+![00:30，原第十四课上集封面](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/01-0030-course.png)
 
 *图 1 · 原视频 00:30，显示课号、上集身份与政策研究主题。截图来源：奇衡DK-CAPITAL 原视频，保留署名。*
 
@@ -158,7 +158,7 @@
 
 它并不替代供求双方，也不直接产生成交，而是先把更多人带到可以了解、考虑和参与的位置。
 
-![13:10，前三项要素](/images/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/02-1310-first-three.png)
+![13:10，前三项要素](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/02-1310-first-three.png)
 
 *图 2 · 原视频 13:10，依次列新事物、供求双方和信息传播。*
 
@@ -194,7 +194,7 @@
 
 他明确说上半部分到此结束，下面继续讲下半部分。这堂原第十四课还有另一支视频，不能将本支收尾登记为整堂课已经讲完。
 
-![15:30，六项完整归纳](/images/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/03-1530-six-elements.png)
+![15:30，六项完整归纳](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/03-1530-six-elements.png)
 
 *图 3 · 原视频 15:30，完整图列六项，与口述七改六的修正相符。课件框架的有效性需另行检验。*
 

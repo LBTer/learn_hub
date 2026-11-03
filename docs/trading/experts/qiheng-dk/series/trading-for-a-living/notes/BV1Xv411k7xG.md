@@ -15,7 +15,7 @@
 
 基金3000元跌成1500元，使他产生机会已经很大的直觉；随后30万元入场却继续遭遇亏损。市盈率从30倍降到15倍、再到7倍的例子，把估值理由与资金约束分开：再说更便宜，如果已经没有钱，也无法转换成新行动。作者认为保留资金和分批投入，使自己没有一次被锁死。
 
-![06:00，持续下跌中的资金安排问题](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/02-2008-decline.png)
+![06:00，持续下跌中的资金安排问题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/02-2008-decline.png)
 
 *06:00：这是历史行情背景，不是账户证明。课中关于盈利和家庭支持的细节均为作者回忆。*
 
@@ -27,7 +27,7 @@
 
 **课堂题面（11:44—16:21）。** 15个不可从外部辨认的信封，其中一个装5000美元；顺序打乱，抽中奖金归抽取者。奇衡据此解释，参与者愿意为未知的机会付钱，不只是为纸张付钱。
 
-![15:00，固定奖金与十五个信封](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/03-envelope-setup.png)
+![15:00，固定奖金与十五个信封](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/03-envelope-setup.png)
 
 *15:00：题设包含固定奖金、唯一中奖信封及归属规则。现实市场不自动具备这三项条件。*
 
@@ -48,7 +48,7 @@
 
 **作者推导（18:25—19:42）。** 已确认5个空信封被排除，奖金仍在剩余10个之中，单抽中奖率才变成1/10；只剩两个且奖金仍在，才变成1/2。课件的500、2500来自这组条件，不来自等待时间本身。
 
-![21:00，条件改变后的期望](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/05-conditional-value.png)
+![21:00，条件改变后的期望](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/05-conditional-value.png)
 
 **整理者理解。** 该模型让人看到“新信息减少不确定性”的可能作用，但不能直接套成市场连续跌五次，下一次就更容易赚。市场没有固定15个机会，也没有保证终会出现的5000美元；一次亏损未必排除了未来的一种坏结果。
 
@@ -60,7 +60,7 @@
 
 **作者的比较（21:22—25:49）。** 他用信封把艾略特五浪中的机会、斯波朗迪的拐点判断以及利弗莫尔的关键点突破连接起来，再指出威廉姆斯的增量在每笔仓位：不是只把进入位置挑得更精确，而是通过小份投入保留后续参与能力。
 
-![22:30，位置型方法与参与次数的教学映射](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/06-framework-comparison.png)
+![22:30，位置型方法与参与次数的教学映射](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/06-framework-comparison.png)
 
 *22:30：五次、三次、一次是奇衡的比较框架，不是已经核实的三位作者共同使用的术语。*
 
@@ -72,7 +72,7 @@
 
 24:04起，作者先请观众猜首笔比例，随后揭晓3%，解释为有100万元先买3万元，并在前文提及期货杠杆与名义本金。课件没有把它写成每笔可亏3%，也没有给合约乘数与止损距离。
 
-![25:45，首笔小份投入示例](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/07-three-percent.png)
+![25:45，首笔小份投入示例](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/07-three-percent.png)
 
 **整理者延展。** 无杠杆例子中，若100万元账户持有市值3万元的资产，该资产下跌10%，对应账面损失约3000元，即账户的0.3%，不是3%；这只是算术示例，未计成本，也不表示实际价格最多只跌10%。期货再加入保证金比例后，账面占用与名义敞口还会进一步分离。
 
@@ -84,7 +84,7 @@
 
 **作者解释（26:11—27:58）。** 他以自有资金的创业板相关ETF为例，讲2018年第四季度开始加大投入，2019年回落阶段仍逐月买入，大跌时额外增加，以年线附近为参考积累头寸，后续上涨时取得收益。
 
-![26:30，分批积累与后续上涨的示意](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/08-chinext-staged-entry.png)
+![26:30，分批积累与后续上涨的示意](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/08-chinext-staged-entry.png)
 
 *26:30：图与口述支持“分期积累”的案例身份，未支持精确复原作者平均成本或收益率。*
 

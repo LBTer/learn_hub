@@ -11,7 +11,7 @@
 
 ## 01 · 从选书到学习任务：尊重经验，但别把名气当验证
 
-![00:15，片头确认系列名称与原第一课身份](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/01-course-cover.png)
+![00:15，片头确认系列名称与原第一课身份](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/01-course-cover.png)
 
 *00:15：片头题名为拉瑞·威廉姆斯。人物图片用于引入，不能据娱乐化称谓确认婚姻关系。*
 
@@ -23,7 +23,7 @@
 
 **整理者理解：** 敬佩解决的是“为什么愿意学”，验证解决的是“在什么条件下能用”。二者可以同时存在。作者个人身家影响、十倍业绩、2500美元报告费用和培训市场价保留为其自述，没有拿外部冠军记录替它们背书。
 
-![06:00，课程目标列出系统设计、资金管理、心理和技术分析](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/02-learning-objectives.png)
+![06:00，课程目标列出系统设计、资金管理、心理和技术分析](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/02-learning-objectives.png)
 
 *06:00：两本书在本系列中的分工，是作者的授课安排；章数按其使用版本，不推及所有版本。*
 
@@ -45,7 +45,7 @@
 
 ## 03 · 先读懂WR究竟测量什么
 
-![12:00，正数版本的WR公式及课件阈值](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/03-wr-formula.png)
+![12:00，正数版本的WR公式及课件阈值](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/03-wr-formula.png)
 
 *12:00：课件为正数刻度、n=10，写20超买、85超卖。本文保留85，不静默改成常见的80。*
 
@@ -67,7 +67,7 @@
 
 ## 04 · 黄金反例：状态标签为什么不能替代方向判断
 
-![15:00，黄金五分钟图中多次超卖与继续下跌并存](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/04-gold-oversold.png)
+![15:00，黄金五分钟图中多次超卖与继续下跌并存](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/04-gold-oversold.png)
 
 *15:00：红框上方是价格持续走低，下方是指标反复进入高值区；图示不是实际下单流水。*
 
@@ -81,13 +81,13 @@
 
 ## 05 · 铜的两种周期：信号、止损与资金风险必须接起来
 
-![21:00，COMEX铜日线背景](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/05-copper-daily.png)
+![21:00，COMEX铜日线背景](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/05-copper-daily.png)
 
 *21:00：先观察日线高低点抬升，再讨论指标；这张背景图并未证明每个买点都有效。*
 
 **作者的顺序（20:19—25:53）：** 先判断日线趋势，再讨论具体进入；随后切到五分钟，看上涨大背景内的局部下跌。他的重点是给“顺势”补上级别。只写铜上涨或铜下跌，都丢失了这段教学。
 
-![25:00，铜的五分钟回调与局部高点](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/06-copper-five-minute.png)
+![25:00，铜的五分钟回调与局部高点](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/06-copper-five-minute.png)
 
 *25:00：与上图同品种、不同观察级别。口述约3.14的止损参照与向成本附近移动的设想，不是画面已经核实的成交。*
 
@@ -99,13 +99,13 @@
 
 ## 06 · 大豆与A50：看懂例子，也看见不适用的例子
 
-![29:00，大豆日线与持续趋势示例](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/07-soybean-trend.png)
+![29:00，大豆日线与持续趋势示例](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/07-soybean-trend.png)
 
 *29:00：画面标题为“大豆当月连续”。连续序列用于观察，不等于一个可以直接下单的固定月份合约。*
 
 大豆段（28:06—29:12）把工具讨论转回交易者的角色：多空一直有争论，个人没有足够力量让价格服从自己的观点。作者的告诫是别为了证明自己正确而投入资金，倾向观察已经发生的行为。这不等于证明商品没有经济价值，或所有基本面分析都无效。
 
-![30:00，A50小时图中反复波动与信号](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/08-a50-whipsaws.png)
+![30:00，A50小时图中反复波动与信号](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/08-a50-whipsaws.png)
 
 *30:00：画面为A50当月连续的小时级别；作者随后切日线。不能把这张图标成五分钟图。*
 

@@ -23,7 +23,7 @@
 
 进入技术讨论前，他再次要求先完成前三课。第一课的美元指数周期、第二课的投机原则、第三课的鳄鱼法则，构成本课的前提。按他的安排，只有图形知识而没有环境判断、参与原则和认错基础，单独学习这一课也难以发挥作用。
 
-![00:30 第四课片头与前三课前置要求](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/06-0030-prerequisites.png)
+![00:30 第四课片头与前三课前置要求](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/06-0030-prerequisites.png)
 
 *00:30原课件。课号、主题及前置内容均来自片头，不以收藏或上传顺序代替授课顺序。*
 
@@ -107,7 +107,7 @@
 
 至此，开场的百分之十六也有了具体所指：六项中保留一项的近似说法。他带着玩笑劝听众不要陷在前五项的术语争论中，否则研究短、中、长期趋势会研究得发懵，甚至拿出家作夸张说法。取舍的结果不是背更多定义，而是准备马上把指数确认放到图上应用。
 
-![11:05 六项内容与加粗的指数相互确认](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/01-1105-six-principles.png)
+![11:05 六项内容与加粗的指数相互确认](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/01-1105-six-principles.png)
 
 *11:05原课件。牛市平均时长、折返幅度以及第六项同时可见，用于对照作者逐项取舍。*
 
@@ -119,7 +119,7 @@
 
 他也没有把上证的改善一笔抹掉。突破3100点，在他看来已经是很好的变化；只是情况好转与完成全面确认仍是两个阶段。这就为下一个条件留出了位置。
 
-![12:00 上证K线与深证成指黄色叠加线](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/02-1200-index-confirmation.png)
+![12:00 上证K线与深证成指黄色叠加线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/02-1200-index-confirmation.png)
 
 *12:00原图。2440与3288是上证历史参照；右侧可见相对变化刻度，不能把黄色线的画面高度读成上证点数。*
 
@@ -187,7 +187,7 @@
 
 这个小例子补上了前段抽象反问的生活背景。课程由所有人同知同动的极端情形，回到买方现实中的信息不足，用来表达作者为何反对把市场说成全知。至于这一反驳是否准确对应有效市场假说的前提，是另外一层核验问题。
 
-![18:00 信息、反应与市场存在的课件](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/03-1800-information-and-markets.png)
+![18:00 信息、反应与市场存在的课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/03-1800-information-and-markets.png)
 
 *18:00原课件，位于转述维克多评价与可乐例子之间。它记录课堂对假说的概括，不作为标准学术定义。*
 
@@ -199,7 +199,7 @@
 
 他的解释是，雷亚从市场中赚钱，关键并不在前面的道氏理论，而在加入成交量。课件同时将道氏理论称作帮助提升投机者或投资者知识的配置工具，并强调不应脱离经济基本条件和市场现况。口述随后集中到量能这一点，准备让听众看图。
 
-![18:40 雷亚、成交量与配置工具的课件](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/07-1840-rhea-volume.png)
+![18:40 雷亚、成交量与配置工具的课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/07-1840-rhea-volume.png)
 
 *18:40原课件。红字包括成交量及不脱离经济基本条件的限制；人物获利叙述仍是课程转述，并非本项目核验的账户记录。*
 
@@ -211,7 +211,7 @@
 
 因此，这张图在课程中不是提供一组完整买卖点，而是用视觉对照支持他的归因：在他看来，过去被记在道氏理论名下的效果，真正发挥作用的可能是成交量。图上圈出了他选取的阶段，但他没有在这里逐一展示失败阶段或说明如何实时定义连续放量。
 
-![19:50 上证月线与黄色圈选的量能阶段](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/04-1950-monthly-volume.png)
+![19:50 上证月线与黄色圈选的量能阶段](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/04-1950-monthly-volume.png)
 
 *19:50原图。月线量柱与价格分别阅读；黄色圈是作者选择的观察阶段，不是本项目新增信号或真实成交标记。*
 
@@ -247,7 +247,7 @@
 
 最后的用途不是替每只股票找到买点，而是决定在这个市场增加还是减少配置。奇衡说，自己筛选道氏理论以后，留下了一种可供判断持仓增减的大方向方法。这里有从单个迹象到共同确认的条件递进，不能只摘最后一句强判断，也不能替他补上未公布的仓位百分比和确认天数。
 
-![22:20 从指数价格推断资金方向的三项观察](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/05-2220-market-direction.png)
+![22:20 从指数价格推断资金方向的三项观察](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/05-2220-market-direction.png)
 
 *22:20原课件。它列出作者的代理判断框架，未给出资金净流入金额、年线参数或仓位比例。*
 

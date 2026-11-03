@@ -135,7 +135,7 @@
 
 课件把两个方向并列：某些市场条件适合参与，另一些条件下则应当不参与。奇衡认为，学习者到处拜师找方法，常常只问前半句，忽略后半句；结果掌握了一个本来可能有用的办法，却在不适合的环境中把利润交回去。
 
-![24:18 原始课件：适合参与与不适合参与的条件必须一起研究](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/24-18-method-boundary.png)
+![24:18 原始课件：适合参与与不适合参与的条件必须一起研究](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/24-18-method-boundary.png)
 
 *原视频 24:18。两项条件是作者此处的教学重点；课件没有给出具体识别阈值。*
 
@@ -159,7 +159,7 @@
 
 奇衡转到近期一则券商整合传闻。盘中参与者已经紧张，突然出现消息，就容易触发迅速拉升和仓促反应。课件展示两家匿名券商的分时变化，其中一家迅速走强，另一家也跟着上涨。
 
-![29:30 原始课件：匿名券商整合传闻后的分时变化](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/29-30-broker-rumor.png)
+![29:30 原始课件：匿名券商整合传闻后的分时变化](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/29-30-broker-rumor.png)
 
 *原视频 29:30。图中主体名称未显示，本文保持匿名；不由涨幅和形态反推公司。*
 
@@ -189,7 +189,7 @@
 
 形成明确的多空判断之后，奇衡要求先观察，看到市场朝相应方向运行，再考虑跟随。他以原油大跌后仓促抄底作反例：觉得便宜就买，后来才忙着处理止损，是另一种工作顺序。
 
-![34:50 原始课件：研究、逻辑、判断、观察确认的四步关系](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/34-50-decision-process.png)
+![34:50 原始课件：研究、逻辑、判断、观察确认的四步关系](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/34-50-decision-process.png)
 
 *原视频 34:50。第三项是形成“多空判断”；第四项仍要求观察和确认，不能把两项合并。*
 
@@ -205,7 +205,7 @@
 
 作者随后展示 3 月 17 日的记录：判断标普500代表的美国股市向上，开始以相关 ETF 建底仓；三月底，在他所说的右侧逐渐出现之后，参与标普相关期指。
 
-![36:40 原始课件：3月17日、4月10日的记录与标普复盘图](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/36-40-sp500-review.png)
+![36:40 原始课件：3月17日、4月10日的记录与标普复盘图](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/36-40-sp500-review.png)
 
 *原视频 36:40。左侧分列底仓、开始减仓与节后安排；右侧为作者标注过的行情图。记录存在及市场名称可由画面核对，完整账户执行仍未展示。*
 
@@ -221,7 +221,7 @@
 
 作者说自己正在留意原油，后面可能结合书本讲市场结构。片尾展示原油日线图，但本课尚未展开相应的方法。
 
-![38:10 原始课件：留待后续讲解的原油日线图](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/38-10-oil-preview.png)
+![38:10 原始课件：留待后续讲解的原油日线图](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/38-10-oil-preview.png)
 
 *原视频 38:10。画面标示 NYMEX 原油日线；这里是后续议题预告，不能从一张图补出入场方案。*
 

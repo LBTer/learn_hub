@@ -16,7 +16,7 @@
 
 阿卡姆的设定把话题从个人扩展到市场：市场里有许多人，每个人都带着自己的执念入场，又都相信自己能够获胜。讲交易心理，不只是识别别人何时疯狂，更是检查自己身上相同的东西。这也让片头的副标题——管理内心的疯狂——成为全课贯穿的问题。
 
-![00:15，第三课片头](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/01-course-cover.png)
+![00:15，第三课片头](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/01-course-cover.png)
 
 *00:15：课程名称、原第三课及心理主题均在片头出现；人物意象是教学比喻。*
 
@@ -48,7 +48,7 @@
 
 学生的动作因此被他理解为把不同课程的零件接到了一起：一个工具给出短期位置变化，另一个提供较长周期的环境参考。他认可这种学习路径，而不是借学生反馈替所有类似股票作统一判断。
 
-![06:00，学生自己的买入依据](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/02-student-wr-ma.png)
+![06:00，学生自己的买入依据](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/02-student-wr-ma.png)
 
 *06:00：聊天记录写有10日WR、50及250年线，结合语境指250日年线；股票名已遮挡。右图显示WR与标注位置，年线上方这一条件来自学生陈述，不能仅凭裁切图独立验证。*
 
@@ -92,7 +92,7 @@
 
 故事中的人很认真地遵守自己理解的规则，却没有理解规则所在的情境。奇衡用这个反转回扣清醒与跟随的问题：动作看起来坚定、目标看起来明确，都不足以证明对局面的认识正确。
 
-![15:00，清醒与跟随群体的课堂命题](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/03-clear-and-crowd.png)
+![15:00，清醒与跟随群体的课堂命题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/03-clear-and-crowd.png)
 
 *15:00：课件保留了群体自信与参与者判断之间的张力；并未给出何时跟随、何时退出的量化信号。*
 
@@ -110,7 +110,7 @@
 
 另一种情况恰好相反：确实认同先学习，也愿意为学习付钱，却把太多资源交给了掘金路上卖工具、卖水的人。投资者愿意花钱的需求，会吸引各种大师和培训；支付能力和学习意愿本身，并不能自动筛选出有价值的知识。
 
-![18:00，关于学习投入的两条批评](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/04-learning-cost.png)
+![18:00，关于学习投入的两条批评](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/04-learning-cost.png)
 
 *18:00：课件一面批评不愿研究，一面提醒学习支出可能消耗本金；并非主张所有付费学习无效。*
 
@@ -162,7 +162,7 @@
 
 说到忍耐，他重新回到黑暗骑士的意象：外在压力与内在信念并存。但这不是单独赞美忍耐，紧接着便要转入仓位管理，因为能否继续留在场内，并不只由意志决定。
 
-![25:00，连续损失与依赖大师的问题](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/05-losses-and-gurus.png)
+![25:00，连续损失与依赖大师的问题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/05-losses-and-gurus.png)
 
 *25:00：课件把避免连续损失导致出局，与不能依靠大师发财并列。本文按课堂作用转述，不将截图里的书摘当作已核原版译文。*
 
@@ -174,7 +174,7 @@
 
 这些数字让案例与上一段形成对照：一边是经历一串独立交易亏损，一边是对同一方向越跌越加。无论哪一种，最终能否等到后续机会，都受到资金条件约束；判断后来得到行情印证，不会自动返还先前失去的参与资格。
 
-![27:00，生牛案例中的价格路径与有限资金](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/06-cattle-capital.png)
+![27:00，生牛案例中的价格路径与有限资金](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/06-cattle-capital.png)
 
 *27:00：1974年、43至28美分、不到30天损失300万美元及两个月后60美分，均可在课件读到；这是视频展示的回忆材料，不是独立成交记录。*
 
@@ -192,7 +192,7 @@
 
 奇衡要求观众先在两种心境中选择，并倒数等待答案。题目比较的不是两只股票的真实收益率，也没有给出胜率、仓位或损失分布，而是一个人在准备承担风险时，注意力放在哪里。
 
-![28:45，先作答再读后面的解释](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/07-mindset-question.png)
+![28:45，先作答再读后面的解释](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/07-mindset-question.png)
 
 *28:45：50%与100万元属于第一种心境的题面，不是已验证的盈利预测。作者的解释在下一节。*
 
@@ -210,7 +210,7 @@
 
 他批评一些分享者把成功归因于自己的努力，却没有排除运气，再把模棱两可的描述教给别人。学生只懂一部分就照用，亏损后又不知道问题出在哪里。因而规则不仅要能复述，还要能列清、量化，并允许事实检验它是否成立。
 
-![32:00，从喜恶转向规则](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/08-rules.png)
+![32:00，从喜恶转向规则](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/08-rules.png)
 
 *32:00：课件写的是遵守规则；具体到放量的定义追问来自口述。本课尚未给出统一放量阈值。*
 
@@ -238,7 +238,7 @@
 
 片尾经过几次口头调整，最后把准备讨论的机会表述为暴跌之前的一次反弹、暴涨之前的一次回调。怎样抓到它，留给下一课。此处只建立问题，没有给出模型条件；后续登记视频是第四集《技术分析之市场高低点判断》。
 
-![35:30，片尾的救生艇命题](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/09-lifeboat.png)
+![35:30，片尾的救生艇命题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/09-lifeboat.png)
 
 *35:30：本图是退出与生存的命题，不是买卖点示意。威廉救生艇是奇衡在本课介绍的命名，模型尚未展开。*
 

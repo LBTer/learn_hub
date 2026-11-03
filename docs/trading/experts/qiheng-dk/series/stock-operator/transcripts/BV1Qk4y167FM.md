@@ -46,7 +46,7 @@
 
 这个命名服务于他的知识组织：前面看 A 与 B 的相对关系，后面追问这种关系为何可能影响行为。课堂没有在此展示一条可以直接算出大小和方向的力学公式，而是继续用价值与参照解释。
 
-![04:20 作者命名的格雷厄姆力及其概念联系](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/04-20-reference-force.png)
+![04:20 作者命名的格雷厄姆力及其概念联系](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/04-20-reference-force.png)
 
 *04:20，画面核实作者使用的名称与联系，不将其归为格雷厄姆本人提出的正式术语。*
 
@@ -80,7 +80,7 @@
 
 他又联系前课，用假如存在这样的推动者来展开：较少资金在小市场里引出明显上涨，热度再影响较大的市场。假设语气仍属于讲述的一部分，后面的参与者故事以这套推演为起点。
 
-![07:35 黑麦与小麦的课堂路径示意](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/07-35-reference-paths.png)
+![07:35 黑麦与小麦的课堂路径示意](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/07-35-reference-paths.png)
 
 *07:35，无价格、时间坐标的示意图，用于讲较先活跃与随后跟随的关系，不是历史行情实图。*
 
@@ -114,7 +114,7 @@
 
 两者都跌过，并不是本段最有用的差别。奇衡强调，按先前观察，黑麦回调后应当表现得更积极，这一次却没能恢复原来那种迅速创新高的状态。正文按课堂所用数值和日期保留，与原书的差异另列核验。
 
-![11:38 课堂数值页：两者回撤与恢复差异](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/11-38-wheat-rye-recovery.png)
+![11:38 课堂数值页：两者回撤与恢复差异](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/11-38-wheat-rye-recovery.png)
 
 *11:38，数字用于核对课堂讲法；“5 月 2 日”与原书相应日期不一致，详见[原书对照](#book-date-comparison)。*
 
@@ -196,7 +196,7 @@
 
 他希望别人先看，有了想法以后再交流。这个安排在他看来能提高沟通效率，不是承诺每天给观众交易答案；课堂随后才真正进入段位分类。
 
-![20:47 自测题面，此时尚未列出分类](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/20-47-self-test.png)
+![20:47 自测题面，此时尚未列出分类](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/20-47-self-test.png)
 
 *20:47，先保留题面。[精品笔记](../notes/BV1Qk4y167FM.md#self-test-frame)将完整分类折叠，便于先独立回想决策。*
 
@@ -266,7 +266,7 @@
 
 因此，这个最高名称在课堂里并不是一个已经公开的反手系统，更不是他已经做到的业绩承诺。下一段他还要解释，自己为什么未必希望追求它。
 
-![28:40 完整自测分类，含最后的神段](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/28-40-self-test-stages.png)
+![28:40 完整自测分类，含最后的神段](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/28-40-self-test-stages.png)
 
 *28:40，名称来自作者课件，属于教学分类而非能力认证。27:59 画面尚未展开神段，这里保留完整页。*
 

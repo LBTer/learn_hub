@@ -31,7 +31,7 @@
 
 <span id="market-structure-frame"></span>
 
-![11:48 原始课件：狭窄区间与较充分展开的运动交替](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/11-48-market-structure.png)
+![11:48 原始课件：狭窄区间与较充分展开的运动交替](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/11-48-market-structure.png)
 
 *扁椭圆与大圆是波动形态的示意，不能从图中提取价格阈值。*
 
@@ -51,7 +51,7 @@
 
 到标普500复盘，这个要求又多了一层。作者不仅有一个向上的观点，还叙述了建仓方式、后续右侧参与和预设止损；面对不断传来的悲观信息，他先回到自己的模型和计划，再用金融机构与政策反应解释当时判断。
 
-![18:50 原始课件：早期判断记录与后来复盘图](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/18-50-sp500-plan.png)
+![18:50 原始课件：早期判断记录与后来复盘图](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/18-50-sp500-plan.png)
 
 *左图日期为 2020-03-17，右图是课堂复盘。课程没有展示足够材料来复原完整账户或指定具体 ETF、期货合约。*
 
@@ -81,7 +81,7 @@
 
 <span id="recovery-frame"></span>
 
-![27:36 原始课件：向上趋势中的参与与大跌后的抄底路径](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/27-36-recovery-paths.png)
+![27:36 原始课件：向上趋势中的参与与大跌后的抄底路径](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/27-36-recovery-paths.png)
 
 *左侧 45—591 的上行示意很吸引人，但需要与右侧大跌、反弹和后续变化一起看。图上没有完整仓位与退出记录。*
 
@@ -97,7 +97,7 @@
 
 <span id="critical-reading-frame"></span>
 
-![33:04 原始总结页：从经验价值走到方法矛盾与“最”字问题](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/33-04-critical-reading.png)
+![33:04 原始总结页：从经验价值走到方法矛盾与“最”字问题](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/33-04-critical-reading.png)
 
 奇衡把此书比作金融领域的《老人与海》，认可成功与失败共同构成的经验；接着，他逐项指出方法与行为不一致、回忆选择性、形象塑造等问题。最后一句读书态度，应与他前面推崇书的具体理由放在一起理解。
 

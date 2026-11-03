@@ -28,7 +28,7 @@
 
 真正承担反例作用的是2012年经历。作者先靠股指空单获利，接着受月份口诀和跌得差不多的感觉影响，平空转向分级B抄底。反弹之后再创新低，叠加产品杠杆认识不足，令他遭受重大挫折。它不是一个从头到尾都很糟的选择序列：恰恰因为前半段曾经成功，后半段的信心才更容易显得有根据。
 
-![2012年反弹后仍继续下跌的课堂图](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/04-2012-result.png)
+![2012年反弹后仍继续下跌的课堂图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/04-2012-result.png)
 
 *22:00。作者回忆的行为与指数展示分开：图能展示价格路径，不能计算其个人损益。*
 
@@ -47,7 +47,7 @@ N 通常取20；M在口述中举1.5或2，并未规定唯一取值。
 
 中轨概括窗口内价格水平，标准差描述这组价格的离散程度，M决定把该距离放大多少。按同一参数和统计口径直接相减，通道宽度是2M倍标准差。这一代数关系属于整理者推导，便于解释为什么同一图上的宽窄能反映价格分散程度变化。
 
-![布林公式课件](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/10-formula.png)
+![布林公式课件](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/10-formula.png)
 
 *33:00。N和M不是同一个参数，公式也没有成交量项。日线20根与其他周期20根不能不加区分地称为20日。*
 
@@ -59,7 +59,7 @@ N 通常取20；M在口述中举1.5或2，并未规定唯一取值。
 
 2014年的题先问上涨之前看见什么。说看见多年大底，是把已知结局塞回过去；作者随后加上布林通道，才引导观察宽度先收窄、后扩大的过程。这个案例帮助看见一种状态变化，不能单独证明每次收缩都值得做多。
 
-![2014年叠加通道的图](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/09-2014-bands.png)
+![2014年叠加通道的图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/09-2014-bands.png)
 
 *31:00。应与[课程稿29:39段](../transcripts/BV1EZ4y1g7ke#_29-39-·-2014年上涨之前能看到什么-先排除事后底部答案)的先问后答合看；图中已包含后来上涨。*
 
@@ -73,7 +73,7 @@ N 通常取20；M在口述中举1.5或2，并未规定唯一取值。
 
 但37:31—38:48的理由需逐层检查：作者把波幅收缩连到成交量低迷，再连到交易所改规则或退出品种，最后推出波动必扩大。前一个公式只有价格数据，不能保证成交量同步变化；制度可能反应，也没有自动给出幅度和发生期限；退出品种更不是存续行情随后扩大、可以获利的同义说法。
 
-![不对称主张及推论](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/12-asymmetry.png)
+![不对称主张及推论](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/12-asymmetry.png)
 
 *39:00。作者自己在后续口述中排除了两周内一定涨跌，不能把倒计时改成日历预测。*
 
@@ -83,7 +83,7 @@ N 通常取20；M在口述中举1.5或2，并未规定唯一取值。
 
 22:59—26:02讲从五十个策略筛到不足十个、历史检验再到样本外，以及早期用真钱测试的危险。它提供了一个研究顺序：先把想法写清，再允许证据淘汰它，而不是靠刚赚过钱的信心继续增加投入。
 
-![课内测试资金曲线](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/05-test-curve.png)
+![课内测试资金曲线](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/05-test-curve.png)
 
 *25:00标题明确为组合测试。651.31%利润率、45.47%胜率、12.86%最大回撤是屏幕统计，未取得可复核的运行记录。*
 
@@ -118,7 +118,7 @@ M＝2时，上轨104、下轨96、宽度8；M＝1.5时，上轨103、下轨97、
 
 原课堂题改编。先看下图，自己划出认为明显变窄的区间，写出比较的前段；再记录后续看到上涨、下跌还是横盘。先不使用作者计数。
 
-![2020年上证指数题面](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/11-2020-exercise.png)
+![2020年上证指数题面](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/11-2020-exercise.png)
 
 <details>
 <summary>展开作者讲解与整理者检查</summary>
@@ -148,7 +148,7 @@ M＝2时，上轨104、下轨96、宽度8；M＝1.5时，上轨103、下轨97、
 
 这是39:45—40:29的作者原课堂作业。只用课内可见图，判断是否值得关注，写下波幅状态与理由；把关于方向、时间和行动尚不知道的内容另外列出。
 
-![原课堂白银作业图](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/13-silver-homework.png)
+![原课堂白银作业图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/13-silver-homework.png)
 
 <details>
 <summary>展开整理者检查框架（作者未公布答案）</summary>

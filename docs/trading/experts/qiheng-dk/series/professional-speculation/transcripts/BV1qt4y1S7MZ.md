@@ -14,7 +14,7 @@
 
 他用没有学历、学位，也没有毕业期限的市场课程作玩笑。这个包装背后是持续学习的意思：进入二级市场，并不会因为读完一本书便毕业。随后确认本课为第十一课，讨论书作者维克多的三条指导原则。课件上的书名与课程编号，只说明这次授课的组织位置，不代替原书逐章对应。
 
-![00:30 第十一课片头](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/01-0030-course.png)
+![00:30 第十一课片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/01-0030-course.png)
 
 *00:30，课号及题名清晰可见。*
 
@@ -44,7 +44,7 @@
 
 这一段保留了形态、判定和感受之间的距离。知道一个形态名称，并不意味着已经掌握作者实际采用的判断办法。
 
-![05:00 复看上一课上证图](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/02-0500-prior-reference.png)
+![05:00 复看上一课上证图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/02-0500-prior-reference.png)
 
 *05:00。可见 MA250，以及 3288、2440 参考线；不是本课新发布的订单价格。*
 
@@ -66,7 +66,7 @@
 
 接着展示的一周后图，是这番感慨的具体参照。他观察到，上证仍在去年高点上方，上海与深圳的方向也比较一致，因此没有看到需要改判为向下的证据。他用这幅图解释为何可以维持原安排，而不是单纯要求听众更有耐心。
 
-![07:30 一周后的沪深叠加图](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/03-0730-one-week-later.png)
+![07:30 一周后的沪深叠加图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/03-0730-one-week-later.png)
 
 *07:30。课件明确标“一周后”，图例为上证指数与深证成指；右侧相对涨幅刻度不应读作两个指数相同的点位。没有仓位、订单及完整策略检验记录。*
 
@@ -84,7 +84,7 @@
 
 这不是把经济研究取消，而是在经济表现与市场结果之间加入一层必须检查的变化来源。
 
-![08:00 三条原则课件](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/04-0800-three-principles.png)
+![08:00 三条原则课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/04-0800-three-principles.png)
 
 *08:00。原则由奇衡归于维克多，本次未校勘原书版本和页码；正文为概述而非书摘。*
 
@@ -118,7 +118,7 @@
 
 这段把过去的归因、眼前的观察与未来的期待串在一起。它展示作者如何寻找周期变化，但不是所有被提到企业的经营事实或收益结果都已逐一得到证明。
 
-![12:00 政策与板块清单](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/05-1200-policy-sectors.png)
+![12:00 政策与板块清单](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/05-1200-policy-sectors.png)
 
 *12:00。清单用于逐类说明政策可能作用的位置；19:02 起作者明确说不是推荐购买。*
 
@@ -192,7 +192,7 @@
 
 不过，本课并未把设备的存在、产权归属、可用状态和量产能力逐项拆开。正文保留他如何转移关注的过程，不能把这段进一步整理成已证实某企业拥有完整先进制程能力。
 
-![21:00 过去与未来的两个例子](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/06-2100-history-and-future.png)
+![21:00 过去与未来的两个例子](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/06-2100-history-and-future.png)
 
 *21:00，课件只有航母与光刻机两个例子；具体推导来自口述，图片本身不证明历史细节或设备能力。*
 
@@ -234,7 +234,7 @@
 
 因此，匿名不是让读者猜题，而是把本课讨论留在思路上。前面曾点名中国平安，也不能据此认定匿名图就是同一家公司。
 
-![25:30 匿名保险股图](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/07-2530-anonymous-insurer.png)
+![25:30 匿名保险股图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/07-2530-anonymous-insurer.png)
 
 *25:30。作者明确不列名称；图上没有足够的日期、复权和身份信息，不补股票代码，也不认作实际成交记录。*
 

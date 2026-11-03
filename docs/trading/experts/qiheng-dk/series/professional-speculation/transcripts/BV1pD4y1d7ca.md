@@ -14,7 +14,7 @@
 
 因此，这次课程不是给出一个漂亮买点后展示收益，而是要把选择对象、参与、回撤和退出放在一起讲。开场先从最近卖出比亚迪底仓的问题切入，之后再倒回去解释当初为什么买。
 
-![原视频00:15：第十八课与大结局片头](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/01-0015-finale.png)
+![原视频00:15：第十八课与大结局片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/01-0015-finale.png)
 
 *图1 · 00:15，课号及收官身份明确。超过200%是作者自述，不是本站独立审计结论；全部截图来自奇衡DK-CAPITAL原视频。*
 
@@ -26,7 +26,7 @@
 
 读者可以先保留自己的选择。这里要判断的是作者为什么处理自己的仓位，不是猜下一个交易日涨跌，也不是以投票结果替市场作全体表态。
 
-![原视频04:00：卖出理由投票与课堂解释](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/02-0400-exit-question.png)
+![原视频04:00：卖出理由投票与课堂解释](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/02-0400-exit-question.png)
 
 *图2 · 04:00，可见41人参与、允许多选，四项票数为26、18、1、9；图右已有作者解释，建议先答题再看。票数合计54，不是54名独立投票者。*
 
@@ -46,7 +46,7 @@
 
 为什么要分两种仓位？他描述了一种反复困境：只想高抛低吸，一卖就全空；等价格继续涨，又急着追进去，结果反而站在高位。底仓与交易仓的搭配，是他试图应对这种问题的安排。图上还有他让观众自行寻找的彩蛋，课堂没有在此明确揭晓，本文也不替他猜答案。
 
-![原视频06:00：比亚迪局部流水及叠加走势](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/03-0600-partial-records.png)
+![原视频06:00：比亚迪局部流水及叠加走势](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/03-0600-partial-records.png)
 
 *图3 · 06:00，流水明确002594；2019-12-24买价46.07，2020-10-13卖价131.09，10-15两笔卖价134.88、135.48。数量被遮挡，不能据局部记录重建账户总收益。*
 
@@ -66,7 +66,7 @@
 
 当时有人觉得跳得太高，非要等缺口回补；奇衡回看后续行情，认为那一跳相对于后来涨幅很小。他以此反对把所有缺口都当成必须填上的洞。这里他要引出的概念，是事件改变了原先的预期，不能只凭价格突然变高就解释全部交易意义。
 
-![原视频08:00：特斯拉事件与2B退出案例](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/04-0800-tesla-case.png)
+![原视频08:00：特斯拉事件与2B退出案例](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/04-0800-tesla-case.png)
 
 *图4 · 08:00，上海工厂标注、红圈和193.80高点均为课堂画面。它是事后讲解图，不代替当时的完整信号与成交记录。*
 
@@ -126,7 +126,7 @@
 
 他把较早成本与以后承受复杂波动的能力联系起来。越是在上涨后面才追入，越可能在一次普通回落中立即面对本金压力。所谓长期持有的稳定心态，在他的解释里并不是凭空练出来，而与最初怎样参与、给自己留下多少余地有关。
 
-![原视频24:00：趋势相互验证与两阶段回顾](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/05-2400-cross-check.png)
+![原视频24:00：趋势相互验证与两阶段回顾](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/05-2400-cross-check.png)
 
 *图5 · 24:00，同一课件同时呈现理想走势、实际波折、作者浪形及2019年12月／2020年3月两个案例时点。图中的已知后续路径不能当成早期就掌握的信息。*
 
@@ -186,7 +186,7 @@
 
 这不是纯粹抽象的谦虚。他说自己有过把赚出的钱再次投回去、最终亏掉的失败经验，已经踩过坑，管理较大资金时不愿再重演。守住一次已经取得的成果，对他而言比证明自己还能在同一品种再赢一轮更重要。
 
-![原视频27:00：获利退出后不回头的个人原则](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/06-2700-no-return.png)
+![原视频27:00：获利退出后不回头的个人原则](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/06-2700-no-return.png)
 
 *图6 · 27:00，这条原则解释本案例选择，不应改写成所有人、所有离场永远不得重新参与。*
 
@@ -214,7 +214,7 @@
 
 奇衡还区分估出公司完整价值与判断价值变化方向。这里的任务是作价差交易，不是收购整家公司，所以他更重视参照所显示的变化。第二浪回调是否形成较高低点，便被他用于检验趋势是否成立；后面的第三、第四、第五浪，则会出现更多解释分歧。
 
-![原视频30:00：特斯拉波段参照](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/07-3000-wave-reference.png)
+![原视频30:00：特斯拉波段参照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/07-3000-wave-reference.png)
 
 *图7 · 30:00，图中第一浪、第二浪与后续走势是回顾式组织。没有创新低在课堂中用作参照，不等于本金得到保证。*
 
@@ -250,7 +250,7 @@
 
 “大C”在这里是尚未发生的情景，不是他已经看见的未来。实际决策关心的是，如果这条路径发生，自己会回吐多少已有利润，是否仍符合当前任务，而不是必须证明某个字母标注永远正确。
 
-![原视频33:00：2B扩展路径及特斯拉多次尝试](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/08-3300-2b-branches.png)
+![原视频33:00：2B扩展路径及特斯拉多次尝试](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/08-3300-2b-branches.png)
 
 *图8 · 33:00，31:55—32:09口述确认图为特斯拉。整理与下跌是不同分支；图示不是已确定见顶或事前可执行的完整规则。*
 

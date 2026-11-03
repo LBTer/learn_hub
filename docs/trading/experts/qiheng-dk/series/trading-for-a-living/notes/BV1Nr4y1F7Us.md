@@ -23,7 +23,7 @@
 
 整理者可以把这条阅读路线写成：**环境值得关注 → 方向线索出现 → 结构允许试探 → 失败条件约束行动**。这是对课堂顺序的归纳，不是可以直接运行的完整交易系统。
 
-![作业时点与后续K线的分界提示](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/03-focus.png)
+![作业时点与后续K线的分界提示](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/03-focus.png)
 
 *10:00。黄色圈定位布置作业时点；先只用圈附近当时可见信息作判断，再逐步放出右侧K线。*
 
@@ -43,7 +43,7 @@
 
 12:09—13:41还比较了穿越过程。作者觉得此次从80附近到20附近较流畅，前面则更纠结；他提示可以研究斜率，但没有给定量斜率参数。这里应学会的问题是：一次穿越来自什么价格变化，其路径是否与前几次不同？不能把流畅直接填成一个自行猜出的阈值。
 
-![正数WR与原课参数](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/05-formula.png)
+![正数WR与原课参数](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/05-formula.png)
 
 *14:00。n为10；课件写20超买、85超卖。软件可能使用另一刻度和默认参数，先对公式再对信号。*
 
@@ -57,7 +57,7 @@
 
 18:05之后，观察对象才变成关系：低点是否还在降低，还是后一个低点已经抬高？19:02又面对真实图形的横盘和近似相等低点，把两根当作一个位置看。这里比简单套三根K线更细，但没有给足编程规范，尤其不能自行给出统一的相等容差。
 
-![作者在白银图上标出的比较区域](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/06-fractals.png)
+![作者在白银图上标出的比较区域](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/06-fractals.png)
 
 *18:00。找最低点、比较相邻底分形和判断后续抬高，是连续的观察任务。黄色框本身不是订单区间。*
 
@@ -69,7 +69,7 @@
 
 20:39明确给出头部低点作为失败参照：后来阴线打穿它，就要承认原先试盘的理由受到破坏。阳线附近到这个低点的距离，是价格风险的起点；泰坦尼克号的玩笑强调不能买完以后不管止损。
 
-![早期试盘与头部失败参照的教学示意](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/07-lifeboat.png)
+![早期试盘与头部失败参照的教学示意](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/07-lifeboat.png)
 
 *20:00。这是第四课示意图，不是白银实际成交截图。*
 

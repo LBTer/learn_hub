@@ -16,7 +16,7 @@
 
 片头还展示一段带有强烈自我证明意味的文字：交易成功不只关系到钱，也可能被当成向亲友乃至陌生人证明能力、展示克服困难的一条出路。他借它交代本课的精神背景——知道市场困难以后，仍然想研究怎样越过困难，而不是只停留在知道它很难。
 
-![00:15，第四课片头](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/01-cover.png)
+![00:15，第四课片头](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/01-cover.png)
 
 *00:15：片头确认原第四课及高低点主题；卖完BYD是开场说法，后文说明仍留100股。展示文字不作已校原书引文。*
 
@@ -36,7 +36,7 @@
 
 底仓一直拿到2020年10月13日开始卖，10月17日又在旧系列课程中解释原因。关键不在于比亚迪自身出现了2B：他说观察的是特斯拉的2B结构，再利用两者在行业中的参照关系处理比亚迪。有人追问比亚迪哪里有2B，他认为那是把观察对象与实际交易对象混在了一起。
 
-![04:35，作者展示的比亚迪交易记录](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/02-byd-record.png)
+![04:35，作者展示的比亚迪交易记录](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/02-byd-record.png)
 
 *04:35：可读到002594、2019-12-24买入46.07、2020-10-13卖出131.09；数量已遮挡。这是视频所展示记录，不足以重建全账户交易。旧课见[原第十八课](../../professional-speculation/transcripts/BV1pD4y1d7ca)。*
 
@@ -48,7 +48,7 @@
 
 他把通常的建仓方式称为正金字塔、卖出方式称为倒金字塔，并调侃只有100股时没有多少可拆分空间。这一限定让讨论回到规模差异：分单技巧有其使用条件，不能把所有账户都想成相同的执行场景。
 
-![06:00，多日操作和余下持仓的展示](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/03-staged-sales.png)
+![06:00，多日操作和余下持仓的展示](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/03-staged-sales.png)
 
 *06:00：左侧可读比亚迪002594、金龙汽车600686、宇通客车600066及部分日期；右侧比亚迪数量／可用均为100。其余遮挡行不补名，不从截图推算交易规模或盈亏。*
 
@@ -60,7 +60,7 @@
 
 在他给定的继续上涨路径下，较高价格承接更多卖出，整体卖出均价会高于130元一次性全部卖掉。他想介绍的是执行价格的组织方式，而非证明最初决定卖出时就已经知道后来最高能走到哪里。
 
-![09:00，回看底仓经历的价格路径](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/04-byd-chart.png)
+![09:00，回看底仓经历的价格路径](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/04-byd-chart.png)
 
 *09:00：作者用同一幅日线图说明较早建仓、经历回撤和右侧分批卖出；图示可见顶部188.86，不能把它当作作者全部持仓的成交价，复权口径也未在本片说明。*
 
@@ -72,7 +72,7 @@
 
 这是他对方法可跨周期使用的解释，并非把这一笔日线交易真的改成五分钟成交。接下来课上准备讲的是结构识别的共同语言，让不同周期中的高低点能够先被清楚描述。
 
-![08:15，四项模型的课堂编号](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/05-models.png)
+![08:15，四项模型的课堂编号](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/05-models.png)
 
 *08:15：本课实际列出的模型三是威廉水手、模型四是威廉分形。上一课预告的救生艇在后半段作为早期参与／退出的比喻回收，不能把两次命名机械等同。*
 
@@ -114,7 +114,7 @@
 
 题面在此没有告诉观众是什么品种，也没有先给一个预期答案。两幅图都足以诱发熟悉图形的人替它们起名字；这正是他安排这一互动的原因。读到这里，也可以先停一下，记录自己究竟看到了什么，再看下一节揭晓。
 
-![15:00，看图识形态的题面](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/06-chart-question.png)
+![15:00，看图识形态的题面](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/06-chart-question.png)
 
 *15:00：左图为OHLC示意，题目针对右上、右下两图。材料出处的揭晓在下一节，不按图形猜股票名称。*
 
@@ -142,7 +142,7 @@
 
 这只是本课展开后续模型所接受的前提。奇衡明确说，没有这个前提，后面许多结构便无法继续推导。下一步才是把高低点从直觉印象改成清晰定义。
 
-![18:00，威廉水手课件](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/07-sailor.png)
+![18:00，威廉水手课件](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/07-sailor.png)
 
 *18:00：课件展示非随机市场与醉水手比喻。本文据视频转述，不将展示书段当作已核原版文本，也不将类比视为统计证明。*
 
@@ -154,7 +154,7 @@
 
 这个定义为后面的讨论提供共同参照。先有一个可以明确指出的高点、低点，才能进一步说高点是否抬升、低点是否下移，以及它们怎样组合。
 
-![18:45，三根线的顶底定义](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/08-three-bars.png)
+![18:45，三根线的顶底定义](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/08-three-bars.png)
 
 *18:45：课件明确写三根连续线、比较最高／最低价；等高、等低及右侧线未完成时如何处理，没有在这一页规定。*
 
@@ -166,7 +166,7 @@
 
 逐项核对时，A、C、E的高点都高于各自左右邻线，属于顶分形；B、D的低点低于各自左右邻线，属于底分形。作者尤其强调E：参照左右两根，就无需在它究竟算高还是低之间摇摆。本课练的是定义的识别，并未把五个标签都变成买卖成交点。
 
-![19:30，A至E定位练习](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/09-abcde.png)
+![19:30，A至E定位练习](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/09-abcde.png)
 
 *19:30：字母指示原图的局部结构；没有清晰品种与价格坐标，不补标的。练习题与折叠答案另见笔记。*
 
@@ -186,7 +186,7 @@
 
 因此，这一段应当保留为作者提出的处理要求，而不能替换成一套现成的去包含算法。特别是当包含线恰好位于三根结构内部时，怎样得到可重复的结果，还需要后续条件。
 
-![22:30，内包含与外包含](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/10-inclusion.png)
+![22:30，内包含与外包含](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/10-inclusion.png)
 
 *22:30：图示两根范围包含的不同颜色组合；忽略不算来自口述，图中没有给出连续包含的合并程序。*
 
@@ -198,7 +198,7 @@
 
 本课接下来要展示的所谓先进性，是更早找出较小结构中的变化，而不是宣布所有传统形态都没有价值。比较的核心是参与位置和识别时点。
 
-![23:00，传统头肩底示意](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/11-neckline.png)
+![23:00，传统头肩底示意](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/11-neckline.png)
 
 *23:00：先看左肩、头部、右肩和大颈线的原示意；更早的参与位置在下一段才展开。*
 
@@ -218,7 +218,7 @@
 
 至此才回收上一课预告的救生艇：较早发现反转迹象，能够帮助没有仓位的人减少踏空，也可能提醒空头准备退出。这是本课给出的示意用途，尚不是已经交代所有过滤、仓位与退出参数的交易系统。
 
-![25:00，早期参与位置与更大结构的对照](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/12-lifeboat.png)
+![25:00，早期参与位置与更大结构的对照](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/12-lifeboat.png)
 
 *25:00：黄色箭头指向头部后较早的上涨线；25:14—25:18口述补充以头部低点作止损。右图A／B与左图对应关系为作者讲解，具体价格、复权与成交不明。*
 

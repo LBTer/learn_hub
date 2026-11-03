@@ -9,7 +9,7 @@
 
 本篇为整理者在详细课程稿冻结后制作的学习笔记。课中叙述、作者感悟、外部核验与自拟练习分别标明；历史类比不直接转成今日交易信号。
 
-![00:30，第十五课片头](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/01-0030-course.png)
+![00:30，第十五课片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/01-0030-course.png)
 
 *图1 · 原视频00:30。确认第十五课、副题与开场问题。五图均为奇衡DK-CAPITAL原视频课件；图中文字只能证明课堂展示过什么。*
 
@@ -33,7 +33,7 @@
 
 **整理者延展：** 资产最终有价值和现在能付款，是两个不同问题。一块土地未来能售出，并不等于柜台今天就有黄金；若想借款或出售资产来补充兑付，还要知道需要多久、能卖多少、谁愿意接手。本课没有给完整银行资产负债表，因此只能提出这些检查问题，不能由示意比例推算历史银行的偿付能力。
 
-![18:00，货币与法国财政的讲述路线](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/02-1800-credit-story.png)
+![18:00，货币与法国财政的讲述路线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/02-1800-credit-story.png)
 
 *图2 · 原视频18:00。凭据扩张被接到国家周转与法国债务。红字思想史联系仍需独立证据。*
 
@@ -58,7 +58,7 @@
 
 **对应20:05—29:43。** 作者按三步讲方案：股票融资并接受旧债、扩大贸易权利继续融资、银行发券托价并引导获利者买地。这个组织方式的价值，是让进入和退出出现在同一幅图里。
 
-![27:00，作者的三步融资安排](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/03-2700-financing-steps.png)
+![27:00，作者的三步融资安排](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/03-2700-financing-steps.png)
 
 *图3 · 原视频27:00。公司、银行与资产转向并列；红字的现代政策师承是作者解释。*
 
@@ -79,7 +79,7 @@
 
 **对应29:50—34:31。** 作者先讲土地吸引越来越多资金，再讲贸易预期落空和外来金银流出。他试图解释的不是一根股价线，而是多个环节同时失去支持。
 
-![33:00，三种支撑开始出现压力](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/04-3300-support-and-pressure.png)
+![33:00，三种支撑开始出现压力](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/04-3300-support-and-pressure.png)
 
 *图4 · 原视频33:00。左侧为暂时的支撑，右侧为作者所述失效路径。没有据此确认所有土地资金已被锁死。*
 
@@ -103,7 +103,7 @@
 
 **对应37:25—39:41。** 作者先把劳动时间介绍为较稳定的价值参照，再用技术跃升追问这个条件还是否成立。最后的Excel与Python例子，把生产率变化接到个人工作方式：过去耗费很长时间的事情，可能被新工具缩短，旧方法的耗时不自动保证其结果仍按原来的尺度被认可。
 
-![39:00，先提出稳定参照，再追问技术变化](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/05-3900-productivity-question.png)
+![39:00，先提出稳定参照，再追问技术变化](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/05-3900-productivity-question.png)
 
 *图5 · 原视频39:00。理论介绍与后续质疑并置，保留作者自问的顺序。*
 

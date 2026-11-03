@@ -17,7 +17,7 @@
 
 另一个关键区分是观察对象与交易对象：奇衡说参照的是特斯拉的2B，处理的是比亚迪。它接续[《专业投机原理》原第十八课](../../professional-speculation/notes/BV1pD4y1d7ca)，不是说本课发现比亚迪自身有同样的2B。
 
-![06:00，分批操作与保留100股](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/03-staged-sales.png)
+![06:00，分批操作与保留100股](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/03-staged-sales.png)
 
 *06:00：这是作者展示的局部操作记录。金龙汽车、宇通客车只是同时出现在画面，不据此补交易观点；匿名行不猜名。*
 
@@ -41,7 +41,7 @@
 
 **课程位置：18:47—21:12。**
 
-![18:45，本课的三根线定义](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/08-three-bars.png)
+![18:45，本课的三根线定义](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/08-three-bars.png)
 
 *18:45：顶分形比较最高价，底分形比较最低价；并非判断中间K线的颜色。*
 
@@ -66,7 +66,7 @@
 
 这让趋势的高点创新高、低点抬升不再完全依赖眼睛随意挑点。代价也很清楚：要判定更大层次的中间底，须先得到右侧那个底，而右侧底自身又需要右邻确认。层次更高不表示信息可以更早获得。
 
-![22:30，包含关系的课堂例外](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/10-inclusion.png)
+![22:30，包含关系的课堂例外](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/10-inclusion.png)
 
 *22:30：红绿组合变化不改变两根线的范围包含关系；课中只提出忽略，不提供合并算法。*
 
@@ -78,7 +78,7 @@
 
 **课程位置：23:00—26:44。**
 
-![25:00，小结构较早参与与大颈线确认](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/12-lifeboat.png)
+![25:00，小结构较早参与与大颈线确认](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/12-lifeboat.png)
 
 *25:00：左图黄色箭头位于头部后的较早上涨线；右图A／B展示小结构。作者在25:14—25:18将左图头部低点作为止损参照。*
 
@@ -120,7 +120,7 @@
 
 题面来自14:19—15:08。暂不猜股票名，先写出你认为的形态，以及你认为这些图能支持哪些判断。
 
-![15:00，课堂看图题](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/06-chart-question.png)
+![15:00，课堂看图题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/06-chart-question.png)
 
 <details>
 <summary>展开作者揭晓与整理者边界</summary>
@@ -135,7 +135,7 @@
 
 题面来自19:29—19:44：A、B、C、D、E哪些是顶分形，哪些是底分形？
 
-![19:30，顶底定位题](/images/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/09-abcde.png)
+![19:30，顶底定位题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1qp4y167pV/09-abcde.png)
 
 **整理者追加题：** 三根已完成K线的低点依次为10、8、9，高点依次为13、11、12，没有包含。第二根是不是底？若第三根尚未完成、目前最低9，能否已把第二根定为最终的底，并声称在8处按此信号买入？
 

@@ -16,7 +16,7 @@
 
 第五课没有立即推出一个新指标，而是承认上一课可能留下了理解缺口：威廉分形虽然讲过，许多观众仍不知道怎样应用。因而本次要继续举例，尤其要把抽象图形放回实际判断过程。进入图例之前，他先安排一段交易基础的讨论，说明自己为什么把注意力放在价格和行动上。
 
-![00:15，继续举例说明威廉分形](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/01-cover.png)
+![00:15，继续举例说明威廉分形](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/01-cover.png)
 
 *00:15：片头明确本课任务是继续解释分形的使用，并非另起一个同名模型。*
 
@@ -52,7 +52,7 @@
 
 这一轮铺垫最后落在价格上：如果不知道公司的家当与所付价格的关系，仍可能在付出很高代价以后，用未来故事很大来安慰自己。本课随后将进一步讨论，屏幕上的价格为什么还取决于别人愿意支付多少。
 
-![06:00，资产、故事、融资与投资者示意](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/02-financing.png)
+![06:00，资产、故事、融资与投资者示意](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/02-financing.png)
 
 *06:00：这是作者的教学示意图，展示其批评的研究路径；不是完整融资分类或公司估值模型。*
 
@@ -64,7 +64,7 @@
 
 因此，课程关心的不只是上一次成交或曾经的估值，还包括准备离场时实际面对什么买盘。故事按本课转述保留；书页的出现不被当作本项目已经独立核实了历史成交。
 
-![09:00，课程展示的书页](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/03-book.png)
+![09:00，课程展示的书页](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/03-book.png)
 
 *09:00：书页包含Singer、一百美元与一美元、1987年及IBM例子。截图用于定位课程引用，不将整页文字作为校订原书全文。*
 
@@ -114,7 +114,7 @@
 
 因此，本课不要求立即把四条话都化成规则。当前重点仍然是前面的视角转换，以及怎样借威廉分形识别可能开始上行的位置。开场十五分钟的观念铺垫，到这里才收回到标题所问的买点。
 
-![15:00，四条交易主张](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/04-principles.png)
+![15:00，四条交易主张](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/04-principles.png)
 
 *15:00：保留四条主张的完整次序。最后一条此时尚未被量化，后面的图例也不应被写成无条件上涨承诺。*
 
@@ -134,7 +134,7 @@
 
 但仅仅等整个大结构都完成，和等待传统头肩底的行动位置并没有太大区别。因此，下一个问题是：有没有更小一层的结构，允许在大图尚未完全长出来时先行动？
 
-![17:30，传统颈线与A/B小结构对照](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/05-early-structure.png)
+![17:30，传统颈线与A/B小结构对照](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/05-early-structure.png)
 
 *17:30：左图帮助识别传统形态，右图用A与B说明早期参与和低点参照。两边不是同一组已核数值行情。*
 
@@ -154,7 +154,7 @@
 
 读到这里可先停一下：只看下图，先说出观察对象与范围，再决定是否已经形成明确趋势。后文才给出课程的分析路线。
 
-![18:00，第一轮互动的原始题面](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/06-first-question.png)
+![18:00，第一轮互动的原始题面](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/06-first-question.png)
 
 *18:00：题面共14根示意K线，尚无后面追加的两根和长阳线。不要用后来的结果替此刻作答。*
 
@@ -198,7 +198,7 @@
 
 故事继续把冲突集中到短线交易者身上：这些人并未稳定持有，而是在盘口反复进出、试图猎庄；新的下压会击穿他们刚刚参照的局部低点，促使这一轮参与者退出。课程用这种叙事解释为何一个局部底出现后还会被打掉。它是作者给出的机制解释，画面本身没有展示参与者身份或逐笔订单。
 
-![26:56，早先的右侧局部低点](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/07-right-bottom.png)
+![26:56，早先的右侧局部低点](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/07-right-bottom.png)
 
 *26:56：鼠标指向右侧先前的局部结构。后面的更低位置仍须与整组最低点区别，不能把所有低点混为一个止损参照。*
 
@@ -218,7 +218,7 @@
 
 这段语气明显加重，强调想赚钱的人有弱点，也再次说到要稳住愿意共同持有的人。因此，图上更深的局部波动并没有被他一律当成整体失败，但这种解释仍依赖前面所选的结构边界。
 
-![28:30，右边追加的两根K线](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/08-new-bars.png)
+![28:30，右边追加的两根K线](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/08-new-bars.png)
 
 *28:30：与原题面比较，右端多了两根；观察局部新低与整组最低点的相对位置。该图没有价格坐标，不从像素距离推算止损幅度。*
 
@@ -238,7 +238,7 @@
 
 他用较严厉的语气要求看不懂的人反复观看，并调侃若仍无法理解，或许更适合定投。这一段不是在给所有人规定十三次后买入，而是在把反复下探与随后快速离开的示意故事讲完。
 
-![31:00，示意行情加入长阳线](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/09-departure.png)
+![31:00，示意行情加入长阳线](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/09-departure.png)
 
 *31:00：长阳线是作者随后加入的示意结果。做18:03的题时不能提前使用这一信息，也不能据此得出前三次震荡后必涨。*
 
@@ -250,7 +250,7 @@
 
 紧接着他强调学习需要练习：在课堂上练错的代价与在实盘上练错不同。他插入打赏的玩笑，说课堂练习最多表达一点支持；若到二级市场才拿资金练，代价可能很大。语气夸张，但教学动作很清楚——再给一张图，让学生先作判断。
 
-![31:40，蛋壳公寓与比亚迪两张案例图](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/10-two-examples.png)
+![31:40，蛋壳公寓与比亚迪两张案例图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/10-two-examples.png)
 
 *31:40：身份来自作者口述；蛋壳为历史美股案例，比亚迪具体股类及两图周期未在本段明确。只用于识别结构，不代替行情数据或成交记录。*
 
@@ -262,7 +262,7 @@
 
 此时先只看下图，找观察范围、关键低点及它的左右关系，再回答。后面的课程讲解会补充时间周期与允许讨论的摆动层级，不要提前把局部判断升级成长期持有结论。
 
-![32:20，遮住后续行情的匿名题面](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/11-anonymous-question.png)
+![32:20，遮住后续行情的匿名题面](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/11-anonymous-question.png)
 
 *32:20：保留作者给出的未知品种和右侧遮挡，不根据图形猜股票名，也不把后续揭示的走势混入题面。*
 
@@ -282,7 +282,7 @@
 
 他还调侃有人嫌这种交易赚得少，可以去看一天八成的美股波动，随即补上自己说的是亏损。这次转折把语气从收益诱惑拉回损失可能，也延续了按所见结构限定预期的要求。
 
-![35:20，讲解阶段部分露出的后续走势](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/12-partial-reveal.png)
+![35:20，讲解阶段部分露出的后续走势](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/12-partial-reveal.png)
 
 *35:20：这是答案讲解阶段，不是32:28时完整可见的题面。作者强调更大结构缺少右侧低点，不能把局部swing直接写成长期持有。*
 
@@ -294,7 +294,7 @@
 
 本视频没有继续公布标准答案。下图保留为原课堂作业，整理者的检查思路另放配套笔记，不冒充作者已经揭晓的结论。
 
-![36:00，未公布答案的课后作业](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/13-homework.png)
+![36:00，未公布答案的课后作业](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/13-homework.png)
 
 *36:00：原图未明示品种、周期与日期。可比较图上极值和结构，不能仅凭图貌补出具体合约或公司。*
 

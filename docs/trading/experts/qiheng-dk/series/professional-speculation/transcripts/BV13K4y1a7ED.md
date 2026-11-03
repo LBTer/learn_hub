@@ -20,7 +20,7 @@
 
 接着，他确认这是《专业投机原理》第十三课。内容由原书下半部分关于风险的讨论引出，不过“四个阶段”这个题目是他自己拟定的。片头用懂与不懂关系生死的强烈修辞强调重要性，又留下一个悬念：看到最后一页，才会明白这节课最终想落在哪里。
 
-![00:30，第十三课封面](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/01-0030-course.png)
+![00:30，第十三课封面](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/01-0030-course.png)
 
 *图 1 · 原视频 00:30，确认课号、自拟主题及结尾悬念。图片来源：奇衡DK-CAPITAL 原视频，保留署名；封面修辞不是学习效果保证。*
 
@@ -38,7 +38,7 @@
 
 奇衡把这类变化理解为行情启动。与听众的谨慎相比，他自己的选择更加积极，甚至敢于使用杠杆。他并没有只用“人多起来了”来解释这一步，后面又补上一条关于仓位和潜在交易对手的推理。
 
-![02:00，五月底的四阶段旧发言](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/02-0200-four-stages.png)
+![02:00，五月底的四阶段旧发言](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/02-0200-four-stages.png)
 
 *图 2 · 原视频 02:00，显示 05-29 23:35。四阶段同时涉及人数、互动方式、仓位与作者动作，不只是热闹程度。原帖编辑历史未独立取得。*
 
@@ -138,7 +138,7 @@
 
 他的取舍是，将“不知道何时回调”与“是否愿意承担这类暴露”分开：虽然不能报出回调日，仍可以提前回避。他把这种选择理解为对不确定性的回避，而不是等待预测全部完成之后才动作。
 
-![10:00，高市盈率警告](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/03-1000-valuation-warning.png)
+![10:00，高市盈率警告](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/03-1000-valuation-warning.png)
 
 *图 3 · 原视频 10:00，保留作者强判断的力度，不将其改写为已经验证、没有例外的排序规律。*
 
@@ -212,7 +212,7 @@
 
 最后，他让听众记住这两条心法，并希望真正执行，而不是只在听课时表示同意。课程就此收尾，没有给出下一课具体题名。
 
-![15:30，最后一页的两条心法](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/04-1530-own-principles.png)
+![15:30，最后一页的两条心法](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/04-1530-own-principles.png)
 
 *图 4 · 原视频 15:30。首尾由减仓自述呼应；“未变”与“不确定性出现”的识别和冲突处理，仍未由这张图补全。*
 

@@ -16,7 +16,7 @@
 
 鳄鱼比喻强调的是错误怎样扩大：原先只有一部分受到牵制，越想通过额外行动摆脱，越可能把更多资源搭进去。奇衡紧接着给出限定，避免学生把这个比喻理解成任何浮亏都必须同样处理。
 
-![08:00 原课件：知道判断错误以后，立即了结出场](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/07-0800-invalidation.png)
+![08:00 原课件：知道判断错误以后，立即了结出场](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/07-0800-invalidation.png)
 
 *原视频08:00。课件以已经知道犯错为前提，反对继续找借口和无谓调整；06:53—07:40的口述进一步解释为原入场理由消失，不能漏掉这个前提，只截取禁止调整头寸。*
 
@@ -37,7 +37,7 @@
 
 **对应课程稿 02:04—06:07。**
 
-![05:50 原课件：喜剧片段与新老交易者踩耙漫画](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/01-0550-tools-and-loss.png)
+![05:50 原课件：喜剧片段与新老交易者踩耙漫画](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/01-0550-tools-and-loss.png)
 
 *原视频 05:50。漫画依次标出被套、衍生品对冲和做差价，是作者对错误补救的讽刺；不是对冲工具有效性的统计比较。*
 
@@ -55,7 +55,7 @@
 
 **对应课程稿 11:20—18:12。**
 
-![16:00 原课件：铁路争夺的戏剧化人物对白](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/02-1600-railway-story.png)
+![16:00 原课件：铁路争夺的戏剧化人物对白](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/02-1600-railway-story.png)
 
 *原视频 16:00。画面是奇衡编排的历史故事对白，红字为 85→160；不是当事人谈话记录或经过校勘的交易流水。现代 BNSF 与故事中各铁路的身份区别见附录。*
 
@@ -77,7 +77,7 @@
 
 ### 04.1 · 运输需求是一条可研究的链，政治回报是另一项待证判断
 
-![21:30 原课件：巴肯页岩油与铁路货运叙述](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/03-2130-oil-transport.png)
+![21:30 原课件：巴肯页岩油与铁路货运叙述](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/03-2130-oil-transport.png)
 
 *原视频 21:30。课件包含 2012 年货运信息与面向 2020 年的旧展望，不能作为作者在视频发布时提出的新预测。画面没有呈现管道禁建文件或政治利益交换证据。*
 
@@ -91,7 +91,7 @@
 
 ### 04.2 · 走势图能够显示变化，无法独立指认幕后每一个动作
 
-![24:00 原课件：BNI 的历史走势与作者买入标注](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/04-2400-bni-chart.png)
+![24:00 原课件：BNI 的历史走势与作者买入标注](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/04-2400-bni-chart.png)
 
 *原视频 24:00。横轴可见 2007 年 5 月至 2008 年 4 月，两个红圈分别在 2007 年 8—9 月附近和 2008 年 1 月附近。课件的买入标注属于作者解释；全资收购公告发生于 2009-11-03，不能用于说明图内 2008 年一季度的上涨。*
 
@@ -113,7 +113,7 @@
 
 **对应课程稿 26:58—29:42。**
 
-![28:00 原课件：达美航空走势及作者的定价权解释](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/05-2800-delta-chart.png)
+![28:00 原课件：达美航空走势及作者的定价权解释](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/05-2800-delta-chart.png)
 
 *原视频 28:00。DAL 日线显示明显下跌，红框为课件标注；底部日期和复权口径未清晰核定，不从像素补写准确交易日、持仓成本或实际成交。*
 
@@ -140,11 +140,11 @@
 
 **对应课程稿 00:54—02:03、09:00—11:18、25:19—31:46。**
 
-![00:30 原课件：收益诱惑与他人控制的陷阱](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/08-0030-trap.png)
+![00:30 原课件：收益诱惑与他人控制的陷阱](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/08-0030-trap.png)
 
 *原视频00:30。片头确认第三课；漫画用于提出看得见收益、却不掌握主动权的问题。它是课堂比喻，不证明所有证券交易都由同一种幕后结构决定。*
 
-![31:00 原课件：以名人也会退出，收束鳄鱼法则](/images/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/06-3100-exit-principle.png)
+![31:00 原课件：以名人也会退出，收束鳄鱼法则](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1UK4y147rY/06-3100-exit-principle.png)
 
 *原视频 31:00。画面是作者的强烈修辞与课程结论，保留其批评力度；不表示本笔记已认可其中定价权解释或业绩概括。*
 

@@ -14,7 +14,7 @@
 
 **对应详细课程稿00:12—01:28。**
 
-![00:30 原第十二课，三部分内容](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/01-0030-course.png)
+![00:30 原第十二课，三部分内容](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/01-0030-course.png)
 
 *原视频 00:30。片头原第十二课与 00:22 起口述相符；00:31—00:48 明确以自己的理解替代部分原书内容。项目 13 不是原第十三课。*
 
@@ -28,7 +28,7 @@
 
 **对应详细课程稿01:30—12:28。**
 
-![01:30 原始关系图，尚未分段圈画](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/02-0130-production-map.png)
+![01:30 原始关系图，尚未分段圈画](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/02-0130-production-map.png)
 
 *原视频 01:30。保留原图术语：生产资料私有者、人力资源掌握者、生产资料公共平台、使用价值、市场价值、渠道及储存成本。箭头是课堂组织方式，不是已估计的经济模型。*
 
@@ -63,7 +63,7 @@
 
 ### 02.4 · 3.0，劳动者与需求方同时成为竞争对象
 
-![10:00 两种模式圈画出的竞争交点](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/03-1000-platform-competition.png)
+![10:00 两种模式圈画出的竞争交点](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/03-1000-platform-competition.png)
 
 *原视频 10:00。圈画围绕人力资源与需求方；08:31 起明确两种模式并存，不是新模式一出现便自动替代旧模式。*
 
@@ -79,7 +79,7 @@
 
 **对应详细课程稿12:29—13:54。**
 
-![13:30 作者加入人工智能与机器人的 4.0 路径](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/04-1330-ai-scenario.png)
+![13:30 作者加入人工智能与机器人的 4.0 路径](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/04-1330-ai-scenario.png)
 
 *原视频 13:30。红线及标注由课堂展示，未加入后来技术进展；13:45 起作者明确保留未来未知。*
 
@@ -93,7 +93,7 @@
 
 **对应详细课程稿14:00—20:59。**
 
-![15:00 生命周期与作者赋予各阶段的经济含义](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/05-1500-life-cycle.png)
+![15:00 生命周期与作者赋予各阶段的经济含义](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/05-1500-life-cycle.png)
 
 *原视频 15:00。出生对应货币创造、死亡对应货币消灭是作者的图式，截图证明他这样讲，不证明该机制成立。*
 
@@ -154,7 +154,7 @@
 
 作者先说自己把内在价值变化视作平缓，剧烈波动多从货币解释，随后问：1.5% 年化无风险利率意味着什么？读者可以先停在这个题面，只写已知利率及自己认为缺少的条件。
 
-![24:00 约 65 倍与历史沪深市盈率比较](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/06-2400-yield-comparison.png)
+![24:00 约 65 倍与历史沪深市盈率比较](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/06-2400-yield-comparison.png)
 
 *原视频 24:00。课件写现金市盈率约 65 倍；图中为 2020-09-04 上证 A 股 15.86、深证 A 股 33.26，保留 value500 图源标记。只核原图文字，未独立复算全市场历史数据；口述创业板约 65 并不是这张图中的第三条线。*
 

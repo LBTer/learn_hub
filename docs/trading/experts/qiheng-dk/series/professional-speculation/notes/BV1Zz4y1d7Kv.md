@@ -6,7 +6,7 @@
 
 本课最值得学的判断能力，是**先检查数据描述了什么，再检查自己准备用它决定什么**。作者从一道均线题谈到指标使用者的行为，再分开安排进场与退出。它的价值在于拆开问题，不能因叙述有冲击力，就把所有群体判断或盈利结论当成事实。
 
-![00:15，原第十七课片头](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/01-0015-course.png)
+![00:15，原第十七课片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/01-0015-course.png)
 
 *图1 · 原视频00:15。片头明确是第十七课《技术分析（中）》，与原第十六课上篇各有课号；上中下是主题关系，不沿用同一个正课号。全部截图来自奇衡DK-CAPITAL原视频，保留署名。*
 
@@ -16,7 +16,7 @@
 
 作者用加减乘除和竞赛参与奖自嘲后出题，希望先打破公式简单、自然就懂含义的感觉。题目不需要复杂数学，恰好更能暴露取样假设。
 
-![03:00，开场均线题面](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/02-0300-ma-question.png)
+![03:00，开场均线题面](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/02-0300-ma-question.png)
 
 *图2 · 原视频03:00。按课堂假设，一天四根60分钟K线，20天对应80根；先自己判断两条均线是否必相等，再展开下面的解释。*
 
@@ -25,7 +25,7 @@
 
 作者展示两条均线不等，课尾增加30分钟MA160：
 
-![38:00，三种采样的课件数值](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/03-3800-sampling-values.png)
+![38:00，三种采样的课件数值](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/03-3800-sampling-values.png)
 
 *图3 · 原视频38:00。沪深300日线MA20＝4642.47、60分钟MA80＝4646.43、30分钟MA160＝4646.47。只是课件显示值，本次未取得全部原始行情重算。*
 
@@ -67,7 +67,7 @@
 
 这里最重要的转折在15:19—16:23：即使共同反应暂时出现，它也不保证永久稳定。前几次尝到收益，可能让人不再检查条件；后来继续机械执行，才把利润交回。
 
-![21:00，作者将指标与使用群体连接](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/04-2100-indicator-groups.png)
+![21:00，作者将指标与使用群体连接](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/04-2100-indicator-groups.png)
 
 *图4 · 原视频21:00。均线、MACD、缠论爱好者是作者用于说明行为关系的课堂分组，不是已取得的账户分类或真实持仓数据。*
 
@@ -87,7 +87,7 @@
 
 作者所谓趋势指标做震荡，不是金叉出现就做反向。他明确描述先随趋势信号参与，再用震荡类观察退出，强调不因一个短时信号就承诺长期不走。
 
-![27:00，退出路径与卖飞风险](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/05-2700-exit-and-regret.png)
+![27:00，退出路径与卖飞风险](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/05-2700-exit-and-regret.png)
 
 *图5 · 原视频27:00。把进场、离场及卖飞风险一起保留，不能只取较早退出能赚取他人亏损的一面。*
 
@@ -97,7 +97,7 @@
 
 作者还讨论趋势方法付出假突破成本、较低仓位及资金补充。他对右侧交易的偏好、低于20%人能坚持的比例均未独立验证。不能据本段承诺追高无风险，也不能将有钱承受损失等同方法有效。
 
-![30:00，未具名布林通道案例](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/06-3000-anonymous-example.png)
+![30:00，未具名布林通道案例](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/06-3000-anonymous-example.png)
 
 *图6 · 原视频30:00。示意反复波动和均线参与，口述随后加入回到通道内的退出思路。截图无清楚名称、日期、周期和参数，保留匿名；两次转写在某图名称上仍含混，不猜公司或铜期货。*
 
@@ -109,7 +109,7 @@
 
 作者将另一条路径放在震荡型交易者期待反转、但价格并未反转且继续扩展的情形。他以踏空追入或反向持仓止损解释可能的后续力量，随后展示2020年七月走势与布林带。
 
-![35:40，沿轨延续案例](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/07-3540-band-continuation.png)
+![35:40，沿轨延续案例](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/07-3540-band-continuation.png)
 
 *图7 · 原视频35:40。作者圈出突破上轨并延续的一段，用于反驳一到上轨就必跌。截图未显示清楚证券名，虽图形与指数历史形态相似，仍不按形状认代码。*
 

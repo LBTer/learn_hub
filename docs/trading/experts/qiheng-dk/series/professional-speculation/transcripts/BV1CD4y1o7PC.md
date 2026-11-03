@@ -13,7 +13,7 @@
 
 买不买房也被他放进这个开场。他要让观众意识到，抽象的货币支撑并不只存在于书本，还可能影响人们怎样理解土地和资产。随后点出密西西比泡沫：这个名字很多人听过，但只知道它是泡沫，未必说得清发生了什么。本课就准备从人物、货币和财政一路讲到泡沫的形成与破裂。
 
-![00:30，第十五课片头及两个开场问题](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/01-0030-course.png)
+![00:30，第十五课片头及两个开场问题](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/01-0030-course.png)
 
 *原视频00:30。片头确认课序与副题；三本经典的同源关系是作者提出的论题，核验另列。*
 
@@ -115,7 +115,7 @@
 
 他以美国独立战争后的债务处理、日本明治维新后的相关公债安排作为成功对照，并进一步提出大型经济体往往经历过成功置换、后来的处置手法都能在密西西比故事中找到源头。这是他在课堂上的强归因；这里保留其力度，但不把举例直接扩写成已逐国证明的历史规律。
 
-![18:00，从货币故事进入法国债务处置](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/02-1800-credit-story.png)
+![18:00，从货币故事进入法国债务处置](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/02-1800-credit-story.png)
 
 *原视频18:00。箭头显示作者的解释路线；红字思想史归因属于课程主张。*
 
@@ -175,7 +175,7 @@
 
 这一段的重要性在于，作者并没有把泡沫从开始就画成所有人明知无效的骗局。他要解释的是一套安排为什么能获得支持，甚至让多个群体同时看到好处。后来的失败，需要放在这段暂时成功之后理解。
 
-![27:00，公司融资与银行托价的三步安排](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/03-2700-financing-steps.png)
+![27:00，公司融资与银行托价的三步安排](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/03-2700-financing-steps.png)
 
 *原视频27:00。三步为作者的课程组织方式，图中红字现代政策类比没有因此成为已核传承。*
 
@@ -211,7 +211,7 @@
 
 随后他将贵族带头兑付皇家银行的故事，解释成原来共同持有筹码的利益方开始出现分歧。早期各方都受益时能互相配合，临界点上要求不再一致，便可能先行退出，并把不安传给其他持有人。
 
-![33:00，三种支撑及作者列出的失效路径](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/04-3300-support-and-pressure.png)
+![33:00，三种支撑及作者列出的失效路径](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/04-3300-support-and-pressure.png)
 
 *原视频33:00。把支撑与压力一起看，可还原本课的由盛转衰；土地冻结资金等表述仍属于作者的机制解释。*
 
@@ -263,7 +263,7 @@
 
 这个例子承担的是提示条件变化的作用。课中没有给出可复现实验或职业统计，不能把时间比例当成软件性能结论；但它确实完成了本课最后一次转折——从三百年前金融制度的困难，回到今天个人是否还在用旧条件理解自己的能力。
 
-![39:00，劳动时间解释与技术变化的追问同时出现](/images/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/05-3900-productivity-question.png)
+![39:00，劳动时间解释与技术变化的追问同时出现](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1CD4y1o7PC/05-3900-productivity-question.png)
 
 *原视频39:00。左下为作者的理论概括，右下为他提出的新问题；需要连读，不能只摘其中一半。*
 

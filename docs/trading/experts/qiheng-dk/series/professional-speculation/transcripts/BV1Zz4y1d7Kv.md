@@ -14,7 +14,7 @@
 
 开场轻松，落点却严厉。会按按钮、知道某条线怎么计算，与能够正确使用它之间有距离。他准备先用一道看似不用思考的题，把这种距离显露出来，再谈为什么了解很多技术术语仍然可能亏钱。
 
-![原视频00:15：第十七课《技术分析（中）》片头](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/01-0015-course.png)
+![原视频00:15：第十七课《技术分析（中）》片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/01-0015-course.png)
 
 *图1 · 00:15，确认原课号、主题和作者署名。本文截图均来自奇衡DK-CAPITAL原视频。*
 
@@ -26,7 +26,7 @@
 
 读者在这里先保留自己的答案。需要说明的不是两条线叫什么、在屏幕上大致贴不贴近，而是：究竟拿了哪些数去求平均？时间范围相同，是否已经足以说明计算内容相同？这个问题会贯穿本课，并在结尾再次出现。
 
-![原视频03:00：日MA20与小时MA80题面](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/02-0300-ma-question.png)
+![原视频03:00：日MA20与小时MA80题面](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/02-0300-ma-question.png)
 
 *图2 · 03:00，只展示课堂题面。先作答，再往下阅读揭晓。*
 
@@ -118,7 +118,7 @@
 
 讲述没有简单落在道德谴责上。提供需求对应的服务，本身有其商业逻辑；学习者应看清的是，自己在这个结构中付出什么、别人靠什么获得收入。回到市场，观察指标群体也被他解释为同样的位置意识：不要只站在使用者内部看公式。
 
-![原视频21:00：指标与行为群体的课件](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/04-2100-indicator-groups.png)
+![原视频21:00：指标与行为群体的课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/04-2100-indicator-groups.png)
 
 *图3 · 21:00，“趋同推动力”拼写由课件确认；群体行为一致是作者的课堂假设，不是账户统计图。*
 
@@ -162,7 +162,7 @@
 
 他还讨论较晚参与者：有人先等待回调，后来又等新高确认，最终在更晚的位置才愿意加入。奇衡用这一过程解释持仓如何在不同预期的人之间转移，并强调不愿承担任何一种不确定性，最终并不能消灭风险。
 
-![原视频27:00：第一种搭配及卖飞代价](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/05-2700-exit-and-regret.png)
+![原视频27:00：第一种搭配及卖飞代价](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/05-2700-exit-and-regret.png)
 
 *图4 · 27:00，课件同时写进参与、退出与卖飞风险；不能只保留提早离场的一面。*
 
@@ -182,7 +182,7 @@
 
 接着，他把震荡类退出观察加入比较：价格向上发展后，重新回到通道内部，便作为他讨论离场的位置线索。案例服务于进出场分工，不是在图上证明一种固定参数的完整收益曲线；课堂没有逐笔交代成交、费用或所有失败信号。
 
-![原视频30:00：匿名布林通道图例](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/06-3000-anonymous-example.png)
+![原视频30:00：匿名布林通道图例](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/06-3000-anonymous-example.png)
 
 *图5 · 30:00，可见中轨、上下轨及反复波动；缺少清楚名称、日期、周期、参数，不凭含混读音补成某只股票或铜合约。*
 
@@ -216,7 +216,7 @@
 
 这张图与前面的匿名震荡图承担不同作用：前图比较参与后怎样退出，后图反驳到达上轨便必然下跌的想法。两图不能混成一个事后挑选最优动作的万能流程。
 
-![原视频35:40：突破上轨后延续](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/07-3540-band-continuation.png)
+![原视频35:40：突破上轨后延续](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/07-3540-band-continuation.png)
 
 *图6 · 35:40，圈线标示延续区域。图中未清楚显示证券名，不根据局部形态或3458.79这一标注猜代码。*
 
@@ -236,7 +236,7 @@
 
 他没有在片尾把所有问题都展开。群体是否真的同步行动、细分取样如何验证、进出场之间还缺哪些执行条件，都仍留给读者继续思考。课程在约38:14结束有效讲述，之后约十秒没有新增实质内容；下一登记成员为原第十八课《技术分析（下）》。
 
-![原视频38:00：三种采样的读数](/images/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/03-3800-sampling-values.png)
+![原视频38:00：三种采样的读数](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Zz4y1d7Kv/03-3800-sampling-values.png)
 
 *图7 · 38:00，数字按清楚课件核对。它们是课堂显示值，不是本次获取全量历史行情重新计算的结果。*
 

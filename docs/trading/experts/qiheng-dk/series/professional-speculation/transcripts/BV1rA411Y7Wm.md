@@ -23,7 +23,7 @@
 
 交易中的反差也类似：口头上认同应该限制亏损，让有利头寸继续发展，可到了鼠标或手机上的那一下操作，往往急着结束盈利，却把亏损留着等待。奇衡用带有网络玩笑意味的表达调侃这种知行错位，强调这不是少数人口头说得不够坚定，而是一种值得拆开研究的行为过程。
 
-![00:30 第九课题名与减肥类比](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/01-0030-spock.png)
+![00:30 第九课题名与减肥类比](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/01-0030-spock.png)
 
 *00:30 原课件，确认第九课及主题。史波克症候群在此是课程与书目的命名，不作为医学诊断。*
 
@@ -47,7 +47,7 @@
 
 不过，他也没有把一切看起来有道理的说法都视为可靠。设想自己未来十年能像巴菲特一样取得约 20%—25% 的年均回报，再为此列出一串理由，也可能只是缺乏实际支撑的远景。相比眼前的情绪刺激，这种叙述显得更理性，但仍可能离能够落实的行动很远；这里是作者举出的收益想象，并非核准巴菲特某段时期的业绩。
 
-![05:00 情绪与理性同时影响行为](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/02-0500-emotion.png)
+![05:00 情绪与理性同时影响行为](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/02-0500-emotion.png)
 
 *05:00 原课件。图示为课堂概念入口，不能据此把复杂决策机制认定为两个互不关联的系统。*
 
@@ -205,7 +205,7 @@
 
 这段并非要求停止获取信息，而是在问，信息还没查到时，最初的风险限制是否仍然有效。如果因为正在找原因，就把原来的限制暂时搁置，查询本身便可能成为延后行动的过程。
 
-![30:00 心理止损与实际开盘的反差](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/03-3000-mental-stop.png)
+![30:00 心理止损与实际开盘的反差](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/03-3000-mental-stop.png)
 
 *30:00 原课件，核对 5 档、10 档与 62,500 美元的故事设定，以及未按预期跳空下跌的开盘。它不是经纪账户或已提交订单的证明。*
 
@@ -315,7 +315,7 @@
 
 片尾明确预告下一课《一开盘，祖先留给我的本能都丢了》，把这里关于警觉与行动错位的问题继续留下。后续课号与页面标题的对应关系在文末另列，不把下一课内容提前填入本课。
 
-![43:00 下一课预告](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/04-4300-preview.png)
+![43:00 下一课预告](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/04-4300-preview.png)
 
 *43:00 原课件，确认预告原题名；与下一登记视频不同的页面标题分别保留。*
 

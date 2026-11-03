@@ -8,7 +8,7 @@
 
 本课最值得学的判断能力，是**把懂得某个信号，和有条件反复做这笔生意区分开**。作者先问成本、频率和可利用的波动，再讲利率与信号的配合。他没有先给一套新参数，而是改变使用指标之前要回答的问题。
 
-![00:30，技术分析上篇片头](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/01-0030-course.png)
+![00:30，技术分析上篇片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/01-0030-course.png)
 
 *图1 · 原视频00:30。原第十六课《技术分析（上）》，00:41—00:48口述说明计划分三支。本项目19为上篇；下一支已核原第十七课中篇，三篇各自课号分别维护。图片均来自奇衡DK-CAPITAL原视频，保留署名。*
 
@@ -30,7 +30,7 @@
 
 作者把长期参与与经营公司相比较，强调即使赚不到，开支仍会消耗资源。随后以税、费、差说明频繁交易的代价，并指出资金规模与品种活跃度影响实际成交。
 
-![06:00，成本与交易频率课件](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/02-0600-cost-and-frequency.png)
+![06:00，成本与交易频率课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/02-0600-cost-and-frequency.png)
 
 *图2 · 原视频06:00。1亿、1%和100次是课堂假设，不是市场统一费率。成本类比的教学用意与严格成本分类分开。*
 
@@ -53,7 +53,7 @@ SEC投资者教育材料说明，市价单的实际执行价格可能与预期�
 
 **对应06:37—08:50。**
 
-![08:00，全额周转与策略问题](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/03-0800-turnover-and-strategy.png)
+![08:00，全额周转与策略问题](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/03-0800-turnover-and-strategy.png)
 
 *图3 · 原视频08:00。作者课件要求年度全额周转次数不高于策略有利波动周期出现次数；下方先问多久全额交易一次，再问是否有策略。它是课堂原则，尚不是已有完整口径的统计公式。*
 
@@ -91,7 +91,7 @@ SEC投资者教育材料说明，市价单的实际执行价格可能与预期�
 
 **对应10:38—11:41。**
 
-![11:20，六翼天使模型展示](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/04-1120-model-display.png)
+![11:20，六翼天使模型展示](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/04-1120-model-display.png)
 
 *图4 · 原视频11:20。名称为六翼天使／Seraphim。图示测试区间与统计用来核对作者频率解释，不能证明实盘；画面也注明模型自用及非投资建议。*
 
@@ -109,7 +109,7 @@ SEC投资者教育材料说明，市价单的实际执行价格可能与预期�
 
 作者以CPU与读写部件类比，强调先理解环境，再由技术工具落实行动。这承接开篇先读背景、最后才行动的思路。他将利率称为第二个重点指标，并在末页归纳应用原则。
 
-![13:40，利率背景与技术信号搭配](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/05-1340-rate-and-signals.png)
+![13:40，利率背景与技术信号搭配](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/05-1340-rate-and-signals.png)
 
 *图5 · 原视频13:40。清晰课件确认顶钝化做多、底钝化做空，不能因习惯超买反转的讲法而改成相反方向。*
 

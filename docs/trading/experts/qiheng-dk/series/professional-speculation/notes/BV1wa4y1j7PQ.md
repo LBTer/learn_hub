@@ -25,7 +25,7 @@
 
 **整理者辨析：** 有日期的旧材料比事后一句“我早就知道”更有追溯价值，但视频里的截图仍只是被展示的历史证据。原帖是否编辑、当时听众能看到多少、组合是否真的按规则成交，属于下一层核验，不能由这一段自动补齐。本文不拿后续行情认证其轮动路线。
 
-![01:30，作者展示旧文章与轮动设想](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/01-0130-rotation.png)
+![01:30，作者展示旧文章与轮动设想](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/01-0130-rotation.png)
 
 *图 1 · 原视频 01:30。作者自己的文章题名、日期与轮动段落可见。此图用于追溯课堂引用，不将整段文章当作已验证行情规律。来源：奇衡DK-CAPITAL 原视频，保留署名。*
 
@@ -55,7 +55,7 @@
 
 作者在说 2B 成立后，立即承认不知道会跌到哪里、跌多久，所以先休息。这段的价值在于将**行动依据**与**完整预测**分开：他不需要先给出准确底部，才能决定目前不参与。
 
-![03:30，历史动态写明 3373 与结构否定条件](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/02-0330-invalidation.png)
+![03:30，历史动态写明 3373 与结构否定条件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/02-0330-invalidation.png)
 
 *图 2 · 原视频 03:30。可见 09-04、上证 2B 成立、重新升穿 3373 前不会否定结构，以及对第六课的引用。这是作者当时给的条件，不是指数规则或现行交易指令。*
 
@@ -69,7 +69,7 @@
 
 作者说深证成指与创业板指较强，上证是他观察全面走强的另一端。于是他把 **3288** 作为此前持续争夺的参照，再加入本次 2B 的 **3373**。
 
-![04:30，上证指数图与作者画出的历史水平线](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/04-0430-index.png)
+![04:30，上证指数图与作者画出的历史水平线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/04-0430-index.png)
 
 *图 3 · 原视频 04:30。3288 标注清楚；3373 以图 2 的动态及 04:55—05:12 口述核对，不从右侧高点像素反算。底部另有旧水平线，本段未赋予具体动作，不擅自补作止损线。*
 
@@ -91,7 +91,7 @@
 
 作者先回看减仓提示，再谈三种听众：已经减仓的，减仓后又买回的，以及根本没有退出的。由此可见，听到一条提醒与持续执行是两件事。
 
-![03:45，作者展示 9 月 4 日的减仓发言](/images/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/03-0345-reduction.png)
+![03:45，作者展示 9 月 4 日的减仓发言](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1wa4y1j7PQ/03-0345-reduction.png)
 
 *图 4 · 原视频 03:45。可见 09-04 23:51 与关于两天大幅减仓的文字；口述将其称为网上模拟盘。它说明作者展示了什么，不认证实际账户或粉丝是否同步成交。*
 

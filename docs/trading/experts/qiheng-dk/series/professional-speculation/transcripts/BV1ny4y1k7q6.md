@@ -22,7 +22,7 @@
 
 随后，他先从钱讲起。想在资本市场赚钱，至少要对自己手中的现金、支付宝和微信支付等账户里的余额有认识。这个提问把抽象的贫富话题，落到每个人平时正在使用的钱上。
 
-![00:30，原第十四课下集片头](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/01-0030-course.png)
+![00:30，原第十四课下集片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/01-0030-course.png)
 
 *图1 · 原视频00:30，显示原课号、下集身份与贫富提问。图片来源：奇衡DK-CAPITAL原视频，保留署名。*
 
@@ -92,7 +92,7 @@
 
 他再把新人和已有积累的人作比较：如果只盯着原有存量领域争夺，新人的竞争优势可能不如老参与者。所以，他让听众琢磨资金去向与自身能提供什么之间的关系。补贴、融资和货币发行是否是一回事，另作核验。
 
-![08:00，货币框架与新增资金问题](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/02-0800-new-money.png)
+![08:00，货币框架与新增资金问题](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/02-0800-new-money.png)
 
 *图2 · 原视频08:00。末项提出谁取得新增货币，前面的货币与古籍解释仍属于作者框架。*
 
@@ -184,7 +184,7 @@
 
 由此，话题从对货币购买力的感受，转到取得资金的资格与价格，再转到资产交易。这个转折为后面的贫富对比准备了条件。
 
-![14:30，作者自拟的两条利率式](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/03-1430-rate-formulas.png)
+![14:30，作者自拟的两条利率式](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/03-1430-rate-formulas.png)
 
 *图3 · 原视频14:30。卖方式列成本利率、违约概率、市场供需因子；买方式列央行基准利率、市场供需因子。公式归于作者，未作为通用银行定价模型认证。*
 
@@ -236,7 +236,7 @@
 
 最后，他让听众别只纠缠经济循环的定义，而要关心循环对自己造成的影响。本支在这里结束，完成原第十四课下半部分，没有明确预告下一课题名。
 
-![18:35，完整的贫富处境与下一回合对照](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/04-1835-cycle-and-choice.png)
+![18:35，完整的贫富处境与下一回合对照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/04-1835-cycle-and-choice.png)
 
 *图4 · 原视频18:35。完整保留紧缩中的融资承接、宽松后的出售，以及过度扩张后急售和失去下一回合三层关系。*
 

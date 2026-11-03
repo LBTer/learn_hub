@@ -9,6 +9,16 @@ uv run python scripts/transcribe_audio.py <音频文件>
 如果需要进入虚拟环境，也可以先执行 `uv sync`，再使用 `.venv/bin/python` 运行脚本。
 # R2 image uploads
 
+Git stores course text, code, and configuration only. Images and other binary
+assets belong in R2. Local evidence and source images may remain on disk in
+ignored paths; do not add them to Git, including with `git add -f`.
+
+After extracting images, run the scoped upload with `--rewrite` before staging
+the course Markdown. Published image URLs use `https://learn.luovista.com/`.
+`npm run assets:check` checks tracked paths and course image references; it also
+runs before every `docs:build`, including the deployment workflow. This prevents
+a new course from passing the build with local image links or tracked assets.
+
 The upload command reads Cloudflare R2 settings from the repository's `.env` file.
 It never deletes local or remote files.
 

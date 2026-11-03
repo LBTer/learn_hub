@@ -25,7 +25,7 @@
 
 **课堂位置：04:31—07:52。**
 
-![06:00，学生组合两个工具](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/02-student-wr-ma.png)
+![06:00，学生组合两个工具](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/02-student-wr-ma.png)
 
 *06:00：学生报告11月2日买入，理由是10日WR下穿50、股价在250日年线上方。匿名股票不补名，年线条件不是从右侧裁切图独立验出的。*
 
@@ -48,7 +48,7 @@
 
 第一例是作者回顾自己的一串交易，第二例是课件呈现的威廉姆斯回忆。一个强调不能仅因痛感放弃计划，另一个强调不能靠信念突破资金上限。若把二者都压成坚持就会赢，反而丢掉了它们之间最重要的区别。
 
-![27:00，钱有限是生牛故事的转折](/images/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/06-cattle-capital.png)
+![27:00，钱有限是生牛故事的转折](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kT4y1F7Eg/06-cattle-capital.png)
 
 *27:00：课件列43→40→38→35→30→28美分／磅，随后两个月到60；300万美元与不到30天也是回忆中的数字，未获独立账单验证。*
 

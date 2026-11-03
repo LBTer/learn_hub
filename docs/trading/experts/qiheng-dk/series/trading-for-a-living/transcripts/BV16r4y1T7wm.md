@@ -18,7 +18,7 @@
 
 因此，这堂课承接上一课的公式，却没有继续发一个新参数。先要讨论的是，拿到方法以后怎样看待方法、市场以及自己。标题中的人物故事，要到后半课才展开。
 
-![00:15，第十一课封面与保持警惕的引文](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/01-cover.png)
+![00:15，第十一课封面与保持警惕的引文](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/01-cover.png)
 
 *封面的重点是留意变化，不把自己封闭在固定方法中；后半课再用人物故事回收这个问题。*
 
@@ -40,7 +40,7 @@
 
 接下来有三个问题：什么引发了这种波动，什么时候更可能发生，以及能否找到因素，帮助把握发生的时间与价位。课件用了控制时间和点位的强措辞，但这一页尚未提供实现方式。奇衡要求观众持续思考，接着用自己的解释示范怎样找原因。
 
-![04:00，短线操作的三个问题](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/02-questions.png)
+![04:00，短线操作的三个问题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/02-questions.png)
 
 *一至五日是所引工作假设中的趋势时段，不能与前课的收窄持续时间、个人持仓期限自动合并。*
 
@@ -68,7 +68,7 @@
 
 这一解释引出利好公布后反跌、利空公布后反涨的现象。但他马上反对把这些现象变成万能口诀。若任何结果都能靠更换一句话解释，交易者仍然不知道下一次消息出现时到底该买还是不买。
 
-![08:00，课程中的新闻与信息链讨论](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/03-news.png)
+![08:00，课程中的新闻与信息链讨论](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/03-news.png)
 
 *书页还以银行家与饲养员分别熟悉债券、生牛信息作对比，说明不存在掌握全部领域消息的人；不据此识别任何实际知情账户。*
 
@@ -134,7 +134,7 @@
 
 他用不喜欢一个人就让对方去做期货的挖苦，表达对新手贸然进入的反对；有人说想做期货，他的回应是先停留在想一想。这个提醒应保留在收益故事之前，不能只摘取后面的高收益自述。
 
-![18:00，逐项出现的五个观察方向](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/04-candidates.png)
+![18:00，逐项出现的五个观察方向](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/04-candidates.png)
 
 *形态、指标、趋势、跨市场关系与大众共识均以问号呈现，作者明确不把它们列成通用答案。*
 
@@ -162,7 +162,7 @@
 
 他由此把注意力从一次判断是否正确，移到交易者是否执着于原来的立场。成功交易者在他看来反而不应有固定多空身份；如果一定要维持自己的观点，行动就可能被立场绑住。
 
-![22:00，调查例子与不单独依赖情绪的限定](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/05-survey.png)
+![22:00，调查例子与不单独依赖情绪的限定](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/05-survey.png)
 
 *课件写的是把群体意见作为辅助，避免与过度拥挤的一侧一致；不是只靠调查结果直接买卖。*
 
@@ -190,7 +190,7 @@
 
 接着回到书中叙述。拉瑞与Frankie交往三年后，后者才透露自己的方法：在股票市场较高位置卖出，再于较低位置买回。此处的三年友谊是拉瑞故事里的关系，不能误写成奇衡亲自认识Frankie。
 
-![28:00，课件中的人物介绍与方法转述](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/06-frankie.png)
+![28:00，课件中的人物介绍与方法转述](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/06-frankie.png)
 
 *1960—1983是书中评价其交易表现的区间，不是寿命或死亡年份；中文课件的篮球说法不静默改成棒球。*
 
@@ -234,7 +234,7 @@ Frankie继续在较高位置做空，期待低位回补，但行情持续创新�
 
 课程由此回到行动要求：持续识别新变化，调整思路，不让过去成功的经验成为不能触碰的信条。对他而言，与时俱进首先发生在头脑中；若先认定某种方法一定正确，就难以认真接受与它冲突的市场信息。
 
-![32:00，原书故事中的环境变化与失败叙述](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/07-regime.png)
+![32:00，原书故事中的环境变化与失败叙述](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/07-regime.png)
 
 *截图用来对应课程所读文本，不作为人物死因、政策因果或该时期全市场无回撤的独立证明。*
 
@@ -262,7 +262,7 @@ Frankie继续在较高位置做空，期待低位回补，但行情持续创新�
 
 最后，他把目的放回赚钱本身。无论采用长短哪种期限，也无论自称交易、投机还是投资，都不应借市场炫耀技术，或者证明自己的意义、价值和观点永远正确。强口号与他个人偏好保留在此，证券的经济含义和长期投资方式不由这句话重新定义。
 
-![37:30，结尾完整的个人交易理念清单](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/08-cash.png)
+![37:30，结尾完整的个人交易理念清单](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/08-cash.png)
 
 *把这张个人风格清单与35:42后的部分兑现、余仓保护一起读；本片没有披露完整账户配置规则。*
 
@@ -328,4 +328,4 @@ Frankie继续在较高位置做空，期待低位回补，但行情持续创新�
 
 [上一课课程稿](BV1Ut4y1k7dn) · [本课精品笔记](../notes/BV16r4y1T7wm) · [文字稿目录](./) · [系列学习地图](../)
 
-下一登记课：[第十二课 用交易日效应赚钱](https://www.bilibili.com/video/BV11X4y1K7im)，尚未制作；不凭标题提前视为Q26已经回答。
+[下一课：用交易日效应赚钱（已完成）](BV11X4y1K7im)。第十二课部分回答日期条件，N与更新验证仍待解。

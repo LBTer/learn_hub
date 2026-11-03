@@ -18,7 +18,7 @@
 
 课件接着提到Doug Brie和波动突破的名称。奇衡坦言自己不熟悉这个人，拿英文读音开了个玩笑，再读回书页关于早期研究的归属。这里的第一人称来自所展示的拉瑞论述，并非奇衡声称自己在1980年代做过这些研究。
 
-![00:10，本课封面及所引理论](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/01-cover.png)
+![00:10，本课封面及所引理论](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/01-cover.png)
 
 *课内题目为动能：趋势如何开始和结束；正文从理论解释走向幅度和起算点两个问题。*
 
@@ -46,7 +46,7 @@
 
 于是问题被拆成两项。第一，多大的价格变化才能叫爆发；第二，究竟从哪个价格开始度量。如果这两个部分仍然模糊，趋势的解释还没有变成可以计算的对象。
 
-![04:30，计算之前先保留两个问题](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/02-questions.png)
+![04:30，计算之前先保留两个问题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/02-questions.png)
 
 *中点是此处提出的概念问题，后面选择当天开盘价作为计算基准；不要提前把它理解为日内最高最低的均值。*
 
@@ -58,7 +58,7 @@
 
 这一阶段先给出不带比例系数的基本关系，比例的问题稍后再出现。H−C是课件和口述共同指定的差值，不改写为更常见的最高价减最低价。
 
-![06:00，历史价差与当日开盘的基础关系](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/03-range.png)
+![06:00，历史价差与当日开盘的基础关系](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/03-range.png)
 
 *第一行是H−C，第二行是T−1到T的时间关系，第三行先介绍开盘加历史价差。完整N系数在后页出现。*
 
@@ -78,7 +78,7 @@
 
 奇衡在这里又加了一层限制：即使是同一个品种，适用关系仍受所选历史时段影响。用了多长的回测数据、覆盖哪些时间，都可能影响结果。因此，品种不同只是第一层，样本选择也是条件的一部分。
 
-![07:00，按主要品种分别度量](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/04-calibration.png)
+![07:00，按主要品种分别度量](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/04-calibration.png)
 
 *本页说明做法，没有提供各品种的实际参数表；不要把对数表比喻写成视频已交付了一套数据。*
 
@@ -90,7 +90,7 @@
 
 究竟加入多少昨日波幅，又回到品种差异。到这一步，计算从哪里开始已经明确，但计算值能否成为行动依据，还依赖另外的条件。
 
-![07:30，原书片段中的入场限定](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/05-conditions.png)
+![07:30，原书片段中的入场限定](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/05-conditions.png)
 
 *课件红线标出的重点，是不立即入场及时间、情况条件；截图保留用于核对课堂，不将展示片段当作整章已经核验。*
 
@@ -117,7 +117,7 @@ N：比例系数，本课未给统一取值
 
 他用N取1说明：从当天开盘往上移动一个昨日所定义的价差，可以形成所说的入场参考。这里是在解释系数如何作用，不是宣布所有品种都使用1；而先前时间与情况合适的限定，也没有被这个例子取消。
 
-![09:45，带N的完整向上计算式](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/06-formula.png)
+![09:45，带N的完整向上计算式](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/06-formula.png)
 
 *下方为课件展示的图4.1简单日内区间突破片段；本课没有逐项给出样本、测试统计和完整交易规则。*
 
@@ -137,7 +137,7 @@ N：比例系数，本课未给统一取值
 
 这幅图刻意带着年轻交易者被众多对手包围的戏剧感，用来改变观众看待卖压的方式。它是作者自绘的解释图，不是市场人数、持仓或订单统计。
 
-![12:00，奇衡自绘的卖方示意](/images/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/07-sellers.png)
+![12:00，奇衡自绘的卖方示意](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Ut4y1k7dn/07-sellers.png)
 
 *图中没有实际账户数量、证券名称或成交数据；卖字的数量不用于计算公式。*
 

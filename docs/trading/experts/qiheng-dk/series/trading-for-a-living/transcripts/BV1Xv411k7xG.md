@@ -16,7 +16,7 @@
 
 他认为，同代观众熟悉的动画场景能够帮助理解一个原本抽象的问题：交易时手中要保留怎样的行动能力。片头没有马上解释这个比喻的答案，而是先把它放出来，待经历和信封模型讲完之后，再在结尾回扣。
 
-![00:15，原第二课片头](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/01-course-cover.png)
+![00:15，原第二课片头](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/01-course-cover.png)
 
 *00:15：片头确认课程名称、原第二课和仓位主题；英文拼写为原课件所示。*
 
@@ -52,7 +52,7 @@
 
 当时下跌趋势已形成。按他的回忆，汶川地震后曾出现集体锁仓不卖的情绪，情绪过去，市场仍沿原有方向下跌；到奥运会前后，又有人认为重要事件应该带来上涨。他用跳水项目与A股下跌的双关，讽刺把愿望当成价格必须遵从的理由。
 
-![06:00，作者讲述2008年抄底时使用的指数图](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/02-2008-decline.png)
+![06:00，作者讲述2008年抄底时使用的指数图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/02-2008-decline.png)
 
 *06:00：口述明确为上证指数的历史背景图，用来说明持续下跌和阶段反弹；不是作者账户流水。*
 
@@ -100,7 +100,7 @@
 
 接着，他用贵州消毒液这一戏称举上涨突出标的的例子，再设想约4000只股票对应约4000个信封：少数令人印象深刻的赚钱结果，会让很多人相信自己也能找到通向财富的那一个。他用夸张的躺赢比喻描写这种吸引力，把市场活跃与参与者的期待联系起来。
 
-![15:00，威廉信封的初始规则](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/03-envelope-setup.png)
+![15:00，威廉信封的初始规则](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/03-envelope-setup.png)
 
 *15:00：课件明确15个信封、一个装5000美元、其余14个空信封；归属规则与打乱顺序共同构成题设。*
 
@@ -112,7 +112,7 @@
 
 课堂随后要追问的是，参与者会不会把这个平均意义上的数，看成自己最终实际拿到的结果；又会不会只想着5000美元的奖励，忽略落空的可能。期望值于是成为下一段讨论风险感受的起点。
 
-![16:00，第一回合概率与期望](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/04-first-round-expectation.png)
+![16:00，第一回合概率与期望](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/04-first-round-expectation.png)
 
 *16:00：1/15与约333美元均直接见于课件。这里是奖金额的期望，尚未扣抽取成本。*
 
@@ -140,7 +140,7 @@
 
 他把这件事说成空信封升值，刻意强化它与纸张本身无关的反差。模型中的关键变化是已经知道一些信封没有奖金，因而剩余不确定性的范围缩小；不是无论抽走什么，剩下的信封都会自动越来越值钱。
 
-![21:00，第二回合的条件变化](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/05-conditional-value.png)
+![21:00，第二回合的条件变化](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/05-conditional-value.png)
 
 *21:00：课件写明抽出的是空信封，5个空信封排除后余10个，最后余2个；500和2500依赖这一前提。*
 
@@ -162,7 +162,7 @@
 
 这些比较意在让旧课概念在新模型下重新连起来，不是重新完整教授波浪、123或2B。他明确提到《股票作手操盘术》《专业投机原理》等此前讲过的内容，也表明不同方法会在何时参与、容许多少次尝试上形成差异。
 
-![22:30，不同方法的课堂映射](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/06-framework-comparison.png)
+![22:30，不同方法的课堂映射](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/06-framework-comparison.png)
 
 *22:30：五次、三次、一次是奇衡在本课中的比较表述；不据此认定原作者都提出过相同的信封模型。*
 
@@ -182,7 +182,7 @@
 
 他以普通参与者发现机会就把100万元一次买进去作对照，批评大开大合的做法容易让自己被锁在某一价位。课件给的是首笔仓位示例，没有同时讲出止损距离、合约换算与后续加减仓表，因此这里保留3%的原有用途，不改写成每笔可以亏账户3%的规则。
 
-![25:45，首笔3%与重仓对照](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/07-three-percent.png)
+![25:45，首笔3%与重仓对照](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/07-three-percent.png)
 
 *25:45：课件明确首笔3%；口述100万元先买3万元。名义敞口、保证金占用与止损风险不能混成同一个比例。*
 
@@ -208,7 +208,7 @@
 
 按他的回顾，这种方式使整体成本靠近图中较长周期的成本区域；之后市场上涨、价格离开这一带，才出现图上箭头所表示的盈利空间。图表将两个积累区与后续上涨放在同一张图中，意在说明分批持有如何连接到最终结果，而不只是展示一个最低点买入标记。
 
-![26:30，创业板相关ETF的分批买入案例](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/08-chinext-staged-entry.png)
+![26:30，创业板相关ETF的分批买入案例](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/08-chinext-staged-entry.png)
 
 *26:30：口述将案例关联到创业板指数ETF；图中两个黄框表示作者讨论的积累区。原帧未清楚给出基金名称、代码及完整参数，不据价格形态猜定产品。*
 
@@ -228,7 +228,7 @@
 
 28:29之后，他结束本课，说明下周继续第三课，没有在此展开第三课内容。标题中的持续性因此应与全片反对一次押尽、强调小份投入的语境一起阅读；它不是已经给出无条件补仓的完整方案。
 
-![28:20，片尾回扣标题](/images/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/09-ending-metaphor.png)
+![28:20，片尾回扣标题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Xv411k7xG/09-ending-metaphor.png)
 
 *28:20：课件用强烈措辞回扣无限剑制；同段口述要求切细仓位，下一步仍需明确总预算、退出与何时停止投入。*
 

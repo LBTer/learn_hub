@@ -16,7 +16,7 @@
 
 **对应课程稿 02:31—07:04。**
 
-![04:00 三种结构与后续分支](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/01-0400-three-paths.png)
+![04:00 三种结构与后续分支](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/01-0400-three-paths.png)
 
 *原视频 04:00。1、2、3 是作者图中的路径编号，虚线保留了向上、向下的发展。形状分支本身不提供样本频率。*
 
@@ -48,7 +48,7 @@
 
 在看作者解释前，写下准备填写的数，以及支持它的那条假设。题面只给有限几个数，没有明说生成规则。
 
-![08:00 数列与市场幻觉的课件](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/02-0800-sequence.png)
+![08:00 数列与市场幻觉的课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/02-0800-sequence.png)
 
 *原视频 08:00。课件仍显示问题；口述已在讨论前提变化。图片用于保留题面，不是揭示一个隐藏的唯一答案。*
 
@@ -68,7 +68,7 @@
 
 **对应课程稿 01:30—02:27、08:24—12:25。**
 
-![09:40 组合测试资金曲线及图上统计](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/03-0940-model-curve.png)
+![09:40 组合测试资金曲线及图上统计](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/03-0940-model-curve.png)
 
 *原视频 09:40。窗口标为多策略组合测试资金曲线，测试时间为 2018/12/03—2020/07/24，共 599 天；纵轴金额约从 125 万到 403 万。底部说明仅供自主模型演示与学术讨论。这张图不是账户交割单。*
 
@@ -102,7 +102,7 @@
 
 作者在守则 1 下重提[第二课](BV18v41167Mi.md)的身份分类。一个日内交易者和一个月线参与者，面对同一张图，可以对同一次波动采取不同安排。若自己的资金任务不清楚，追问是不是 2B 仍无法自动得到行动。
 
-![14:45 同一上证行情的日线与月线](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/04-1445-two-periods.png)
+![14:45 同一上证行情的日线与月线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/04-1445-two-periods.png)
 
 *原视频 14:45。上图展示较细的日线变化，下图是月线长周期。图与口述用于比较观察尺度；不能从两图直接读出作者实际仓位或成交价。*
 
@@ -138,7 +138,7 @@
 
 ### 05.1 · 守则 4 的保留，比原句本身更值得读
 
-![19:40 对怀疑离场的保留与交易规模约束](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/09-1940-doubt-and-scale.png)
+![19:40 对怀疑离场的保留与交易规模约束](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/09-1940-doubt-and-scale.png)
 
 *原视频19:40，本次重新提帧。课件把守则4与5并列；作者口述对前者保留，对后者则以五成仓位举例。图片保留的是被讨论的原条文，不表示作者无条件赞同每一句。*
 
@@ -156,7 +156,7 @@
 
 **对应课程稿 17:48—19:19、20:21—21:58、25:04—26:43。**
 
-![18:30 止损与较长时期的策略交易示意](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/05-1830-loss-control.png)
+![18:30 止损与较长时期的策略交易示意](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/05-1830-loss-control.png)
 
 *原视频 18:30。作者拉长一个策略的展示时间，口述错误入场后退出和低波动时降低频率。图仍是模型演示，不能凭连线确认每笔实际成交。*
 
@@ -164,7 +164,7 @@
 
 这与[第三课鳄鱼法则](BV1UK4y147rY.md)相接，但增加了收益端：只知道砍错，若总是过早结束有利头寸，仍未形成完整的交易过程。
 
-![21:35 平多后再次参与的模型图](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/06-2135-reentry.png)
+![21:35 平多后再次参与的模型图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/06-2135-reentry.png)
 
 *原视频 21:35。红线用于表示做多开平仓之间的连接，作者讲解平仓后重新满足条件还可做多。红线不自动表示每笔都盈利。*
 
@@ -176,7 +176,7 @@
 
 ### 06.2 · 转折处反复修正，不等于每个转折都能获利
 
-![26:30 五分钟案例中的反复切换](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/07-2630-turning-point.png)
+![26:30 五分钟案例中的反复切换](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/07-2630-turning-point.png)
 
 *原视频 26:30。25:38 附近口述说明五分钟级别，作者用突破失败、平多转空与重新尝试说明过程。画面不提供可直接复现的全部触发条件。*
 
@@ -200,7 +200,7 @@
 
 ### 07.3 · 亏损不加码的例外，不是无限补仓的许可
 
-![24:15 强弱、市场阶段与亏损加码三条守则](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/10-2415-rules-and-exceptions.png)
+![24:15 强弱、市场阶段与亏损加码三条守则](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/10-2415-rules-and-exceptions.png)
 
 *原视频24:15，本次重新提帧。课件列守则8—10，口述正在补充无杠杆指数定投的例外。要把课件原条文、奇衡的解释和整理者辨析分开，不把例外假称为图中文字。*
 
@@ -232,7 +232,7 @@
 
 ### 08.3 · 记录不是证明我早就知道，而是允许发现自己当时不知道
 
-![31:40 交易记录与遵守法则的收尾课件](/images/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/08-3140-records.png)
+![31:40 交易记录与遵守法则的收尾课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1VD4y1D7rL/08-3140-records.png)
 
 *原视频 31:40。作者用多种违反规则的方式强调执行困难；课件的 18×5＝90 是说明性算例，不是统计得出的错误总数。*
 

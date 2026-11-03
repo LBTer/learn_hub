@@ -16,7 +16,7 @@
 
 这与第十课08:12担心更新参数破坏一致性形成张力。整理者的理解是，可以进一步研究固定的是参数数值，还是事先确定的更新程序；但这属于延展，不能说作者已经解决了两课之间的问题。Q26继续保留。
 
-![封面的环境变化提醒](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/01-cover.png)
+![封面的环境变化提醒](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/01-cover.png)
 
 *00:15。学习工具与留意变化同时出现，不能只保留其中一半。*
 
@@ -50,7 +50,7 @@
 
 把23:10—24:39连起来，可以得到这样的读法：先撤掉自己的固定多空身份，再观察拥挤方向与参与者约束；若怀疑对方无法坚持，才有一个需要进一步检验的反向想法。怀疑出现并不等于入场条件完整。
 
-![情绪调查页中的辅助定位](/images/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/05-survey.png)
+![情绪调查页中的辅助定位](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV16r4y1T7wm/05-survey.png)
 
 *22:00。书页强调避免与过度拥挤的一侧一致，同时保留自己的交易判断。*
 
@@ -155,4 +155,4 @@ Q9的正常连亏与策略失效，在本课得到环境变化的故事说明，
 
 [上一课笔记](BV1Ut4y1k7dn) · [本课课程稿](../transcripts/BV16r4y1T7wm) · [系列学习地图](../)
 
-下一登记课：[第十二课 用交易日效应赚钱](https://www.bilibili.com/video/BV11X4y1K7im)，尚未制作。
+[下一课：交易日条件与统计证据（已完成）](BV11X4y1K7im)。第十二课部分回答日期条件，N与更新验证仍待解。

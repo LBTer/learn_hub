@@ -6,7 +6,7 @@
 
 本课最值得学的判断能力，是**把市场依据、仓位用途和退出任务放在同一张决策图里**。作者借比亚迪与特斯拉串起预期差、趋势参照、回撤与2B，最后补上年末兑现和分配收益的需要。只抄买卖点，会漏掉决定怎样行动的条件。
 
-![00:15，原第十八课收官片头](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/01-0015-finale.png)
+![00:15，原第十八课收官片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/01-0015-finale.png)
 
 *图1 · 原视频00:15。明确第十八课技术分析下篇及大结局；超过200%是作者的案例收益自述，不是本站独立核证。图片均来自奇衡DK-CAPITAL原视频，保留署名。*
 
@@ -16,7 +16,7 @@
 
 作者先让听众判断卖出原因：业绩反映与泡沫、特斯拉走势、历史高位，还是卖错。建议先给自己的答案，再看下面的说明，不直接把最高票当市场共识。
 
-![04:00，课堂投票与初步解释](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/02-0400-exit-question.png)
+![04:00，课堂投票与初步解释](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/02-0400-exit-question.png)
 
 *图2 · 原视频04:00。截图显示41人参与并允许多选；四项为26、18、1、9票，共54票。图中百分比以选票合计为分母，不是41人的互斥比例，也不能当独立市场样本；作者随后把原因转向特斯拉及自己的兑现任务。*
 
@@ -37,7 +37,7 @@
 
 **对应02:24—02:44、04:42—06:01、27:30—27:46。**
 
-![06:00，局部交易记录与叠加行情](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/03-0600-partial-records.png)
+![06:00，局部交易记录与叠加行情](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/03-0600-partial-records.png)
 
 *图3 · 原视频06:00。比亚迪A股002594；可见2019-12-24买入46.07，2020-10-13卖出131.09，2020-10-15两笔卖价134.88、135.48。数量模糊或遮挡，不猜测；黄线与圈画仅作课堂对照。作者说图有彩蛋，本文不替他认定未明确揭晓的信息。*
 
@@ -61,7 +61,7 @@
 
 作者从特斯拉上海工厂讲起，认为进入中国、产能进展和融资改变了先前悲观判断，价格缺口可能伴随空头回补与多头参与。他由此反对不问原因就等待所有缺口回补。
 
-![08:00，特斯拉参与与退出图](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/04-0800-tesla-case.png)
+![08:00，特斯拉参与与退出图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/04-0800-tesla-case.png)
 
 *图4 · 原视频08:00。买分歧、卖一致与错过后市不后悔，是作者给这个历史案例的组织方式。图中193.80等价格保留当时截图口径，不拿今天复权图直接反算。*
 
@@ -81,7 +81,7 @@
 
 作者将特斯拉视作电动车股票价值坐标，用它的突破和回撤观察比亚迪。他讲了两个难点：报表与市场气氛低迷时敢不敢进入；大幅回撤时如何决定继续持有或加减仓。
 
-![24:00，两个时点的相互验证](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/05-2400-cross-check.png)
+![24:00，两个时点的相互验证](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/05-2400-cross-check.png)
 
 *图5 · 原视频24:00。课件标出2019年12月与2020年3月，左侧对照理想与实际波折，右侧说明作者怎样借特斯拉解释比亚迪。它是回顾图，不作为当时就已画好的信号记录。*
 
@@ -101,7 +101,7 @@
 
 **对应26:06—27:46，与12:20—13:24互参。**
 
-![27:00，获利退出后不再回头的个人原则](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/06-2700-no-return.png)
+![27:00，获利退出后不再回头的个人原则](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/06-2700-no-return.png)
 
 *图6 · 原视频27:00。作者以自己避免反复折腾解释未重买特斯拉；它是个人纪律，不是所有离场都永远不能再参与的行业规则。*
 
@@ -115,7 +115,7 @@
 
 **对应27:48—31:21。**
 
-![30:00，波段作为参照而非唯一答案](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/07-3000-wave-reference.png)
+![30:00，波段作为参照而非唯一答案](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/07-3000-wave-reference.png)
 
 *图7 · 原视频30:00。作者同时讨论第一波识别和第二波回调，并批评后见修改。图中文字仍为其经验解释，不证明仅靠第二波未创新低就能保证未来趋势。*
 
@@ -129,7 +129,7 @@
 
 **对应31:22—34:42。**
 
-![33:00，特斯拉2B与整理的分支](/images/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/08-3300-2b-branches.png)
+![33:00，特斯拉2B与整理的分支](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1pD4y1d7ca/08-3300-2b-branches.png)
 
 *图8 · 原视频33:00。口述31:55—32:09明确这是特斯拉，不因交易对象是比亚迪就写成比亚迪K线。左侧是早课扩展结构，右侧保留数次高低点尝试，不能只截一处便宣称已确定见顶。*
 

@@ -18,7 +18,7 @@
 
 这两段武侠联想最后落在交易上：若只迷恋某个指标或某种方法，却不知道利润为什么产生，后来把钱亏回去时也难以解释。心法在本课中首先指对交易依据的理解，不是单纯要求更有信念。
 
-![00:15，第八课实际片头](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/01-cover.png)
+![00:15，第八课实际片头](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/01-cover.png)
 
 *片头题目为短线交易的利润来自哪里；正文围绕定价权与控股权展开。*
 
@@ -46,7 +46,7 @@
 
 因此，题面同时留下两项要求：关注实际参与者与交易行为，也避免把看不见的行为编成故事。让观众把答案打出来之后，他才开始逐项讲交易中的禁忌。
 
-![06:00，利润来源单选题](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/02-question.png)
+![06:00，利润来源单选题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/02-question.png)
 
 *A为秘术解释，B为现货供需研究，C为多空博弈。先选并说明理由，再读作者后续论证。*
 
@@ -82,7 +82,7 @@
 
 这里的自我修养并非神秘修炼，而是把注意力集中在具体交易问题。他希望观众面对远古秘术式的预测宣传时，先追问能否明确、能否验证，而不是立刻寻找一个更神奇的版本。
 
-![12:00，第一条禁忌及自我修养](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/03-falsifiability.png)
+![12:00，第一条禁忌及自我修养](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/03-falsifiability.png)
 
 *课件列出不可证伪依据的后果。引用在这里承担方法提醒，不替代实际策略检验。*
 
@@ -118,7 +118,7 @@
 
 随后，他把上市早期的一段波动解释为两类力量争夺定价权：一边是以佛山乐从为代表的资深现货贸易商，一边是以上海为代表、带有金融资本背景的贸易商。图表先展示价格，再由他补上参与者故事；后者不是K线本身能够直接辨认的身份。
 
-![18:00，螺纹钢历史图](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/04-rebar.png)
+![18:00，螺纹钢历史图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/04-rebar.png)
 
 *画面标签为螺纹主力、日线。未确认具体到期合约、连续拼接和复权处理，不把整图视为单一合约行情。*
 
@@ -130,7 +130,7 @@
 
 他随即加上重要限定：这是当时自己了解到的情况，**自己并未参与这一过程**。这个说明要和故事一并保留，不能把叙述者写成该场对决的直接交易人或官方见证者。
 
-![21:00，现货经验与期货挤压的课件说明](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/05-spot-habit.png)
+![21:00，现货经验与期货挤压的课件说明](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/05-spot-habit.png)
 
 *红框是作者选择的早期区间，黄色文字给出其解释。价格图与参与者归因分别看待。*
 
@@ -158,7 +158,7 @@
 
 他由此转到股票，提醒观众检查一种倒置：是不是因为股价已经涨了几倍，才开始觉得公司好；价格不涨时，又总能找到毛病？这段把价格路径如何影响解释，与基本面事实本身分开，是故事中独立的一层教学。
 
-![24:00，作者所说的大户对决区间](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/06-duel.png)
+![24:00，作者所说的大户对决区间](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/06-duel.png)
 
 *课件仅写葛大户、叶大户；图中低点标注1618，不能据此认定某人的成交价或损益。红框跨越的准确年月未逐根核清。*
 
@@ -194,7 +194,7 @@
 
 因此，他把注意力从当天一致看空，转向潜在买方为什么还想得到股份。文章被用来展示自己的研究思路，而不是邀请观众只从匿名图形猜一个股票代码。
 
-![30:00，匿名公司研究文章截图](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/07-article.png)
+![30:00，匿名公司研究文章截图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/07-article.png)
 
 *截图保留原有遮挡，红框显示修改时间。未独立取得原文与修订记录，不单凭截图认证完整的事前发布内容。*
 
@@ -222,7 +222,7 @@
 
 这段同时包含可独立核对的交易机制和无法仅凭课件确认的个人成交。日线画面能显示该日开高低收，不能因此直接认证三百万元订单、具体成交量或平均买入成本。
 
-![33:00，匿名公司2019年8月7日日线画面](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/08-auction.png)
+![33:00，匿名公司2019年8月7日日线画面](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/08-auction.png)
 
 *画面可见开盘8.80、最高及收盘9.38、最低8.79；这是日线数据，不是作者成交回报。原图遮挡保持不变。*
 
@@ -242,7 +242,7 @@
 
 随后他把阻力最小路线与多逼空、空逼多联系起来，认为普通市场有一定平衡倾向，而持续单边扩大往往体现了较量。前面措辞很强，收尾又说发生行情时很可能是这两类情况。正文保留这份解释及最后的概率性限定，不把它改写成所有趋势唯一的已证原因。
 
-![35:20，基本面、技术面与内在价值的分工](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/09-value-boundary.png)
+![35:20，基本面、技术面与内在价值的分工](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/09-value-boundary.png)
 
 *明确写出不否定内在价值。不能只摘前面“根据现货供求交易”的禁忌标题，删去这页限定。*
 
@@ -254,7 +254,7 @@
 
 所以他不是把时间单向地定义为好事，而是在提出一个张力：太短可能没有足够空间，太长又可能承担过多风险。怎样在自己的交易框架里安排持有期，成为下一道互动题。
 
-![36:15，获利需要时间积累的课件段落](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/10-time.png)
+![36:15，获利需要时间积累的课件段落](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/10-time.png)
 
 *这是课程引用的论述，正文已用原创转述表达；更长时间容纳更多波动，不自动保证有利收益。*
 
@@ -266,7 +266,7 @@
 
 这道题没有被揭晓为所有品种一律过夜或一律不过夜。作者是借它引出自己对短线持有尺度的偏好，后面再加上控制损失等条件。
 
-![37:00，持仓过夜的原互动题](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/11-overnight.png)
+![37:00，持仓过夜的原互动题](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/11-overnight.png)
 
 *先保留A／B题面，再结合后续市场制度与持有期讨论。*
 
@@ -278,7 +278,7 @@
 
 因此，两至五日是作者在本课中定义自己所说短线的尺度，不能直接标成金融市场统一定义，更不能忽略前面的控损条件，把它改成必须无条件持有五天。
 
-![39:00，交易者的五条自我修养](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/12-week.png)
+![39:00，交易者的五条自我修养](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/12-week.png)
 
 *红色第五条是奇衡明确注明的个人补充；书中转述与作者增量分开。*
 
@@ -322,7 +322,7 @@
 
 这与前面寻找有利方向大波动形成配合。波动大只是条件之一，若两边都大，作者反而要求退开；多大算大、何时确认双向，课内没有给数值阈值。
 
-![43:15，完整四条进场与撤退原则](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/13-entry.png)
+![43:15，完整四条进场与撤退原则](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/13-entry.png)
 
 *第三条课件原样保留“下探”，与口述识别的“上探”并列待核。第一条持有到收盘，不是无条件持有到盈利。*
 

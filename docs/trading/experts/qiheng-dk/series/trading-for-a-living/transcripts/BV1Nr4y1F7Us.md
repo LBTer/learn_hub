@@ -18,7 +18,7 @@
 
 讲到预期时，他用特定结果与一定概率相乘作口头说明，随后把重点放在持续判断上：进场之后，理由是否仍在，当前应不应该离开，应有办法重新评估。开场的实战口号因此带着一个明确限定——要求的是在不确定中组织行动，并没有消除不确定性。
 
-![00:15，本课片头与三课串讲范围](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/01-cover.png)
+![00:15，本课片头与三课串讲范围](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/01-cover.png)
 
 *课件列出第一课威廉指标、第四课威廉分形、第七课威廉时钟；这也是本课实际展开的顺序。*
 
@@ -64,7 +64,7 @@
 
 在他的说法中，活下来以后，一笔交易可能带来钱，也可能带来经验。经验能够积累，他用带引号的利息作比喻，期望它帮助交易者逐渐成熟、将来抓住更大的机会。重点最终落在不断积累经验与本金，而不是靠一次判断完成所有目标。
 
-![08:00，第七课原作业在本课重新展示](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/02-homework.png)
+![08:00，第七课原作业在本课重新展示](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/02-homework.png)
 
 *页面明确标注12月5日、第七课、第16张PPT。原作业没有交易指令；本课才继续拆解观察过程。*
 
@@ -84,7 +84,7 @@
 
 但缩小之后可能往下突破。因此，看到收缩就买入、坐等上涨，会同时承担时间消耗与方向错误的损失。他把关注和买入分成了两个时刻：先发现值得研究的环境，再寻找与方向和行动相关的证据。
 
-![10:00，放大后的白银图与WR](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/03-focus.png)
+![10:00，放大后的白银图与WR](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/03-focus.png)
 
 *黄色圈与红箭头标出布置作业的位置。图中右侧已包括作业之后的K线，阅读时需按该位置分开当时信息与后来信息。*
 
@@ -104,7 +104,7 @@
 
 这句话保留了两层关系。一方面，他希望将前课知识组合起来；另一方面，组合并没有使结果从概率问题变成必然问题。接下来比较的，是本次WR穿越为什么比此前反复纠结的走势更醒目。
 
-![12:00，作者框出的WR穿越](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/04-wr-cross.png)
+![12:00，作者框出的WR穿越](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/04-wr-cross.png)
 
 *下方红线标50附近，红框标出快速向下穿越的一段。指标的向下与价格的向上需要按本课正数公式理解。*
 
@@ -132,7 +132,7 @@ n = 10
 
 这段自我补充的重点，是让观众自己转一下公式，而不是把刚才连说的两个方向机械配对。
 
-![14:00，本课重新展示的正数WR公式](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/05-formula.png)
+![14:00，本课重新展示的正数WR公式](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/05-formula.png)
 
 *原页还写20超买、85超卖；这里照录课件信息，不把这些数值统一成所有软件的默认设置。*
 
@@ -162,7 +162,7 @@ n = 10
 
 他用精明与死扛的空头作对比，语气明显加重。课程想让观众看到，同一个价格变化可以承担不同角色：对准备试盘的多头，是观察入口；对已有空仓头寸的人，则可能是离开的机会。
 
-![18:00，作者用黄色框标出分形与参照区域](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/06-fractals.png)
+![18:00，作者用黄色框标出分形与参照区域](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/06-fractals.png)
 
 *黄色框由课件标注，不是整理者另画的交易区间；右侧框提供比较位置，具体含义还需结合接下来的口述。*
 
@@ -182,7 +182,7 @@ n = 10
 
 于是，多头进场与空头退场被放到同一处结构变化上。他没有等到完整大右肩和大颈线突破才开始讨论动作，但也没有停在更早进场的好处；下一步立即转向，如果这个判断错了，多头应在哪里认输。
 
-![20:00，第四课救生艇示意图在本课重讲](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/07-lifeboat.png)
+![20:00，第四课救生艇示意图在本课重讲](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/07-lifeboat.png)
 
 *黄色箭头位于较早的小结构；它是教学示意，不是本次白银账户的成交标记。*
 
@@ -212,7 +212,7 @@ n = 10
 
 他又联系《股票作手回忆录》中跟随市场的思想。这仍是其转述与应用；本段没有给收缩宽度、启动期限或双向触发的完整公式。
 
-![22:40，第七课波幅不对称主张再现](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/08-volatility.png)
+![22:40，第七课波幅不对称主张再现](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/08-volatility.png)
 
 *必然、未必为课件原有措辞；口述补充日线收窄持续三至五日，没有说再过三至五日一定突破。*
 
@@ -224,7 +224,7 @@ n = 10
 
 最后，他再次说明课程用于学习，而非给观众当前的投资指令。后面的课程会继续提供更多积木，让学习者组合适合自己的策略；这也是他所说传授方法的目的。视频在当晚讲到这里的告别中结束，没有在本片给出具体下一课模型。
 
-![24:00，后续日线与分时行情展示](/images/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/09-result.png)
+![24:00，后续日线与分时行情展示](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Nr4y1F7Us/09-result.png)
 
 *右侧题名为CMX银E指，橙色框是课件所示早段区域；画面已有后续上涨。MACD虽显示在图中，本课没有讲它的入场规则。模型入场属于作者自述，具体成交月份、时间、价格、数量和退出记录未展示。*
 

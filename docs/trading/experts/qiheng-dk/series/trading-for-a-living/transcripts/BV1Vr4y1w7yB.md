@@ -16,7 +16,7 @@
 
 第一课没有直接抛交易信号，而是先回答值得向谁学习。拉瑞·威廉姆斯是本课的主角，人物经历将承担建立兴趣和说明选书理由的任务。此后才会进入他创造的指标，以及奇衡本人如何使用这个工具。
 
-![00:15，原第一课片头与人物引入](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/01-course-cover.png)
+![00:15，原第一课片头与人物引入](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/01-course-cover.png)
 
 *00:15：片头显示拉瑞·威廉姆斯，配书封和影视人物图。标题的亲属称谓属于娱乐化引入，不据此确认法律婚姻。*
 
@@ -44,7 +44,7 @@
 
 这些内容合起来相当长。奇衡预期可能讲到下一年，甚至下半年。第一课因而是开门，不是一次把整套交易方案交代完；之后出现的指标示范，要放回这个尚待展开的课程结构里理解。
 
-![06:00，两本书的课程分工](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/02-learning-objectives.png)
+![06:00，两本书的课程分工](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/02-learning-objectives.png)
 
 *06:00：课件把系统设计、资金管理、个体与群体心理、技术分析列为学习任务。章数对应作者使用版本。*
 
@@ -84,7 +84,7 @@
 
 随后课件出现公式。他故意停下来询问观众，看到计算式是发懵，还是觉得终于能具体研究了。这种互动把前面的可检验要求变成眼前的一道门槛：如果希望摆脱含糊语言，就要愿意读懂工具到底算了什么。
 
-![12:00，威廉指标的正数刻度公式](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/03-wr-formula.png)
+![12:00，威廉指标的正数刻度公式](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/03-wr-formula.png)
 
 *12:00：课件为 W%R＝(Hn−C)÷(Hn−Ln)×100，n＝10；标注20超买、85超卖。保留课件的85，不替换成其他软件的常见阈值。*
 
@@ -112,7 +112,7 @@
 
 画面同时有白色10周期线与黄色6周期线，他偏重前者，并谈到14等其他周期参数的选择。这里口述有按天表达的习惯，但当前演示是五分钟图，参数应随图表周期理解。所谓钝化，也正是在这种持续趋势里，极端状态长期存在而不是立刻把价格拉回来。
 
-![15:00，黄金下跌中的反复超卖](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/04-gold-oversold.png)
+![15:00，黄金下跌中的反复超卖](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/04-gold-oversold.png)
 
 *15:00：价格新低与指标高值区可以反复同时出现；WR(10,6)中的两条线不应当作两个不同品种。*
 
@@ -146,7 +146,7 @@
 
 不过，承认日线上涨，并不等于任何位置买入都合适。趋势可能回调，也可能结束。如果只知道方向，却没有进入位置和认错条件，仍然会在一段上涨市场里做出很被动的交易。
 
-![21:00，COMEX铜的日线背景](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/05-copper-daily.png)
+![21:00，COMEX铜的日线背景](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/05-copper-daily.png)
 
 *21:00：画面为HG00Y连续行情、日线。用于辨认结构，不等同于具体月份合约的成交记录。*
 
@@ -170,7 +170,7 @@
 
 当价格已经向有利方向移动，他又讨论把保护位置向约3.13、即成本附近下移。讲述意图是保护浮盈，避免原本有利的交易重新变得被动；课堂中将其说得接近保本，但成本、滑点和实际成交条件并未展开。
 
-![25:00，铜五分钟的局部下跌与保护位置示例](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/06-copper-five-minute.png)
+![25:00，铜五分钟的局部下跌与保护位置示例](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/06-copper-five-minute.png)
 
 *25:00：同一品种切到五分钟。近期高点与价格回落可见；图上报价不是已核实的入场成交价。*
 
@@ -206,7 +206,7 @@
 
 这段延续了前面价格优先的交易态度。它表达的是不要把立场变成不能撤回的承诺，而非课堂已经研究完大豆的所有基本面。
 
-![29:00，大豆日线的持续趋势](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/07-soybean-trend.png)
+![29:00，大豆日线的持续趋势](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/07-soybean-trend.png)
 
 *29:00：图中为大豆当月连续ZS00Y、日线。连续序列用于观察走势，不补成固定到期月份的交易。*
 
@@ -218,7 +218,7 @@
 
 因此，这一课没有只用顺畅案例收尾。A50把18分钟附近提出的趋势条件重新摆到眼前：选择市场和周期，不能只看信号是否出现，还要面对信号很密但运动很有限的情形。
 
-![30:00，A50小时图中的反复变化](/images/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/08-a50-whipsaws.png)
+![30:00，A50小时图中的反复变化](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1Vr4y1w7yB/08-a50-whipsaws.png)
 
 *30:00：画面为CN00Y、小时线；不是五分钟图。随后口述及演示转到日线。*
 

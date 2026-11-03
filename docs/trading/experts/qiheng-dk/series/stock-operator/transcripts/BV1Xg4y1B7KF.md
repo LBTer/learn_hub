@@ -100,7 +100,7 @@
 
 这样一来，观察对象会回应观察者，原来以为稳定的现象便不容易被同样观察到。他要借比喻引出的，是交易参与者会思考、会等待、会根据另一方的行为改变做法。
 
-![10:45 心机苹果课件：为什么看多者不敢买时行情才起来](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/10-45-strategic-apple.png)
+![10:45 心机苹果课件：为什么看多者不敢买时行情才起来](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/10-45-strategic-apple.png)
 
 *10:45，作者自命名的课堂类比，不是具体证券或某次控盘行为的证据。*
 
@@ -158,7 +158,7 @@
 
 他对这种辩解很不以为然，想纠正的不是小学算术，而是只用数字是否相同来判断风险是否分开。下一笔更便宜几毛钱，不足以自动说明已经留出了不同的观察与参与阶段。
 
-![18:56 原课件：头寸集中于同一价位，而不是拉开战线](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/18-56-price-zone.png)
+![18:56 原课件：头寸集中于同一价位，而不是拉开战线](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/18-56-price-zone.png)
 
 *18:56，课件强调集中风险；上述买价与下面的区间来自口述，图上没有给出最小加仓间距。*
 
@@ -186,7 +186,7 @@
 
 第三笔之后，上涨突然反转下杀。奇衡将后面的处理落在第三笔的新仓位上，而不是只盯着一个混合后的平均成本。这张图开始讨论进入之后如何分别面对错误。
 
-![20:54 三笔管理图：三个红色上行箭头、两个平台和第三段后的回落](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/20-54-three-batches.png)
+![20:54 三笔管理图：三个红色上行箭头、两个平台和第三段后的回落](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/20-54-three-batches.png)
 
 *20:54，图中没有价格坐标或各批数量；虚线是课堂讲解参照，不据此补成统一止损公式。*
 
@@ -226,7 +226,7 @@
 
 他再次区分，很早就看多，与这时既看多又做多，是不同动作。即使到了自己愿意参与的阶段，他也说不贪最便宜的位置，而是分开处理后面的变化。
 
-![24:40 原油图：前段四处红框与后段两处黄框](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/24-40-oil-stages.png)
+![24:40 原油图：前段四处红框与后段两处黄框](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/24-40-oil-stages.png)
 
 *24:40，红框回顾此前四类参与，两个黄框配合先试探、再参与的自述。图形不提供他的实际成交证明或明确交易合约身份。*
 

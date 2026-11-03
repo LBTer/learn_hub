@@ -15,7 +15,7 @@
 
 所以，技术分析在本课一开始被放在指导行动的位置。作者不是从一条新线的计算方法起步，而是先交代工具在整个学习体系中承担什么任务。
 
-![00:30，第十六课技术分析上篇片头](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/01-0030-course.png)
+![00:30，第十六课技术分析上篇片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/01-0030-course.png)
 
 *原视频00:30。确认原课号及上篇身份；下方问题是本课的互动与悬念。*
 
@@ -59,7 +59,7 @@
 
 这一段的重点不是简单选择最少交易次数，而是先把执行的代价放进计划。不同规模在同一个品种上，未必能照搬同一种操作节奏。
 
-![06:00，成本先于交易频率决策](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/02-0600-cost-and-frequency.png)
+![06:00，成本先于交易频率决策](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/02-0600-cost-and-frequency.png)
 
 *原视频06:00。一亿、1%与100次为课堂假设；实际收费口径并未在本课统一规定。*
 
@@ -79,7 +79,7 @@
 
 作者随后描述一种常见冲动：今天看到消息，明天就进，不行又出来；一年结束，不翻佣金记录甚至不知道付过多少手续费。他强调全额参照的是本金，而非随意把几笔买卖算成一次。课堂没有进一步统一单边、双边和权益分母的口径，这部分留在文末辨析。
 
-![08:00，全额周转原则与策略问题](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/03-0800-turnover-and-strategy.png)
+![08:00，全额周转原则与策略问题](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/03-0800-turnover-and-strategy.png)
 
 *原视频08:00。画面保留不等式，以及先问全额交易频率、再问是否有策略的顺序。*
 
@@ -131,7 +131,7 @@
 
 这段回收了前面关于自己到底交易多少次的问题，但作者采用的是组合次数分摊后的估计。要进一步回到全额周转，还需要每笔规模和资金配置；详细复算与区别放在笔记中，不能只凭次数就替账户补出周转率。
 
-![11:20，六翼天使模型的两段展示](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/04-1120-model-display.png)
+![11:20，六翼天使模型的两段展示](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/04-1120-model-display.png)
 
 *原视频11:20。仅核名称、测试区间、天数与次数；曲线不作为实盘认证。画面注明模型自用、非投资建议。*
 
@@ -151,7 +151,7 @@
 
 他将这两句看作涵盖趋势和震荡指标使用关键的原则，并再次警告，脱离原则机械操作，可能一年下来仍是白忙。其表达非常肯定，但课堂尚未指定利率品种、观察窗口、具体技术指标与参数，也没有在本支给完整进退规则。
 
-![13:40，利率背景与指标搭配原则](/images/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/05-1340-rate-and-signals.png)
+![13:40，利率背景与指标搭配原则](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1C54y1y7Cn/05-1340-rate-and-signals.png)
 
 *原视频13:40。图中钝化方向据画面保留，不擅自换成其他指标或反转策略。*
 

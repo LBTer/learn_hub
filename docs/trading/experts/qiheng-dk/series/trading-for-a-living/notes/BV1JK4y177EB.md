@@ -14,7 +14,7 @@
 
 作者试图建立的是一条从研究到行动的关系：产业与公司研究帮助理解参与者可能的动机，价格与结构观察帮助检查正在发生的行为，持有与进场规则再约束自己如何参与。他仍没有公开完整系统，也没有证明所有行情都由争夺定价权或控股权造成。
 
-![不否定内在价值的关键限定](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/09-value-boundary.png)
+![不否定内在价值的关键限定](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/09-value-boundary.png)
 
 *35:20。基本面看想法、技术面看行动，是作者的教学分工。猜测对手动机仍需实际材料支持。*
 
@@ -38,7 +38,7 @@
 
 24:27—26:34又出现反转：看似便宜的期货仍能继续跌，需要追加保证金；但极端偏离也可能引来反向力量，原先强的一方又被挤压。这两个方向要一起保留，不能得出资金大的一方永远胜出的静态结论。
 
-![螺纹钢第二段课堂案例](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/06-duel.png)
+![螺纹钢第二段课堂案例](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/06-duel.png)
 
 *24:00。图支持观察价格路径；课件没有给出大户账户、完整交易时间或机构身份。*
 
@@ -50,7 +50,7 @@
 
 作者用一元瓜说明不用精确估价也可能发现明显便宜，用房屋和地价说明参照改变会改变报价，再把九十亿与两百亿带入公司研究。两个比喻帮助理解思路，却不能替代公司是否真正可比、权益结构是否相同、买方意愿是否持续等证据。
 
-![匿名研究文章截图](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/07-article.png)
+![匿名研究文章截图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/07-article.png)
 
 *30:00。图片是修改时间及部分文章展示；不是完整原文存档，也不是账户交易证明。公司与保险机构继续匿名。*
 
@@ -64,7 +64,7 @@
 
 但它与第四课短持降风险的强调，确实构成需要继续细化的权衡：持多久既不是越短越好，也不是越长越好。本课没有把品种、波动、成本和头寸大小统一成选择公式，不能把两至五日写成已验证最优值。
 
-![作者加上的周尺度安排](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/12-week.png)
+![作者加上的周尺度安排](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/12-week.png)
 
 *39:00。第二条必须控制损失，与第五条同时成立；偏好持有数日不能取消止损。*
 
@@ -87,7 +87,7 @@
 
 若准备把买入条件写成研究代码，至少仍要明确：五日是否只取已经完成的历史交易日，当日跌幅从哪里开始计算，开盘三十分钟如何适用于夜盘，观察结束后何时成交，以及止损和头寸怎么安排。这些是缺项清单，不是作者已经讲过的额外规则。
 
-![四条原则的最终课件](/images/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/13-entry.png)
+![四条原则的最终课件](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1JK4y177EB/13-entry.png)
 
 *43:15。第三条下探原样保留，不根据上下对称的直觉静默修正。*
 

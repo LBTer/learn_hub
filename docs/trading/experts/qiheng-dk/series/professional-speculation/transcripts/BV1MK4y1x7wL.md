@@ -47,7 +47,7 @@
 
 这是对第四课条件的一次后续评价：上一课说何时上证越过3288并与深圳共同走强，何时按他的口径确认；本课则认为这种变化已经发生。基于当时的图，他劝持有头寸的人不要被每天都有的消息吓得拿不住。若对持有依据没有底，即便选到好股票，也可能在波动中失去它。判断的时点仍是2020年的这堂课，而不是今天。
 
-![03:00 前课指数确认条件的后续图](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/01-0300-index-confirmation.png)
+![03:00 前课指数确认条件的后续图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/01-0300-index-confirmation.png)
 
 *03:00原课件，口述于03:30起逐项说明。紫线为深证成指，K线为上证，2440、3288为上证参照；叠加图不能按同一原始点数读取。*
 
@@ -67,7 +67,7 @@
 
 这段故事不是从完整历史走势图开始解释一切。原课件把右侧后来发生的行情遮住，先留下当时看到的下跌和旧低点，使听众能理解新手为何会提出这个问题。价格接近旧位置，是他的注意中心；老交易员的回答，却把观察对象转向另一条线。
 
-![06:00 美元指数右侧行情被原课件遮挡](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/02-0600-dollar-masked.png)
+![06:00 美元指数右侧行情被原课件遮挡](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/02-0600-dollar-masked.png)
 
 *06:00画面。黑色遮挡属于作者演示，红线为所说年线。先保留当时疑问，不借尚未展示的右侧结果替人物作答。*
 
@@ -87,7 +87,7 @@
 
 至于原先的空单，他把后来向上突破年线的位置视为应止住的地方。在那之前，逢反弹沿原方向做空，被他称为顺势而为。他认为这样可以让正确的次数增多、本金相对安全，并把它与提高胜率联系起来。紧接着，他又转折：知道顺势重要，不代表真正做起来容易。
 
-![06:55 美元指数后续行情与均线](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/03-0655-dollar-revealed.png)
+![06:55 美元指数后续行情与均线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/03-0655-dollar-revealed.png)
 
 *06:55原图。红线标签为MA250，另有MA20；图示是指数，不是期货合约成交记录，也没有提供仓位、杠杆或逐笔损益。*
 
@@ -99,7 +99,7 @@
 
 问题随后出现。在他的说法中，并不是所有点的分布都适合这样处理；如果现实价格并不像示意图那么有规律，直接把连点方法搬过去，就难以得到同样整洁的答案。这个转折为下一张不规则图作准备。正文保留他的数学类比，正式统计定义的区别另放在核验中。
 
-![07:40 规则走势与教科书式趋势线](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/04-0740-ideal-trend.png)
+![07:40 规则走势与教科书式趋势线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/04-0740-ideal-trend.png)
 
 *07:40原示意图。它用于呈现理想形态，不是真实行情或交易成绩。*
 
@@ -111,7 +111,7 @@
 
 这里还出现仓位这个条件。下破或者上冲可能不断诱使人改方向，如果仓位过重、无法承受反复波动，就容易被洗出来。因此困难不是只有线画得漂不漂亮，还关系到参与方式能否承受路径变化。总体方向事后清楚，与在过程中保持参与，并不是同一件事。
 
-![09:00 不规则走势与作者标出的哎呀点](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/05-0900-irregular-trend.png)
+![09:00 不规则走势与作者标出的哎呀点](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/05-0900-irregular-trend.png)
 
 *09:00原示意图。橙框是讲解标记，不当作真实止损记录，也不从图形估计收益。*
 
@@ -163,7 +163,7 @@
 
 第三类是交易者。他进一步把区间与趋势也移出主要视野，只留下成交量，为后面快速周转的讲解作铺垫。讲完三项，他用一千万元学费的夸张说法强调重要性，又调侃有人放弃炒股，是还未付出足够损失来认识这三句话。这个金额是强调语气，不是课程价值的客观估计。
 
-![13:22 三种角色与各自主要观察对象](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/06-1322-three-roles.png)
+![13:22 三种角色与各自主要观察对象](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/06-1322-three-roles.png)
 
 *13:22原课件。区间、趋势、成交量是作者的教学划分；背景为深证成指日线，并没有估值计算。*
 
@@ -183,7 +183,7 @@
 
 但他马上提醒，这不适合直接套给每一类参与者。如果本来是投机者，却一边用长期高低估来解释持仓，一边再画短期趋势线，在他看来就是把不同任务混在一起。接下来，课程进一步追问谁有条件等待。
 
-![14:20 单独展示的投资者区间视角](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/08-1420-investor-range.png)
+![14:20 单独展示的投资者区间视角](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/08-1420-investor-range.png)
 
 *14:20原图。红线与车船意象先单独出现，之后才逐步加入投机箭头、交易量柱；红线不是估值模型的计算结果。*
 
@@ -227,7 +227,7 @@
 
 随后，他把自己的要求归纳为在放量阶段买，也在放量阶段卖。这里还没有给出成交方向、量增门槛或成本条件；下一段转用季节性商品说明，他究竟为什么如此看重周转环境。
 
-![19:20 三种视角在同一图上的最终对照](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/07-1920-three-perspectives.png)
+![19:20 三种视角在同一图上的最终对照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/07-1920-three-perspectives.png)
 
 *19:20原课件。上方红线为区间、黄箭头为投机方向，下方放大量柱用橙框标活跃阶段。标记并非实际成交或收益证明。*
 

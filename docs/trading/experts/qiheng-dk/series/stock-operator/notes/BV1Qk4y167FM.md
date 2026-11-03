@@ -34,7 +34,7 @@
 
 ### 04:20 · 概念联系，不是可直接计算的力 {#reference-force-frame}
 
-![04:20 格雷厄姆力与一价定律、阻力最小路线的课堂联系](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/04-20-reference-force.png)
+![04:20 格雷厄姆力与一价定律、阻力最小路线的课堂联系](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/04-20-reference-force.png)
 
 *原视频 [04:20](https://www.bilibili.com/video/BV1Qk4y167FM?t=260)。命名属于奇衡，不认证为格雷厄姆提出的正式术语，也没有给力的计算公式。*
 
@@ -56,7 +56,7 @@
 
 **对应 07:14—14:53。** 作者用黑麦市场小、小麦市场大，以及超市引流商品与获利商品的分工解释两者关系，多次保留假如有这样的推动者的语气。资金意图属于课堂推演，不是已经查明的历史操纵事实。
 
-![07:35 黑麦较先活跃、小麦随后跟随的课堂示意](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/07-35-reference-paths.png)
+![07:35 黑麦较先活跃、小麦随后跟随的课堂示意](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/07-35-reference-paths.png)
 
 *原视频 [07:35](https://www.bilibili.com/video/BV1Qk4y167FM?t=455)。无价格和时间坐标，只解释先后角色，不拿它计算历史买卖位置。*
 
@@ -64,7 +64,7 @@
 
 ### 11:38 · 先保留课堂数值，再算恢复比例 {#wheat-rye-recovery-frame}
 
-![11:38 课件中的回撤、恢复与距旧高数值](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/11-38-wheat-rye-recovery.png)
+![11:38 课件中的回撤、恢复与距旧高数值](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/11-38-wheat-rye-recovery.png)
 
 *原视频 [11:38](https://www.bilibili.com/video/BV1Qk4y167FM?t=698)。课件日期与原书有差异，下表仅以课堂省略值作整理者计算。*
 
@@ -106,7 +106,7 @@
 
 作者请观众看看自己在哪个阶段。展开分类以前，可以先回想一次实际决定：为什么敢参与，出错时怎样应对，何时愿意不做。后面三个问题是整理者提示，不冒充作者原题。
 
-![20:47 自测题面，尚未展示分类](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/20-47-self-test.png)
+![20:47 自测题面，尚未展示分类](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/20-47-self-test.png)
 
 *原视频 [20:47](https://www.bilibili.com/video/BV1Qk4y167FM?t=1247)。先留下自己的过程，再读下面的课堂点评。*
 
@@ -114,7 +114,7 @@
 
 ### 28:40 · 完整课件 {#self-test-stages-frame}
 
-![28:40 含神段的完整分类](/images/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/28-40-self-test-stages.png)
+![28:40 含神段的完整分类](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Qk4y167FM/28-40-self-test-stages.png)
 
 *原视频 [28:40](https://www.bilibili.com/video/BV1Qk4y167FM?t=1720)。27:59 尚未展开神段，这里使用完整页。*
 

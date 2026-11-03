@@ -29,7 +29,7 @@
 
 随后按他的定义检查：高点下降只是其中一个条件；低点也要持续创新低。图中前面长下影构成整体最低，后来右侧又跌，却仍在这个位置之上。原先凭走势方向得出的答案，因此需要被撤回。
 
-![18:00，先用原始题面作答](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/06-first-question.png)
+![18:00，先用原始题面作答](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/06-first-question.png)
 
 *18:00：不要提前看后面的追加K线。最高低点比较包含影线，不是只比较实体颜色。*
 
@@ -43,7 +43,7 @@
 
 这里至少要区分三个对象：样本整体最低点、右侧先前形成的局部低点、后来追加K线产生的新局部低点。26:56讲到的是击穿右侧早先的局部位置；27:00起强调的是保留更大结构的关键低点关系。
 
-![28:30，追加两根之后重新检查层级](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/08-new-bars.png)
+![28:30，追加两根之后重新检查层级](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/08-new-bars.png)
 
 *28:30：右端比原题多两根，局部低点更低。与整组最低点的关系，需要另外检查。*
 
@@ -121,7 +121,7 @@
 
 只看下图。根据可见低点关系，先回答买或不买，再写出这次判断所能支持的结构范围。不猜股票名称，也不用后续揭示的行情。
 
-![32:20，匿名练习原题面](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/11-anonymous-question.png)
+![32:20，匿名练习原题面](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/11-anonymous-question.png)
 
 <details>
 <summary>展开作者讲解与适用范围</summary>
@@ -138,7 +138,7 @@
 
 使用下图，自行选择并标明观察范围，写出买、不买或等待补充条件的理由。标出你所比较的高低点，以及哪个结构尚未完成；另写出缺失的基础信息。作者在视频中没有公布答案。
 
-![36:00，原课后作业](/images/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/13-homework.png)
+![36:00，原课后作业](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1kt4y1e7pF/13-homework.png)
 
 <details>
 <summary>展开整理者检查框架（不是作者标准答案）</summary>

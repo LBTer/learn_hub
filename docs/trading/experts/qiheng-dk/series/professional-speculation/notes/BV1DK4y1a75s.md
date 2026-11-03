@@ -7,7 +7,7 @@
 
 本课最值得学的，是**把价格后面的人、用途、融资与政策关系逐项说清，而不是只给市场贴一个泡沫标签**。作者先反对没有政策变化就贸然做空，又反对用简单的互炒笑话解释所有成交。其长处在于追问参与者为什么愿意接着买卖；限度在于，寓言里的封闭循环不能直接当作现实金融市场的完整模型。
 
-![00:30，原第十四课上集片头](/images/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/01-0030-course.png)
+![00:30，原第十四课上集片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/01-0030-course.png)
 
 *图 1 · 原视频 00:30。显示原课号、上下集身份，以及政策研究的授课定位。截图均来自奇衡DK-CAPITAL 原视频，保留署名；不连页转载课件中的长篇书摘。*
 
@@ -109,7 +109,7 @@
 
 **对应 11:52—15:29。**
 
-![13:10，作者先列出新事物、供求双方与信息传播](/images/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/02-1310-first-three.png)
+![13:10，作者先列出新事物、供求双方与信息传播](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/02-1310-first-three.png)
 
 *图 2 · 原视频 13:10。前三项关注资产叙事、交易者与传播。看懂这一层，才能理解作者随后为什么加入融资条件。*
 
@@ -124,7 +124,7 @@
 | 05 外部资金 | 外来买家、境外投资参与 | 从哪个市场边界看外部，持续买卖净额如何 |
 | 06 没有政策打压 | 对配资、融资与炒作的限制 | 哪项正式措施、何时生效、影响谁与多少 |
 
-![15:30，作者补齐信用、外部资金与政策后形成六项](/images/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/03-1530-six-elements.png)
+![15:30，作者补齐信用、外部资金与政策后形成六项](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1DK4y1a75s/03-1530-six-elements.png)
 
 *图 3 · 原视频 15:30。口述先说七项后改为六项，完整图确为六项；这属于现场修正，不另造第七项。*
 

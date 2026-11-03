@@ -66,7 +66,7 @@
 
 奇衡离开生平课件，画出扁椭圆、狭长区域和较大的圆，说明自己怎样看价格波动。有的时期，价格虽然每天涨跌，却始终挤在较窄的范围；有的时期，运动能够充分展开，才容得下更大的交易空间。
 
-![11:48 原始课件：狭窄区域与较大波动区域交替](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/11-48-market-structure.png)
+![11:48 原始课件：狭窄区域与较大波动区域交替](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/11-48-market-structure.png)
 
 *原视频 11:48。图形是作者对波动状态的示意，没有价格坐标；图上的盈亏文字表达他的课堂判断。*
 
@@ -118,7 +118,7 @@ Percy Thomas 的棉花故事重复了前面的张力。按奇衡的叙述，利�
 
 奇衡展示 2020 年 3 月 17 日的朋友圈记录。当时月线是一根很大的阴线，截图中的标普500在 2487 点附近；他却判断阻力最小的方向向上，开始用相关 ETF 建底仓，随后在他所说的右侧阶段参与股指期货。
 
-![18:50 原始课件：3月17日的判断记录与复盘行情](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/18-50-sp500-plan.png)
+![18:50 原始课件：3月17日的判断记录与复盘行情](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/18-50-sp500-plan.png)
 
 *原视频 18:50。左图可见 2020-03-17 23:18 的记录，右图标示作者回顾的参与区域；具体 ETF 和期货合约未显示。*
 
@@ -174,7 +174,7 @@ Percy Thomas 的棉花故事重复了前面的张力。按奇衡的叙述，利�
 
 左侧图从一段横盘开始，中间黑框代表作者所说的一战时期停市、缺少交易记录的阶段。奇衡借此强调，停牌后复牌，或者长期低迷后重新活跃，可能释放此前被压住的需求或供给，值得留意其启动过程。
 
-![27:36 原始课件：东山再起与最后落寞的两条路径](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/27-36-recovery-paths.png)
+![27:36 原始课件：东山再起与最后落寞的两条路径](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/27-36-recovery-paths.png)
 
 *原视频 27:36。左侧标有 45、591 和数个停顿区域，右侧对照上涨、大跌与后续恢复；这是课堂示意图。*
 
@@ -208,7 +208,7 @@ Percy Thomas 的棉花故事重复了前面的张力。按奇衡的叙述，利�
 
 最后一项评价转向“阻力最小路线”。奇衡认可其中的交易思想，却把模型的本质缺陷指向“最”这个字。他说这是反复阅读后的认识，但本课只提出问题，没有展开答案，留待以后再谈。
 
-![33:04 原始课件：五项评价，最后指向“最”字问题](/images/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/33-04-critical-reading.png)
+![33:04 原始课件：五项评价，最后指向“最”字问题](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hg4y187pU/33-04-critical-reading.png)
 
 *原视频 33:04。此页是奇衡自己的评价与批评；末项只是问题提示，不能用弹幕替作者补出答案。*
 

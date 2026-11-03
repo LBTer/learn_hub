@@ -14,7 +14,7 @@
 
 **对应详细课程稿02:51—04:53。**
 
-![03:00 沪深指数相互确认的后续观察](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/01-0300-index-confirmation.png)
+![03:00 沪深指数相互确认的后续观察](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/01-0300-index-confirmation.png)
 
 *原视频 03:00。K 线为上证指数，紫色叠加线为深证成指。2440、3288 是上证历史区间标记；叠加显示不意味着两种指数采用相同原始点数。*
 
@@ -34,7 +34,7 @@
 
 ### 02.1 · 先保留当时的疑问
 
-![06:00 美元指数图，作者遮住后续走势](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/02-0600-dollar-masked.png)
+![06:00 美元指数图，作者遮住后续走势](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/02-0600-dollar-masked.png)
 
 *原视频 06:00。右侧黑色遮挡来自原课件。已显示部分是美元指数下行片段，红色线为作者所说年线；不能借被遮挡的后续结果替当时的人作判断。*
 
@@ -52,7 +52,7 @@
 <details>
 <summary>展开：作者揭示的后续图与退出参照</summary>
 
-![06:55 美元指数完整图与年线](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/03-0655-dollar-revealed.png)
+![06:55 美元指数完整图与年线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/03-0655-dollar-revealed.png)
 
 *原视频 06:55。后续行情已展开。图中红色 MA250 对应作者所说年线，另有 MA20；这是显示参数，不等于已给出可复现的期货合约交易系统。*
 
@@ -78,11 +78,11 @@
 
 **对应详细课程稿07:14—10:19。**
 
-![07:40 教科书式趋势线](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/04-0740-ideal-trend.png)
+![07:40 教科书式趋势线](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/04-0740-ideal-trend.png)
 
 *原视频 07:40。规则上升折线的回落点容易贴合斜线，是作者用来说明理想形态的示意图，没有真实成交记录。*
 
-![09:00 作者展示不规则波动和反复被洗出的标记](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/05-0900-irregular-trend.png)
+![09:00 作者展示不规则波动和反复被洗出的标记](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/05-0900-irregular-trend.png)
 
 *原视频 09:00。作者用另一张示意图模拟实际走势的不规整，橙色框标出令人懊恼的位置。它仍是示意图，不是可以测量收益的真实价格序列。*
 
@@ -110,7 +110,7 @@
 
 **对应详细课程稿10:21—16:55。**
 
-![13:22 原课件对投资、投机和交易的区分](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/06-1322-three-roles.png)
+![13:22 原课件对投资、投机和交易的区分](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/06-1322-three-roles.png)
 
 *原视频 13:22。三条表述是作者的教学分类。背景为深证成指日线图；图中价格区间本身不是估值计算。*
 
@@ -138,7 +138,7 @@
 
 ### 04.3 · 低位区间不等于低估，能够等待不等于可以忽略变化
 
-![14:20 投资者视角先单独展示](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/08-1420-investor-range.png)
+![14:20 投资者视角先单独展示](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/08-1420-investor-range.png)
 
 *14:20原图。此时尚未加入后面的投机箭头和量柱框选，适合与19:20最终图对照：相同历史价格并没有变，改变的是作者要求观察的任务。*
 
@@ -158,7 +158,7 @@
 
 **对应详细课程稿13:41—19:43。**
 
-![19:20 投资区间、投机箭头与成交量区段的并列图](/images/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/07-1920-three-perspectives.png)
+![19:20 投资区间、投机箭头与成交量区段的并列图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1MK4y1x7wL/07-1920-three-perspectives.png)
 
 *原视频 19:20。上方为深证成指日线，红色横线表示作者的区间视角，黄色箭头表示投机视角；下方为单独放大的量柱及橙色框。原片没有将箭头精确定义为实际成交价，不从像素补造点位。*
 

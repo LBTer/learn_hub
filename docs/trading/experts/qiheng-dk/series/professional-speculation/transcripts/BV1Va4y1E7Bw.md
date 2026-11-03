@@ -17,7 +17,7 @@
 
 开场这份说明很重要。后面的图式、分期和推论，都应归在奇衡自己的授课框架下，不能倒过来作为维克多的原书观点。课程的目的也从交易规则转到一种观察经济关系的方法，尚未进入具体企业的财务测算。
 
-![00:30 原第十二课及三块主题](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/01-0030-course.png)
+![00:30 原第十二课及三块主题](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/01-0030-course.png)
 
 *00:30原片片头。课号为第十二课，三块主题是市场经济版本、生命周期、货币现象；项目编号13另计。*
 
@@ -29,7 +29,7 @@
 
 接着，他将大萧条说成这种状态第一次遇到瓶颈的节点，甚至把此前概括为能够正常运行、生产出来就卖得掉。这是他搭建后续对比时采用的强简化，而非经过本课逐段论证的经济史；其历史问题在文末单列。
 
-![01:30 尚未分层圈画的完整关系图](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/02-0130-production-map.png)
+![01:30 尚未分层圈画的完整关系图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/02-0130-production-map.png)
 
 *01:30原图。上方路线包含生产、市场和渠道，下方路线加入平台与分成；图中的术语和箭头属于作者自己的分类。*
 
@@ -89,7 +89,7 @@
 
 他把变化概括为劳动者开始拥有另一种选择。原先只能把时间交给生产资料所有者，现在还可能参与另一种组织关系。这个判断的重点是选择来源发生变化，并不是说旧模式马上消失，或每个劳动者都会自动转入新模式。
 
-![10:00 两条路线共同争夺的人力与需求](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/03-1000-platform-competition.png)
+![10:00 两条路线共同争夺的人力与需求](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/03-1000-platform-competition.png)
 
 *10:00圈画图。上下两种模式的竞争点包含人力资源与需求方，不能只读成平台争消费者。*
 
@@ -125,7 +125,7 @@
 
 他把这个方向称为4.0，并认为社会正在往这里走。但讲到结果时，立刻保留了不确定性：最终会形成什么样子，目前谁也不知道。这一句必须与整段技术展望一起理解。它是2020年的未来设想，不是已经完成验证的技术替代结论。
 
-![13:30 人工智能与机器人被加入关系图](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/04-1330-ai-scenario.png)
+![13:30 人工智能与机器人被加入关系图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/04-1330-ai-scenario.png)
 
 *13:30原图。新增红色路径表示作者设想，13:45—13:47口述明确承认终局未知。*
 
@@ -137,7 +137,7 @@
 
 至于具体怎样创造，他只提到信用创造、基础货币发行，便说明那是另一套体系，本课不展开。于是图中已经画出出生与货币创造的对应关系，但中间的资产负债和交易机制仍然空缺。此处记录的是他的推论，并不存在由出生自动触发固定配额发币的通用规则。
 
-![15:00 作者的生命周期图式](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/05-1500-life-cycle.png)
+![15:00 作者的生命周期图式](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/05-1500-life-cycle.png)
 
 *15:00原课件。箭头证明作者怎样组织讲述，不证明生命周期可以自动配平货币创造与注销。*
 
@@ -237,7 +237,7 @@
 
 随后，他把本金与一年收益相除，称作现金的市盈率，课件写约65倍。按所给的1.5%精算应为约66.67倍，原课的近似标注与整理者复算必须分开。他也带着玩笑承认，如果原本没有理解，只换了名词仍然可能不懂。这段互动应先保留问题，再交代解释，不能在提问前就用整理后的结论替听众作答。
 
-![24:00 利率倍数与历史市盈率图](/images/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/06-2400-yield-comparison.png)
+![24:00 利率倍数与历史市盈率图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Va4y1E7Bw/06-2400-yield-comparison.png)
 
 *24:00原课件。上方是约65倍；表格日期2020-09-04，上证A股15.86、深证A股33.26。图源标记为value500；这里只核图中文字，不称独立复算的历史市场数据。*
 

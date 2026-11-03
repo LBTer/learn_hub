@@ -8,7 +8,7 @@
 
 这条感悟值得展开，但它不自动证明前半课的所有货币解释。下面把作者框架、可核制度与整理者体会分开，避免从一句有启发的结论倒推整套机制必然正确。
 
-![00:30，原第十四课下半部分片头](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/01-0030-course.png)
+![00:30，原第十四课下半部分片头](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/01-0030-course.png)
 
 *图 1 · 原视频 00:30。原题《货币、信用与经济循环（下）》，00:26—00:32 口述确认承接上集。上下两支共同组成原第十四课，不把项目 16、17 当成两堂新课。图片来自奇衡DK-CAPITAL 原视频，保留署名。*
 
@@ -40,7 +40,7 @@
 
 随后作者把关注点转到新增货币流向，以新基建、新能源汽车补贴和为行业提供工具、服务的机会作说明。他不是只谈买股票，也在讨论新人怎样寻找自己相对有机会参与的领域。
 
-![08:00，作者把资金去向加入货币讨论](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/02-0800-new-money.png)
+![08:00，作者把资金去向加入货币讨论](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/02-0800-new-money.png)
 
 *图 2 · 原视频 08:00。图中新增货币去向是作者提出的研究问题；同页的黄金和古籍表述不因此成为已经核实的货币机制。*
 
@@ -92,7 +92,7 @@ IFRS 9 对预期信用损失的讨论，正是区分合同应收现金与预计�
 
 作者明确不接受原书拆分，准备讲自己的理解。关于市场毛利率，他建议课堂先按贷款市场利率理解；本次未校勘中英文版，不能由这个口述就认证译文一定有错。
 
-![14:30，作者列出的两条利率表达式](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/03-1430-rate-formulas.png)
+![14:30，作者列出的两条利率表达式](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/03-1430-rate-formulas.png)
 
 *图 3 · 原视频 14:30。两式归于奇衡的课堂解释；违约概率一项与口述损失金额存在口径差异，不静默改写原式。*
 
@@ -115,7 +115,7 @@ IFRS 9 对预期信用损失的讨论，正是区分合同应收现金与预计�
 
 作者先把财富生成联系到人的生命周期，再对比同一栋楼在不同资金环境里由谁持有。其最有教学价值的部分，是将资产价格转成融资、持有与被迫出售的处境。
 
-![18:35，作者补完资产循环与下一回合的对照](/images/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/04-1835-cycle-and-choice.png)
+![18:35，作者补完资产循环与下一回合的对照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ny4y1k7q6/04-1835-cycle-and-choice.png)
 
 *图 4 · 原视频 18:35。作者同时列出紧缩中的承接、宽松中的出售，以及过度扩张后的被迫处置；不是只截取借款买便宜资产的一侧。*
 

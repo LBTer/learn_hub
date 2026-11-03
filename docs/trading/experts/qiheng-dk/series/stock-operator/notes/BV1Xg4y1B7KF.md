@@ -33,7 +33,7 @@
 
 **对应 10:30—14:59、17:32—18:07。** 苹果如果有思想，会等观察者离开再落下，这是作者对市场策略反应的类比。随后他假设自己是控盘者，逐类讨论不同对手：散户可能被价格反向后的焦虑逼走，大户可能受等待和小幅获利目标影响，机构可能长期锁筹，也可能争夺控制。
 
-![10:45 心机苹果课件，提示参与者会改变行为](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/10-45-strategic-apple.png)
+![10:45 心机苹果课件，提示参与者会改变行为](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/10-45-strategic-apple.png)
 
 *原视频 [10:45](https://www.bilibili.com/video/BV1Xg4y1B7KF?t=645)。这是作者自命名的比喻，不是某个主体操纵行情的证据。*
 
@@ -49,7 +49,7 @@
 
 ### 18:56 · 课件说拉开战线，尚未给间距算法 {#price-zone-frame}
 
-![18:56 原课件：头寸集中于同一价位的危险](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/18-56-price-zone.png)
+![18:56 原课件：头寸集中于同一价位的危险](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/18-56-price-zone.png)
 
 *原视频 [18:56](https://www.bilibili.com/video/BV1Xg4y1B7KF?t=1136)。买价与 8—12 范围来自口述；课件没有波动率公式。*
 
@@ -73,7 +73,7 @@
 
 ### 20:54 · 分开的首先是行动阶段 {#three-batches-frame}
 
-![20:54 三笔图：两段平台将三次进入隔开，第三段后反转](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/20-54-three-batches.png)
+![20:54 三笔图：两段平台将三次进入隔开，第三段后反转](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/20-54-three-batches.png)
 
 *原视频 [20:54](https://www.bilibili.com/video/BV1Xg4y1B7KF?t=1254)。图无价格和批量，箭头相近不代表等量；虚线也没有统一止损公式。*
 
@@ -108,7 +108,7 @@
 
 ### 24:40 · 两个黄框不是一次从底拿到顶 {#oil-stages-frame}
 
-![24:40 原油日线，四处红框与两处黄框](/images/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/24-40-oil-stages.png)
+![24:40 原油日线，四处红框与两处黄框](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Xg4y1B7KF/24-40-oil-stages.png)
 
 *原视频 [24:40](https://www.bilibili.com/video/BV1Xg4y1B7KF?t=1480)。框用于阶段讲解，真实工具、成交、批量和退出没有完整显示。*
 

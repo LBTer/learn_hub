@@ -57,7 +57,7 @@ IF 的头寸例子之后，他把持仓失眠、四处求确认与承担过多�
 
 <span id="method-boundary-frame"></span>
 
-![24:18 原始课件：应当参与与不应当参与的市场条件](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/24-18-method-boundary.png)
+![24:18 原始课件：应当参与与不应当参与的市场条件](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/24-18-method-boundary.png)
 
 *两半需要一起读。前半寻找机会，后半辨认方法的使用环境；课件尚未给出环境识别的数值定义。*
 
@@ -67,7 +67,7 @@ IF 的头寸例子之后，他把持仓失眠、四处求确认与承担过多�
 
 <span id="decision-process-frame"></span>
 
-![34:50 原始课件：专业交易者心境管理的四项工作](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/34-50-decision-process.png)
+![34:50 原始课件：专业交易者心境管理的四项工作](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/34-50-decision-process.png)
 
 *标题是心境管理，前两项却是设计检验和积累因素逻辑。研究准备与心理状态在这里被放进同一条工作路线。*
 
@@ -98,7 +98,7 @@ small 和 medium 两次转写对这段推进一致。本次保留的不是一个
 
 **课程依据：[28:15—32:27](https://www.bilibili.com/video/BV1Hp4y1y74h/?t=1695)。**
 
-![29:30 原始课件：匿名券商整合传闻后的分时反应](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/29-30-broker-rumor.png)
+![29:30 原始课件：匿名券商整合传闻后的分时反应](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/29-30-broker-rumor.png)
 
 *课程隐藏主体名称，保留匿名。两条分时线展示反应，单凭线形不能核准消息或确定交易动机。*
 
@@ -116,7 +116,7 @@ small 和 medium 两次转写对这段推进一致。本次保留的不是一个
 
 <span id="sp500-review-frame"></span>
 
-![36:40 原始课件：底仓、后续期指与减仓记录](/images/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/36-40-sp500-review.png)
+![36:40 原始课件：底仓、后续期指与减仓记录](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Hp4y1y74h/36-40-sp500-review.png)
 
 *先读左侧不同时点的记录，再对照右侧行情。明确是美国标普500相关复盘，具体 ETF 和期指合约未披露。*
 

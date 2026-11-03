@@ -188,6 +188,14 @@ export default withMermaid(defineConfig({
                 ]
               },
               {
+                text: '卖艺：出货的艺术',
+                items: [
+                  { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/' },
+                  { text: '精品笔记', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/' },
+                  { text: '文字稿', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/' }
+                ]
+              },
+              {
                 text: '以短线交易秘诀为生',
                 items: [
                   { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/' },
@@ -532,6 +540,29 @@ export default withMermaid(defineConfig({
                   items: [
                     { text: '系列课程总目录', link: '/trading/experts/qiheng-dk/series/' },
                     {
+                      text: '卖艺：出货的艺术',
+                      link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/',
+                      collapsed: false,
+                      items: [
+                        {
+                          text: '精品笔记',
+                          link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 第一课 · 把退出写进买入计划', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1B44y1B74P' }
+                          ]
+                        },
+                        {
+                          text: '文字稿',
+                          link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/',
+                          collapsed: false,
+                          items: [
+                            { text: '01 · 第一课 · 常务气氛组（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1B44y1B74P' }
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       text: '以短线交易秘诀为生',
                       link: '/trading/experts/qiheng-dk/series/trading-for-a-living/',
                       collapsed: false,
@@ -551,7 +582,25 @@ export default withMermaid(defineConfig({
                             { text: '08 · 第八课 · 交易理由与进场条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1JK4y177EB' },
                             { text: '09 · 第九课 · 关注、试盘与认输', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Nr4y1F7Us' },
                             { text: '10 · 第十课 · 起爆参照、参数与条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Ut4y1k7dn' },
-                            { text: '11 · 第十一课 · 环境、立场与退出能力', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV16r4y1T7wm' }
+                            { text: '11 · 第十一课 · 环境、立场与退出能力', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV16r4y1T7wm' },
+                            { text: '12 · 第十二课 · 交易日条件与统计证据', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV11X4y1K7im' },
+                            { text: '13 · 第十三课 · 观察起点与低点排列', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1KX4y1T7Jn' },
+                            { text: '14 · 第十四课 · 把形态名称换成行动条件', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1ko4y1R7XA' },
+                            { text: '15 · 第十五课 · 形态时效与执行检验', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Lp4y1p7bW' },
+                            { text: '16 · 第十六课 · 反复小赚与大亏风险', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1xb4y1R7ge' },
+                            { text: '17 · 第十七课互动练习 · 行情与仓位分开', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Zb4y1X75C' },
+                            { text: '18 · 第十八课 · 信心、仓位与回撤', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1QV411v77V' },
+                            { text: '19 · 第十九课 · 信号更新与行动', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Rv411j7Tb' },
+                            { text: '20 · 第二十课 · 参照、预测与判断', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1bA411L7or' },
+                            { text: '21 · 第二十一课 · 形态与胜算', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1sA411L76v' },
+                            { text: '22 · 第二十二课上 · 矩形情景与加仓保护', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1b64y1i7TT' },
+                            { text: '23 · 第二十二课下 · 形态变化与分笔保护', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1nK4y1P75R' },
+                            { text: '24 · 第二十三课 · 观察条件与时间口径', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1Eq4y1J7vp' },
+                            { text: '25 · 第二十四课 · 成交量与参与边界', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1cy4y1W7Lz' },
+                            { text: '26 · 第二十五课 · 过滤、准备与触发', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1264y1d7Eu' },
+                            { text: '27 · 第二十六课 · 降频与重复决策', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1954y1V7d4' },
+                            { text: '28 · 第二十七课终章 · 资金、突破与保护', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV1JK4y1X7Xa' },
+                            { text: '29 · 题海试炼 · 三套课逐题复习', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/notes/BV14f4y187iY' }
                           ]
                         },
                         {
@@ -569,7 +618,25 @@ export default withMermaid(defineConfig({
                             { text: '08 · 第八课 · 股价为什么涨跌（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1JK4y177EB' },
                             { text: '09 · 第九课 · COMEX白银复盘（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Nr4y1F7Us' },
                             { text: '10 · 第十课 · 趋势起爆点计算（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Ut4y1k7dn' },
-                            { text: '11 · 第十一课 · 那个伟大的交易员自杀了（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV16r4y1T7wm' }
+                            { text: '11 · 第十一课 · 那个伟大的交易员自杀了（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV16r4y1T7wm' },
+                            { text: '12 · 第十二课 · 用交易日效应赚钱（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV11X4y1K7im' },
+                            { text: '13 · 第十三课 · 短线获利形态共性（1）（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1KX4y1T7Jn' },
+                            { text: '14 · 第十四课 · 用三根K线判断买入拐点（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1ko4y1R7XA' },
+                            { text: '15 · 第十五课 · 如何一眼看出短线反转点（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Lp4y1p7bW' },
+                            { text: '16 · 第十六课 · 没有买卖就没有伤害（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1xb4y1R7ge' },
+                            { text: '17 · 第十七课互动练习（分支详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Zb4y1X75C' },
+                            { text: '18 · 第十八课 · 资金管理（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1QV411v77V' },
+                            { text: '19 · 第十九课 · 错失良机（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Rv411j7Tb' },
+                            { text: '20 · 第二十课 · 无法用A预测A（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1bA411L7or' },
+                            { text: '21 · 第二十一课 · K线图表入门（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1sA411L76v' },
+                            { text: '22 · 第二十二课上 · 图形沟通（上·详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1b64y1i7TT' },
+                            { text: '23 · 第二十二课下 · 图形沟通（下·详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1nK4y1P75R' },
+                            { text: '24 · 第二十三课 · 自主设计指标（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1Eq4y1J7vp' },
+                            { text: '25 · 第二十四课 · 量价关系（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1cy4y1W7Lz' },
+                            { text: '26 · 第二十五课 · 三重滤网（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1264y1d7Eu' },
+                            { text: '27 · 第二十六课 · 开盘时躺平（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1954y1V7d4' },
+                            { text: '28 · 第二十七课终章 · 终章回收（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV1JK4y1X7Xa' },
+                            { text: '29 · 题海试炼 · 总复习（详细课程稿）', link: '/trading/experts/qiheng-dk/series/trading-for-a-living/transcripts/BV14f4y187iY' }
                           ]
                         }
                       ]

@@ -6,7 +6,7 @@
 
 本课最值得学的判断能力，是**观察参与者怎样从犹疑转为自信，再把自己的仓位、比较冲动与不确定性放进去检查**。它不是四个听课人数档位组成的择时公式。作者将个人投教经验、书中历史例子与自己的两条原则连在一起；既要保留这条思路，也要看清它在哪些环节仍缺可检验条件。
 
-![00:30，原第十三课的课程封面](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/01-0030-course.png)
+![00:30，原第十三课的课程封面](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/01-0030-course.png)
 
 *图 1 · 原视频 00:30。片头确认原第十三课，口述 00:40—00:54 又说明题目由作者自拟、从原书下半部风险讨论引出。封面关于生死的强烈修辞不作为学习效果保证。图片均来自奇衡DK-CAPITAL 原视频，保留署名。*
 
@@ -16,7 +16,7 @@
 
 作者回顾多年线下投教，观察的不只是人数，而是听众的问题、仓位和对风险的态度怎样变化。其课件展示 05-29 23:35 的旧发言，口述说是当年 5 月底；这仍是本课展示的历史材料，未独立核原帖编辑记录。
 
-![02:00，作者用旧发言列出四阶段](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/02-0200-four-stages.png)
+![02:00，作者用旧发言列出四阶段](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/02-0200-four-stages.png)
 
 *图 2 · 原视频 02:00。人数、互动方式与作者行动共同构成该经验模型；不是仅凭热闹程度判断顶底。截图用于说明其分类依据，不能替代样本与历史回测。*
 
@@ -69,7 +69,7 @@
 
 作者不否认高估品种还能继续上涨，恰恰是这种收益诱惑，使很多人在行情好时不愿听估值提醒。他的取舍是，不必先猜中回调时点，也可以回避自己不想承担的高估暴露。
 
-![10:00，作者对行情与高市盈率的强判断](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/03-1000-valuation-warning.png)
+![10:00，作者对行情与高市盈率的强判断](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/03-1000-valuation-warning.png)
 
 *图 3 · 原视频 10:00。作者用很强的语言表达风险偏好。图中“先杀高市盈率”保留为课堂主张，不认证为无例外的市场规律。*
 
@@ -124,7 +124,7 @@
 
 **对应 14:29—15:48。**
 
-![15:30，作者自己的两条原则](/images/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/04-1530-own-principles.png)
+![15:30，作者自己的两条原则](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV13K4y1a7ED/04-1530-own-principles.png)
 
 *图 4 · 原视频 15:30。作者将课尾落在维持既有判断与出现不确定性时回避两端；“没有变化”和“不确定性出现”的具体定义，未由此图自动补齐。*
 

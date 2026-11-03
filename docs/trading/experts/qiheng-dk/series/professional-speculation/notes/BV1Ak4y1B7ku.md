@@ -18,7 +18,7 @@
 
 这段感悟的重要之处，是他没有把“读过经典”当成掌握能力的终点。他担心学习者进入市场以后，面对的是已经熟悉这些知识的参与者，自己却还在边亏边翻书。因此，他要求先完成前三课的环境、参与原则和认错基础，再进入技术讨论。
 
-![00:30 本课题目及前三课前置要求](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/06-0030-prerequisites.png)
+![00:30 本课题目及前三课前置要求](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/06-0030-prerequisites.png)
 
 *00:30原课件。环境、参与原则、认错基础先于读图；这是作者明示的教学顺序，不是整理者额外补上的课程要求。*
 
@@ -42,7 +42,7 @@
 
 **对应详细课程稿05:19—11:35。**
 
-![11:05 原课件：六项定理与加粗的指数确认](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/01-1105-six-principles.png)
+![11:05 原课件：六项定理与加粗的指数确认](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/01-1105-six-principles.png)
 
 *原视频 11:05。原课件将六项内容汇总，最后一项为作者重点保留的指数确认。此图用于对照他的取舍，不代表已对原书全部版本逐页校勘。*
 
@@ -71,7 +71,7 @@
 
 **对应详细课程稿10:41—12:46；片尾23:19—23:33再次强调。**
 
-![12:00 原视频：上证指数与深证成指叠加图](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/02-1200-index-confirmation.png)
+![12:00 原视频：上证指数与深证成指叠加图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/02-1200-index-confirmation.png)
 
 *原视频 12:00。K 线为上证指数，黄色叠加线为深证成指；2440 与 3288 是作者给上证标出的历史区间。右侧有相对变化刻度，不能把两线的高度当作同一原始点数。*
 
@@ -105,7 +105,7 @@
 
 这段的作者增量，是把技术概念放回其用途：**指数帮助观察什么，市场帮助交换什么，理论究竟承诺了什么？** 他以买可乐、寻找卖方和询价作例子，强调信息、判断和偏好差异对交易的意义。
 
-![18:00 原课件：有效市场假说及维克多的评价](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/03-1800-information-and-markets.png)
+![18:00 原课件：有效市场假说及维克多的评价](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/03-1800-information-and-markets.png)
 
 *原视频 18:00。课件是作者对假说的概括及其转述的维克多评价，不直接当作有效市场假说的标准定义。*
 
@@ -129,11 +129,11 @@
 
 **对应详细课程稿18:24—20:40。**
 
-![19:50 原课件：上证月线与黄色成交量圈选](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/04-1950-monthly-volume.png)
+![19:50 原课件：上证月线与黄色成交量圈选](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/04-1950-monthly-volume.png)
 
 *原视频 19:50。图为上证指数月线，横轴可见约 2003—2020 年；黄色圈选由作者展示。成交量柱与价格图分别阅读，不从圈的位置猜测真实成交。*
 
-![18:40 雷亚与成交量的课件限定](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/07-1840-rhea-volume.png)
+![18:40 雷亚与成交量的课件限定](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/07-1840-rhea-volume.png)
 
 *18:40原课件。它同时写出成交量贡献、配置工具定位，以及不脱离经济基本条件和市场现况的限制。截图证明课堂展示了这些内容，不证明人物收益的因果归属。*
 
@@ -153,7 +153,7 @@
 
 **对应详细课程稿20:40—23:41。**
 
-![22:20 原课件：新高新低、年线和指数确认](/images/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/05-2220-market-direction.png)
+![22:20 原课件：新高新低、年线和指数确认](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1Ak4y1B7ku/05-2220-market-direction.png)
 
 *原视频 22:20。三条是作者的判断框架，画面没有净流入金额、年线参数、确认窗口或仓位比例。势不可挡是作者的强调语气，不是经过验证的必然结果。*
 

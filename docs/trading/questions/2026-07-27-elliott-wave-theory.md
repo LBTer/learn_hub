@@ -1,6 +1,6 @@
 # 为什么市场总像在“前进五步、回望三步”？波浪理论从来源、逻辑到实战
 
-![由人群情绪汇成的嵌套潮汐](/images/trading/questions/elliott-wave-nested-tides.png)
+![由人群情绪汇成的嵌套潮汐](https://learn.luovista.com/trading/questions/elliott-wave-nested-tides.png)
 
 *图：AI 生成的主题插画。大潮中包含小潮，暗示不同周期的走势可能呈现相似结构；它是概念隐喻，不是可用于数浪的标准图。*
 

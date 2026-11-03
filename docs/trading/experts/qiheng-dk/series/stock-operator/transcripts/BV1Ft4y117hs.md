@@ -30,7 +30,7 @@
 
 ## 02:45 筹码供应者也有风险，不能只羡慕成功上市的故事
 
-![03:33：筹码与信息传递的课堂示意链，左侧另画回购](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/03-33-supply-chain.png)
+![03:33：筹码与信息传递的课堂示意链，左侧另画回购](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/03-33-supply-chain.png)
 
 *原视频 03:33。参与者名称与箭头来自课件；它是作者的解释模型，不是每家公司都必经的逐笔流向。*
 
@@ -96,7 +96,7 @@
 
 ## 09:09 历史图看起来相似，也仍需要等到所列条件出现
 
-![09:23：上证指数两段区域对照，右侧标注 3288 与 2440](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/09-23-index-condition.png)
+![09:23：上证指数两段区域对照，右侧标注 3288 与 2440](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/09-23-index-condition.png)
 
 *原视频 09:23。这是 2020 年课堂的阶段比较；2440 是画面标注，不能自行补成作者的入场指令。*
 
@@ -114,7 +114,7 @@
 
 ## 10:25 指数跌得不多，分级 B 的持有压力却完全不同
 
-![10:38：作者用历史下跌图回忆持续抄底的处境](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/10-38-bottoming-path.png)
+![10:38：作者用历史下跌图回忆持续抄底的处境](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/10-38-bottoming-path.png)
 
 *原视频 10:38。图上标记是课堂说明，不是作者每笔真实成交的证明。*
 
@@ -142,7 +142,7 @@
 
 ## 12:21 原油的不同参与阶段，低价与耐心也未提供免亏证明
 
-![13:37：原油课堂图列第一、第二与合列的第三第四类参与者](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/13-37-oil-participants.png)
+![13:37：原油课堂图列第一、第二与合列的第三第四类参与者](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/13-37-oil-participants.png)
 
 *原视频 13:37。图为原油连续序列的教学画面；石油公司股票、银行挂钩产品与其他境外投资途径不是同一资产。*
 
@@ -268,7 +268,7 @@
 
 ## 21:15 落袋、出金与归零，不是把账户亏到零
 
-![21:25：止盈与归零的课堂总结，预告下一讲杠杆](/images/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/21-25-withdrawal-reset.png)
+![21:25：止盈与归零的课堂总结，预告下一讲杠杆](https://learn.luovista.com/trading/qiheng-dk/stock-operator/BV1Ft4y117hs/21-25-withdrawal-reset.png)
 
 *原视频 21:25。归零按紧接口述解释为利润取出、回到本金操作口径，不是净值亏尽。*
 

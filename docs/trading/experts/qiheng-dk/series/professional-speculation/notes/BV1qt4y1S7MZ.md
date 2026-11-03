@@ -14,7 +14,7 @@
 
 **对应课程稿 00:10—08:00。**
 
-![00:30 第十一课片头与三大指导原则题名](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/01-0030-course.png)
+![00:30 第十一课片头与三大指导原则题名](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/01-0030-course.png)
 
 *00:30 原帧确认课号；01:12 起口述再次确认。上部、下部是作者的授课安排说明，本次未据此认证不同中文版的逐章对应关系。*
 
@@ -26,7 +26,7 @@
 
 ### 01.2 · 2B 的外形、作者模型与读者的恐高，不是同一件事
 
-![05:00 回看前课的上证图与年线、高低点参照](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/02-0500-prior-reference.png)
+![05:00 回看前课的上证图与年线、高低点参照](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/02-0500-prior-reference.png)
 
 *原视频 05:00。画面为前课参照图，可见 MA250、3288 与 2440 标线；不是新发布的精确买卖价，也没有显示作者自己的订单。*
 
@@ -43,7 +43,7 @@
 
 ### 01.3 · 一周后回看条件，不能冒充完整策略验证
 
-![07:30 作者标为一周后的沪深叠加图](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/03-0730-one-week-later.png)
+![07:30 作者标为一周后的沪深叠加图](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/03-0730-one-week-later.png)
 
 *原视频 07:30。课件写一周后，07:17—07:27 口述说明上证仍在去年高点上方、沪深较一致。图有相对涨幅刻度，不能把两条曲线按相同点数读取；具体截取日期不由上传日期代定。*
 
@@ -59,7 +59,7 @@
 
 **对应课程稿 08:01—10:11、27:23—28:36。**
 
-![08:00 三条指导原则的课堂表述](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/04-0800-three-principles.png)
+![08:00 三条指导原则的课堂表述](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/04-0800-three-principles.png)
 
 *原视频 08:00。作者将这三条归于维克多，本次未校勘原书相应版本，不把课件当作已认证的中文原文。下表为整理者概述。*
 
@@ -77,7 +77,7 @@
 
 **对应课程稿 10:12—19:11。**
 
-![12:00 政策与板块清单](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/05-1200-policy-sectors.png)
+![12:00 政策与板块清单](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/05-1200-policy-sectors.png)
 
 *原视频 12:00。清单是教学例子，19:02—19:11 明确说明不作购买推荐。它包含不同机制，不能压成政策一出所有相关股票必涨。*
 
@@ -129,7 +129,7 @@ PPP 收缩、所有相关企业受损及资金动作标志新周期的具体因�
 
 **对应课程稿 19:15—25:14。**
 
-![21:00 过去与未来页上的航母、光刻机两个例子](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/06-2100-history-and-future.png)
+![21:00 过去与未来页上的航母、光刻机两个例子](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/06-2100-history-and-future.png)
 
 *原视频 21:00。页面只有两个例子，具体推理由口述展开；截图不能证明历史故事、设备型号或幕后安排。*
 
@@ -171,7 +171,7 @@ PPP 收缩、所有相关企业受损及资金动作标志新周期的具体因�
 
 **对应课程稿 25:14—27:21。**
 
-![25:30 未点名保险股及第三条原则](/images/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/07-2530-anonymous-insurer.png)
+![25:30 未点名保险股及第三条原则](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1qt4y1S7MZ/07-2530-anonymous-insurer.png)
 
 *原视频 25:30。25:31 起作者明确不列股票名；图上没有完整名称、日期与复权信息。即使前面点名中国平安，也不据价格形状认定此图就是平安，更不补代码或实际成交。*
 

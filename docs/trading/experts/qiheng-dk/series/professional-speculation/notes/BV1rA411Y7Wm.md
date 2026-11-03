@@ -16,7 +16,7 @@
 
 **对应课程稿 00:02—07:36。**
 
-![00:30 第九课的史波克症候群与减肥类比](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/01-0030-spock.png)
+![00:30 第九课的史波克症候群与减肥类比](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/01-0030-spock.png)
 
 *原视频 00:30。片头明确第九课与主题，借人物对白和网络化表达说明想法与行动冲突。课件名称不构成医学诊断，人物对白的具体剧集出处本次未核。*
 
@@ -42,7 +42,7 @@
 
 **对应课程稿 01:07—02:38、04:23—06:12、28:03—29:27。**
 
-![05:00 情绪与理性同时影响行为的课件](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/02-0500-emotion.png)
+![05:00 情绪与理性同时影响行为的课件](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/02-0500-emotion.png)
 
 *原视频 05:00。课件强调两者同时主宰行为；作者随后使用两个人在脑内争论的比喻。画面与口述属于课堂模型，不能直接视作神经机制结论。*
 
@@ -124,7 +124,7 @@
 
 约翰基于新闻、融资成本和宏观判断卖空债券期货，并接受一个预算。需要分开看的是：他有一套理由、他知道可能错、他是否落实了退出机制。这三件事在故事里并未同步完成。
 
-![30:00 课件中的心理止损、风险预算与不符预期的开盘](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/03-3000-mental-stop.png)
+![30:00 课件中的心理止损、风险预算与不符预期的开盘](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/03-3000-mental-stop.png)
 
 *原视频 30:00。课件显示入场上方 10 档、200 份合约和 62,500 美元风险，随后描述平开后上涨。它证明的是课内叙事设定，不是实际经纪账户或已提交的止损单。*
 
@@ -280,7 +280,7 @@
 
 本课仍未回答模型失效怎样停用、条件单怎样适配具体市场、团队异常权限怎样定义，以及主观交易是否只能靠程序化解决。它深化了如何执行的问题，还没有把所有心理与交易困难合成统一答案。
 
-![43:00 下一课预告](/images/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/04-4300-preview.png)
+![43:00 下一课预告](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1rA411Y7Wm/04-4300-preview.png)
 
 *原视频 43:00。预告题名为《一开盘，祖先留给我的本能都丢了》。下一课首轮已确认承接，但页面标题与片头题名不同，二者分别保留。*
 

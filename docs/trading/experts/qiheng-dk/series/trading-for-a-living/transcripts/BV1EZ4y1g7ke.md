@@ -18,7 +18,7 @@
 
 开场又把观众引向最后一页。那里是一道检验整节课理解的作业，但只看最后截图无法知道要观察什么，倒数几页的论证同样不能跳过。他用看完一课还想回看前课、期待后课的玩笑，说明课程之间的连接。
 
-![00:15，原第七课片头](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/01-cover.png)
+![00:15，原第七课片头](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/01-cover.png)
 
 *片头同时列两本书；第七课与模型六分开记录。*
 
@@ -102,7 +102,7 @@
 
 复习页把第五项写作单边市场的惯性，第六项写作空间缩放的周期。它不是给所有模型安排同一个买入动作，而是在提示：位置、结构、力度和波幅所回答的问题各有侧重。
 
-![15:00，六个模型的复习页](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/02-models.png)
+![15:00，六个模型的复习页](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/02-models.png)
 
 *课件将威廉时钟列为模型六，描述为“空间缩放的周期”。这是作者课程的归纳体系。*
 
@@ -130,7 +130,7 @@
 
 谈到辨认历史图，他回应为什么总建议手绘K线。目的并非为了画得漂亮，而是记住市场曾经出现过的不同波动方式，避免脑中只剩最符合自己想象的一种路线。
 
-![19:00，先展示的上证指数片段](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/03-2012-question.png)
+![19:00，先展示的上证指数片段](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/03-2012-question.png)
 
 *图上标明上证指数。此处先辨认历史阶段，不能用后面展开的行情替当时的自己作答。*
 
@@ -158,7 +158,7 @@
 
 故事的落点不是只要忍耐最终都能救回，而是这次挫折迫使他改变研究方式。反弹救回部分处境，是作者回忆中的结果；之前用月份口诀和粗浅产品认识参与的风险，并没有因结果而消失。
 
-![22:00，进一步展开的2012年下跌图](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/04-2012-result.png)
+![22:00，进一步展开的2012年下跌图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/04-2012-result.png)
 
 *新增右侧路径用于反驳月份口诀的确定性。图不是其分级基金账户，也不能据指数跌幅计算个人亏损。*
 
@@ -178,7 +178,7 @@
 
 这份反思不能被盈利故事盖过去。课程展示了一张资金曲线，但画面标题明确是多策略组合测试资金曲线表；它支持读者查看展示的测试统计，不能单凭图片认证真实账户表现。
 
-![25:00，多策略组合测试资金曲线](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/05-test-curve.png)
+![25:00，多策略组合测试资金曲线](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/05-test-curve.png)
 
 *可见测试区间2013-01-04—2020-09-30，利润率651.31%、最大回撤12.86%、胜率45.47%、交易次数3567。数据属于课件所示测试，未取得策略、成本设置、样本划分或账户流水。*
 
@@ -206,7 +206,7 @@
 
 举例上，他否定按季度、年份或生肖直接规定行情，尤其反对牛年就必有某种市场的想法。本课提供的是把观察入口从日历移向价格变化的方法主张，下一页才把这种入口分成几个类别。
 
-![28:00，作者自署的第二步方法论](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/06-space-cycle.png)
+![28:00，作者自署的第二步方法论](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/06-space-cycle.png)
 
 *课件署名奇衡DK-CAPITAL；爱因斯坦只出现在当场撤回的玩笑里。*
 
@@ -218,7 +218,7 @@
 
 选择张弛波幅，仍服务于前段提出的目标：让观众用能理解、能看到的方式管理自己的关注与财富。模型名称只是课程的组织方式，公开讲解范围比整个名称列表窄。
 
-![29:00，三个计时器](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/07-clocks.png)
+![29:00，三个计时器](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/07-clocks.png)
 
 *第一项张弛波幅进入本课实操；第二、第三项仅命名，不补出作者未讲的算法。*
 
@@ -230,7 +230,7 @@
 
 这时先保留原图，不急着把答案改写为买点。图中后续上涨已经可见，因此这是一堂历史观察演示；作者要求的思考姿势，是暂时放下结局，找前段真正可观察的变化。
 
-![30:00，尚未叠加布林通道的2014年图](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/08-2014-question.png)
+![30:00，尚未叠加布林通道的2014年图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/08-2014-question.png)
 
 *题目问上涨前看见什么；不能把图中后续上涨当作当时已经知道的条件。*
 
@@ -242,7 +242,7 @@
 
 由此，通道不是先提供某个必买价格，而是把原图中不易集中注意到的张弛关系显示出来。上涨是这段历史最后的方向，但接下来还需要检查收缩后是否只能上涨。
 
-![31:00，叠加通道后的同段历史图](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/09-2014-bands.png)
+![31:00，叠加通道后的同段历史图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/09-2014-bands.png)
 
 *与上一图配对阅读，观察中后段宽度收窄。口述的叠图提问约在31:02开始，画面已提前显示。*
 
@@ -262,7 +262,7 @@
 
 这延续了前课对主动持有的偏好，也说明为什么在他的框架里，长期参与者同样需要理解波动。故事没有具体标的与账户，不能作为某只股票的真实收益路径。
 
-![33:00，布林通道公式](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/10-formula.png)
+![33:00，布林通道公式](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/10-formula.png)
 
 *课件为BOLL＝MA(CLOSE,N)，上轨＝BOLL＋M×STD(CLOSE,N)，下轨＝BOLL−M×STD(CLOSE,N)，N通常取20。公式中的标准差口径未进一步指定。*
 
@@ -290,7 +290,7 @@
 
 于是观众可能反问，既然三种结果都有，学收缩还有什么用？本课正是借这个质疑，进入波幅不对称的主张，而不是跳过反例直接宣布指标有效。
 
-![36:00，2020年上证指数练习图](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/11-2020-exercise.png)
+![36:00，2020年上证指数练习图](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/11-2020-exercise.png)
 
 *先自行找宽度变化，再读作者“五次”的判断；图未标五段边界，不能替他硬补唯一划分。*
 
@@ -318,7 +318,7 @@
 
 他马上加上重要限制：不会由此推算收缩以后两周内一定涨、或者两周内一定跌。倒计时在这里是阶段性的比喻，不包含已公布的天数，更没有独立决定涨跌方向。它也没有在这一课补齐底分形的具体买入条件。
 
-![39:00，不对称主张与倒计时推论](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/12-asymmetry.png)
+![39:00，不对称主张与倒计时推论](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/12-asymmetry.png)
 
 *“必然”是作者课件原有强度；没有同时给出收缩阈值、扩大幅度和等待期限。整理者不将其提升为已证明的普遍定理。*
 
@@ -330,7 +330,7 @@
 
 最后再次回到前后课之间的连接：看完想回顾旧课，也期待下一周内容。课程在这份期待中结束。本课作业因此应保留为未答题；若需要练习参考，只能另列整理者检查框架，不用后来行情冒充作者答案。
 
-![40:00，COMEX白银原课堂作业](/images/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/13-silver-homework.png)
+![40:00，COMEX白银原课堂作业](https://learn.luovista.com/trading/qiheng-dk/trading-for-a-living/BV1EZ4y1g7ke/13-silver-homework.png)
 
 *图题和左上角标明COMEX白银；未确认具体到期合约及连续序列拼接方式。这里冻结在课内可见信息，不接入后续行情。*
 

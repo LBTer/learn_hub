@@ -14,7 +14,7 @@
 
 **对应详细课程稿00:24—09:16。**
 
-![00:30 专门面向 B 站伙伴的三个问题](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/01-0030-partner-topic.png)
+![00:30 专门面向 B 站伙伴的三个问题](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/01-0030-partner-topic.png)
 
 *原视频 00:30。片头列出自身收入能力、财务自由及实现不了怎么办，未出现正课号；01:48—01:55 口述确认专门录给伙伴。页面中的严重剧透、请家长陪同是作者的幽默开场，不是课程访问条件。*
 
@@ -54,7 +54,7 @@
 
 **对应详细课程稿11:34—15:46。**
 
-![12:00 作者以正现金流解释资产](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/02-1200-cashflow-assets.png)
+![12:00 作者以正现金流解释资产](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/02-1200-cashflow-assets.png)
 
 *原视频 12:00。正现金流是作者在本课采用的视角，不是完整会计定义；口述随后用住房作例子。*
 
@@ -66,7 +66,7 @@
 
 ### 03.2 · 50 万与 3333 万，到底在比较什么？
 
-![15:00 年收入与收益率反推本金的课堂类比](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/03-1500-income-comparison.png)
+![15:00 年收入与收益率反推本金的课堂类比](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/03-1500-income-comparison.png)
 
 *原视频 15:00。课件明确 50 万 ÷ 1.5% ≈ 3333 万，下面用产生相同年收益的固收本金解释。14:07 自动转写的 333 万与课件、13:18 及 14:44 起口述不一致，不据此判作者口误。*
 
@@ -97,7 +97,7 @@
 
 **对应详细课程稿17:14—20:33。**
 
-![19:30 原课前三步与资金、资本的课堂区分](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/04-1930-saving-and-capital.png)
+![19:30 原课前三步与资金、资本的课堂区分](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/04-1930-saving-and-capital.png)
 
 *原视频 19:30。十万、五十万是课堂例子；本课并未建立金额一过门槛便自动成为资本的统一定义。*
 
@@ -123,7 +123,7 @@
 
 **对应详细课程稿15:47—23:09。**
 
-![24:00 完整六步路径与作者的社会观察](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/05-2400-six-steps.png)
+![24:00 完整六步路径与作者的社会观察](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/05-2400-six-steps.png)
 
 *原视频 24:00。此时课件六步已齐；这是作者的经验路径，下面按原编号概述，不能变成面向所有人的操作指令。*
 
@@ -190,7 +190,7 @@ SEC 投资者教育材料也说明，借款投资可能亏损超过初始投入�
 
 **对应详细课程稿29:32—31:18。**
 
-![30:30 财务自由未实现时的两类情况与低投入方向](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/06-3030-low-cash-project.png)
+![30:30 财务自由未实现时的两类情况与低投入方向](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/06-3030-low-cash-project.png)
 
 *原视频 30:30。作者把低投入、个人品牌放在找不准风口之后提出；不是要求听众先通过高杠杆证明自己。*
 
@@ -198,7 +198,7 @@ SEC 投资者教育材料也说明，借款投资可能亏损超过初始投入�
 
 30:16 起，他转为先投入时间、积累个人品牌和种子用户，不要求一开始就赚钱。这里的目标从单笔收益转成持续被认识、被信任的能力。
 
-![31:00 通过公开分享特长积累个人品牌的例子](/images/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/07-3100-personal-brand.png)
+![31:00 通过公开分享特长积累个人品牌的例子](https://learn.luovista.com/trading/qiheng-dk/professional-speculation/BV1ak4y127uz/07-3100-personal-brand.png)
 
 *原视频 31:00。例子是 B 站 UP 主、持续分享特长；口述还举踢毽子，不是具体流量项目或变现承诺。*
 
