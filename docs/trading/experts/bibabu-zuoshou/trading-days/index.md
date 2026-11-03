@@ -6,6 +6,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-03：主跌期不追修复，羊字辈高潮与传媒后排风险](/trading/experts/bibabu-zuoshou/trading-days/2026-11-03)
+
 - [2026-11-02：AI 软件强回流，盘中竞争与次日承接条件](/trading/experts/bibabu-zuoshou/trading-days/2026-11-02)
 
 ## 2026 年 10 月

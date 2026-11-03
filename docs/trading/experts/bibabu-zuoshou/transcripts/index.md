@@ -4,6 +4,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-03：牛熊市不如羊市，国家队护盘明显，但止不住](/trading/experts/bibabu-zuoshou/transcripts/2026-11-03)
+
 - [2026-11-02：科技竖中指，AI 软件爆发，后续看能否承接强度](/trading/experts/bibabu-zuoshou/transcripts/2026-11-02)
 
 ## 2026 年 10 月
