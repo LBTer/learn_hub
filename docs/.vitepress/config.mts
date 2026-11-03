@@ -549,7 +549,11 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/',
                           collapsed: false,
                           items: [
-                            { text: '01 · 第一课 · 把退出写进买入计划', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1B44y1B74P' }
+                            { text: '01 · 第一课 · 把退出写进买入计划', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1B44y1B74P' },
+                            { text: '02 · 第二课 · FI与DKFI的进出分工', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV16b4y1C7SY' },
+                            { text: '03 · 第三课 · 看空也可以不做空', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1NX4y1w7tQ' },
+                            { text: '04 · 第四课 · 先定能亏多少，再算可以买多少', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1T64y1X7vv' },
+                            { text: '05 · 第五课 · 沿行情提高保护', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV15v411n7Rk' }
                           ]
                         },
                         {
@@ -557,7 +561,11 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/',
                           collapsed: false,
                           items: [
-                            { text: '01 · 第一课 · 常务气氛组（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1B44y1B74P' }
+                            { text: '01 · 第一课 · 常务气氛组（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1B44y1B74P' },
+                            { text: '02 · 第二课 · 绝对盘感（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV16b4y1C7SY' },
+                            { text: '03 · 第三课 · 白酒为例（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1NX4y1w7tQ' },
+                            { text: '04 · 第四课 · 两个数字（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1T64y1X7vv' },
+                            { text: '05 · 第五课 · 优雅地卖出（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV15v411n7Rk' }
                           ]
                         }
                       ]
