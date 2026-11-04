@@ -1972,6 +1972,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/market-reviews/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-04', link: '/trading/experts/rhino-finance/market-reviews/2026-11-04' },
                         { text: '2026-11-03', link: '/trading/experts/rhino-finance/market-reviews/2026-11-03' },
                         { text: '2026-10-31', link: '/trading/experts/rhino-finance/market-reviews/2026-10-31' },
                         { text: '2026-10-30', link: '/trading/experts/rhino-finance/market-reviews/2026-10-30' },
@@ -2266,6 +2267,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-04 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-11-04' },
                         { text: '2026-11-03 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-11-03' },
                         { text: '2026-10-31 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-31' },
                         { text: '2026-10-30 摘要', link: '/trading/experts/rhino-finance/transcripts/2026-10-30' },
@@ -2589,7 +2591,8 @@ export default withMermaid(defineConfig({
                         { text: 'NFLX：等待建仓条件', link: '/trading/experts/rhino-finance/company-notes/NFLX' },
                         { text: 'GOOG：业务验证', link: '/trading/experts/rhino-finance/company-notes/GOOG' },
                         { text: 'MSFT：持仓条件', link: '/trading/experts/rhino-finance/company-notes/MSFT' },
-                        { text: 'AMZN：现金流与条件', link: '/trading/experts/rhino-finance/company-notes/AMZN' }
+                        { text: 'AMZN：现金流与条件', link: '/trading/experts/rhino-finance/company-notes/AMZN' },
+                        { text: 'AMD：增长与回款', link: '/trading/experts/rhino-finance/company-notes/AMD' }
                       ]
                     },
                     {
