@@ -4,6 +4,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-05：继续看多做多，注意方向切换](/trading/experts/bibabu-zuoshou/transcripts/2026-11-05)
+
 - [2026-11-04：牛回速归，新的波段起点开始，争当弄潮儿](/trading/experts/bibabu-zuoshou/transcripts/2026-11-04)
 
 - [2026-11-03：牛熊市不如羊市，国家队护盘明显，但止不住](/trading/experts/bibabu-zuoshou/transcripts/2026-11-03)

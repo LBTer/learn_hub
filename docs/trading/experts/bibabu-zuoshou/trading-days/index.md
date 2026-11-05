@@ -6,6 +6,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-05：继续看多做多，注意方向切换](/trading/experts/bibabu-zuoshou/trading-days/2026-11-05)
+
 - [2026-11-04：科技右侧改判，芯片首选与回踩、分化条件](/trading/experts/bibabu-zuoshou/trading-days/2026-11-04)
 
 - [2026-11-03：主跌期不追修复，羊字辈高潮与传媒后排风险](/trading/experts/bibabu-zuoshou/trading-days/2026-11-03)
