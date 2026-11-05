@@ -188,6 +188,14 @@ export default withMermaid(defineConfig({
                 ]
               },
               {
+                text: '与市场先生的伟大博弈',
+                items: [
+                  { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/great-game/' },
+                  { text: '精品笔记', link: '/trading/experts/qiheng-dk/series/great-game/notes/' },
+                  { text: '文字稿', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/' }
+                ]
+              },
+              {
                 text: '卖艺：出货的艺术',
                 items: [
                   { text: '系列学习地图', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/' },
@@ -540,6 +548,29 @@ export default withMermaid(defineConfig({
                   items: [
                     { text: '系列课程总目录', link: '/trading/experts/qiheng-dk/series/' },
                     {
+                      text: '与市场先生的伟大博弈',
+                      link: '/trading/experts/qiheng-dk/series/great-game/',
+                      collapsed: false,
+                      items: [
+                        { text: '精品笔记目录', link: '/trading/experts/qiheng-dk/series/great-game/notes/' },
+                        { text: '01 · 第一课 · 报价、资本与竞争', link: '/trading/experts/qiheng-dk/series/great-game/notes/BV1cu41117Q9' },
+                        { text: '02 · 第二课 · 郁金香、串珠与交易条件', link: '/trading/experts/qiheng-dk/series/great-game/notes/BV1C44y1p7LE' },
+                        { text: '03 · 第三课 · 政策、融资与风险归属', link: '/trading/experts/qiheng-dk/series/great-game/notes/BV1T34y1C7Jn' },
+                        { text: '04 · 第四课 · 运河融资与交割供给', link: '/trading/experts/qiheng-dk/series/great-game/notes/BV1d341177qW' },
+                        { text: '05 · 第五课 · 连接、股本与资金风险', link: '/trading/experts/qiheng-dk/series/great-game/notes/BV11a411C7nk' },
+                        { text: '06 · 第六课 · 战争融资、矩形与交割', link: '/trading/experts/qiheng-dk/series/great-game/notes/BV14U4y1o7tg' },
+                        { text: '07 · 第七课 · 伊利铁路、供给与退出', link: '/trading/experts/qiheng-dk/series/great-game/notes/BV12P4y1u7qQ' },
+                        { text: '文字稿目录', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/' },
+                        { text: '01 · 坚持学习（详细课程稿）', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/BV1cu41117Q9' },
+                        { text: '02 · 纽约的守护神（详细课程稿）', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/BV1C44y1p7LE' },
+                        { text: '03 · 1792年旋转门事件（详细课程稿）', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/BV1T34y1C7Jn' },
+                        { text: '04 · 基建大潮与利特尔（详细课程稿）', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/BV1d341177qW' },
+                        { text: '05 · 铁路、电报与淘金热（详细课程稿）', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/BV11a411C7nk' },
+                        { text: '06 · 战争融资与哈莱姆铁路争夺（详细课程稿）', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/BV14U4y1o7tg' },
+                        { text: '07 · 伊利铁路争夺、动态矩形与发行权（详细课程稿）', link: '/trading/experts/qiheng-dk/series/great-game/transcripts/BV12P4y1u7qQ' },
+                      ]
+                    },
+                    {
                       text: '卖艺：出货的艺术',
                       link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/',
                       collapsed: false,
@@ -553,7 +584,20 @@ export default withMermaid(defineConfig({
                             { text: '02 · 第二课 · FI与DKFI的进出分工', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV16b4y1C7SY' },
                             { text: '03 · 第三课 · 看空也可以不做空', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1NX4y1w7tQ' },
                             { text: '04 · 第四课 · 先定能亏多少，再算可以买多少', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1T64y1X7vv' },
-                            { text: '05 · 第五课 · 沿行情提高保护', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV15v411n7Rk' }
+                            { text: '05 · 第五课 · 沿行情提高保护', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV15v411n7Rk' },
+                            { text: '06 · 第六课 · 三问与保护参照', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1sU4y1H771' },
+                            { text: '07 · 第七课 · 年线与多层风险检查', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1i64y1B73F' },
+                            { text: '08 · 第八课 · 卖飞、规模与坐标变化', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1YA411P7BC' },
+                            { text: '09 · 第九课 · 平安的判断、预期与仓位', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1cq4y1U7Et' },
+                            { text: '10 · 第十课 · 止损六要点与保护尺度', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1zv411A7ug' },
+                            { text: '11 · 第十一课 · 长线方向与同向波段', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1rw411f7QE' },
+                            { text: '12 · 第十二课 · 十五题与连续交易账本', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1JQ4y1y7ve' },
+                            { text: '13 · 第十三课 · 高手失手与环境变化', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1464y187qR' },
+                            { text: '14 · 第十四课 · 底部识别与等待成本', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1964y187WG' },
+                            { text: '15 · 结局篇上 · 回测报告与策略可行性', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1Qf4y1c7sf' },
+                            { text: '16 · 结局篇中 · 利润依赖与风险指标', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV11v411M7ub' },
+                            { text: '17 · 番外 · 止损原题的后续回访', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1Pu411f7ZU' },
+                            { text: '18 · 结局篇下 · 时间资金与运行检查', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/notes/BV1zT4y1o7Dx' }
                           ]
                         },
                         {
@@ -565,7 +609,20 @@ export default withMermaid(defineConfig({
                             { text: '02 · 第二课 · 绝对盘感（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV16b4y1C7SY' },
                             { text: '03 · 第三课 · 白酒为例（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1NX4y1w7tQ' },
                             { text: '04 · 第四课 · 两个数字（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1T64y1X7vv' },
-                            { text: '05 · 第五课 · 优雅地卖出（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV15v411n7Rk' }
+                            { text: '05 · 第五课 · 优雅地卖出（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV15v411n7Rk' },
+                            { text: '06 · 第六课 · 行情105度（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1sU4y1H771' },
+                            { text: '07 · 第七课 · 移动平均线卖出（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1i64y1B73F' },
+                            { text: '08 · 第八课 · 卖出后继续涨（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1YA411P7BC' },
+                            { text: '09 · 第九课 · 复盘平安（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1cq4y1U7Et' },
+                            { text: '10 · 第十课 · 止损六要点（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1zv411A7ug' },
+                            { text: '11 · 第十一课 · 资源、金融与电价演义（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1rw411f7QE' },
+                            { text: '12 · 第十二课 · 粉丝期中考（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1JQ4y1y7ve' },
+                            { text: '13 · 第十三课 · 高手翻车的原因（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1464y187qR' },
+                            { text: '14 · 第十四课 · 底部斩仓症（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1964y187WG' },
+                            { text: '15 · 结局篇上 · 策略是否可行（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1Qf4y1c7sf' },
+                            { text: '16 · 结局篇中 · 进出场规则的优势（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV11v411M7ub' },
+                            { text: '17 · 番外 · 止损六要点后来怎样（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1Pu411f7ZU' },
+                            { text: '18 · 结局篇下 · 出手之前知己知彼（详细课程稿）', link: '/trading/experts/qiheng-dk/series/sell-and-sell-short/transcripts/BV1zT4y1o7Dx' }
                           ]
                         }
                       ]

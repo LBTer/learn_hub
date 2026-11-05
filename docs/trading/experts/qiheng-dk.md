@@ -20,4 +20,6 @@
 
 已按新标准完成[《以短线交易秘诀为生》系列](qiheng-dk/series/trading-for-a-living/)29/29个登记条目（2026-11-03）。最新[《题海的伟大航道试炼》课程稿](qiheng-dk/series/trading-for-a-living/transcripts/BV14f4y187iY)64节、约10,100字正文、15图，配[折叠复习与精品笔记](qiheng-dk/series/trading-for-a-living/notes/BV14f4y187iY)。跨三套课回收56个编号位置、55个独立题面，另有4组图问和4道自拟练习；明确第43题重复、第37题E、UBW产品限制与高点保护的未解接口。已登记目录全部完成，《卖出的艺术》另属片尾新系列预告。
 
-已开始[《卖艺：出货的艺术》系列](qiheng-dk/series/sell-and-sell-short/)，核对作者收藏夹18项，目前完成 **5/18**（2026-11-03）。第一至四课已成稿；最新[第五课详细课程稿](qiheng-dk/series/sell-and-sell-short/transcripts/BV15v411n7Rk)46节、约9,300字正文、17张R2图，配[精品笔记与折叠练习](qiheng-dk/series/sell-and-sell-short/notes/BV15v411n7Rk)。从交易管理表、理由变化与成本，推进到A50矩形底仓、逐笔交易仓和上移保护；完整保留最低点纠错及留底仓的未解条件，委托机制与执行假设独立核验。
+[《卖艺：出货的艺术》系列](qiheng-dk/series/sell-and-sell-short/)已完成作者收藏夹登记的 **18/18** 项（2026-11-04）。最新[结局篇下详细课程稿](qiheng-dk/series/sell-and-sell-short/transcripts/BV1zT4y1o7Dx)15节、10张R2图，配[三组图问与三道自拟练习](qiheng-dk/series/sell-and-sell-short/notes/BV1zT4y1o7Dx)。补充持仓时间、月绩效、持有周期、资金占用与正常范围；系列地图保留未解的执行、停用恢复和组合风险问题，不把课程完结等同完整策略已公开。
+
+[《与市场先生的伟大博弈》系列](qiheng-dk/series/great-game/)已完成 **7/22个登记条目**（2026-11-05）：最新[第七课详细课程稿](qiheng-dk/series/great-game/transcripts/BV12P4y1u7qQ)29节、17张R2图，配[精品笔记、4组课堂问题与4道练习](qiheng-dk/series/great-game/notes/BV12P4y1u7qQ)。第六课UBW与矩填空已在本课回答；下一课预告第八课黄金逼空，上下篇身份待核。
