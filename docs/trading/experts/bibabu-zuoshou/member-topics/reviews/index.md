@@ -4,6 +4,10 @@
 
 > 以下内容是对视频的学习整理，不构成投资建议。
 
+## 2026 年 11 月
+
+- [2026-11-04：11.4 晚间直播：右侧拐点与两阶段选强](/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-11-04-BV14Nxd6qExn)
+
 ## 2026 年 8 月
 
 - [2026-08-23：8.23 直播回放，周五复盘及充电答疑](/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-08-23-BV1wE8t6fE7g)

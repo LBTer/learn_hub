@@ -3348,6 +3348,10 @@ export default withMermaid(defineConfig({
                           collapsed: true,
                           items: [
                             {
+                              text: '2026-11-04 右侧拐点直播',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-11-04-BV14Nxd6qExn'
+                            },
+                            {
                               text: '2026-08-23 直播回放',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-08-23-BV1wE8t6fE7g'
                             },
@@ -3382,6 +3386,10 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/',
                           collapsed: true,
                           items: [
+                            {
+                              text: '2026-11-04 直播文字稿',
+                              link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-11-04-BV14Nxd6qExn'
+                            },
                             {
                               text: '2026-08-23 直播回放',
                               link: '/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/2026-08-23-BV1wE8t6fE7g'

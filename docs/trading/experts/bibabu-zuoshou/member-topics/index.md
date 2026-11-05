@@ -10,3 +10,7 @@
 - [充电会员复盘文字稿](/trading/experts/bibabu-zuoshou/member-topics/review-transcripts/)：按时间轴保存会员复盘的整理文字稿。
 - [游资交易系统](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system/)：按课程顺序整理短线交易体系，并持续维护课程体系地图。
 - [游资交易系统文字稿](/trading/experts/bibabu-zuoshou/member-topics/hot-money-system-transcripts/)：按课程顺序保存忠实、可追溯的整理文字稿。
+
+## 最新复盘
+
+- [2026-11-04 晚间直播：右侧拐点与两阶段选强](/trading/experts/bibabu-zuoshou/member-topics/reviews/2026-11-04-BV14Nxd6qExn)：波段右侧与超短龙头未定分开处理，先承接方向，再用分歧抗跌和主动回流筛选。
