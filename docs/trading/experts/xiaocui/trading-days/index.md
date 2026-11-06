@@ -4,6 +4,7 @@
 
 ## 2026 年 11 月
 
+- [2026-11-05：选举、数据中心审批与半导体](/trading/experts/xiaocui/trading-days/2026-11-05) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-05)
 - [2026-11-03：选举、MRVL 交易变化、PLTR、Apple 与 Oracle](/trading/experts/xiaocui/trading-days/2026-11-03) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-03)
 - [2026-11-02：Intel、光互连并购、存储与能源](/trading/experts/xiaocui/trading-days/2026-11-02) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-02)
 

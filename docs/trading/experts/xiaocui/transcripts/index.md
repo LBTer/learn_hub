@@ -4,6 +4,7 @@
 
 ## 2026 年 11 月
 
+- [2026-11-05 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-05) · [交易日总结](/trading/experts/xiaocui/trading-days/2026-11-05)
 - [2026-11-03 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-03) · [交易日总结](/trading/experts/xiaocui/trading-days/2026-11-03)
 - [2026-11-02 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-02) · [交易日总结](/trading/experts/xiaocui/trading-days/2026-11-02)
 
