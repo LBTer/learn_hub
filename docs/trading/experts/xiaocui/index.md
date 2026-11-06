@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-11-06 交易日总结：杠杆去化、AI 政策与韩台稳定措施](/trading/experts/xiaocui/trading-days/2026-11-06)
+- [2026-11-06 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-06)
 - [2026-11-05 交易日总结：选举、数据中心审批与半导体](/trading/experts/xiaocui/trading-days/2026-11-05)
 - [2026-11-05 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-05)
 - [2026-11-03 交易日总结：选举、MRVL 交易变化、PLTR、Apple 与 Oracle](/trading/experts/xiaocui/trading-days/2026-11-03)
