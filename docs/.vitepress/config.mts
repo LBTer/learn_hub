@@ -3888,6 +3888,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-11-09 BTC 转向防守与纳指风险',
+                          link: '/trading/experts/shuzi-kge/daily-analysis/2026-11-09'
+                        },
+                        {
                           text: '2026-10-30 BTC 下探与 MSTR 目标',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-10-30-BV1Dpxe61EVN'
                         },
@@ -4018,6 +4022,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-11-09 BTC 转向防守与纳指风险',
+                          link: '/trading/experts/shuzi-kge/transcripts/2026-11-09'
+                        },
                         {
                           text: '2026-10-30 BTC 下探与 MSTR 目标',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-10-30-BV1Dpxe61EVN'

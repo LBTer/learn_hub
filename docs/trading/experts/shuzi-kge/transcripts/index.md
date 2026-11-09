@@ -2,6 +2,10 @@
 
 按日期保存数字K哥公开视频的整理文字稿。文字稿来自 B 站字幕或本地转写后的人工整理，不等同于逐字稿。
 
+## 2026 年 11 月
+
+- [2026-11-09：BTC 转向防守、ETH 二浪与纳指下行情景](/trading/experts/shuzi-kge/transcripts/2026-11-09)
+
 ## 2026 年 10 月
 
 - [2026-10-30：BTC 下探回抽、周线新高预期与 MSTR 1000 目标](/trading/experts/shuzi-kge/transcripts/2026-10-30-BV1Dpxe61EVN)
