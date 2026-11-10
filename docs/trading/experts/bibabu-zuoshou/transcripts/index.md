@@ -4,6 +4,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-10：天时总算出现，投机二阶段，不要主观看空](/trading/experts/bibabu-zuoshou/transcripts/2026-11-10)
+
 - [2026-11-09：电风扇风力全开，缩量与载体识别](/trading/experts/bibabu-zuoshou/transcripts/2026-11-09)
 
 - [2026-11-05：继续看多做多，注意方向切换](/trading/experts/bibabu-zuoshou/transcripts/2026-11-05)

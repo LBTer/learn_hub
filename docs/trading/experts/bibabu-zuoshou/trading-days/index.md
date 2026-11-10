@@ -6,6 +6,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-10：投机二阶段确认，机器人与AI软件主线、光伏支线](/trading/experts/bibabu-zuoshou/trading-days/2026-11-10)
+
 - [2026-11-09：缩量轮动，主升降级与小仓位等待](/trading/experts/bibabu-zuoshou/trading-days/2026-11-09)
 
 - [2026-11-05：继续看多做多，注意方向切换](/trading/experts/bibabu-zuoshou/trading-days/2026-11-05)
