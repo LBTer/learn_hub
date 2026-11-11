@@ -4,6 +4,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-11：光模块大涨，继续看多与次日兑现风险](/trading/experts/bibabu-zuoshou/transcripts/2026-11-11)
+
 - [2026-11-10：天时总算出现，投机二阶段，不要主观看空](/trading/experts/bibabu-zuoshou/transcripts/2026-11-10)
 
 - [2026-11-09：电风扇风力全开，缩量与载体识别](/trading/experts/bibabu-zuoshou/transcripts/2026-11-09)
