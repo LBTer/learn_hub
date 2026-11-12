@@ -4,6 +4,7 @@
 
 ## 2026 年 11 月
 
+- [2026-11-12：黄仁勋辞任、英伟达接班与台湾供应链](/trading/experts/xiaocui/trading-days/2026-11-12) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-12)
 - [2026-11-11：英伟达调查、CoreWeave 财报与 Anthropic 路演](/trading/experts/xiaocui/trading-days/2026-11-11) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-11)
 - [2026-11-10：西安事件、数据中心延期与 Anthropic IPO](/trading/experts/xiaocui/trading-days/2026-11-10) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-10)
 - [2026-11-06：杠杆去化、AI 政策与韩台稳定措施](/trading/experts/xiaocui/trading-days/2026-11-06) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-06)
