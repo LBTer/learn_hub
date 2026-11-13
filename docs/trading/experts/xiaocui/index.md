@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-11-13 交易日总结：英伟达换帅、AI 产业链与微软宕机](/trading/experts/xiaocui/trading-days/2026-11-13)
+- [2026-11-13 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-13)
 - [2026-11-12 交易日总结：黄仁勋辞任、英伟达接班与台湾供应链](/trading/experts/xiaocui/trading-days/2026-11-12)
 - [2026-11-12 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-12)
 - [2026-11-11 交易日总结：英伟达调查、CoreWeave 财报与 Anthropic 路演](/trading/experts/xiaocui/trading-days/2026-11-11)
