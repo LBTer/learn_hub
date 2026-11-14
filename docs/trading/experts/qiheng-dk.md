@@ -22,4 +22,6 @@
 
 [《卖艺：出货的艺术》系列](qiheng-dk/series/sell-and-sell-short/)已完成作者收藏夹登记的 **18/18** 项（2026-11-04）。最新[结局篇下详细课程稿](qiheng-dk/series/sell-and-sell-short/transcripts/BV1zT4y1o7Dx)15节、10张R2图，配[三组图问与三道自拟练习](qiheng-dk/series/sell-and-sell-short/notes/BV1zT4y1o7Dx)。补充持仓时间、月绩效、持有周期、资金占用与正常范围；系列地图保留未解的执行、停用恢复和组合风险问题，不把课程完结等同完整策略已公开。
 
-[《与市场先生的伟大博弈》系列](qiheng-dk/series/great-game/)已完成 **7/22个登记条目**（2026-11-05）：最新[第七课详细课程稿](qiheng-dk/series/great-game/transcripts/BV12P4y1u7qQ)29节、17张R2图，配[精品笔记、4组课堂问题与4道练习](qiheng-dk/series/great-game/notes/BV12P4y1u7qQ)。第六课UBW与矩填空已在本课回答；下一课预告第八课黄金逼空，上下篇身份待核。
+[《与市场先生的伟大博弈》系列](qiheng-dk/series/great-game/)正课已全部完成（2026-11-10）：第一至第二十课，第八课含上下篇，共21篇课程稿与21篇笔记；22项登记中另1项为已核游戏短片。最新[第二十课终章](qiheng-dk/series/great-game/transcripts/BV1CZ4y1Y7bF)52节、24张R2图，配[3组课堂问题与4道练习](qiheng-dk/series/great-game/notes/BV1CZ4y1Y7bF)。主题为2008年危机、资金回流和风险责任；作者预告后续读林奇，现已衔接下方新系列。
+
+[《林奇拾贝》系列](qiheng-dk/series/lynch/)已完成 **12/33项**（2026-11-12）。最新[正课6课程稿](qiheng-dk/series/lynch/transcripts/BV1FG411E7Kh)含44节、28张R2图及20组核验，配[精品笔记、5道课堂题与6道练习](qiheng-dk/series/lynch/notes/BV1FG411E7Kh)，主题为三端闭环、加盟主体与并购对价。下一项目为炸鸡专场案例6；终端持续性、高增长估值与PEG仍保留待解。
