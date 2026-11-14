@@ -215,6 +215,9 @@
 
 ## 最新会员视频
 
+- 2026-11-14 [第 1 段专题：英伟达治理、模型 IPO 与现金纪律](/trading/experts/xiaocui/member-sessions/2026-11-14-d4i8kcEA2JA) · [第 1 段文字稿](/trading/experts/xiaocui/member-transcripts/2026-11-14-d4i8kcEA2JA)
+- 2026-11-14 [第 2 段专题：投资组合与会员问答](/trading/experts/xiaocui/member-sessions/2026-11-14-CvfMMA6A7ZM) · [第 2 段文字稿](/trading/experts/xiaocui/member-transcripts/2026-11-14-CvfMMA6A7ZM)
+
 - [2026-10-17 会员专题](/trading/experts/xiaocui/member-sessions/2026-10-17)
 - [2026-10-17 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-17)
 - [2026-09-26 会员专题](/trading/experts/xiaocui/member-sessions/2026-09-26)

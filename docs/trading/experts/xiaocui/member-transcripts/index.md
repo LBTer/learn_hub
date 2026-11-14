@@ -2,6 +2,11 @@
 
 这里保存会员视频的可读时间轴文字稿。内容优先依据会员权限下可取得的字幕；无字幕时依据完整回放的本地语音转写整理。文字稿覆盖全片但不是可引用的逐字稿；不会保存或公开原始会员音视频与字幕文件。
 
+## 2026 年 11 月
+
+- 2026-11-14 [第 1 段专题：英伟达治理、模型 IPO 与现金纪律](/trading/experts/xiaocui/member-sessions/2026-11-14-d4i8kcEA2JA) · [第 1 段文字稿](/trading/experts/xiaocui/member-transcripts/2026-11-14-d4i8kcEA2JA)
+- 2026-11-14 [第 2 段专题：投资组合与会员问答](/trading/experts/xiaocui/member-sessions/2026-11-14-CvfMMA6A7ZM) · [第 2 段文字稿](/trading/experts/xiaocui/member-transcripts/2026-11-14-CvfMMA6A7ZM)
+
 ## 2026 年 10 月
 
 - [2026-10-31 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-10-31) · [会员专题笔记](/trading/experts/xiaocui/member-sessions/2026-10-31)
