@@ -4,6 +4,7 @@
 
 ## 2026 年 11 月
 
+- [2026-11-16 交易日总结：英伟达回归传闻、亚洲供应链与英特尔](/trading/experts/xiaocui/trading-days/2026-11-16) · [2026-11-16 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-16)
 - [2026-11-13：英伟达换帅、AI 产业链与微软宕机](/trading/experts/xiaocui/trading-days/2026-11-13) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-13)
 - [2026-11-12：黄仁勋辞任、英伟达接班与台湾供应链](/trading/experts/xiaocui/trading-days/2026-11-12) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-12)
 - [2026-11-11：英伟达调查、CoreWeave 财报与 Anthropic 路演](/trading/experts/xiaocui/trading-days/2026-11-11) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-11)
