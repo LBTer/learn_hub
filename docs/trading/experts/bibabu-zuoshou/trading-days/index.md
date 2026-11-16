@@ -6,6 +6,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-16：通杀局，核心补跌与防守等待](/trading/experts/bibabu-zuoshou/trading-days/2026-11-16)
+
 - [2026-11-11：光通信消息与双节点，机器人选强、右侧仍需量](/trading/experts/bibabu-zuoshou/trading-days/2026-11-11)
 
 - [2026-11-10：投机二阶段确认，机器人与AI软件主线、光伏支线](/trading/experts/bibabu-zuoshou/trading-days/2026-11-10)
