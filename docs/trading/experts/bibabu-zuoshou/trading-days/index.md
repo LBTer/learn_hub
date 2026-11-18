@@ -6,6 +6,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-18：九阳出清与低位试错，算力持续性待验](/trading/experts/bibabu-zuoshou/trading-days/2026-11-18)
+
 - [2026-11-16：通杀局，核心补跌与防守等待](/trading/experts/bibabu-zuoshou/trading-days/2026-11-16)
 
 - [2026-11-11：光通信消息与双节点，机器人选强、右侧仍需量](/trading/experts/bibabu-zuoshou/trading-days/2026-11-11)
