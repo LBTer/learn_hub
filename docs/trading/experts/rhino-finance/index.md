@@ -4,6 +4,10 @@
 
 ## 最新一期
 
+- [2026-11-18 美股盘后复盘](./market-reviews/2026-11-18.md) · [文字稿](./transcripts/2026-11-18.md)
+- [2026-11-17 美股盘后复盘](./market-reviews/2026-11-17.md) · [文字稿](./transcripts/2026-11-17.md)
+- [2026-11-15 会员第 310 期 Anthropic IPO](./member-notes/2026-11-15-_2bUPesoEWo.md) · [时间轴](./member-transcripts/2026-11-15-_2bUPesoEWo.md)
+
 - [2026-11-14 美股盘后复盘](./market-reviews/2026-11-14.md)
 - [2026-11-14 视频文字稿](./transcripts/2026-11-14.md)
 

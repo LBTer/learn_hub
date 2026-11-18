@@ -2044,6 +2044,8 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/market-reviews/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-18', link: '/trading/experts/rhino-finance/market-reviews/2026-11-18' },
+                        { text: '2026-11-17', link: '/trading/experts/rhino-finance/market-reviews/2026-11-17' },
                         { text: '2026-11-14', link: '/trading/experts/rhino-finance/market-reviews/2026-11-14' },
                         { text: '2026-11-13', link: '/trading/experts/rhino-finance/market-reviews/2026-11-13' },
                         { text: '2026-11-12', link: '/trading/experts/rhino-finance/market-reviews/2026-11-12' },
@@ -2346,6 +2348,8 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-18', link: '/trading/experts/rhino-finance/transcripts/2026-11-18' },
+                        { text: '2026-11-17', link: '/trading/experts/rhino-finance/transcripts/2026-11-17' },
                         { text: '2026-11-14', link: '/trading/experts/rhino-finance/transcripts/2026-11-14' },
                         { text: '2026-11-13', link: '/trading/experts/rhino-finance/transcripts/2026-11-13' },
                         { text: '2026-11-12', link: '/trading/experts/rhino-finance/transcripts/2026-11-12' },
@@ -2648,6 +2652,7 @@ export default withMermaid(defineConfig({
                       text: '会员笔记',
                       collapsed: true,
                       items: [
+                        { text: '第310期 Anthropic IPO', link: '/trading/experts/rhino-finance/member-notes/2026-11-15-_2bUPesoEWo' },
                         { text: '第309期：财年与兑现进度', link: '/trading/experts/rhino-finance/member-notes/2026-11-08-6b-ohR2Z9Z0' },
                         { text: '第308期：盈利、估值与仓位', link: '/trading/experts/rhino-finance/member-notes/2026-11-01--C0B7AEwOcU' },
                         { text: '第307期：估值与条件', link: '/trading/experts/rhino-finance/member-notes/2026-10-25-e-_qeTZQnkU' },
@@ -2662,6 +2667,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/member-transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '第310期 Anthropic IPO', link: '/trading/experts/rhino-finance/member-transcripts/2026-11-15-_2bUPesoEWo' },
                         { text: '第309期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-11-08-6b-ohR2Z9Z0' },
                         { text: '第308期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-11-01--C0B7AEwOcU' },
                         { text: '第307期：时间轴摘要', link: '/trading/experts/rhino-finance/member-transcripts/2026-10-25-e-_qeTZQnkU' },
