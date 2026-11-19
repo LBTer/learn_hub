@@ -4,6 +4,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-19：3天6板妖股，6冰打平历史记录](/trading/experts/bibabu-zuoshou/transcripts/2026-11-19)
+
 - [2026-11-18：九阳地天接天地，冰冰复冰冰，新周期开始](/trading/experts/bibabu-zuoshou/transcripts/2026-11-18)
 
 - [2026-11-16：通杀局，三倍做多身体，重新等风来](/trading/experts/bibabu-zuoshou/transcripts/2026-11-16)
