@@ -24,4 +24,4 @@
 
 [《与市场先生的伟大博弈》系列](qiheng-dk/series/great-game/)正课已全部完成（2026-11-10）：第一至第二十课，第八课含上下篇，共21篇课程稿与21篇笔记；22项登记中另1项为已核游戏短片。最新[第二十课终章](qiheng-dk/series/great-game/transcripts/BV1CZ4y1Y7bF)52节、24张R2图，配[3组课堂问题与4道练习](qiheng-dk/series/great-game/notes/BV1CZ4y1Y7bF)。主题为2008年危机、资金回流和风险责任；作者预告后续读林奇，现已衔接下方新系列。
 
-[《林奇拾贝》系列](qiheng-dk/series/lynch/)已完成 **12/33项**（2026-11-12）。最新[正课6课程稿](qiheng-dk/series/lynch/transcripts/BV1FG411E7Kh)含44节、28张R2图及20组核验，配[精品笔记、5道课堂题与6道练习](qiheng-dk/series/lynch/notes/BV1FG411E7Kh)，主题为三端闭环、加盟主体与并购对价。下一项目为炸鸡专场案例6；终端持续性、高增长估值与PEG仍保留待解。
+[《林奇拾贝》系列](qiheng-dk/series/lynch/)已完成 **33/33项**（2026-11-19）。[GE终章课程稿](qiheng-dk/series/lynch/transcripts/BV1uX4y1t78z)与[配套笔记](qiheng-dk/series/lynch/notes/BV1uX4y1t78z)从商场收租、经理人激励与业务置换讨论季度业绩和长期价值。
