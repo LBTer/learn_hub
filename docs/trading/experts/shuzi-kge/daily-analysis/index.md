@@ -6,6 +6,8 @@
 
 ## 2026 年 11 月
 
+- [2026-11-20：BTC 空单落袋、阶段整理与 SOL 相对强弱](/trading/experts/shuzi-kge/daily-analysis/2026-11-20)
+
 - [2026-11-13：BTC 三日线破位、两月线推演与周线量能](/trading/experts/shuzi-kge/daily-analysis/2026-11-13)
 
 - [2026-11-09：BTC 转向防守、ETH 二浪与纳指下行情景](/trading/experts/shuzi-kge/daily-analysis/2026-11-09)

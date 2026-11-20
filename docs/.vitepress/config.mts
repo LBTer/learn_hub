@@ -4029,6 +4029,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/daily-analysis/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-20 BTC 空单落袋与阶段整理', link: '/trading/experts/shuzi-kge/daily-analysis/2026-11-20' },
                         {
                           text: '2026-11-13 BTC 三日线破位与周线量能',
                           link: '/trading/experts/shuzi-kge/daily-analysis/2026-11-13'
@@ -4168,6 +4169,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/shuzi-kge/transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-20 BTC 空单落袋与阶段整理', link: '/trading/experts/shuzi-kge/transcripts/2026-11-20' },
                         {
                           text: '2026-11-13 BTC 三日线破位与周线量能',
                           link: '/trading/experts/shuzi-kge/transcripts/2026-11-13'
