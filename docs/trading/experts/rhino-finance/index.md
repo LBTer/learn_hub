@@ -4,6 +4,8 @@
 
 ## 最新一期
 
+- [2026-11-20 美股盘后复盘](./market-reviews/2026-11-20.md) · [文字稿](./transcripts/2026-11-20.md)
+
 - [2026-11-19 美股盘后复盘](./market-reviews/2026-11-19.md) · [文字稿](./transcripts/2026-11-19.md)
 
 - [2026-11-18 美股盘后复盘](./market-reviews/2026-11-18.md) · [文字稿](./transcripts/2026-11-18.md)
