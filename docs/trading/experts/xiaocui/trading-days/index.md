@@ -4,6 +4,7 @@
 
 ## 2026 年 11 月
 
+- [2026-11-20 交易日总结：2018 年类比、流动性与 AMD 做空](/trading/experts/xiaocui/trading-days/2026-11-20) · [2026-11-20 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-20)
 - [2026-11-19 交易日总结：Anthropic 估值、微软 Intel 合作与仓位](/trading/experts/xiaocui/trading-days/2026-11-19) · [2026-11-19 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-19)
 - [2026-11-18 交易日总结：英伟达财报、存储供需与 SpaceX](/trading/experts/xiaocui/trading-days/2026-11-18) · [2026-11-18 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-18)
 - [2026-11-16 交易日总结：英伟达回归传闻、亚洲供应链与英特尔](/trading/experts/xiaocui/trading-days/2026-11-16) · [2026-11-16 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-16)
