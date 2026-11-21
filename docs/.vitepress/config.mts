@@ -1856,6 +1856,10 @@ export default withMermaid(defineConfig({
                       collapsed: true,
                       items: [
                         {
+                          text: '2026-11-21',
+                          link: '/trading/experts/xiaocui/member-sessions/2026-11-21'
+                        },
+                        {
                           text: '2026-11-14（第 1 段）',
                           link: '/trading/experts/xiaocui/member-sessions/2026-11-14-d4i8kcEA2JA'
                         },
@@ -1958,6 +1962,10 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/xiaocui/member-transcripts/',
                       collapsed: true,
                       items: [
+                        {
+                          text: '2026-11-21',
+                          link: '/trading/experts/xiaocui/member-transcripts/2026-11-21'
+                        },
                         {
                           text: '2026-11-14（第 1 段）',
                           link: '/trading/experts/xiaocui/member-transcripts/2026-11-14-d4i8kcEA2JA'

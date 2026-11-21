@@ -12,6 +12,8 @@
 
 ## 最新一期
 
+- [2026-11-21 会员专题：回撤、救市条件与长期持仓](/trading/experts/xiaocui/member-sessions/2026-11-21)
+- [2026-11-21 会员视频文字稿](/trading/experts/xiaocui/member-transcripts/2026-11-21)
 - [2026-11-20 交易日总结：2018 年类比、流动性与 AMD 做空](/trading/experts/xiaocui/trading-days/2026-11-20)
 - [2026-11-20 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-20)
 - [2026-11-19 交易日总结：Anthropic 估值、微软 Intel 合作与仓位](/trading/experts/xiaocui/trading-days/2026-11-19)
