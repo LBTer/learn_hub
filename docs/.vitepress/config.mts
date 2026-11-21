@@ -2068,6 +2068,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/market-reviews/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-21', link: '/trading/experts/rhino-finance/market-reviews/2026-11-21' },
                         { text: '2026-11-20', link: '/trading/experts/rhino-finance/market-reviews/2026-11-20' },
                         { text: '2026-11-19', link: '/trading/experts/rhino-finance/market-reviews/2026-11-19' },
                         { text: '2026-11-18', link: '/trading/experts/rhino-finance/market-reviews/2026-11-18' },
@@ -2374,6 +2375,7 @@ export default withMermaid(defineConfig({
                       link: '/trading/experts/rhino-finance/transcripts/',
                       collapsed: true,
                       items: [
+                        { text: '2026-11-21', link: '/trading/experts/rhino-finance/transcripts/2026-11-21' },
                         { text: '2026-11-20', link: '/trading/experts/rhino-finance/transcripts/2026-11-20' },
                         { text: '2026-11-19', link: '/trading/experts/rhino-finance/transcripts/2026-11-19' },
                         { text: '2026-11-18', link: '/trading/experts/rhino-finance/transcripts/2026-11-18' },
