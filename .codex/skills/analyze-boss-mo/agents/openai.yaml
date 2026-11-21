@@ -1,0 +1,4 @@
+interface:
+  display_name: "boss墨期货与跨市场视频分析"
+  short_description: "整理黄金等期货及跨市场复盘，核对品种报价、多周期结构和交易条件"
+  default_prompt: "使用 $analyze-boss-mo 分析 BOSS墨最新视频，先核对完整媒体、品种与报价口径并冻结文字稿，再整理多周期观点、执行条件和学习方法。"

@@ -10,3 +10,4 @@
 - [比巴卜作手](/trading/experts/bibabu-zuoshou/)
 - [袁帅马](/trading/experts/yuanshuaima/)
 - [数字K哥](/trading/experts/shuzi-kge/)
+- [boss墨](/trading/experts/boss-mo/)

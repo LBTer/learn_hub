@@ -30,6 +30,8 @@
 - [2026-11-11 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-11)
 - [2026-11-10 交易日总结：西安事件、数据中心延期与 Anthropic IPO](/trading/experts/xiaocui/trading-days/2026-11-10)
 - [2026-11-10 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-10)
+- [2026-11-09 交易日总结：黄仁勋调查、英伟达估值与 GPU 租赁](/trading/experts/xiaocui/trading-days/2026-11-09)
+- [2026-11-09 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-09)
 - [2026-11-06 交易日总结：杠杆去化、AI 政策与韩台稳定措施](/trading/experts/xiaocui/trading-days/2026-11-06)
 - [2026-11-06 视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-06)
 - [2026-11-05 交易日总结：选举、数据中心审批与半导体](/trading/experts/xiaocui/trading-days/2026-11-05)

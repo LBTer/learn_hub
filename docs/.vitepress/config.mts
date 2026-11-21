@@ -339,6 +339,18 @@ export default withMermaid(defineConfig({
             ]
           },
           {
+            text: 'boss墨',
+            link: '/trading/experts/boss-mo/',
+            collapsed: true,
+            items: [
+              { text: '人物首页', link: '/trading/experts/boss-mo/' },
+              { text: '交易日总结', link: '/trading/experts/boss-mo/trading-days/', items: [{ text: '2026-11-06 美股抄底思路', link: '/trading/experts/boss-mo/trading-days/2026-11-06-BV1px4e6qEoq' }] },
+              { text: '视频文字稿', link: '/trading/experts/boss-mo/transcripts/', items: [{ text: '2026-11-06 美股抄底思路', link: '/trading/experts/boss-mo/transcripts/2026-11-06-BV1px4e6qEoq' }] },
+              { text: '充电会员主题', link: '/trading/experts/boss-mo/member-topics/' },
+              { text: '技术点学习', link: '/trading/experts/boss-mo/technical-notes/' },
+            ]
+          },
+          {
             text: '数字K哥',
             items: [
               { text: '人物首页', link: '/trading/experts/shuzi-kge/' },
@@ -962,6 +974,10 @@ export default withMermaid(defineConfig({
                           link: '/trading/experts/xiaocui/trading-days/2026-11-10'
                         },
                         {
+                          text: '2026-11-09',
+                          link: '/trading/experts/xiaocui/trading-days/2026-11-09'
+                        },
+                        {
                           text: '2026-11-06',
                           link: '/trading/experts/xiaocui/trading-days/2026-11-06'
                         },
@@ -1423,6 +1439,10 @@ export default withMermaid(defineConfig({
                         {
                           text: '2026-11-10',
                           link: '/trading/experts/xiaocui/transcripts/2026-11-10'
+                        },
+                        {
+                          text: '2026-11-09',
+                          link: '/trading/experts/xiaocui/transcripts/2026-11-09'
                         },
                         {
                           text: '2026-11-06',
@@ -4035,6 +4055,18 @@ export default withMermaid(defineConfig({
                       text: '技术点学习',
                       link: '/trading/experts/yuanshuaima/technique-notes/'
                     }
+                  ]
+                },
+                {
+                  text: 'boss墨',
+                  link: '/trading/experts/boss-mo/',
+                  collapsed: true,
+                  items: [
+                    { text: '人物首页', link: '/trading/experts/boss-mo/' },
+                    { text: '交易日总结', link: '/trading/experts/boss-mo/trading-days/', items: [{ text: '2026-11-06 美股抄底思路', link: '/trading/experts/boss-mo/trading-days/2026-11-06-BV1px4e6qEoq' }] },
+                    { text: '视频文字稿', link: '/trading/experts/boss-mo/transcripts/', items: [{ text: '2026-11-06 美股抄底思路', link: '/trading/experts/boss-mo/transcripts/2026-11-06-BV1px4e6qEoq' }] },
+                    { text: '充电会员主题', link: '/trading/experts/boss-mo/member-topics/' },
+                    { text: '技术点学习', link: '/trading/experts/boss-mo/technical-notes/' },
                   ]
                 },
                 {

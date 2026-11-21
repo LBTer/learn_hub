@@ -12,6 +12,7 @@
 - [2026-11-12：黄仁勋辞任、英伟达接班与台湾供应链](/trading/experts/xiaocui/trading-days/2026-11-12) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-12)
 - [2026-11-11：英伟达调查、CoreWeave 财报与 Anthropic 路演](/trading/experts/xiaocui/trading-days/2026-11-11) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-11)
 - [2026-11-10：西安事件、数据中心延期与 Anthropic IPO](/trading/experts/xiaocui/trading-days/2026-11-10) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-10)
+- [2026-11-09：黄仁勋调查、英伟达估值与 GPU 租赁](/trading/experts/xiaocui/trading-days/2026-11-09) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-09)
 - [2026-11-06：杠杆去化、AI 政策与韩台稳定措施](/trading/experts/xiaocui/trading-days/2026-11-06) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-06)
 - [2026-11-05：选举、数据中心审批与半导体](/trading/experts/xiaocui/trading-days/2026-11-05) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-05)
 - [2026-11-03：选举、MRVL 交易变化、PLTR、Apple 与 Oracle](/trading/experts/xiaocui/trading-days/2026-11-03) · [视频文字稿](/trading/experts/xiaocui/transcripts/2026-11-03)
